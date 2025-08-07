@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://bioplastic.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'PaperMod'
+title = 'Bioplastics Research & News'
+theme = 'hugo-book'
+
+[params]
+  BookToC = true
+  BookSection = 'posts'
