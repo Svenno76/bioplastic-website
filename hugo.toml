@@ -1,8 +1,8 @@
 baseURL = 'https://bioplastic.netlify.app'
 languageCode = 'en-us'
 title = 'Bioplastics Research & News'
-theme = 'hugo-book'
+theme = 'ananke'
 
 [params]
-  BookToC = true
-  BookSection = 'posts'
+  featured_image = '/images/bioplastics-banner.jpg'
+  recent_posts_number = 5
