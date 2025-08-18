@@ -1,10 +1,16 @@
-/* Set exact header dimensions */
+/* Make the header sticky/fixed at top */
 .cover {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
   min-height: 200px !important;
   max-height: 200px !important;
   height: 200px !important;
   overflow: hidden !important;
-  position: relative;
+  z-index: 1000 !important;
+  background-attachment: fixed !important;
 }
 
 /* Center the header content properly */
@@ -38,11 +44,27 @@
   max-width: 600px;
 }
 
-/* Ensure main content starts right after header */
+/* Add top margin to body content to account for fixed header */
+body {
+  padding-top: 200px !important;
+}
+
+/* Ensure main content starts after the fixed header */
 main {
   margin-top: 0 !important;
-  padding-top: 0 !important;
+  padding-top: 1.5rem !important;
   background: white !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Style the navigation menu in fixed header */
+.cover .site-header {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 1001 !important;
 }
 
 /* Remove extra padding from content sections */
@@ -71,4 +93,13 @@ main {
   .cover h2 {
     font-size: 0.9rem !important;
   }
+  
+  body {
+    padding-top: 160px !important;
+  }
+}
+
+/* Ensure smooth scrolling */
+html {
+  scroll-behavior: smooth;
 }
