@@ -6,6 +6,7 @@ theme = 'ananke'
 [params]
   featured_image = '/images/bioplastics-banner.jpg'
   recent_posts_number = 5
+  custom_css = ["css/custom.css"]
 
 [[menu.main]]
   name = "News"

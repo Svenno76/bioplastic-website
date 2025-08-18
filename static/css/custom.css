@@ -1,0 +1,74 @@
+/* Set exact header dimensions */
+.cover {
+  min-height: 200px !important;
+  max-height: 200px !important;
+  height: 200px !important;
+  overflow: hidden !important;
+  position: relative;
+}
+
+/* Center the header content properly */
+.cover-main {
+  padding: 0 !important;
+  height: 200px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+/* Style header text to ensure visibility */
+.cover h1 {
+  font-size: 2.2rem !important;
+  line-height: 1.1 !important;
+  margin: 0 0 0.5rem 0 !important;
+  color: white !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.7) !important;
+  font-weight: 300 !important;
+}
+
+.cover h2 {
+  font-size: 1rem !important;
+  line-height: 1.3 !important;
+  margin: 0 !important;
+  color: rgba(255,255,255,0.9) !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.7) !important;
+  font-weight: 300 !important;
+  max-width: 600px;
+}
+
+/* Ensure main content starts right after header */
+main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  background: white !important;
+}
+
+/* Remove extra padding from content sections */
+.pa3.ph5-l.pv3.pv4-l,
+.ph3.ph4-l {
+  padding-top: 1.5rem !important;
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+  .cover {
+    min-height: 160px !important;
+    max-height: 160px !important;
+    height: 160px !important;
+  }
+  
+  .cover-main {
+    height: 160px !important;
+    padding: 0 1rem !important;
+  }
+  
+  .cover h1 {
+    font-size: 1.8rem !important;
+  }
+  
+  .cover h2 {
+    font-size: 0.9rem !important;
+  }
+}
