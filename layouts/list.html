@@ -1,0 +1,128 @@
+{{ define "main" }}
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+  <header>
+    <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt2 mb4">{{ . }}</h2>
+    {{ end }}
+  </header>
+</article>
+
+<div class="mw8 center">
+  <section class="ph3 ph4-l">
+    {{ .Content }}
+
+    <div class="news-list mt4">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="bb b--light-gray pb4 mb4">
+        <header class="mb3">
+          <h2 class="f3 near-black lh-title mb1">
+            <a href="{{ .Permalink }}" class="color-inherit dim link">{{ .Title }}</a>
+          </h2>
+          <time datetime="{{ .Date.Format "2006-01-02" }}" class="f6 ttu tracked gray">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+        </header>
+        
+        {{ if .Params.featured_image }}
+        <div class="mb3">
+          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="w-100 db br2">
+        </div>
+        {{ end }}
+        
+        <div class="f5 f4-l lh-copy measure mb3">
+          {{ .Summary }}
+        </div>
+        
+        <a href="{{ .Permalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph3 pv2">
+          Read more →
+        </a>
+      </article>
+      {{ end }}
+    </div>
+
+    {{ if eq (len .Pages) 0 }}
+    <div class="tc pv4">
+      <p class="f4 i gray">No news posts yet. Check back soon!</p>
+    </div>
+    {{ end }}
+  </section>
+</div>
+
+<style>
+.news-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.page-header {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.news-item {
+  border-bottom: 1px solid #eee;
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+}
+
+.news-item header h2 {
+  margin-bottom: 0.5rem;
+}
+
+.news-item header h2 a {
+  text-decoration: none;
+  color: #333;
+}
+
+.news-item header h2 a:hover {
+  color: #007acc;
+}
+
+.news-item time {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.featured-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+
+.summary {
+  margin: 1rem 0;
+  line-height: 1.6;
+}
+
+.read-more {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+.no-posts {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+  margin: 3rem 0;
+}
+</style>
+{{ end }}

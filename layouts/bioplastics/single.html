@@ -1,0 +1,40 @@
+{{ define "main" }}
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+  <header>
+    <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">{{ .Title }}</h1>
+    {{ with .Params.summary }}
+    <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt2 mb4">{{ . }}</h2>
+    {{ end }}
+    <div class="tc">
+      <a href="/bioplastics/" class="f6 link dim br2 ph3 pv2 mb2 dib white bg-dark-blue">
+        ← Back to Bioplastics Guide
+      </a>
+    </div>
+  </header>
+</article>
+
+<div class="mw8 center">
+  <section class="ph3 ph4-l">
+    <div class="measure-wide center f5 f4-l lh-copy">
+      {{ .Content }}
+    </div>
+    
+    {{ if .Params.tags }}
+    <div class="mt4 pt3 bt b--light-gray">
+      <h4 class="f6 ttu tracked mb2">Tags:</h4>
+      <div class="tags">
+        {{ range .Params.tags }}
+        <span class="dib bg-light-gray br2 ph2 pv1 mr2 mb2 f7">{{ . }}</span>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    
+    <div class="mt4 pt3 bt b--light-gray tc">
+      <a href="/bioplastics/" class="f6 link dim br2 ph3 pv2 mb2 dib white bg-dark-blue">
+        ← Back to Bioplastics Guide
+      </a>
+    </div>
+  </section>
+</div>
+{{ end }}

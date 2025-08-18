@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-bookbaseURL = 'https://your-site-name.netlify.app'
+languageCode = 'en-us'
+title = 'Bioplastics Research & News'
+theme = 'hugo-book'
+
+[params]
+  BookToC = true
+  BookSection = 'posts'

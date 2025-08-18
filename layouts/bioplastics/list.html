@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div style="max-width: 64rem; margin: 0 auto; padding: 1rem;">
+  <section style="padding: 0 1rem;">
+    <div style="font-size: 1.125rem; line-height: 1.6; max-width: 48rem;">
+      {{ .Content }}
+    </div>
+    
+    <!-- Show individual bioplastic pages if they exist -->
+    {{ if .Pages }}
+    <div style="margin-top: 2rem;">
+      <h2 style="font-size: 1.75rem; color: #333; margin-bottom: 1rem;">Individual Bioplastic Profiles</h2>
+      {{ range .Pages.ByWeight }}
+      <article style="border-bottom: 1px solid #eee; padding-bottom: 1.5rem; margin-bottom: 1.5rem;">
+        <header style="margin-bottom: 1rem;">
+          <h3 style="font-size: 1.25rem; color: #333; line-height: 1.3; margin-bottom: 0.5rem;">
+            <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
+          </h3>
+          {{ if .Date }}
+          <time datetime="{{ .Date.Format "2006-01-02" }}" style="font-size: 0.875rem; color: #666;">
+            Updated: {{ .Date.Format "January 2, 2006" }}
+          </time>
+          {{ end }}
+        </header>
+        
+        {{ if .Params.summary }}
+        <div style="font-size: 1rem; line-height: 1.5; margin-bottom: 1rem; color: #555;">
+          {{ .Params.summary }}
+        </div>
+        {{ else }}
+        <div style="font-size: 1rem; line-height: 1.5; margin-bottom: 1rem; color: #555;">
+          {{ .Summary }}
+        </div>
+        {{ end }}
+        
+        <a href="{{ .Permalink }}" style="border: 1px solid #ccc; background-color: #f7f7f7; border-radius: 4px; color: inherit; display: inline-block; font-size: 0.875rem; text-decoration: none; margin-top: 0.5rem; padding: 0.5rem 1rem;">
+          Read detailed guide →
+        </a>
+      </article>
+      {{ end }}
+    </div>
+    {{ end }}
+  </section>
+</div>
+{{ end }}
