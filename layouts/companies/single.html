@@ -1,0 +1,149 @@
+{{ define "main" }}
+<div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
+  
+  <!-- Company Header Card -->
+  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); color: white; padding: 3rem 2rem; border-radius: 16px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 2rem;">
+      <div style="flex: 1; min-width: 300px;">
+        <h1 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 700;">{{ .Title }}</h1>
+        {{ if .Params.tagline }}
+        <p style="font-size: 1.3rem; opacity: 0.9; margin-bottom: 1.5rem;">{{ .Params.tagline }}</p>
+        {{ end }}
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.5rem;">
+          {{ if .Params.headquarters }}
+          <div>
+            <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Headquarters</div>
+            <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">📍 {{ .Params.headquarters }}</div>
+          </div>
+          {{ end }}
+          
+          {{ if .Params.founded }}
+          <div>
+            <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Founded</div>
+            <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">📅 {{ .Params.founded }}</div>
+          </div>
+          {{ end }}
+          
+          {{ if .Params.employees }}
+          <div>
+            <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Employees</div>
+            <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">👥 {{ .Params.employees }}</div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      
+      {{ if .Params.logo }}
+      <div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <img src="{{ .Params.logo }}" alt="{{ .Title }} logo" style="max-width: 200px; max-height: 100px;">
+      </div>
+      {{ end }}
+    </div>
+    
+    {{ if .Params.website }}
+    <div style="margin-top: 1.5rem;">
+      <a href="{{ .Params.website }}" target="_blank" rel="noopener" 
+         style="display: inline-block; background: white; color: #1e3a8a; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600;">
+        🌐 Visit Website →
+      </a>
+    </div>
+    {{ end }}
+  </div>
+  
+  <!-- Quick Facts Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+    {{ if .Params.products }}
+    <div style="background: #f0f9ff; border-left: 4px solid #3b82f6; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.1rem;">Key Products</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        {{ range .Params.products }}
+        <li style="padding: 0.25rem 0; color: #475569;">✓ {{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+    
+    {{ if .Params.capacity }}
+    <div style="background: #f0fdf4; border-left: 4px solid #22c55e; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #166534; margin-bottom: 1rem; font-size: 1.1rem;">Production Capacity</h3>
+      <p style="color: #475569; font-size: 1.3rem; font-weight: 600; margin: 0;">{{ .Params.capacity }}</p>
+    </div>
+    {{ end }}
+    
+    {{ if .Params.markets }}
+    <div style="background: #fef3c7; border-left: 4px solid #f59e0b; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem;">Markets Served</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        {{ range .Params.markets }}
+        <li style="padding: 0.25rem 0; color: #475569;">• {{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+  
+  <!-- Main Content -->
+  <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; margin-bottom: 2rem;">
+    <div>
+      <article style="background: white; padding: 2rem; border-radius: 12px; border: 1px solid #e5e7eb; line-height: 1.8; color: #374151;">
+        {{ .Content }}
+      </article>
+    </div>
+    
+    <!-- Sidebar -->
+    <aside>
+      <!-- Contact Information -->
+      {{ if or .Params.email .Params.phone .Params.address }}
+      <div style="background: #f9fafb; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #e5e7eb;">
+        <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.1rem;">Contact Information</h3>
+        {{ if .Params.email }}
+        <p style="margin: 0.5rem 0; color: #475569;">
+          <strong>Email:</strong><br>
+          <a href="mailto:{{ .Params.email }}" style="color: #3b82f6; text-decoration: none;">{{ .Params.email }}</a>
+        </p>
+        {{ end }}
+        {{ if .Params.phone }}
+        <p style="margin: 0.5rem 0; color: #475569;">
+          <strong>Phone:</strong><br>
+          {{ .Params.phone }}
+        </p>
+        {{ end }}
+        {{ if .Params.address }}
+        <p style="margin: 0.5rem 0; color: #475569;">
+          <strong>Address:</strong><br>
+          {{ .Params.address }}
+        </p>
+        {{ end }}
+      </div>
+      {{ end }}
+      
+      <!-- Certifications -->
+      {{ if .Params.certifications }}
+      <div style="background: #f0fdf4; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #bbf7d0;">
+        <h3 style="color: #166534; margin-bottom: 1rem; font-size: 1.1rem;">Certifications</h3>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          {{ range .Params.certifications }}
+          <li style="padding: 0.5rem 0; color: #475569; border-bottom: 1px solid #e5e7eb;">✓ {{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      
+      <!-- Related News -->
+      <div style="background: #fef3c7; padding: 1.5rem; border-radius: 12px; border: 1px solid #fde68a;">
+        <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem;">Related News</h3>
+        <p style="color: #78716c; font-size: 0.9rem;">
+          <a href="/news/" style="color: #f59e0b; text-decoration: none; font-weight: 500;">View news about {{ .Title }} →</a>
+        </p>
+      </div>
+    </aside>
+  </div>
+  
+  <!-- Navigation -->
+  <div style="display: flex; justify-content: space-between; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+    <a href="/companies/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Company Profiles</a>
+    <a href="/glossary/{{ .Title | urlize }}/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">View in Glossary →</a>
+  </div>
+</div>
+{{ end }}

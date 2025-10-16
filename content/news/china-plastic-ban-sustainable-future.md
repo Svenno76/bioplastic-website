@@ -3,7 +3,7 @@ title: "China's Ambitious Plastic Ban: Paving the Way for a Sustainable Future"
 date: 2025-08-18
 draft: false
 summary: "China has rolled out one of the world's most comprehensive bans on single-use and non-degradable plastics, setting clear timelines for production, sales, and usage restrictions."
-tags: ["china", "policy", "plastic-ban", "sustainability", "government"]
+tags: ["China", "policy", "plastic-ban", "sustainability", "government"]
 ---
 
 # China's Ambitious Plastic Ban: Paving the Way for a Sustainable Future

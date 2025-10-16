@@ -3,7 +3,7 @@ title: "NatureWorks Announces Major PLA Production Expansion"
 date: 2025-08-15
 draft: false
 summary: "NatureWorks LLC, a leading producer of Ingeo bioplastic, announces a $600 million investment to triple their PLA production capacity by 2027."
-tags: ["natureworks", "pla", "manufacturing", "investment"]
+tags: ["NatureWorks", "PLA", "manufacturing", "investment"]
 ---
 
 # NatureWorks Announces Major PLA Production Expansion

@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </div>
+  
+  <!-- Alphabetical navigation -->
+  <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+    {{ range (seq 65 90) }}
+      {{ $letter := printf "%c" . }}
+      <a href="#{{ $letter }}" style="padding: 0.5rem 0.8rem; background: white; border: 1px solid #e5e7eb; border-radius: 4px; text-decoration: none; color: #3b82f6; font-weight: 500;">
+        {{ $letter }}
+      </a>
+    {{ end }}
+  </div>
+  
+  <!-- Glossary entries -->
+  <div style="display: grid; gap: 1.5rem;">
+    {{ range .Pages.ByTitle }}
+    <article id="{{ substr .Title 0 1 | upper }}" style="border-left: 3px solid #3b82f6; padding-left: 1.5rem; background: #f9fafb; padding: 1.5rem; border-radius: 0 8px 8px 0;">
+      <h2 class="glossary-term" style="font-size: 1.8rem; margin-bottom: 0.5rem;">{{ .Title }}</h2>
+      {{ if .Params.aka }}
+      <p style="color: #64748b; font-style: italic; margin-bottom: 1rem;">Also known as: {{ delimit .Params.aka ", " }}</p>
+      {{ end }}
+      <div style="color: #374151; line-height: 1.7;">
+        {{ .Content }}
+      </div>
+      {{ if .Params.related }}
+      <div style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+        <strong style="color: #64748b; font-size: 0.9rem;">Related: </strong>
+        {{ range .Params.related }}
+          <a href="/glossary/{{ . | urlize }}/" class="company-link" style="margin-right: 0.5rem;">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

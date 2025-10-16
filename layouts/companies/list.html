@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
+    {{ range .Pages.ByTitle }}
+    <article style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s;">
+      <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: #1e3a8a;">
+        <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
+      </h2>
+      {{ if .Params.headquarters }}
+      <p style="color: #64748b; font-size: 0.9rem; margin-bottom: 0.5rem;">
+        📍 {{ .Params.headquarters }}
+      </p>
+      {{ end }}
+      {{ if .Params.founded }}
+      <p style="color: #64748b; font-size: 0.9rem; margin-bottom: 1rem;">
+        📅 Founded: {{ .Params.founded }}
+      </p>
+      {{ end }}
+      <p style="color: #475569; line-height: 1.6;">{{ .Summary }}</p>
+      <a href="{{ .Permalink }}" style="display: inline-block; margin-top: 1rem; color: #3b82f6; text-decoration: none; font-weight: 500;">
+        View Profile →
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

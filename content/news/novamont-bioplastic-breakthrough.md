@@ -3,7 +3,7 @@ title: "Novamont Develops New Marine-Biodegradable Film"
 date: 2025-08-10
 draft: false
 summary: "Italian bioplastics pioneer Novamont introduces a revolutionary film that biodegrades in marine environments within 6 months."
-tags: ["novamont", "biodegradable", "marine", "innovation"]
+tags: ["Novamont", "biodegradable", "marine", "innovation"]
 ---
 
 # Novamont Develops New Marine-Biodegradable Film

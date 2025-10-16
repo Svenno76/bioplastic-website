@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="site-branding">
+    <a href="/news/" class="site-title">
+      🌱 Bioplastics Portal
+    </a>
+    <nav class="site-navigation">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>

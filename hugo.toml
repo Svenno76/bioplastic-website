@@ -1,12 +1,13 @@
 baseURL = 'https://bioplastic.netlify.app'
 languageCode = 'en-us'
-title = 'Bioplastics Research & News'
+title = 'Bioplastics Portal'
 theme = 'ananke'
 
 [params]
   featured_image = '/images/bioplastics-banner.jpg'
   recent_posts_number = 5
   custom_css = ["css/custom.css"]
+  description = "Your comprehensive resource for bioplastics research, news, and industry insights"
 
 [[menu.main]]
   name = "News"
@@ -14,6 +15,21 @@ theme = 'ananke'
   weight = 10
 
 [[menu.main]]
-  name = "Bioplastics Guide"
-  url = "/bioplastics/"
+  name = "Company Profiles"
+  url = "/companies/"
   weight = 20
+
+[[menu.main]]
+  name = "Studies"
+  url = "/studies/"
+  weight = 30
+
+[[menu.main]]
+  name = "Book Recommendations"
+  url = "/books/"
+  weight = 40
+
+[[menu.main]]
+  name = "Glossary"
+  url = "/glossary/"
+  weight = 50
