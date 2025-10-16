@@ -1,16 +1,66 @@
 {{ define "main" }}
 <div style="max-width: 64rem; margin: 0 auto; padding: 1rem;">
   <section style="padding: 0 1rem;">
-    <div style="margin-top: 1rem;">
+    
+    <!-- Tag Filter Section -->
+    <div id="tag-filter-section" style="margin-bottom: 2rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <h3 style="margin: 0 0 1rem 0; color: #333; font-size: 1.2rem;">Filter by Company/Category:</h3>
+      
+      <div id="tag-buttons" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem;">
+        <button onclick="filterPosts('all')" class="tag-filter active" data-tag="all" 
+                style="padding: 0.5rem 1rem; border: 1px solid #007acc; background: #007acc; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+          All Posts
+        </button>
+        
+        {{ $allTags := slice }}
+        {{ range .Pages }}
+          {{ range .Params.tags }}
+            {{ $allTags = $allTags | append . }}
+          {{ end }}
+        {{ end }}
+        {{ $uniqueTags := $allTags | uniq | sort }}
+        
+        {{ range $uniqueTags }}
+        <button onclick="filterPosts('{{ . }}')" class="tag-filter" data-tag="{{ . }}"
+                style="padding: 0.5rem 1rem; border: 1px solid #007acc; background: white; color: #007acc; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+          {{ . | title }}
+        </button>
+        {{ end }}
+      </div>
+      
+      <div id="active-filters" style="font-size: 0.9rem; color: #666;">
+        Showing: <span id="filter-status">All posts</span>
+      </div>
+    </div>
+
+    <!-- Posts Counter -->
+    <div id="posts-counter" style="margin-bottom: 1.5rem; padding: 0.5rem 0; color: #666; font-size: 0.95rem; border-bottom: 1px solid #eee;">
+      <span id="visible-count">{{ len .Pages }}</span> of {{ len .Pages }} posts
+    </div>
+
+    <!-- News List -->
+    <div class="news-list" id="news-list">
       {{ range .Pages.ByDate.Reverse }}
-      <article style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem;">
+      <article class="news-post" data-tags="{{ delimit .Params.tags "," }}" 
+               style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem; transition: all 0.3s;">
         <header style="margin-bottom: 1rem;">
           <h2 style="font-size: 1.5rem; color: #333; line-height: 1.3; margin-bottom: 0.5rem;">
             <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
           </h2>
-          <time datetime="{{ .Date.Format "2006-01-02" }}" style="font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">
-            {{ .Date.Format "January 2, 2006" }}
-          </time>
+          <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem;">
+            <time datetime="{{ .Date.Format "2006-01-02" }}" style="font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">
+              {{ .Date.Format "January 2, 2006" }}
+            </time>
+            {{ if .Params.tags }}
+            <div class="post-tags" style="display: flex; gap: 0.3rem; flex-wrap: wrap;">
+              {{ range .Params.tags }}
+              <span class="post-tag" style="background: #e3f2fd; color: #1976d2; padding: 0.2rem 0.5rem; border-radius: 12px; font-size: 0.75rem; font-weight: 500;">
+                {{ . | title }}
+              </span>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
         </header>
         
         {{ if .Params.featured_image }}
@@ -30,11 +80,119 @@
       {{ end }}
     </div>
 
-    {{ if eq (len .Pages) 0 }}
-    <div style="text-align: center; padding: 2rem 0;">
-      <p style="font-size: 1.125rem; font-style: italic; color: #666;">No news posts yet. Check back soon!</p>
+    <!-- No Results Message -->
+    <div id="no-results" style="display: none; text-align: center; padding: 3rem 0; color: #666; font-style: italic;">
+      <h3 style="margin-bottom: 1rem;">No posts found</h3>
+      <p>Try selecting different tags or view all posts.</p>
     </div>
-    {{ end }}
+
   </section>
 </div>
+
+<script>
+let currentFilter = 'all';
+
+function filterPosts(tag) {
+  currentFilter = tag;
+  const posts = document.querySelectorAll('.news-post');
+  const noResults = document.getElementById('no-results');
+  const filterStatus = document.getElementById('filter-status');
+  const visibleCount = document.getElementById('visible-count');
+  const totalCount = posts.length;
+  let visiblePosts = 0;
+  
+  // Update active button
+  document.querySelectorAll('.tag-filter').forEach(btn => {
+    btn.classList.remove('active');
+    if (tag === 'all') {
+      btn.style.background = 'white';
+      btn.style.color = '#007acc';
+    } else {
+      btn.style.background = 'white';
+      btn.style.color = '#007acc';
+    }
+  });
+  
+  const activeBtn = document.querySelector(`[data-tag="${tag}"]`);
+  if (activeBtn) {
+    activeBtn.classList.add('active');
+    activeBtn.style.background = '#007acc';
+    activeBtn.style.color = 'white';
+  }
+  
+  // Filter posts
+  posts.forEach(post => {
+    const postTags = post.getAttribute('data-tags').split(',');
+    const shouldShow = tag === 'all' || postTags.includes(tag);
+    
+    if (shouldShow) {
+      post.style.display = 'block';
+      post.style.opacity = '1';
+      visiblePosts++;
+    } else {
+      post.style.display = 'none';
+      post.style.opacity = '0';
+    }
+  });
+  
+  // Update counter and status
+  visibleCount.textContent = visiblePosts;
+  
+  if (tag === 'all') {
+    filterStatus.textContent = 'All posts';
+  } else {
+    filterStatus.textContent = `Posts tagged "${tag}"`;
+  }
+  
+  // Show/hide no results message
+  if (visiblePosts === 0) {
+    noResults.style.display = 'block';
+  } else {
+    noResults.style.display = 'none';
+  }
+}
+
+// Add hover effects to buttons
+document.addEventListener('DOMContentLoaded', function() {
+  const buttons = document.querySelectorAll('.tag-filter');
+  buttons.forEach(btn => {
+    btn.addEventListener('mouseenter', function() {
+      if (!this.classList.contains('active')) {
+        this.style.background = '#e3f2fd';
+      }
+    });
+    
+    btn.addEventListener('mouseleave', function() {
+      if (!this.classList.contains('active')) {
+        this.style.background = 'white';
+      }
+    });
+  });
+});
+</script>
+
+<style>
+.tag-filter:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.tag-filter.active {
+  background: #007acc !important;
+  color: white !important;
+}
+
+.news-post {
+  transition: all 0.3s ease;
+}
+
+.post-tag {
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.post-tag:hover {
+  background: #bbdefb !important;
+}
+</style>
 {{ end }}
