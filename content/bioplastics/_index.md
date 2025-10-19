@@ -1,7 +1,6 @@
 ---
 title: "Complete Bioplastics Guide"
 description: "Your comprehensive resource for understanding bioplastics, from materials science to market applications"
-featured_image: '/images/background_bioplastic.jpg'
 ---
 
 # The Complete Guide to Bioplastics

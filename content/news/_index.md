@@ -1,7 +1,6 @@
 ---
 title: "News & Updates"
 description: "Stay updated with the latest news and developments in bioplastics research and industry"
-featured_image: '/images/background_news.png'
 ---
 
 # Latest News & Updates

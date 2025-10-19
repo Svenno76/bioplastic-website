@@ -10,7 +10,6 @@
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   height: auto !important;
 }
-
 /* Site branding section */
 .site-branding {
   display: flex;
@@ -20,7 +19,6 @@
   max-width: 1400px;
   margin: 0 auto;
 }
-
 .site-title {
   font-size: 1.8rem !important;
   font-weight: 600 !important;
@@ -32,120 +30,70 @@
   align-items: center;
   gap: 0.5rem;
 }
-
 .site-title:hover {
   color: #e0f2fe !important;
 }
-
 /* Navigation menu */
 .site-navigation {
   display: flex;
   gap: 0.5rem;
   align-items: center;
 }
-
 .site-navigation a {
   color: white !important;
   text-decoration: none !important;
-  padding: 0.6rem 1.2rem !important;
-  border-radius: 6px;
-  font-size: 0.95rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  transition: background-color 0.2s;
   font-weight: 500;
-  transition: all 0.3s;
-  background: rgba(255,255,255,0.1);
 }
-
 .site-navigation a:hover {
-  background: rgba(255,255,255,0.2) !important;
-  transform: translateY(-1px);
+  background-color: rgba(255, 255, 255, 0.1);
 }
-
-/* Add top padding to body for fixed header */
+/* Add padding to body to account for fixed header */
 body {
   padding-top: 80px !important;
 }
-
-/* Remove the old cover header styling */
-.cover {
-  display: none !important;
-}
-
-/* Adjust main content */
-main {
-  margin-top: 0 !important;
-  padding-top: 2rem !important;
-  background: white !important;
-}
-
-/* Page headers within content */
-.page-header {
-  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
-  padding: 2rem;
-  border-radius: 12px;
+/* Style für die Homepage Description */
+.home-page-content p:first-of-type {
+  color: #2d6a4f;
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.6;
+  margin-top: 1rem;
   margin-bottom: 2rem;
-  border-left: 4px solid #3b82f6;
 }
 
-.page-header h1 {
-  color: #1e3a8a;
-  font-size: 2.5rem;
-  margin-bottom: 0.5rem;
-  font-weight: 600;
+/* Homepage header styling - text color only, no box */
+.home article header h1,
+.home article header h2,
+.home header h1,
+.home header h2,
+article header h1.f2,
+article header h1.f1-l,
+article header h2.fw1,
+article.cf header h1,
+article.cf header h2,
+.cf.ph3.ph5-l header h1,
+.cf.ph3.ph5-l header h2 {
+  color: #1e3a8a !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important;
 }
 
-.page-header p {
-  color: #475569;
-  font-size: 1.1rem;
-  margin: 0;
+/* Target ALL text inside the homepage header */
+article header *,
+article.cf header *,
+.home header * {
+  color: #1e3a8a !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important;
 }
 
-/* Mobile responsiveness */
-@media screen and (max-width: 768px) {
-  .site-branding {
-    flex-direction: column;
-    padding: 1rem;
-    gap: 1rem;
-  }
-  
-  .site-title {
-    font-size: 1.4rem !important;
-  }
-  
-  .site-navigation {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.3rem;
-  }
-  
-  .site-navigation a {
-    padding: 0.5rem 0.8rem !important;
-    font-size: 0.85rem;
-  }
-  
-  body {
-    padding-top: 140px !important;
-  }
-  
-  .page-header h1 {
-    font-size: 1.8rem;
-  }
-}
-
-/* Company link styling in content */
-.company-link {
-  color: #3b82f6;
-  text-decoration: none;
-  border-bottom: 1px dotted #3b82f6;
-  transition: all 0.2s;
-}
-
-.company-link:hover {
-  color: #1e3a8a;
-  border-bottom: 1px solid #1e3a8a;
-}
-
-/* Glossary term styling */
-.glossary-term {
-  font-weight: 600;
-  color: #1e3a8a;
+/* Override any white text classes */
+.white-90,
+.white-80,
+.white,
+header .white-90,
+header .white-80,
+header .white {
+  color: #1e3a8a !important;
 }
