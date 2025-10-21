@@ -6,7 +6,7 @@ theme = 'ananke'
 [params]
   featured_image = '/images/bioplastics-banner.jpg'
   recent_posts_number = 5
-  custom_css = ["css/custom.css"]
+  custom_css = ["css/custom.css", "css/homepage.css"]
   description = "Your comprehensive resource for bioplastics research, news, and industry insights"
 
 [[menu.main]]
@@ -25,7 +25,7 @@ theme = 'ananke'
   weight = 30
 
 [[menu.main]]
-  name = "Book Recommendations"
+  name = "Books"
   url = "/books/"
   weight = 40
 

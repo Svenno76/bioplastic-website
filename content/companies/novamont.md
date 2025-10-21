@@ -4,6 +4,10 @@ headquarters: "Novara, Italy"
 founded: "1989"
 website: "https://www.novamont.com"
 products: ["Mater-Bi", "Biodegradable plastics"]
+revenue: "€300M"
+employees: "700+"
+ceo: "Catia Bastioli"
+overview: "Founded by Catia Bastioli, Novamont has been at the forefront of bioeconomy innovation, developing biodegradable materials from renewable resources."
 ---
 
 # Novamont S.p.A.

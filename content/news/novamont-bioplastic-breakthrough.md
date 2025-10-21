@@ -6,8 +6,6 @@ summary: "Italian bioplastics pioneer Novamont introduces a revolutionary film t
 tags: ["Novamont", "biodegradable", "marine", "innovation"]
 ---
 
-# Novamont Develops New Marine-Biodegradable Film
-
 Novamont, the Italian bioplastics innovator, has successfully developed a new biodegradable film that completely breaks down in marine environments within six months, addressing one of the most pressing environmental challenges of our time.
 
 ## Technical Innovation

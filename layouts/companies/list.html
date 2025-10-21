@@ -21,7 +21,32 @@
         📅 Founded: {{ .Params.founded }}
       </p>
       {{ end }}
-      <p style="color: #475569; line-height: 1.6;">{{ .Summary }}</p>
+      
+      {{ if .Params.overview }}
+      <p style="color: #475569; line-height: 1.6; margin-bottom: 1rem;">{{ .Params.overview }}</p>
+      {{ end }}
+      
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+        {{ if .Params.revenue }}
+        <div style="font-size: 0.85rem;">
+          <span style="color: #64748b;">Revenue:</span>
+          <div style="color: #1e3a8a; font-weight: 600;">{{ .Params.revenue }}</div>
+        </div>
+        {{ end }}
+        {{ if .Params.employees }}
+        <div style="font-size: 0.85rem;">
+          <span style="color: #64748b;">Employees:</span>
+          <div style="color: #1e3a8a; font-weight: 600;">{{ .Params.employees }}</div>
+        </div>
+        {{ end }}
+        {{ if .Params.ceo }}
+        <div style="font-size: 0.85rem; grid-column: 1 / -1;">
+          <span style="color: #64748b;">CEO:</span>
+          <div style="color: #1e3a8a; font-weight: 600;">{{ .Params.ceo }}</div>
+        </div>
+        {{ end }}
+      </div>
+      
       <a href="{{ .Permalink }}" style="display: inline-block; margin-top: 1rem; color: #3b82f6; text-decoration: none; font-weight: 500;">
         View Profile →
       </a>

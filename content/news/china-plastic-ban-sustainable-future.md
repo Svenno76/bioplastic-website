@@ -6,8 +6,6 @@ summary: "China has rolled out one of the world's most comprehensive bans on sin
 tags: ["China", "policy", "plastic-ban", "sustainability", "government"]
 ---
 
-# China's Ambitious Plastic Ban: Paving the Way for a Sustainable Future
-
 In a bold and decisive move to tackle plastic pollution, China has rolled out one of the world's most comprehensive bans on single-use and non-degradable plastics. Spanning from 2020 through 2025, this phased national plan—spearheaded by the National Development and Reform Commission (NDRC) and the Ministry of Ecology and Environment—targets a wide array of plastics commonly used in everyday life, setting clear timelines for production, sales, and usage restrictions.
 
 ## What's Being Banned?

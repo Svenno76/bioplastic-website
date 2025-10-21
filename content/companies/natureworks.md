@@ -4,6 +4,10 @@ headquarters: "Minnetonka, Minnesota, USA"
 founded: "1997"
 website: "https://www.natureworksllc.com"
 products: ["Ingeo PLA", "Biopolymers"]
+revenue: "$500M"
+employees: "500+"
+ceo: "Rich Altice"
+overview: "NatureWorks was established as a joint venture between Cargill and Dow Chemical (now independent from Dow). The company operates the world's first and largest PLA production facility in Blair, Nebraska."
 ---
 
 # NatureWorks LLC

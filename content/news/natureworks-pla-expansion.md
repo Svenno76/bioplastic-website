@@ -6,8 +6,6 @@ summary: "NatureWorks LLC, a leading producer of Ingeo bioplastic, announces a $
 tags: ["NatureWorks", "PLA", "manufacturing", "investment"]
 ---
 
-# NatureWorks Announces Major PLA Production Expansion
-
 NatureWorks LLC, the world's largest producer of polylactic acid (PLA) bioplastic, has announced a significant expansion of their manufacturing capabilities with a $600 million investment that will triple their production capacity by 2027.
 
 ## Expansion Details

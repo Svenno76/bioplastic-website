@@ -6,8 +6,6 @@ summary: "The European Union introduces stricter regulations on single-use plast
 tags: ["policy", "EU", "regulation", "single-use"]
 ---
 
-# EU Updates Single-Use Plastic Regulations for 2025
-
 The European Union has announced updated regulations on single-use plastics that will take effect in January 2025, significantly expanding restrictions and creating new market opportunities for bioplastic manufacturers.
 
 ## Key Changes
