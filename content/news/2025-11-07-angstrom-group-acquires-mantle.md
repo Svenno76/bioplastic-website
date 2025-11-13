@@ -6,6 +6,7 @@ summary: "Angstrom Group expanded its biopolymer capabilities by acquiring Mantl
 tags: ['Angstrom Group', 'm&a', 'merger', 'acquisition']
 category: "M&A"
 company: "Angstrom Group"
+company_type: "Equipment Manufacturer"
 source: "Perplexity Rev2"
 ---
 

@@ -6,6 +6,7 @@ summary: "Teknor Apex completed the acquisition of Danimer Scientific, expanding
 tags: ['Teknor Apex', 'm&a', 'merger', 'acquisition']
 category: "M&A"
 company: "Teknor Apex"
+company_type: "Compounder"
 source: "Perplexity Rev2"
 ---
 

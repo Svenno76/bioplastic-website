@@ -6,6 +6,7 @@ summary: "BASF and Siemens collaborated to present circuit breaker with componen
 tags: ['BASF', 'partnerships', 'collaboration', 'partnership']
 category: "Partnerships"
 company: "BASF"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

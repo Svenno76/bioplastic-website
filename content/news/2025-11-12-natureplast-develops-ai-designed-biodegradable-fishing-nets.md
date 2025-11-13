@@ -6,6 +6,7 @@ summary: "NaturePlast announced new-generation bioplastic formulations for techn
 tags: ['NaturePlast', 'product-launch', 'innovation', 'product']
 category: "Product Launch"
 company: "NaturePlast"
+company_type: "Bioplastic Producer"
 source: "Perplexity Rev2"
 ---
 

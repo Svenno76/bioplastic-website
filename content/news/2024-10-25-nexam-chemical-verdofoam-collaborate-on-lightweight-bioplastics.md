@@ -6,6 +6,7 @@ summary: "Nexam Chemical and Verdofoam collaborating to advance lightweight mate
 tags: ['Nexam Chemical', 'partnerships', 'collaboration', 'partnership']
 category: "Partnerships"
 company: "Nexam Chemical"
+company_type: "Additive Producer"
 source: "Gemini search"
 ---
 

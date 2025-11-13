@@ -6,6 +6,7 @@ summary: "Blue Ocean Closures announced its fiber screw caps now cost-competitiv
 tags: ['Blue Ocean Closures', 'product-launch', 'innovation', 'product']
 category: "Product Launch"
 company: "Blue Ocean Closures"
+company_type: "Technology Company"
 source: "Gemini search"
 ---
 

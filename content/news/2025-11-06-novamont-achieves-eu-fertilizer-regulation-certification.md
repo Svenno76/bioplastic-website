@@ -6,6 +6,7 @@ summary: "Novamont obtained certificate of conformity with EU Fertilizer Regulat
 tags: ['Novamont', 'certifications', 'certification', 'standards']
 category: "Certifications"
 company: "Novamont"
+company_type: "Bioplastic Producer"
 source: "Perplexity Rev2"
 ---
 

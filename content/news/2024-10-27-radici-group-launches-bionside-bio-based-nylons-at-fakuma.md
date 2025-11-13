@@ -6,6 +6,7 @@ summary: "Radici Group launched Bionside, new line of bio-based nylon resins at 
 tags: ['Radici Group', 'product-launch', 'innovation', 'product']
 category: "Product Launch"
 company: "Radici Group"
+company_type: "Compounder"
 source: "Gemini search"
 ---
 

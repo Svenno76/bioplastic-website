@@ -6,6 +6,7 @@ summary: "Balrampur Chini Mills will build India's first large-scale polylactic 
 tags: ['Balrampur Chini Mills Limited', 'plant-announcement', 'manufacturing', 'capacity']
 category: "Plant Announcement"
 company: "Balrampur Chini Mills Limited"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

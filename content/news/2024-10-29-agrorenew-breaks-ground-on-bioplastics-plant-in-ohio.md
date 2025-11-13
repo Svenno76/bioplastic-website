@@ -6,6 +6,7 @@ summary: "AgroRenew LLC started construction in Northeast Ohio on facility conve
 tags: ['AgroRenew', 'plant-announcement', 'manufacturing', 'capacity']
 category: "Plant Announcement"
 company: "AgroRenew"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

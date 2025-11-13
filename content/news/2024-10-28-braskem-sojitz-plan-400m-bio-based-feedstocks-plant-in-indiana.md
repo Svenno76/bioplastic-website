@@ -6,6 +6,7 @@ summary: "Braskem SA and Sojitz Corp planning $400 million joint venture facilit
 tags: ['Braskem', 'plant-announcement', 'manufacturing', 'capacity']
 category: "Plant Announcement"
 company: "Braskem"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

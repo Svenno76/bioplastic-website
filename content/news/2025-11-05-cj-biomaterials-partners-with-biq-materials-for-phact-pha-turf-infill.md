@@ -6,6 +6,7 @@ summary: "CJ Biomaterials signed a partnership with BIQ Materials to produce art
 tags: ['CJ Biomaterials', 'partnerships', 'collaboration', 'partnership']
 category: "Partnerships"
 company: "CJ Biomaterials"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

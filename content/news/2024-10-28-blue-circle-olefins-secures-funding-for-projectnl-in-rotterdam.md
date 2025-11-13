@@ -6,6 +6,7 @@ summary: "Blue Circle Olefins secured funding to advance ProjectNL, commercial M
 tags: ['Blue Circle Olefins', 'investment-&-funding', 'investment', 'funding']
 category: "Investment & Funding"
 company: "Blue Circle Olefins"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

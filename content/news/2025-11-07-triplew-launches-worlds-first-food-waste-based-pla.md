@@ -6,6 +6,7 @@ summary: "TripleW, supported by Sulzer Chemtech, launched the world's first poly
 tags: ['TripleW', 'product-launch', 'innovation', 'product']
 category: "Product Launch"
 company: "TripleW"
+company_type: "Technology Company"
 source: "Perplexity Rev2"
 ---
 

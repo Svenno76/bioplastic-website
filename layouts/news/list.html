@@ -2,33 +2,60 @@
 <div style="max-width: 64rem; margin: 0 auto; padding: 1rem;">
   <section style="padding: 0 1rem;">
     
-    <!-- Tag Filter Section -->
-    <div id="tag-filter-section" style="margin-bottom: 2rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
-      <h3 style="margin: 0 0 1rem 0; color: #333; font-size: 1.2rem;">Filter by Company/Category:</h3>
-      
-      <div id="tag-buttons" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem;">
-        <button onclick="filterPosts('all')" class="tag-filter active" data-tag="all" 
-                style="padding: 0.5rem 1rem; border: 1px solid #007acc; background: #007acc; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
-          All Posts
+    <!-- Category Filter Section -->
+    <div id="category-filter-section" style="margin-bottom: 1.5rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <h3 style="margin: 0 0 1rem 0; color: #333; font-size: 1.1rem;">Filter by News Category:</h3>
+
+      <div id="category-buttons" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+        <button onclick="filterPosts('all', 'category')" class="category-filter active" data-category="all"
+                style="padding: 0.5rem 1rem; border: 1px solid #0066cc; background: #0066cc; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+          All Categories
         </button>
-        
-        {{ $allTags := slice }}
+
+        {{ $allCategories := slice }}
         {{ range .Pages }}
-          {{ range .Params.tags }}
-            {{ $allTags = $allTags | append . }}
+          {{ if .Params.category }}
+            {{ $allCategories = $allCategories | append .Params.category }}
           {{ end }}
         {{ end }}
-        {{ $uniqueTags := $allTags | uniq | sort }}
-        
-        {{ range $uniqueTags }}
-        <button onclick="filterPosts('{{ . }}')" class="tag-filter" data-tag="{{ . }}"
-                style="padding: 0.5rem 1rem; border: 1px solid #007acc; background: white; color: #007acc; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
-          {{ . | title }}
+        {{ $uniqueCategories := $allCategories | uniq | sort }}
+
+        {{ range $uniqueCategories }}
+        <button onclick="filterPosts('{{ . }}', 'category')" class="category-filter" data-category="{{ . }}"
+                style="padding: 0.5rem 1rem; border: 1px solid #0066cc; background: white; color: #0066cc; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+          {{ . }}
         </button>
         {{ end }}
       </div>
-      
-      <div id="active-filters" style="font-size: 0.9rem; color: #666;">
+    </div>
+
+    <!-- Company Type Filter Section -->
+    <div id="company-type-filter-section" style="margin-bottom: 2rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <h3 style="margin: 0 0 1rem 0; color: #333; font-size: 1.1rem;">Filter by Company Type:</h3>
+
+      <div id="company-type-buttons" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+        <button onclick="filterPosts('all', 'company_type')" class="company-type-filter active" data-company_type="all"
+                style="padding: 0.5rem 1rem; border: 1px solid #cc6600; background: #cc6600; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+          All Types
+        </button>
+
+        {{ $allCompanyTypes := slice }}
+        {{ range .Pages }}
+          {{ if .Params.company_type }}
+            {{ $allCompanyTypes = $allCompanyTypes | append .Params.company_type }}
+          {{ end }}
+        {{ end }}
+        {{ $uniqueCompanyTypes := $allCompanyTypes | uniq | sort }}
+
+        {{ range $uniqueCompanyTypes }}
+        <button onclick="filterPosts('{{ . }}', 'company_type')" class="company-type-filter" data-company_type="{{ . }}"
+                style="padding: 0.5rem 1rem; border: 1px solid #cc6600; background: white; color: #cc6600; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+          {{ . }}
+        </button>
+        {{ end }}
+      </div>
+
+      <div id="active-filters" style="font-size: 0.9rem; color: #666; margin-top: 1rem;">
         Showing: <span id="filter-status">All posts</span>
       </div>
     </div>
@@ -41,7 +68,7 @@
     <!-- News List -->
     <div class="news-list" id="news-list">
       {{ range .Pages.ByDate.Reverse }}
-      <article class="news-post" data-tags="{{ delimit .Params.tags "," }}" 
+      <article class="news-post" data-tags="{{ delimit .Params.tags "," }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}"
                style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem; transition: all 0.3s;">
         <header style="margin-bottom: 1rem;">
           <h2 style="font-size: 1.5rem; color: #333; line-height: 1.3; margin-bottom: 0.5rem;">
@@ -90,41 +117,61 @@
 </div>
 
 <script>
-let currentFilter = 'all';
+let currentCategoryFilter = 'all';
+let currentCompanyTypeFilter = 'all';
 
-function filterPosts(tag) {
-  currentFilter = tag;
+function filterPosts(value, filterType) {
+  // Update filter state
+  if (filterType === 'category') {
+    currentCategoryFilter = value;
+  } else if (filterType === 'company_type') {
+    currentCompanyTypeFilter = value;
+  }
+
   const posts = document.querySelectorAll('.news-post');
   const noResults = document.getElementById('no-results');
   const filterStatus = document.getElementById('filter-status');
   const visibleCount = document.getElementById('visible-count');
-  const totalCount = posts.length;
   let visiblePosts = 0;
-  
-  // Update active button
-  document.querySelectorAll('.tag-filter').forEach(btn => {
+
+  // Update active buttons for categories
+  document.querySelectorAll('.category-filter').forEach(btn => {
     btn.classList.remove('active');
-    if (tag === 'all') {
-      btn.style.background = 'white';
-      btn.style.color = '#007acc';
-    } else {
-      btn.style.background = 'white';
-      btn.style.color = '#007acc';
-    }
+    btn.style.background = 'white';
+    btn.style.color = '#0066cc';
   });
-  
-  const activeBtn = document.querySelector(`[data-tag="${tag}"]`);
-  if (activeBtn) {
-    activeBtn.classList.add('active');
-    activeBtn.style.background = '#007acc';
-    activeBtn.style.color = 'white';
+
+  const activeCategoryBtn = document.querySelector(`[data-category="${currentCategoryFilter}"]`);
+  if (activeCategoryBtn) {
+    activeCategoryBtn.classList.add('active');
+    activeCategoryBtn.style.background = '#0066cc';
+    activeCategoryBtn.style.color = 'white';
   }
-  
-  // Filter posts
+
+  // Update active buttons for company types
+  document.querySelectorAll('.company-type-filter').forEach(btn => {
+    btn.classList.remove('active');
+    btn.style.background = 'white';
+    btn.style.color = '#cc6600';
+  });
+
+  const activeCompanyTypeBtn = document.querySelector(`[data-company_type="${currentCompanyTypeFilter}"]`);
+  if (activeCompanyTypeBtn) {
+    activeCompanyTypeBtn.classList.add('active');
+    activeCompanyTypeBtn.style.background = '#cc6600';
+    activeCompanyTypeBtn.style.color = 'white';
+  }
+
+  // Filter posts with AND logic - must match BOTH category and company_type
   posts.forEach(post => {
-    const postTags = post.getAttribute('data-tags').split(',');
-    const shouldShow = tag === 'all' || postTags.includes(tag);
-    
+    const postCategory = post.getAttribute('data-category');
+    const postCompanyType = post.getAttribute('data-company_type');
+
+    const categoryMatches = currentCategoryFilter === 'all' || postCategory === currentCategoryFilter;
+    const companyTypeMatches = currentCompanyTypeFilter === 'all' || postCompanyType === currentCompanyTypeFilter;
+
+    const shouldShow = categoryMatches && companyTypeMatches;
+
     if (shouldShow) {
       post.style.display = 'block';
       post.style.opacity = '1';
@@ -134,16 +181,24 @@ function filterPosts(tag) {
       post.style.opacity = '0';
     }
   });
-  
+
   // Update counter and status
   visibleCount.textContent = visiblePosts;
-  
-  if (tag === 'all') {
+
+  let statusText = [];
+  if (currentCategoryFilter !== 'all') {
+    statusText.push(`Category: "${currentCategoryFilter}"`);
+  }
+  if (currentCompanyTypeFilter !== 'all') {
+    statusText.push(`Type: "${currentCompanyTypeFilter}"`);
+  }
+
+  if (statusText.length === 0) {
     filterStatus.textContent = 'All posts';
   } else {
-    filterStatus.textContent = `Posts tagged "${tag}"`;
+    filterStatus.textContent = statusText.join(' + ');
   }
-  
+
   // Show/hide no results message
   if (visiblePosts === 0) {
     noResults.style.display = 'block';
@@ -154,31 +209,44 @@ function filterPosts(tag) {
 
 // Add hover effects to buttons
 document.addEventListener('DOMContentLoaded', function() {
-  const buttons = document.querySelectorAll('.tag-filter');
-  buttons.forEach(btn => {
-    btn.addEventListener('mouseenter', function() {
-      if (!this.classList.contains('active')) {
-        this.style.background = '#e3f2fd';
-      }
-    });
-    
-    btn.addEventListener('mouseleave', function() {
-      if (!this.classList.contains('active')) {
-        this.style.background = 'white';
-      }
+  const categoryButtons = document.querySelectorAll('.category-filter');
+  const companyTypeButtons = document.querySelectorAll('.company-type-filter');
+
+  [categoryButtons, companyTypeButtons].forEach(buttonGroup => {
+    buttonGroup.forEach(btn => {
+      btn.addEventListener('mouseenter', function() {
+        if (!this.classList.contains('active')) {
+          this.style.opacity = '0.8';
+        }
+      });
+
+      btn.addEventListener('mouseleave', function() {
+        if (!this.classList.contains('active')) {
+          this.style.opacity = '1';
+        }
+      });
     });
   });
 });
 </script>
 
 <style>
-.tag-filter:hover {
+.category-filter, .company-type-filter {
+  transition: all 0.2s ease;
+}
+
+.category-filter:hover, .company-type-filter:hover {
   transform: translateY(-1px);
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.tag-filter.active {
-  background: #007acc !important;
+.category-filter.active {
+  background: #0066cc !important;
+  color: white !important;
+}
+
+.company-type-filter.active {
+  background: #cc6600 !important;
   color: white !important;
 }
 

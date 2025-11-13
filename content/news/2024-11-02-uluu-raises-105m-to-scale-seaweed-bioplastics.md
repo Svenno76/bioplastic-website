@@ -6,6 +6,7 @@ summary: "Australian firm Uluu secured A$16 million ($10.5 million) in funding t
 tags: ['Uluu', 'investment-&-funding', 'investment', 'funding']
 category: "Investment & Funding"
 company: "Uluu"
+company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---
 

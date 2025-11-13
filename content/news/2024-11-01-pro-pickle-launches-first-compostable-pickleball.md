@@ -6,6 +6,7 @@ summary: "Pro-Pickle introduced Compost-a-Ball, first compostable pickleball bal
 tags: ['Pro-Pickle', 'product-launch', 'innovation', 'product']
 category: "Product Launch"
 company: "Pro-Pickle"
+company_type: "Converter"
 source: "Gemini search"
 ---
 
