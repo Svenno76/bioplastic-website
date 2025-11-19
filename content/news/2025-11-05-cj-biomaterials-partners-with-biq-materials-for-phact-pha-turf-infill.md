@@ -3,7 +3,7 @@ title: "CJ Biomaterials partners with BIQ Materials for PHACT™ PHA turf infill
 date: 2025-11-05
 draft: false
 summary: "CJ Biomaterials signed a partnership with BIQ Materials to produce artificial turf infill made with PHACT™ PHA, a certified biodegradable biopolymer, targeting the European market and supporting EU microplastic ban compliance."
-tags: ['CJ Biomaterials', 'partnerships', 'collaboration', 'partnership']
+tags: ['CJ Biomaterials', 'partnerships']
 category: "Partnerships"
 company: "CJ Biomaterials"
 company_type: "Bioplastic Producer"

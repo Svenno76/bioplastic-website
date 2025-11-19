@@ -3,7 +3,7 @@ title: "Nexam Chemical-Verdofoam collaborate on lightweight bioplastics"
 date: 2024-10-25
 draft: false
 summary: "Nexam Chemical and Verdofoam collaborating to advance lightweight materials in biobased plastics, combining crosslinking technology with foam production for improved sustainability and performance."
-tags: ['Nexam Chemical', 'partnerships', 'collaboration', 'partnership']
+tags: ['Nexam Chemical', 'partnerships']
 category: "Partnerships"
 company: "Nexam Chemical"
 company_type: "Additive Producer"

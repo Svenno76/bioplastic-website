@@ -3,7 +3,7 @@ title: "Angstrom Group Acquires Mantle"
 date: 2025-11-07
 draft: false
 summary: "Angstrom Group expanded its biopolymer capabilities by acquiring Mantle, strengthening its position in the bioplastics and biopolymers market through this acquisition."
-tags: ['Angstrom Group', 'm&a', 'merger', 'acquisition']
+tags: ['Angstrom Group', 'm&a']
 category: "M&A"
 company: "Angstrom Group"
 company_type: "Equipment Manufacturer"

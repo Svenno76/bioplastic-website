@@ -3,7 +3,7 @@ title: "BASF-Siemens show circuit breaker with biomass-balanced plastics"
 date: 2024-10-26
 draft: false
 summary: "BASF and Siemens collaborated to present circuit breaker with components made from biomass-balanced plastics at Fakuma 2024, demonstrating industrial applications of sustainable materials."
-tags: ['BASF', 'partnerships', 'collaboration', 'partnership']
+tags: ['BASF', 'partnerships']
 category: "Partnerships"
 company: "BASF"
 company_type: "Bioplastic Producer"

@@ -3,7 +3,7 @@ title: "Novamont Achieves EU Fertilizer Regulation Certification"
 date: 2025-11-06
 draft: false
 summary: "Novamont obtained certificate of conformity with EU Fertilizer Regulation 2019/1009 for its Mater-Bi bioplastic, enabling new applications in the agricultural sector and expanding market opportunities."
-tags: ['Novamont', 'certifications', 'certification', 'standards']
+tags: ['Novamont', 'certification', 'standards']
 category: "Certifications"
 company: "Novamont"
 company_type: "Bioplastic Producer"
