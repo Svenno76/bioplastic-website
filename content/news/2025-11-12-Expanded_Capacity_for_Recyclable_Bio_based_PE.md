@@ -4,7 +4,7 @@ date: 2025-11-12
 draft: false
 summary: "Braskem America has announced expanded production capacity for its 'I'm green' bio-based polyethylene (PE), reinforcing its commitment to sustainable packaging solutions. This move significantly boosts the availability of a plant-based biopolymer for diverse applications."
 tags: ["Braskem America", "I'm green PE", "bio-based polyethylene", "capacity expansion", "sustainability", "packaging"]
-category: "Plant Announcements"
+category: "Plant Announcement"
 company: "Braskem"
 company_type: "Bioplastic Producer"
 source: "Packaging World"
