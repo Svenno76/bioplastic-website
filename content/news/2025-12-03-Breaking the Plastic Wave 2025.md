@@ -24,4 +24,4 @@ The report emphasizes that inaction carries severe consequences beyond environme
 
 Implementing the proposed solutions offers substantial economic benefits alongside environmental gains. Governments could save an estimated US$19 billion annually by 2040 through reduced waste management costs and improved public health outcomes. The report also advocates for a just transition that integrates informal waste workers—who handle significant portions of global recycling—ensuring fair compensation and safe working conditions as part of the transformation.
 
-**Source:** [Read more](https://www.pew.org/en/research-and-analysis/reports/2025/12/breaking-the-plastic-wave-2025)
+**Source:** [Read more](https://www.pew.org/en/research-and-analysis/reports/2025/12/breaking-the-plastic-wave-2025), [Download full report](https://www.pew.org/-/media/assets/2020/10/breakingtheplasticwave_mainreport.pdf), [Download Summary](https://www.pew.org/-/media/assets/2020/10/breakingtheplasticwave_distilledreport.pdf)
