@@ -2,6 +2,7 @@ baseURL = 'https://bioplasticsportal.com/'
 languageCode = 'en-us'
 title = 'Bioplastics Portal'
 theme = 'ananke'
+enableRobotsTXT = true
 
 [params]
   featured_image = '/images/bioplastics-banner.jpg'
