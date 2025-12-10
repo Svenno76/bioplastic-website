@@ -20,15 +20,15 @@ enableRobotsTXT = true
   url = "/companies/"
   weight = 20
 
-[[menu.main]]
-  name = "Studies"
-  url = "/studies/"
-  weight = 30
+# [[menu.main]]
+#  name = "Studies"
+#  url = "/studies/"
+#  weight = 30
 
-[[menu.main]]
-  name = "Books"
-  url = "/books/"
-  weight = 40
+# [[menu.main]]
+#  name = "Books"
+#  url = "/books/"
+#  weight = 40
 
 [[menu.main]]
   name = "Glossary"
