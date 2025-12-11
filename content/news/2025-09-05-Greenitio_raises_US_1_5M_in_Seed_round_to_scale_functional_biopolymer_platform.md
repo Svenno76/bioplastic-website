@@ -22,14 +22,5 @@ Greenitio's biopolymers, including flagship lines like Chitosola™, Chitobe™,
 Dr. Amit Kumar Khan, CEO and Co-founder of Greenitio, emphasized that the funding provides the necessary "runway" for transitioning from lab-scale validation to real-world deployment, citing strong interest from formulation and sustainability teams across various industries. To support its ambitious growth and meet increasing demand from European partners, Greenitio plans to establish a dedicated subsidiary in the Benelux region, leveraging its strategic location and established chemical and cosmetics industry ecosystem. This move is set to solidify Greenitio's position as a key player in providing eco-friendly, high-performance ingredients globally.
 
 **Source:** [Read more](https://www.sginnovate.com/press-room/greenitio-raises-us15m-seed-round-scale-functional-biopolymer-platform#:~:text=Greenitio%20raises%20US%241.5M,Resources)
-**Contacts:** 
-- [Amit Kumar Khan, CEO](https://sg.linkedin.com/in/amit-kumar-khan-01a550116)
-- [Susmita Roy, CTO](https://www.linkedin.com/in/susmita-roy-0b57a12b)
-- [Didier Vermeiren, COO](https://www.linkedin.com/in/didier-vermeiren-83b6b1)
-- [Hsien-Hui Tong, Executive Director – Investments](https://www.linkedin.com/in/hsienhuitong)
-- [Michal Klar, Founding Partner](https://www.linkedin.com/in/michalklar)
-- [Simon Newstead, Founding Partner](https://www.linkedin.com/in/simonnewstead)
-- [Saksham Jain, Finance and Ops Lead](https://www.linkedin.com/in/saksham-jain-a45b80b7)
-- [Eshan Samaranayake, Associate](https://www.linkedin.com/in/eshan-samaranayake)
-- [Sonalie Figueiras, Venture Partner](https://www.linkedin.com/in/sonaliefigueiras)
-- [Kelvin Chiu, Founder](https://www.linkedin.com/in/kelvin-chiu-7607a7)
+**Contact:** [Amit Kumar Khan, CEO](https://www.linkedin.com/in/amit-kumar-khan/))
+
