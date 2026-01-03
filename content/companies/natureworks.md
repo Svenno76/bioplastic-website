@@ -1,35 +1,44 @@
 ---
-title: "NatureWorks LLC"
-headquarters: "Minnetonka, Minnesota, USA"
-founded: "1997"
-website: "https://www.natureworksllc.com"
-products: ["Ingeo PLA", "Biopolymers"]
-revenue: "$500M"
-employees: "500+"
-ceo: "Rich Altice"
-overview: "NatureWorks was established as a joint venture between Cargill and Dow Chemical (now independent from Dow). The company operates the world's first and largest PLA production facility in Blair, Nebraska."
+title: NatureWorks
+company_type: Bioplastic Producer
+headquarters: United States
+status: Active
+short_description: Leading producer of Ingeo PLA (polylactic acid) biopolymer made
+  from renewable resources. Offers bio-based, compostable solutions for packaging,
+  fiber...
+website: https://www.natureworksllc.com
+primary_materials: PLA (Polylactic Acid)
+market_segments: Packaging, Food Serviceware, Health and Personal Care, Durable Products
+  (home, appliance, electronics), 3D Printing
+publicly_listed: false
+stock_ticker: .nan
+date: '2026-01-02'
+draft: false
 ---
-
-# NatureWorks LLC
-
-NatureWorks is the world's leading manufacturer of polylactic acid (PLA) bioplastic, marketed under the Ingeo brand. The company produces bio-based polymers from renewable resources.
 
 ## Overview
 
-NatureWorks was established as a joint venture between Cargill and Dow Chemical (now independent from Dow). The company operates the world's first and largest PLA production facility in Blair, Nebraska.
+Leading producer of Ingeo PLA (polylactic acid) biopolymer made from renewable resources. Offers bio-based, compostable solutions for packaging, fibers, and durable goods applications.
 
-## Products
+### Company Information
 
-### Ingeo Biopolymer
-- Food packaging and serviceware
-- Fibers for textiles and nonwovens
-- 3D printing filament
-- Durable goods applications
+- **Type**: Bioplastic Producer
+- **Headquarters**: United States
+- **Status**: Active
 
-## Capacity
+### Primary Materials
 
-Current annual production capacity: 150,000 tonnes, with expansion plans to reach 450,000 tonnes by 2027.
+PLA (Polylactic Acid)
 
-## Sustainability
+### Market Segments
 
-Ingeo biopolymer has a carbon footprint up to 75% lower than conventional plastics and is made from annually renewable resources.
+Packaging, Food Serviceware, Health and Personal Care, Durable Products (home, appliance, electronics), 3D Printing
+
+### Connect
+
+- **Website**: [NatureWorks](https://www.natureworksllc.com)
+
+
+---
+
+*Last updated: January 02, 2026*

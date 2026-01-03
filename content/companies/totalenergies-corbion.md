@@ -1,53 +1,44 @@
 ---
-title: "TotalEnergies Corbion"
-headquarters: "Gorinchem, Netherlands"
-founded: "2016"
-website: "https://totalenergies-corbion.com"
-products: ["Luminy PLA", "Biobased polymers"]
-revenue: "€150M+"
-employees: "200+"
-ceo: "Stéphane Dion"
-overview: "TotalEnergies Corbion is a 50/50 joint venture between TotalEnergies and Corbion, producing Luminy® PLA, a 100% biobased, recyclable, and industrially compostable polymer with applications across multiple industries."
+title: TotalEnergies Corbion
+company_type: Bioplastic Producer
+headquarters: Netherlands
+status: Active
+short_description: TotalEnergies Corbion is a 50/50 joint venture between TotalEnergies
+  and Corbion, headquartered in the Netherlands, and a global leader in producing
+  L...
+website: https://totalenergies-corbion.com
+primary_materials: PLA, rPLA, lactide monomers
+market_segments: packaging, consumer goods, agriculture, automotive, electronics,
+  textiles, 3D printing, injection molding
+publicly_listed: false
+stock_ticker: .nan
+date: '2026-01-02'
+draft: false
 ---
-
-# TotalEnergies Corbion
-
-TotalEnergies Corbion is a leading global producer of Polylactic Acid (PLA), offering sustainable alternatives to fossil-based plastics through its Luminy® brand of high-performance biopolymers.
 
 ## Overview
 
-Established in 2016 as a 50/50 joint venture between TotalEnergies (France) and Corbion (Netherlands), TotalEnergies Corbion operates a state-of-the-art PLA production facility in Rayong, Thailand. The company combines TotalEnergies' expertise in polymer processing with Corbion's bio-based technology leadership to deliver sustainable plastic solutions.
+TotalEnergies Corbion is a 50/50 joint venture between TotalEnergies and Corbion, headquartered in the Netherlands, and a global leader in producing Luminy® PLA (polylactic acid), a bio-based and compostable polymer from renewable resources like sugarcane, offering a lower carbon footprint than traditional plastics. The company operates a 75,000 tons/year PLA facility in Rayong, Thailand, with plans for a second 100,000 tons/year plant in Grandpuits, France, and pioneered the first commercial...
 
-## Products
+### Company Information
 
-### Luminy® PLA
-A comprehensive portfolio of 100% biobased polylactic acid polymers certified as recyclable and industrially compostable. Key applications include:
-- **Packaging**: Food containers, films, and bottles
-- **3D Printing**: High-performance filaments for additive manufacturing
-- **Textiles**: Fibers for apparel and nonwovens
-- **Durable goods**: Consumer products and electronics
+- **Type**: Bioplastic Producer
+- **Headquarters**: Netherlands
+- **Status**: Active
 
-### Product Innovations
-- **Label-free PLA bottles**: Developed in collaboration with South Korean partner Sansu, featuring integrated embossed branding to improve recycling efficiency
-- **Food-contact certified rPLA**: Chemically recycled PLA with performance comparable to virgin material
+### Primary Materials
 
-## Capacity
+PLA, rPLA, lactide monomers
 
-The Rayong, Thailand facility has an annual production capacity of 75,000 tonnes of PLA, with expansion capabilities built into the design.
+### Market Segments
 
-## Sustainability and Circular Economy
+packaging, consumer goods, agriculture, automotive, electronics, textiles, 3D printing, injection molding
 
-### Environmental Performance
-Luminy® PLA delivers up to 85% reduction in greenhouse gas emissions compared to conventional fossil-based plastics.
+### Connect
 
-### Chemical Recycling
-TotalEnergies Corbion has successfully implemented hydrolysis depolymerization technology for PLA recycling:
-- **30% recycled content rPLA**: Achieves carbon neutrality
-- **100% recycled content rPLA**: Delivers negative carbon footprint
-- Food-contact certification secured for recycled material
+- **Website**: [TotalEnergies Corbion](https://totalenergies-corbion.com)
 
-This breakthrough establishes a robust technical pathway for a circular plastics economy.
 
-## Market Leadership
+---
 
-TotalEnergies Corbion actively participates in global industry forums, including the International Conference on Bio-based and Biodegradable Materials in China, where the company showcases its innovations and thought leadership in sustainable polymer solutions. The company's Luminy® PLA is increasingly becoming a mainstream choice in 3D printing and other applications due to its performance characteristics and environmental benefits.
+*Last updated: January 02, 2026*

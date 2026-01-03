@@ -1,36 +1,45 @@
 ---
-title: "Novamont S.p.A."
-headquarters: "Novara, Italy"
-founded: "1989"
-website: "https://www.novamont.com"
-products: ["Mater-Bi", "Biodegradable plastics"]
-revenue: "€300M"
-employees: "700+"
-ceo: "Catia Bastioli"
-overview: "Founded by Catia Bastioli, Novamont has been at the forefront of bioeconomy innovation, developing biodegradable materials from renewable resources."
+title: Novamont
+company_type: Bioplastic Producer
+headquarters: Italy
+status: Active
+short_description: Italian pioneer in bioplastics producing Mater-Bi family of biodegradable
+  and compostable biopolymers. Focuses on circular bioeconomy solutions for pa...
+website: https://www.novamont.com
+primary_materials: Mater-Bi (starch-based bioplastics), bio-based 1,4-butanediol (BDO),
+  biopolyesters (Origo-Bi), biolubricants (Matrol-Bi)
+market_segments: Packaging, agriculture, retail, waste collection, automotive, urban
+  areas, marine, food services
+publicly_listed: false
+stock_ticker: .nan
+date: '2026-01-02'
+draft: false
 ---
-
-# Novamont S.p.A.
-
-Novamont is an Italian pioneer in the bioplastics industry, known for developing the Mater-Bi family of biodegradable and compostable bioplastics.
 
 ## Overview
 
-Founded by Catia Bastioli, Novamont has been at the forefront of bioeconomy innovation, developing biodegradable materials from renewable resources.
+Italian pioneer in bioplastics producing Mater-Bi family of biodegradable and compostable biopolymers. Focuses on circular bioeconomy solutions for packaging, agriculture, and consumer goods.
 
-## Products
+### Company Information
 
-### Mater-Bi
-A proprietary family of bioplastics based on starch and other renewable raw materials. Applications include:
-- Shopping bags and carrier bags
-- Agricultural mulch films
-- Food packaging
-- Disposable tableware
+- **Type**: Bioplastic Producer
+- **Headquarters**: Italy
+- **Status**: Active
 
-## Innovation
+### Primary Materials
 
-Novamont operates through a "biorefinery" model, integrating agricultural supply chains with industrial processing.
+Mater-Bi (starch-based bioplastics), bio-based 1,4-butanediol (BDO), biopolyesters (Origo-Bi), biolubricants (Matrol-Bi)
 
-## Certifications
+### Market Segments
 
-Mater-Bi products are certified compostable according to EN 13432 and other international standards.
+Packaging, agriculture, retail, waste collection, automotive, urban areas, marine, food services
+
+### Connect
+
+- **Website**: [Novamont](https://www.novamont.com)
+- **LinkedIn**: [View Profile](https://www.linkedin.com/company/novamont)
+- **YouTube**: [Subscribe](https://www.youtube.com/@novamont)
+
+---
+
+*Last updated: January 02, 2026*
