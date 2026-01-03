@@ -1,0 +1,42 @@
+---
+title: Monash University
+company_type: Technology Company
+headquarters: Australia
+status: Active
+short_description: Monash University researchers have developed customizable bioplastic
+  films using polyhydroxyalkanoates (PHA) produced by soil microbes fed on food was...
+website: https://www.monash.edu
+primary_materials: Polyhydroxyalkanoates (PHA)
+market_segments: Packaging, Medical, Agriculture
+publicly_listed: false
+stock_ticker: .nan
+date: '2026-01-02'
+draft: false
+---
+
+## Overview
+
+Monash University researchers have developed customizable bioplastic films using polyhydroxyalkanoates (PHA) produced by soil microbes fed on food waste sugars. Their technology enables tunable, biodegradable, and compostable films with properties suitable for packaging and medical applications, aiming to replace conventional plastics with sustainable alternatives.
+
+### Company Information
+
+- **Type**: Technology Company
+- **Headquarters**: Australia
+- **Status**: Active
+
+### Primary Materials
+
+Polyhydroxyalkanoates (PHA)
+
+### Market Segments
+
+Packaging, Medical, Agriculture
+
+### Connect
+
+- **Website**: [Monash University](https://www.monash.edu)
+
+
+---
+
+*Last updated: January 02, 2026*
