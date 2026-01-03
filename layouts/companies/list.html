@@ -62,12 +62,30 @@
         </p>
         {{ end }}
 
-        <!-- Primary Materials -->
-        {{ if .Params.primary_materials }}
-        <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
-          <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Materials:</p>
-          <p style="color: #475569; font-size: 0.9rem;">{{ .Params.primary_materials }}</p>
-        </div>
+        <!-- Equipment Manufacturers - Product Types -->
+        {{ if eq .Params.company_type "Equipment Manufacturer" }}
+          {{ if .Params.product_types }}
+          <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+            <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Equipment:</p>
+            <p style="color: #475569; font-size: 0.9rem;">{{ .Params.product_types }}</p>
+          </div>
+          {{ end }}
+        <!-- Technology Companies - Technologies -->
+        {{ else if eq .Params.company_type "Technology Company" }}
+          {{ if .Params.technologies }}
+          <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+            <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Technologies:</p>
+            <p style="color: #475569; font-size: 0.9rem;">{{ .Params.technologies }}</p>
+          </div>
+          {{ end }}
+        <!-- Other Companies - Primary Materials -->
+        {{ else }}
+          {{ if .Params.primary_materials }}
+          <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+            <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Materials:</p>
+            <p style="color: #475569; font-size: 0.9rem;">{{ .Params.primary_materials }}</p>
+          </div>
+          {{ end }}
         {{ end }}
       </div>
 
