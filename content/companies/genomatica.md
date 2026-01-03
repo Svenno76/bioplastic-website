@@ -1,7 +1,7 @@
 ---
 title: Genomatica
 company_type: Technology Company
-headquarters: United States
+headquarters: San Diego, United States
 status: Active
 short_description: Genomatica is a biotechnology company specializing in the development
   and licensing of biological manufacturing processes for sustainable chemicals an...
@@ -21,7 +21,7 @@ Genomatica is a biotechnology company specializing in the development and licens
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: United States
+- **Headquarters**: San Diego, United States
 - **Status**: Active
 
 ### Primary Materials

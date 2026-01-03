@@ -1,7 +1,7 @@
 ---
 title: Biome Bioplastics
 company_type: Bioplastic Producer
-headquarters: United Kingdom
+headquarters: Southampton, United Kingdom
 status: Active
 short_description: UK-based developer of biodegradable and bio-based plastics. Produces
   bioplastic resins for packaging, horticulture, and consumer products with enhance...
@@ -23,7 +23,7 @@ UK-based developer of biodegradable and bio-based plastics. Produces bioplastic 
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United Kingdom
+- **Headquarters**: Southampton, United Kingdom
 - **Status**: Active
 
 ### Primary Materials

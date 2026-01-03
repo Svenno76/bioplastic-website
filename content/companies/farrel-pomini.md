@@ -1,13 +1,13 @@
 ---
 title: Farrel Pomini
 company_type: Equipment Manufacturer
-headquarters: United States
+headquarters: Ansonia, United States
 status: Active
 short_description: FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING
   GROUP, specializing in the research, design, and manufacture of continuous mixing
   sys...
 website: https://www.farrel-pomini.com
-primary_materials: PLA, PHA, PBS
+product_types: Continuous mixing systems, compounding equipment, processing machinery
 market_segments: packaging, recycling
 publicly_listed: false
 stock_ticker: .nan
@@ -22,12 +22,12 @@ FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING GROUP, speciali
 ### Company Information
 
 - **Type**: Equipment Manufacturer
-- **Headquarters**: United States
+- **Headquarters**: Ansonia, United States
 - **Status**: Active
 
-### Primary Materials
+### Products
 
-PLA, PHA, PBS
+Continuous mixing systems (FCM™) and compounding equipment specifically designed for biodegradable plastics processing including PLA, PHA, and PBS, supporting applications in mechanical and chemical recycling
 
 ### Market Segments
 

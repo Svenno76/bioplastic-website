@@ -1,7 +1,7 @@
 ---
 title: Braskem
 company_type: Bioplastic Producer
-headquarters: Brazil
+headquarters: São Paulo, Brazil
 status: Active
 short_description: Brazilian petrochemical company producing I'm green bio-PE from
   sugarcane ethanol. World's leading producer of bio-based polyethylene for packaging
@@ -22,7 +22,7 @@ Brazilian petrochemical company producing I'm green bio-PE from sugarcane ethano
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Brazil
+- **Headquarters**: São Paulo, Brazil
 - **Status**: Active
 - **Stock Ticker**: B3:BRKM5
 

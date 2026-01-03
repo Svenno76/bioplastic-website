@@ -1,7 +1,7 @@
 ---
 title: Berry Global
 company_type: Converter
-headquarters: United States
+headquarters: Evansville, United States
 status: Acquired
 short_description: Berry Global Group, Inc. is a global manufacturer and marketer
   of plastic packaging products, specializing in innovative packaging and engineered
@@ -24,7 +24,7 @@ Berry Global Group, Inc. is a global manufacturer and marketer of plastic packag
 ### Company Information
 
 - **Type**: Converter
-- **Headquarters**: United States
+- **Headquarters**: Evansville, United States
 - **Status**: Acquired
 
 ### Primary Materials

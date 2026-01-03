@@ -1,7 +1,7 @@
 ---
 title: Avantium
 company_type: Technology Company
-headquarters: Netherlands
+headquarters: Amsterdam, Netherlands
 status: Active
 short_description: Avantium is a chemical technology company headquartered in Amsterdam,
   Netherlands, specializing in renewable chemistry and circular polymer materials
@@ -22,7 +22,7 @@ Avantium is a chemical technology company headquartered in Amsterdam, Netherland
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Netherlands
+- **Headquarters**: Amsterdam, Netherlands
 - **Status**: Active
 - **Stock Ticker**: AVTX.AS
 

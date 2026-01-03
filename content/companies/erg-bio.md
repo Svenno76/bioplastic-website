@@ -1,7 +1,7 @@
 ---
 title: Erg Bio
 company_type: Technology Company
-headquarters: United States
+headquarters: Dublin, United States
 status: Active
 short_description: Erg Bio is a biotechnology company that converts waste biomass
   into fermentable sugars, synthetic aviation fuels, and industrial chemicals using
@@ -24,7 +24,7 @@ Erg Bio is a biotechnology company that converts waste biomass into fermentable 
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: United States
+- **Headquarters**: Dublin, United States
 - **Status**: Active
 
 ### Primary Materials

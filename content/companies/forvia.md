@@ -1,7 +1,7 @@
 ---
 title: FORVIA
 company_type: Technology Company
-headquarters: France
+headquarters: Nanterre, France
 status: Active
 short_description: FORVIA is an automotive technology group formed in 2022 from the
   merger of Faurecia and HELLA. The company develops sustainable materials and composit...
@@ -23,7 +23,7 @@ FORVIA is an automotive technology group formed in 2022 from the merger of Faure
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: France
+- **Headquarters**: Nanterre, France
 - **Status**: Active
 - **Stock Ticker**: EURONEXT:FRVIA
 

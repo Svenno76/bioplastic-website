@@ -1,7 +1,7 @@
 ---
 title: Nexam Chemical
 company_type: Additive Producer
-headquarters: Sweden
+headquarters: Lomma, Sweden
 status: Active
 short_description: Nexam Chemical is a global leader in polymer additives that enhance
   the performance, sustainability, and recyclability of plastics. The company specia...
@@ -23,7 +23,7 @@ Nexam Chemical is a global leader in polymer additives that enhance the performa
 ### Company Information
 
 - **Type**: Additive Producer
-- **Headquarters**: Sweden
+- **Headquarters**: Lomma, Sweden
 - **Status**: Active
 - **Stock Ticker**: NEXAM
 

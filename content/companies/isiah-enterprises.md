@@ -1,7 +1,7 @@
 ---
 title: Isiah Enterprises
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Troy, United States
 status: Active
 short_description: Isiah Enterprises, formerly Eco Bio Plastics and a division of
   One World Products, Inc., is a U.S.-based manufacturer specializing in renewable
@@ -24,7 +24,7 @@ Isiah Enterprises, formerly Eco Bio Plastics and a division of One World Product
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Troy, United States
 - **Status**: Active
 - **Stock Ticker**: OTC: OWPC
 

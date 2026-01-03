@@ -1,7 +1,7 @@
 ---
 title: Mitsubishi Chemical
 company_type: Bioplastic Producer
-headquarters: Japan
+headquarters: Tokyo, Japan
 status: Active
 short_description: Produces BioPBS (polybutylene succinate) biodegradable polyester.
   Offers bio-based and compostable solutions for packaging, agricultural, and industri...
@@ -23,7 +23,7 @@ Produces BioPBS (polybutylene succinate) biodegradable polyester. Offers bio-bas
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Japan
+- **Headquarters**: Tokyo, Japan
 - **Status**: Active
 - **Stock Ticker**: TSE:4188
 

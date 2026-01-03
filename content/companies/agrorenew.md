@@ -1,7 +1,7 @@
 ---
 title: AgroRenew
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Vincennes, United States
 status: Active
 short_description: AgroRenew is an innovative bioplastic producer based in Indiana,
   specializing in creating 100% biodegradable plastics from agricultural food waste
@@ -23,7 +23,7 @@ AgroRenew is an innovative bioplastic producer based in Indiana, specializing in
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Vincennes, United States
 - **Status**: Active
 
 ### Primary Materials

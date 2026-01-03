@@ -1,7 +1,7 @@
 ---
 title: One World Products
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Las Vegas, United States
 status: Active
 short_description: One World Products, soon to be renamed Isiah Enterprises, is a
   Nevada-based public company specializing in renewable and sustainable materials.
@@ -24,7 +24,7 @@ One World Products, soon to be renamed Isiah Enterprises, is a Nevada-based publ
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Las Vegas, United States
 - **Status**: Active
 - **Stock Ticker**: OTCQB:OWPC
 

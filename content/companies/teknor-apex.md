@@ -1,7 +1,7 @@
 ---
 title: Teknor Apex
 company_type: Compounder
-headquarters: United States
+headquarters: Pawtucket, United States
 status: Acquired
 short_description: Teknor Apex is a leading custom compounder specializing in sustainable
   polymer solutions, including bioplastics and bio-based materials. The company o...
@@ -21,7 +21,7 @@ Teknor Apex is a leading custom compounder specializing in sustainable polymer s
 ### Company Information
 
 - **Type**: Compounder
-- **Headquarters**: United States
+- **Headquarters**: Pawtucket, United States
 - **Status**: Acquired
 
 ### Primary Materials

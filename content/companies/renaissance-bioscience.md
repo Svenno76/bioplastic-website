@@ -1,7 +1,7 @@
 ---
 title: Renaissance BioScience
 company_type: Technology Company
-headquarters: Canada
+headquarters: Vancouver, Canada
 status: Active
 short_description: Renaissance BioScience is a Canadian biotechnology company specializing
   in bioengineering yeast and microorganisms for sustainable solutions, includin...
@@ -22,7 +22,7 @@ Renaissance BioScience is a Canadian biotechnology company specializing in bioen
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Canada
+- **Headquarters**: Vancouver, Canada
 - **Status**: Active
 
 ### Primary Materials

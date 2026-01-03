@@ -1,12 +1,13 @@
 ---
-title: "Roquette Frères"
-company_type: "Bioplastic Producer"
-headquarters: "France"
-status: "Active"
-short_description: "Roquette Frères is a global leader in plant-based ingredients, offering innovative solutions for various industries. They produce over 650 by-products..."
-website: "https://www.roquette.com"
-primary_materials: "Starch-based bioplastics"
-market_segments: "Packaging, Automotive, Textiles"
+title: Roquette Frères
+company_type: Bioplastic Producer
+headquarters: Lestrem, France
+status: Active
+short_description: Roquette Frères is a global leader in plant-based ingredients,
+  offering innovative solutions for various industries. They produce over 650 by-products...
+website: https://www.roquette.com
+primary_materials: Starch-based bioplastics
+market_segments: Packaging, Automotive, Textiles
 date: 2026-01-02
 draft: false
 ---
@@ -18,7 +19,7 @@ Roquette Frères is a global leader in plant-based ingredients, offering innovat
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: France
+- **Headquarters**: Lestrem, France
 - **Status**: Active
 
 ### Primary Materials

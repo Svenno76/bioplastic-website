@@ -1,7 +1,7 @@
 ---
 title: UPM Biochemicals
 company_type: Bioplastic Producer
-headquarters: Finland
+headquarters: Helsinki, Finland
 status: Active
 short_description: UPM Biochemicals is a division of UPM-Kymmene Oyj specializing
   in wood-based renewable biochemicals, including bio-based glycols and functional
@@ -24,7 +24,7 @@ UPM Biochemicals is a division of UPM-Kymmene Oyj specializing in wood-based ren
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Finland
+- **Headquarters**: Helsinki, Finland
 - **Status**: Active
 
 ### Primary Materials

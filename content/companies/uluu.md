@@ -1,7 +1,7 @@
 ---
 title: Uluu
 company_type: Bioplastic Producer
-headquarters: Australia
+headquarters: Perth, Australia
 status: Active
 short_description: Uluu is an Australian bioplastic company founded in 2021 that transforms
   seaweed into polyhydroxyalkanoates (PHAs), a family of natural polymers produ...
@@ -21,7 +21,7 @@ Uluu is an Australian bioplastic company founded in 2021 that transforms seaweed
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Australia
+- **Headquarters**: Perth, Australia
 - **Status**: Active
 
 ### Primary Materials

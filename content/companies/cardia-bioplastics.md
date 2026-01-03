@@ -1,7 +1,7 @@
 ---
 title: Cardia Bioplastics
 company_type: Bioplastic Producer
-headquarters: Australia
+headquarters: Melbourne, Australia
 status: Active
 short_description: Australian manufacturer of biodegradable and compostable bioplastic
   resins. Develops renewable resource-based materials for packaging, food service,
@@ -22,7 +22,7 @@ Australian manufacturer of biodegradable and compostable bioplastic resins. Deve
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Australia
+- **Headquarters**: Melbourne, Australia
 - **Status**: Active
 - **Stock Ticker**: ASX:CNN
 

@@ -1,7 +1,7 @@
 ---
 title: TIPA
 company_type: Bioplastic Producer
-headquarters: Israel
+headquarters: Hod HaSharon, Israel
 status: Active
 short_description: TIPA, founded in 2010, develops and manufactures fully compostable
   flexible packaging solutions that mimic the performance of conventional plastics
@@ -23,7 +23,7 @@ TIPA, founded in 2010, develops and manufactures fully compostable flexible pack
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Israel
+- **Headquarters**: Hod HaSharon, Israel
 - **Status**: Active
 
 ### Primary Materials

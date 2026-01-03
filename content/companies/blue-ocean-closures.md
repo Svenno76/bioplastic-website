@@ -1,7 +1,7 @@
 ---
 title: Blue Ocean Closures
 company_type: Technology Company
-headquarters: Sweden
+headquarters: Karlstad, Sweden
 status: Active
 short_description: Blue Ocean Closures is a Swedish technology company focused on
   developing fiber-based closures as sustainable alternatives to plastic caps. Their
@@ -22,7 +22,7 @@ Blue Ocean Closures is a Swedish technology company focused on developing fiber-
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Sweden
+- **Headquarters**: Karlstad, Sweden
 - **Status**: Active
 
 ### Primary Materials

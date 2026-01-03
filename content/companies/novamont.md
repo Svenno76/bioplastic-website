@@ -1,7 +1,7 @@
 ---
 title: Novamont
 company_type: Bioplastic Producer
-headquarters: Italy
+headquarters: Novara, Italy
 status: Active
 short_description: Italian pioneer in bioplastics producing Mater-Bi family of biodegradable
   and compostable biopolymers. Focuses on circular bioeconomy solutions for pa...
@@ -23,7 +23,7 @@ Italian pioneer in bioplastics producing Mater-Bi family of biodegradable and co
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Italy
+- **Headquarters**: Novara, Italy
 - **Status**: Active
 
 ### Primary Materials

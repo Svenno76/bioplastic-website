@@ -1,7 +1,7 @@
 ---
 title: PTT MCC Biochem
 company_type: Bioplastic Producer
-headquarters: Kingdom of Thailand
+headquarters: Bangkok, Thailand
 status: Active
 short_description: Thai-Japanese joint venture producing BioPBS biodegradable polyester.
   Manufactures bio-based succinic acid and PBS for compostable plastics applicatio...
@@ -21,7 +21,7 @@ Thai-Japanese joint venture producing BioPBS biodegradable polyester. Manufactur
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Kingdom of Thailand
+- **Headquarters**: Bangkok, Thailand
 - **Status**: Active
 
 ### Primary Materials

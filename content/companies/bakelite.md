@@ -1,7 +1,7 @@
 ---
 title: Bakelite
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Atlanta, United States
 status: Acquired
 short_description: Bakelite, invented in 1907 by Leo Baekeland, was the world's first
   fully synthetic plastic, a thermosetting phenol formaldehyde resin used in electric...
@@ -21,7 +21,7 @@ Bakelite, invented in 1907 by Leo Baekeland, was the world's first fully synthet
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Atlanta, United States
 - **Status**: Acquired
 
 ### Primary Materials

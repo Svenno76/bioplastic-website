@@ -1,7 +1,7 @@
 ---
 title: Rutgers University
 company_type: University
-headquarters: United States
+headquarters: New Brunswick, United States
 status: Active
 short_description: Rutgers University is a research institution conducting advanced
   research in bioplastics and sustainable materials. Key initiatives include developing...
@@ -23,7 +23,7 @@ Rutgers University is a research institution conducting advanced research in bio
 ### Company Information
 
 - **Type**: University
-- **Headquarters**: United States
+- **Headquarters**: New Brunswick, United States
 - **Status**: Active
 
 ### Primary Materials

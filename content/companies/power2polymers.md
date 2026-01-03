@@ -1,7 +1,7 @@
 ---
 title: Power2Polymers
 company_type: Technology Company
-headquarters: Germany
+headquarters: Aachen, Germany
 status: Active
 short_description: Power2Polymers pioneers sustainable, high-performance polymer products
   for specialty applications including lubricants, industrial adhesives, and seal...
@@ -21,7 +21,7 @@ Power2Polymers pioneers sustainable, high-performance polymer products for speci
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Germany
+- **Headquarters**: Aachen, Germany
 - **Status**: Active
 
 ### Primary Materials

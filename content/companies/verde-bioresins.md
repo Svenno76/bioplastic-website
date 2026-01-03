@@ -1,7 +1,7 @@
 ---
 title: Verde Bioresins
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: California, United States
 status: Active
 short_description: Verde Bioresins, founded in 2020 and headquartered in California,
   is a full-service bioplastics company specializing in the development and manufactur...
@@ -22,7 +22,7 @@ Verde Bioresins, founded in 2020 and headquartered in California, is a full-serv
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: California, United States
 - **Status**: Active
 - **Stock Ticker**: TLGY
 

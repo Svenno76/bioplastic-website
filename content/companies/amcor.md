@@ -1,7 +1,7 @@
 ---
 title: Amcor
 company_type: Converter
-headquarters: United States
+headquarters: Thomson, United States
 status: Active
 short_description: Global packaging leader developing recyclable and bio-based packaging
   solutions. Invests in sustainable materials including bioplastics for flexible a...
@@ -21,7 +21,7 @@ Global packaging leader developing recyclable and bio-based packaging solutions.
 ### Company Information
 
 - **Type**: Converter
-- **Headquarters**: United States
+- **Headquarters**: Thomson, United States
 - **Status**: Active
 - **Stock Ticker**: NYSE:AMCR
 

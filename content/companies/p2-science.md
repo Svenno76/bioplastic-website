@@ -1,7 +1,7 @@
 ---
 title: P2 Science
 company_type: Technology Company
-headquarters: United States
+headquarters: Woodbridge, United States
 status: Active
 short_description: P2 Science is a green chemistry technology company that develops
   proprietary processes like PIOz™ and PICE to convert renewable feedstocks such as
@@ -23,7 +23,7 @@ P2 Science is a green chemistry technology company that develops proprietary pro
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: United States
+- **Headquarters**: Woodbridge, United States
 - **Status**: Active
 
 ### Primary Materials

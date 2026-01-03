@@ -1,7 +1,7 @@
 ---
 title: NaturePlast
 company_type: Bioplastic Producer
-headquarters: France
+headquarters: Ifs, France
 status: Active
 short_description: NaturePlast is a leading European bioplastics expert established
   in 2007, specializing in the design, production, and marketing of bio-based and
@@ -24,7 +24,7 @@ NaturePlast is a leading European bioplastics expert established in 2007, specia
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: France
+- **Headquarters**: Ifs, France
 - **Status**: Active
 
 ### Primary Materials

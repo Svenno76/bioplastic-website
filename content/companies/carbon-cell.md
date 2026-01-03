@@ -1,7 +1,7 @@
 ---
 title: Carbon Cell
 company_type: Bioplastic Producer
-headquarters: United Kingdom
+headquarters: London, United Kingdom
 status: Active
 short_description: Carbon Cell develops a patent-pending, plastic-free expandable
   foam made from biochar and natural binders as a carbon-negative alternative to conventi...
@@ -21,7 +21,7 @@ Carbon Cell develops a patent-pending, plastic-free expandable foam made from bi
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United Kingdom
+- **Headquarters**: London, United Kingdom
 - **Status**: Active
 
 ### Primary Materials

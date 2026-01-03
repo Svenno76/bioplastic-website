@@ -1,7 +1,7 @@
 ---
 title: BASF SE
 company_type: Bioplastic Producer
-headquarters: Germany
+headquarters: Ludwigshafen, Germany
 status: Active
 short_description: BASF SE is the world's largest chemical producer headquartered
   in Ludwigshafen, Germany, with extensive global operations. The company specializes
@@ -25,7 +25,7 @@ BASF SE is the world's largest chemical producer headquartered in Ludwigshafen, 
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Germany
+- **Headquarters**: Ludwigshafen, Germany
 - **Status**: Active
 - **Stock Ticker**: FWB:BAS
 

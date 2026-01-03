@@ -1,7 +1,7 @@
 ---
 title: Taghleef Industries
 company_type: Converter
-headquarters: United Arab Emirates
+headquarters: Dubai, United Arab Emirates
 status: Active
 short_description: Global film manufacturer producing bio-based BOPP films. Develops
   sustainable packaging solutions using renewable and recycled materials.
@@ -21,7 +21,7 @@ Global film manufacturer producing bio-based BOPP films. Develops sustainable pa
 ### Company Information
 
 - **Type**: Converter
-- **Headquarters**: United Arab Emirates
+- **Headquarters**: Dubai, United Arab Emirates
 - **Status**: Active
 
 ### Primary Materials

@@ -1,7 +1,7 @@
 ---
 title: Emirates Biotech
 company_type: Bioplastic Producer
-headquarters: United Arab Emirates
+headquarters: Dubai, United Arab Emirates
 status: Active
 short_description: Emirates Biotech is a leading manufacturer of high-quality PLA
   biopolymers in the Middle East, creating sustainable substitutes for traditional
@@ -22,7 +22,7 @@ Emirates Biotech is a leading manufacturer of high-quality PLA biopolymers in th
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United Arab Emirates
+- **Headquarters**: Dubai, United Arab Emirates
 - **Status**: Active
 
 ### Primary Materials

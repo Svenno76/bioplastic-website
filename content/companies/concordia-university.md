@@ -1,7 +1,7 @@
 ---
 title: Concordia University
 company_type: University
-headquarters: Canada
+headquarters: Montreal, Canada
 status: Active
 short_description: Concordia University is a research institution in Montreal with
   advanced biomanufacturing facilities focused on synthetic biology and bioprocessing
@@ -22,7 +22,7 @@ Concordia University is a research institution in Montreal with advanced biomanu
 ### Company Information
 
 - **Type**: University
-- **Headquarters**: Canada
+- **Headquarters**: Montreal, Canada
 - **Status**: Active
 
 ### Primary Materials

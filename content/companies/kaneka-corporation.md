@@ -1,7 +1,7 @@
 ---
 title: Kaneka Corporation
 company_type: Bioplastic Producer
-headquarters: Japan
+headquarters: Osaka, Japan
 status: Active
 short_description: Kaneka Corporation is a Japanese chemical company specializing
   in a wide range of products including chemicals, functional plastics, and bioplastics.
@@ -23,7 +23,7 @@ Kaneka Corporation is a Japanese chemical company specializing in a wide range o
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Japan
+- **Headquarters**: Osaka, Japan
 - **Status**: Active
 - **Stock Ticker**: TSE:4118
 

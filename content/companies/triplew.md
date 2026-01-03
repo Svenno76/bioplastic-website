@@ -1,7 +1,7 @@
 ---
 title: TripleW
 company_type: Technology Company
-headquarters: Israel
+headquarters: Netanya, Israel
 status: Active
 short_description: TripleW is a circular chemistry pioneer founded in 2016 that transforms
   food waste into lactic acid and bioplastics. The company uses advanced ferment...
@@ -22,7 +22,7 @@ TripleW is a circular chemistry pioneer founded in 2016 that transforms food was
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Israel
+- **Headquarters**: Netanya, Israel
 - **Status**: Active
 
 ### Primary Materials

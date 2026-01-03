@@ -1,7 +1,7 @@
 ---
 title: Bio-On
 company_type: Bioplastic Producer
-headquarters: Italy
+headquarters: Bologna, Italy
 status: Active
 short_description: Italian company developing PHA bioplastics from agricultural waste.
   Focuses on biodegradable and compostable solutions for packaging and consumer good...
@@ -22,7 +22,7 @@ Italian company developing PHA bioplastics from agricultural waste. Focuses on b
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Italy
+- **Headquarters**: Bologna, Italy
 - **Status**: Active
 
 ### Primary Materials

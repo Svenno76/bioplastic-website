@@ -1,7 +1,7 @@
 ---
 title: Granulous
 company_type: Bioplastic Producer
-headquarters: Finland
+headquarters: Sotkamo, Finland
 status: Active
 short_description: Granulous is a Finnish startup that produces high-performance,
   biodegradable bioplastic alternatives made from spent grains, a byproduct of the
@@ -23,7 +23,7 @@ Granulous is a Finnish startup that produces high-performance, biodegradable bio
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Finland
+- **Headquarters**: Sotkamo, Finland
 - **Status**: Active
 
 ### Primary Materials

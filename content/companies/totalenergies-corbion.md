@@ -1,7 +1,7 @@
 ---
 title: TotalEnergies Corbion
 company_type: Bioplastic Producer
-headquarters: Netherlands
+headquarters: Gorinchem, Netherlands
 status: Active
 short_description: TotalEnergies Corbion is a 50/50 joint venture between TotalEnergies
   and Corbion, headquartered in the Netherlands, and a global leader in producing
@@ -23,7 +23,7 @@ TotalEnergies Corbion is a 50/50 joint venture between TotalEnergies and Corbion
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Netherlands
+- **Headquarters**: Gorinchem, Netherlands
 - **Status**: Active
 
 ### Primary Materials

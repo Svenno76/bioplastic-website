@@ -1,7 +1,7 @@
 ---
 title: SABIC
 company_type: Bioplastic Producer
-headquarters: Saudi Arabia
+headquarters: Riyadh, Saudi Arabia
 status: Active
 short_description: SABIC is a global leader in chemicals, plastics, and agri-nutrients,
   headquartered in Riyadh. The company produces a wide range of products, including...
@@ -23,7 +23,7 @@ SABIC is a global leader in chemicals, plastics, and agri-nutrients, headquarter
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Saudi Arabia
+- **Headquarters**: Riyadh, Saudi Arabia
 - **Status**: Active
 - **Stock Ticker**: Tadawul:2010
 

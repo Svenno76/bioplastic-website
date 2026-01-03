@@ -1,12 +1,12 @@
 ---
 title: EREMA
 company_type: Equipment Manufacturer
-headquarters: Austria
+headquarters: Ansfelden, Austria
 status: Active
 short_description: Austrian manufacturer of plastic recycling equipment and technologies.
   Develops machinery for processing post-consumer and post-industrial bioplastic ...
 website: https://www.erema.com
-primary_materials: Biopolymers, PET, PE, PP, PS, PC, PA 6.0
+product_types: Recycling systems, shredders, grinders, extruders, sorting equipment
 market_segments: Packaging, automotive, textiles, medical, agriculture, plastics processing
   industry
 publicly_listed: false
@@ -22,12 +22,12 @@ Austrian manufacturer of plastic recycling equipment and technologies. Develops 
 ### Company Information
 
 - **Type**: Equipment Manufacturer
-- **Headquarters**: Austria
+- **Headquarters**: Ansfelden, Austria
 - **Status**: Active
 
-### Primary Materials
+### Products
 
-Biopolymers, PET, PE, PP, PS, PC, PA 6.0
+Recycling systems, shredders, grinders, extruders, and sorting equipment for processing post-consumer and post-industrial bioplastic waste
 
 ### Market Segments
 

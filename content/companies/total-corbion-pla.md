@@ -1,7 +1,7 @@
 ---
 title: Total Corbion PLA
 company_type: Bioplastic Producer
-headquarters: Netherlands
+headquarters: Gorinchem, Netherlands
 status: Active
 short_description: Joint venture producing PLA bioplastics at commercial scale. Operates
   one of the world's largest PLA manufacturing facilities in Thailand.
@@ -22,7 +22,7 @@ Joint venture producing PLA bioplastics at commercial scale. Operates one of the
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Netherlands
+- **Headquarters**: Gorinchem, Netherlands
 - **Status**: Active
 
 ### Primary Materials

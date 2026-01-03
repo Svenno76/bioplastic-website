@@ -1,7 +1,7 @@
 ---
 title: Greenitio
 company_type: Additive Producer
-headquarters: Singapore
+headquarters: Singapore, Singapore
 status: Active
 short_description: Greenitio develops high-performance, bio-based specialty ingredients
   that replace petrochemical and microplastic-based materials in cosmetics and pers...
@@ -21,7 +21,7 @@ Greenitio develops high-performance, bio-based specialty ingredients that replac
 ### Company Information
 
 - **Type**: Additive Producer
-- **Headquarters**: Singapore
+- **Headquarters**: Singapore, Singapore
 - **Status**: Active
 
 ### Primary Materials

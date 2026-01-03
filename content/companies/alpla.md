@@ -1,7 +1,7 @@
 ---
 title: ALPLA
 company_type: Converter
-headquarters: Austria
+headquarters: Hard, Austria
 status: Active
 short_description: ALPLA is a global leader in plastic packaging solutions, specializing
   in blow-moulded bottles, caps, injection-moulded parts, preforms, and tubes for
@@ -22,7 +22,7 @@ ALPLA is a global leader in plastic packaging solutions, specializing in blow-mo
 ### Company Information
 
 - **Type**: Converter
-- **Headquarters**: Austria
+- **Headquarters**: Hard, Austria
 - **Status**: Active
 
 ### Primary Materials

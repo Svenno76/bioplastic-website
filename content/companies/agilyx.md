@@ -1,7 +1,7 @@
 ---
 title: Agilyx
 company_type: Technology Company
-headquarters: Norway
+headquarters: Oslo, Norway
 status: Active
 short_description: Agilyx ASA is a technology provider specializing in advanced recycling
   solutions for plastic waste, particularly polystyrene through its proprietary S...
@@ -21,7 +21,7 @@ Agilyx ASA is a technology provider specializing in advanced recycling solutions
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Norway
+- **Headquarters**: Oslo, Norway
 - **Status**: Active
 - **Stock Ticker**: OSL:AGLX
 

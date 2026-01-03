@@ -1,7 +1,7 @@
 ---
 title: RWDC Industries
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Athens, United States
 status: Active
 short_description: RWDC Industries is a bioplastics manufacturer founded in 2015 and
   headquartered in Athens, Georgia. The company produces biodegradable polymers based
@@ -23,7 +23,7 @@ RWDC Industries is a bioplastics manufacturer founded in 2015 and headquartered 
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Athens, United States
 - **Status**: Active
 
 ### Primary Materials

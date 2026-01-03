@@ -1,7 +1,7 @@
 ---
 title: RIKEN Center for Emergent Matter Science (CEMS)
 company_type: University
-headquarters: Japan
+headquarters: Wako, Japan
 status: Active
 short_description: The RIKEN Center for Emergent Matter Science (CEMS) conducts research
   on advanced bioplastic materials, focusing on biopolyesters produced by microorg...
@@ -22,7 +22,7 @@ The RIKEN Center for Emergent Matter Science (CEMS) conducts research on advance
 ### Company Information
 
 - **Type**: University
-- **Headquarters**: Japan
+- **Headquarters**: Wako, Japan
 - **Status**: Active
 
 ### Primary Materials

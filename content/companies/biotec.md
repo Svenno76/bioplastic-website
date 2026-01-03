@@ -1,7 +1,7 @@
 ---
 title: Biotec
 company_type: Compounder
-headquarters: Germany
+headquarters: Emmerich, Germany
 status: Active
 short_description: German compounder producing biodegradable and bio-based plastic
   compounds. Develops customized bioplastic formulations for packaging, agriculture,
@@ -23,7 +23,7 @@ German compounder producing biodegradable and bio-based plastic compounds. Devel
 ### Company Information
 
 - **Type**: Compounder
-- **Headquarters**: Germany
+- **Headquarters**: Emmerich, Germany
 - **Status**: Active
 
 ### Primary Materials

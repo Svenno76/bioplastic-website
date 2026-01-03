@@ -1,7 +1,7 @@
 ---
 title: Honda
 company_type: Technology Company
-headquarters: Japan
+headquarters: Minato, Japan
 status: Active
 short_description: Honda is a Japanese multinational company primarily known for automotive
   and mobility products. It is actively involved in developing and applying bio...
@@ -22,7 +22,7 @@ Honda is a Japanese multinational company primarily known for automotive and mob
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Japan
+- **Headquarters**: Minato, Japan
 - **Status**: Active
 - **Stock Ticker**: TSE:7267
 

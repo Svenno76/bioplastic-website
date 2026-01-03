@@ -1,7 +1,7 @@
 ---
 title: Blue Circle Olefins
 company_type: Bioplastic Producer
-headquarters: Netherlands
+headquarters: Wageningen, Netherlands
 status: Active
 short_description: Blue Circle Olefins is developing the first circular methanol-to-olefins
   production plant in the Netherlands, aiming to produce 100% circular ethylene...
@@ -22,7 +22,7 @@ Blue Circle Olefins is developing the first circular methanol-to-olefins product
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Netherlands
+- **Headquarters**: Wageningen, Netherlands
 - **Status**: Active
 
 ### Primary Materials

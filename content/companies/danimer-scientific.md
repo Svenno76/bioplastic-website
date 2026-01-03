@@ -1,7 +1,7 @@
 ---
 title: Danimer Scientific
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Bainbridge, United States
 status: Active
 short_description: Manufactures Nodax PHA (polyhydroxyalkanoate) biodegradable biopolymers.
   Develops compostable and marine-degradable solutions for single-use plastics ...
@@ -21,7 +21,7 @@ Manufactures Nodax PHA (polyhydroxyalkanoate) biodegradable biopolymers. Develop
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Bainbridge, United States
 - **Status**: Active
 - **Stock Ticker**: NASDAQ:DNMR
 

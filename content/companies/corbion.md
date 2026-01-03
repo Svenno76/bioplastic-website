@@ -1,7 +1,7 @@
 ---
 title: Corbion
 company_type: Bioplastic Producer
-headquarters: Netherlands
+headquarters: Amsterdam, Netherlands
 status: Active
 short_description: Producer of high-purity lactic acid and lactide monomers for PLA
   production. Partners with Total Corbion PLA for large-scale bioplastics manufacturing...
@@ -22,7 +22,7 @@ Producer of high-purity lactic acid and lactide monomers for PLA production. Par
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Netherlands
+- **Headquarters**: Amsterdam, Netherlands
 - **Status**: Active
 - **Stock Ticker**: Euronext:CRBN
 

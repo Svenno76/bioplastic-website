@@ -1,7 +1,7 @@
 ---
 title: Futerro
 company_type: Bioplastic Producer
-headquarters: Belgium
+headquarters: Escanaffles, Belgium
 status: Active
 short_description: Belgian producer of PLA and lactide through proprietary technology.
   Develops sustainable bioplastic solutions for packaging and other applications.
@@ -21,7 +21,7 @@ Belgian producer of PLA and lactide through proprietary technology. Develops sus
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Belgium
+- **Headquarters**: Escanaffles, Belgium
 - **Status**: Active
 
 ### Primary Materials

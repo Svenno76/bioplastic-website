@@ -1,7 +1,7 @@
 ---
 title: BioBTX
 company_type: Technology Company
-headquarters: Netherlands
+headquarters: Groningen, Netherlands
 status: Active
 short_description: BioBTX is a chemical technology development company based in Groningen,
   Netherlands, specializing in the production of renewable and biobased aromatic...
@@ -23,7 +23,7 @@ BioBTX is a chemical technology development company based in Groningen, Netherla
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Netherlands
+- **Headquarters**: Groningen, Netherlands
 - **Status**: Active
 
 ### Primary Materials

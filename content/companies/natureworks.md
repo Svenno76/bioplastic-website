@@ -1,7 +1,7 @@
 ---
 title: NatureWorks
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Plymouth, United States
 status: Active
 short_description: Leading producer of Ingeo PLA (polylactic acid) biopolymer made
   from renewable resources. Offers bio-based, compostable solutions for packaging,
@@ -23,7 +23,7 @@ Leading producer of Ingeo PLA (polylactic acid) biopolymer made from renewable r
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Plymouth, United States
 - **Status**: Active
 
 ### Primary Materials

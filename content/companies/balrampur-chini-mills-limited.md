@@ -1,7 +1,7 @@
 ---
 title: Balrampur Chini Mills Limited
 company_type: Bioplastic Producer
-headquarters: India
+headquarters: Kolkata, India
 status: Active
 short_description: Balrampur Chini Mills Limited (BCML) is a leading Indian sugar
   producer that has launched India's first industrial-scale biopolymer plant for Poly
@@ -22,7 +22,7 @@ Balrampur Chini Mills Limited (BCML) is a leading Indian sugar producer that has
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: India
+- **Headquarters**: Kolkata, India
 - **Status**: Active
 - **Stock Ticker**: NSE:BCML
 

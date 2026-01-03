@@ -1,7 +1,7 @@
 ---
 title: Monash University
 company_type: University
-headquarters: Australia
+headquarters: Melbourne, Australia
 status: Active
 short_description: Monash University researchers have developed customizable bioplastic
   films using polyhydroxyalkanoates (PHA) produced by soil microbes fed on food was...
@@ -21,7 +21,7 @@ Monash University researchers have developed customizable bioplastic films using
 ### Company Information
 
 - **Type**: University
-- **Headquarters**: Australia
+- **Headquarters**: Melbourne, Australia
 - **Status**: Active
 
 ### Primary Materials

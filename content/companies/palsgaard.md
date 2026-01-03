@@ -1,7 +1,7 @@
 ---
 title: Palsgaard
 company_type: Additive Producer
-headquarters: Denmark
+headquarters: Juelsminde, Denmark
 status: Active
 short_description: Danish producer of emulsifiers and functional additives. Develops
   bio-based additives for improving bioplastic processing and performance characterist...
@@ -22,7 +22,7 @@ Danish producer of emulsifiers and functional additives. Develops bio-based addi
 ### Company Information
 
 - **Type**: Additive Producer
-- **Headquarters**: Denmark
+- **Headquarters**: Juelsminde, Denmark
 - **Status**: Active
 
 ### Primary Materials

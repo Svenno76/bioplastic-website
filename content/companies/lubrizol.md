@@ -1,7 +1,7 @@
 ---
 title: Lubrizol
 company_type: Additive Producer
-headquarters: United States
+headquarters: Wickliffe, United States
 status: Active
 short_description: Lubrizol Corporation is an American specialty chemicals company
   founded in 1928 that produces additives and ingredients for various industries includi...
@@ -23,7 +23,7 @@ Lubrizol Corporation is an American specialty chemicals company founded in 1928 
 ### Company Information
 
 - **Type**: Additive Producer
-- **Headquarters**: United States
+- **Headquarters**: Wickliffe, United States
 - **Status**: Active
 
 ### Primary Materials

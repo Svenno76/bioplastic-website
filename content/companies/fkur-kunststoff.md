@@ -1,7 +1,7 @@
 ---
 title: FKuR Kunststoff
 company_type: Compounder
-headquarters: Germany
+headquarters: Willich, Germany
 status: Active
 short_description: German compounder specializing in bioplastics and biodegradable
   compounds. Produces Bio-Flex, Terralene, and other specialty bioplastic formulations
@@ -24,7 +24,7 @@ German compounder specializing in bioplastics and biodegradable compounds. Produ
 ### Company Information
 
 - **Type**: Compounder
-- **Headquarters**: Germany
+- **Headquarters**: Willich, Germany
 - **Status**: Active
 
 ### Primary Materials

@@ -1,7 +1,7 @@
 ---
 title: Radici Group
 company_type: Compounder
-headquarters: Italy
+headquarters: Gandino, Italy
 status: Active
 short_description: RadiciGroup is a diversified Italian chemical company specializing
   in the production of polyamide and polyester engineering polymers, chemical interme...
@@ -24,7 +24,7 @@ RadiciGroup is a diversified Italian chemical company specializing in the produc
 ### Company Information
 
 - **Type**: Compounder
-- **Headquarters**: Italy
+- **Headquarters**: Gandino, Italy
 - **Status**: Active
 
 ### Primary Materials

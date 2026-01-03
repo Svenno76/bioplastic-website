@@ -1,12 +1,12 @@
 ---
 title: Angstrom Group
 company_type: Equipment Manufacturer
-headquarters: United States
+headquarters: Grand Rapids, United States
 status: Active
 short_description: Angstrom Group specializes in designing, building, and installing
   modular cleanrooms tailored for various industries including plastics, biopharmaceut...
 website: https://angstromtechnology.com
-primary_materials: Unknown
+product_types: Modular cleanrooms, controlled environments
 market_segments: Biopharmaceutical, plastics manufacturing, medical research, automotive,
   aerospace
 publicly_listed: false
@@ -22,12 +22,12 @@ Angstrom Group specializes in designing, building, and installing modular cleanr
 ### Company Information
 
 - **Type**: Equipment Manufacturer
-- **Headquarters**: United States
+- **Headquarters**: Grand Rapids, United States
 - **Status**: Active
 
-### Primary Materials
+### Products
 
-Unknown
+Modular cleanrooms (HardWall and RigidWall systems with ISO Class 5-8 classifications) designed for controlled high-quality bioplastic manufacturing environments
 
 ### Market Segments
 

@@ -1,0 +1,67 @@
+---
+title: EcoPHA Biotech
+company_type: Biotechnology Company
+headquarters: Bentley, Australia
+status: Active
+short_description: EcoPHA Biotech is a biotechnology company specializing in the production
+  of PHA (polyhydroxyalkanoate) bioplastics from pongamia oil via microbial fermentation,
+  offering a fully biodegradable alternative to petroleum-based plastics.
+website: https://ecopha.com
+primary_materials: PHA (Polyhydroxyalkanoate)
+market_segments: packaging, food service, industrial applications
+publicly_listed: false
+date: '2026-01-02'
+draft: false
+---
+
+## Overview
+
+EcoPHA Biotech is an Australian biotechnology company pioneering the production of PHA (polyhydroxyalkanoate) bioplastics using innovative microbial fermentation processes. The company utilizes pongamia oil, a sustainable non-food feedstock, to produce high-performance, fully biodegradable bioplastics that offer an environmentally friendly alternative to conventional petroleum-based plastics.
+
+The company is known for developing marine-biodegradable PHA materials and collaborates with design partners to bring innovative, sustainable products to market. Their commitment to circular economy principles is reflected in their focus on creating compostable products that break down naturally in various environments, including marine ecosystems.
+
+### Key Products & Solutions
+
+- **Compostable Coffee Cups and Lids**: Fully biodegradable food service containers
+- **Compostable Straws and Cutlery**: Single-use alternatives that decompose naturally
+- **Compostable Bags**: Packaging solutions for food and consumer goods
+- **Industrial PHA Materials**: Raw materials for manufacturing partners
+- **Marine-Biodegradable Formulations**: PHA variants designed for marine environments
+
+### Technology & Innovation
+
+- **Microbial Fermentation**: Advanced biofermentation technology for PHA production
+- **Pongamia Oil Feedstock**: Sustainable, non-food source for biopolymer production
+- **Marine Biodegradability**: Specialized PHA formulations that degrade in marine environments
+- **Compostability Certifications**: Products certified for industrial and home composting
+
+### Market Focus
+
+EcoPHA Biotech targets the food service industry, packaging manufacturers, and industrial clients seeking certified biodegradable alternatives. Their marine-biodegradable products address growing regulatory requirements in coastal regions and marine protection initiatives.
+
+### Strategic Partnerships
+
+- **Terra Sol Studio**: Design and commercialization partner for PHA-based consumer products
+
+### Company Information
+
+- **Type**: Biotechnology Company
+- **Headquarters**: Bentley, Australia
+- **Status**: Active
+- **Primary Market**: Asia-Pacific and Global
+
+### Primary Materials
+
+PHA (Polyhydroxyalkanoate)
+
+### Market Segments
+
+packaging, food service, industrial applications
+
+### Connect
+
+- **Website**: [EcoPHA Biotech](https://ecopha.com)
+
+---
+
+*Last updated: January 02, 2026*

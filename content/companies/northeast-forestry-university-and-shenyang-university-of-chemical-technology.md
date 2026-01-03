@@ -1,7 +1,7 @@
 ---
 title: Northeast Forestry University and Shenyang University of Chemical Technology
 company_type: University
-headquarters: China
+headquarters: Harbin, China
 status: Active
 short_description: Northeast Forestry University and Shenyang University of Chemical
   Technology are academic institutions collaborating on bioplastic research, developin...
@@ -21,7 +21,7 @@ Northeast Forestry University and Shenyang University of Chemical Technology are
 ### Company Information
 
 - **Type**: University
-- **Headquarters**: China
+- **Headquarters**: Harbin, China
 - **Status**: Active
 
 ### Primary Materials

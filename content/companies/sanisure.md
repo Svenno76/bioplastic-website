@@ -1,7 +1,7 @@
 ---
 title: SaniSure
 company_type: Technology Company
-headquarters: United States
+headquarters: Camarillo, United States
 status: Active
 short_description: SaniSure is a global leader in designing, developing, and manufacturing
   single-use solutions for the bioprocessing industry, specializing in custom as...
@@ -23,7 +23,7 @@ SaniSure is a global leader in designing, developing, and manufacturing single-u
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: United States
+- **Headquarters**: Camarillo, United States
 - **Status**: Active
 
 ### Primary Materials

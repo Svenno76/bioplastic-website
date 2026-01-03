@@ -1,7 +1,7 @@
 ---
 title: BIOWEG
 company_type: Technology Company
-headquarters: Germany
+headquarters: Quakenbrück, Germany
 status: Active
 short_description: BIOWEG is a German biotechnology company founded in 2019 that develops
   high-performance, biodegradable ingredients using precision fermentation and gr...
@@ -21,7 +21,7 @@ BIOWEG is a German biotechnology company founded in 2019 that develops high-perf
 ### Company Information
 
 - **Type**: Technology Company
-- **Headquarters**: Germany
+- **Headquarters**: Quakenbrück, Germany
 - **Status**: Active
 
 ### Primary Materials

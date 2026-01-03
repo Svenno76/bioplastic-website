@@ -1,7 +1,7 @@
 ---
 title: Green Dot Bioplastics
 company_type: Bioplastic Producer
-headquarters: United States
+headquarters: Emporia, United States
 status: Active
 short_description: Green Dot Bioplastics is a material science company founded in
   2011, specializing in the development and production of sustainable bioplastic material...
@@ -21,7 +21,7 @@ Green Dot Bioplastics is a material science company founded in 2011, specializin
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: United States
+- **Headquarters**: Emporia, United States
 - **Status**: Active
 
 ### Primary Materials

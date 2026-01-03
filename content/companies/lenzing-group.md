@@ -1,7 +1,7 @@
 ---
 title: Lenzing Group
 company_type: Bioplastic Producer
-headquarters: Austria
+headquarters: Lenzing, Austria
 status: Active
 short_description: The Lenzing Group is a leading producer of specialty cellulosic
   fibers from renewable wood-based materials, including TENCEL™ Lyocell, LENZING™
@@ -22,7 +22,7 @@ The Lenzing Group is a leading producer of specialty cellulosic fibers from rene
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: Austria
+- **Headquarters**: Lenzing, Austria
 - **Status**: Active
 - **Stock Ticker**: VIE:LNZ
 

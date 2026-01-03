@@ -1,7 +1,7 @@
 ---
 title: CJ Biomaterials
 company_type: Bioplastic Producer
-headquarters: South Korea
+headquarters: Seoul, South Korea
 status: Active
 short_description: CJ Biomaterials, a business unit of CJ CheilJedang headquartered
   in Seoul, South Korea, is a leading manufacturer of polyhydroxyalkanoate (PHA) biopol...
@@ -22,7 +22,7 @@ CJ Biomaterials, a business unit of CJ CheilJedang headquartered in Seoul, South
 ### Company Information
 
 - **Type**: Bioplastic Producer
-- **Headquarters**: South Korea
+- **Headquarters**: Seoul, South Korea
 - **Status**: Active
 
 ### Primary Materials
