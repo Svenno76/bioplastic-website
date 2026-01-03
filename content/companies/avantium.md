@@ -7,12 +7,12 @@ short_description: Avantium is a chemical technology company headquartered in Am
   Netherlands, specializing in renewable chemistry and circular polymer materials
   ...
 website: https://www.avantium.com
-primary_materials: PEF, FDCA
 market_segments: packaging
 publicly_listed: true
 stock_ticker: AVTX.AS
 date: '2026-01-02'
 draft: false
+technologies: PEF technology, FDCA production technology
 ---
 
 ## Overview
@@ -26,9 +26,9 @@ Avantium is a chemical technology company headquartered in Amsterdam, Netherland
 - **Status**: Active
 - **Stock Ticker**: AVTX.AS
 
-### Primary Materials
+### Technologies
 
-PEF, FDCA
+PEF technology, FDCA production technology
 
 ### Market Segments
 

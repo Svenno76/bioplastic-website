@@ -6,14 +6,13 @@ status: Active
 short_description: SaniSure is a global leader in designing, developing, and manufacturing
   single-use solutions for the bioprocessing industry, specializing in custom as...
 website: https://sanisure.com
-primary_materials: Polypropylene, polyethylene, PVDF, polysulfone, fluoropolymers,
-  polycarbonate, PET, PC
 market_segments: Medical, biopharmaceutical, vaccine manufacturing, cell and gene
   therapy
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Antimicrobial coating technology
 ---
 
 ## Overview
@@ -26,9 +25,9 @@ SaniSure is a global leader in designing, developing, and manufacturing single-u
 - **Headquarters**: Camarillo, United States
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-Polypropylene, polyethylene, PVDF, polysulfone, fluoropolymers, polycarbonate, PET, PC
+Antimicrobial coating technology
 
 ### Market Segments
 

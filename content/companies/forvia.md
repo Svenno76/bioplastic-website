@@ -6,14 +6,13 @@ status: Active
 short_description: FORVIA is an automotive technology group formed in 2022 from the
   merger of Faurecia and HELLA. The company develops sustainable materials and composit...
 website: https://www.forvia.com/en
-primary_materials: Bio-based composites (hemp fiber), natural fiber-reinforced polypropylene
-  (NFPP), recycled plastics, bio-based compounds, carbon-capturing compounds
 market_segments: Automotive (primary), vehicle interiors, seating, lighting, electronics,
   clean mobility
 publicly_listed: true
 stock_ticker: EURONEXT:FRVIA
 date: '2026-01-02'
 draft: false
+technologies: Lightweight and sustainable materials technology
 ---
 
 ## Overview
@@ -27,9 +26,9 @@ FORVIA is an automotive technology group formed in 2022 from the merger of Faure
 - **Status**: Active
 - **Stock Ticker**: EURONEXT:FRVIA
 
-### Primary Materials
+### Technologies
 
-Bio-based composites (hemp fiber), natural fiber-reinforced polypropylene (NFPP), recycled plastics, bio-based compounds, carbon-capturing compounds
+Lightweight and sustainable materials technology
 
 ### Market Segments
 

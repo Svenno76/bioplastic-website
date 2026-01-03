@@ -7,14 +7,13 @@ short_description: Erg Bio is a biotechnology company that converts waste biomas
   into fermentable sugars, synthetic aviation fuels, and industrial chemicals using
   its p...
 website: https://ergbio.com
-primary_materials: Not bioplastics - produces fermentable sugars, synthetic aviation
-  fuels, and industrial chemicals from biomass
 market_segments: Energy production, chemical manufacturing, aviation fuels, industrial
   supply chains
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Fermentation technology for biopolymers
 ---
 
 ## Overview
@@ -27,9 +26,9 @@ Erg Bio is a biotechnology company that converts waste biomass into fermentable 
 - **Headquarters**: Dublin, United States
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-Not bioplastics - produces fermentable sugars, synthetic aviation fuels, and industrial chemicals from biomass
+Fermentation technology for biopolymers
 
 ### Market Segments
 

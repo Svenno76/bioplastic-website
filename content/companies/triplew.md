@@ -6,13 +6,13 @@ status: Active
 short_description: TripleW is a circular chemistry pioneer founded in 2016 that transforms
   food waste into lactic acid and bioplastics. The company uses advanced ferment...
 website: https://www.triplew.co
-primary_materials: PLA (polylactic acid), lactic acid
 market_segments: Packaging, personal care, home care, food and beverage, industrial
   applications
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Plastic waste separation and recycling technology
 ---
 
 ## Overview
@@ -25,9 +25,9 @@ TripleW is a circular chemistry pioneer founded in 2016 that transforms food was
 - **Headquarters**: Netanya, Israel
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-PLA (polylactic acid), lactic acid
+Plastic waste separation and recycling technology
 
 ### Market Segments
 

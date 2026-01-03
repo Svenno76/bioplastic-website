@@ -6,12 +6,12 @@ status: Active
 short_description: Power2Polymers pioneers sustainable, high-performance polymer products
   for specialty applications including lubricants, industrial adhesives, and seal...
 website: https://www.power2polymers.com
-primary_materials: Polyoxymethylene (POM)-based polymers
 market_segments: Lubricants, industrial adhesives, sealants, packaging, coatings
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: CO2-based polymer technology
 ---
 
 ## Overview
@@ -24,9 +24,9 @@ Power2Polymers pioneers sustainable, high-performance polymer products for speci
 - **Headquarters**: Aachen, Germany
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-Polyoxymethylene (POM)-based polymers
+CO2-based polymer technology
 
 ### Market Segments
 

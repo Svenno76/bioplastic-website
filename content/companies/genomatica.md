@@ -6,12 +6,12 @@ status: Active
 short_description: Genomatica is a biotechnology company specializing in the development
   and licensing of biological manufacturing processes for sustainable chemicals an...
 website: https://www.genomatica.com
-primary_materials: BDO (1,4-Butanediol), Butadiene
 market_segments: Textiles, Packaging, Personal Care, Automotive, Cosmetics
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Synthetic biology and fermentation technology
 ---
 
 ## Overview
@@ -24,9 +24,9 @@ Genomatica is a biotechnology company specializing in the development and licens
 - **Headquarters**: San Diego, United States
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-BDO (1,4-Butanediol), Butadiene
+Synthetic biology and fermentation technology
 
 ### Market Segments
 

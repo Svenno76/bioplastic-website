@@ -7,12 +7,12 @@ short_description: Blue Ocean Closures is a Swedish technology company focused o
   developing fiber-based closures as sustainable alternatives to plastic caps. Their
   prop...
 website: https://www.blueoceanclosures.com
-primary_materials: Cellulose fibers (from sustainably managed forests), biobased additives
 market_segments: Packaging, Beverage
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Fiber-based closure technology
 ---
 
 ## Overview
@@ -25,9 +25,9 @@ Blue Ocean Closures is a Swedish technology company focused on developing fiber-
 - **Headquarters**: Karlstad, Sweden
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-Cellulose fibers (from sustainably managed forests), biobased additives
+Fiber-based closure technology
 
 ### Market Segments
 

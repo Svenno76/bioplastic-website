@@ -7,12 +7,12 @@ short_description: CARBIOS is a biotechnology company developing and industriali
   enzyme-based processes for the biorecycling of PET plastics and biodegradation of
   PL...
 website: https://www.carbios.com
-primary_materials: PET, PLA
 market_segments: packaging, textiles, food & beverage, cosmetics, apparel
 publicly_listed: true
 stock_ticker: Euronext Growth:ALCRB
 date: '2026-01-02'
 draft: false
+technologies: Enzyme-based biorecycling and biodegradation technology
 ---
 
 ## Overview
@@ -26,9 +26,9 @@ CARBIOS is a biotechnology company developing and industrializing enzyme-based p
 - **Status**: Active
 - **Stock Ticker**: Euronext Growth:ALCRB
 
-### Primary Materials
+### Technologies
 
-PET, PLA
+Enzyme-based biorecycling and biodegradation technology
 
 ### Market Segments
 

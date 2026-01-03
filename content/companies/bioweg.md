@@ -6,12 +6,12 @@ status: Active
 short_description: BIOWEG is a German biotechnology company founded in 2019 that develops
   high-performance, biodegradable ingredients using precision fermentation and gr...
 website: https://bioweg.com
-primary_materials: bacterial cellulose
 market_segments: packaging, cosmetics, personal care, home care, agriculture
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Bacterial cellulose technology
 ---
 
 ## Overview
@@ -24,9 +24,9 @@ BIOWEG is a German biotechnology company founded in 2019 that develops high-perf
 - **Headquarters**: Quakenbrück, Germany
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-bacterial cellulose
+Bacterial cellulose technology
 
 ### Market Segments
 

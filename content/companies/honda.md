@@ -6,13 +6,12 @@ status: Active
 short_description: Honda is a Japanese multinational company primarily known for automotive
   and mobility products. It is actively involved in developing and applying bio...
 website: https://global.honda/
-primary_materials: Bio-based engineering plastic (Durabio, isosorbide-based), biobased
-  thermoplastics (UBQ), algae-derived bioplastics
 market_segments: Automotive (motorcycles, automotive parts), mobility, recycling
 publicly_listed: true
 stock_ticker: TSE:7267
 date: '2026-01-02'
 draft: false
+technologies: Vehicle engineering and manufacturing technology
 ---
 
 ## Overview
@@ -26,9 +25,9 @@ Honda is a Japanese multinational company primarily known for automotive and mob
 - **Status**: Active
 - **Stock Ticker**: TSE:7267
 
-### Primary Materials
+### Technologies
 
-Bio-based engineering plastic (Durabio, isosorbide-based), biobased thermoplastics (UBQ), algae-derived bioplastics
+Vehicle engineering and manufacturing technology
 
 ### Market Segments
 

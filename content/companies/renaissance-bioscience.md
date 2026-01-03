@@ -6,13 +6,12 @@ status: Active
 short_description: Renaissance BioScience is a Canadian biotechnology company specializing
   in bioengineering yeast and microorganisms for sustainable solutions, includin...
 website: https://renaissancebioscience.com
-primary_materials: Bio-based building blocks for bioplastics (fermentation-derived,
-  not specific polymer types listed)
 market_segments: Packaging, Personal Care, Consumer Goods, Health
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: PHA fermentation and processing technology
 ---
 
 ## Overview
@@ -25,9 +24,9 @@ Renaissance BioScience is a Canadian biotechnology company specializing in bioen
 - **Headquarters**: Vancouver, Canada
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-Bio-based building blocks for bioplastics (fermentation-derived, not specific polymer types listed)
+PHA fermentation and processing technology
 
 ### Market Segments
 

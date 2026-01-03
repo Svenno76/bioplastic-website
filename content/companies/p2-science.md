@@ -7,13 +7,13 @@ short_description: P2 Science is a green chemistry technology company that devel
   proprietary processes like PIOz™ and PICE to convert renewable feedstocks such as
   pin...
 website: https://p2science.com
-primary_materials: bio-polyurethanes, PICE polymers, plant-based liquid polymers
 market_segments: personal care, cosmetics, fragrances, performance materials, textiles,
   footwear, apparel, coatings, adhesives
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: Green chemistry technology
 ---
 
 ## Overview
@@ -26,9 +26,9 @@ P2 Science is a green chemistry technology company that develops proprietary pro
 - **Headquarters**: Woodbridge, United States
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-bio-polyurethanes, PICE polymers, plant-based liquid polymers
+Green chemistry technology
 
 ### Market Segments
 

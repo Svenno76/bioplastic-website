@@ -6,12 +6,12 @@ status: Active
 short_description: Biome Bioplastics is a leading UK-based developer of innovative
   bio-based plastics aimed at challenging and replacing oil-based polymers with high-per...
 website: https://biomebioplastics.com
-primary_materials: plant-based bioplastics, bio-based plastics
 market_segments: packaging, personal care, health, consumer goods
 publicly_listed: false
 stock_ticker: .nan
 date: '2026-01-02'
 draft: false
+technologies: PHA fermentation and extraction technology
 ---
 
 ## Overview
@@ -24,9 +24,9 @@ Biome Bioplastics is a leading UK-based developer of innovative bio-based plasti
 - **Headquarters**: United Kingdom
 - **Status**: Active
 
-### Primary Materials
+### Technologies
 
-plant-based bioplastics, bio-based plastics
+PHA fermentation and extraction technology
 
 ### Market Segments
 
