@@ -1,6 +1,6 @@
 ---
 title: RIKEN Center for Emergent Matter Science (CEMS)
-company_type: Technology Company
+company_type: University
 headquarters: Japan
 status: Active
 short_description: The RIKEN Center for Emergent Matter Science (CEMS) conducts research
@@ -21,7 +21,7 @@ The RIKEN Center for Emergent Matter Science (CEMS) conducts research on advance
 
 ### Company Information
 
-- **Type**: Technology Company
+- **Type**: University
 - **Headquarters**: Japan
 - **Status**: Active
 

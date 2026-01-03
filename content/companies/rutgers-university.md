@@ -1,6 +1,6 @@
 ---
 title: Rutgers University
-company_type: Technology Company
+company_type: University
 headquarters: United States
 status: Active
 short_description: Rutgers University is a research institution conducting advanced
@@ -22,7 +22,7 @@ Rutgers University is a research institution conducting advanced research in bio
 
 ### Company Information
 
-- **Type**: Technology Company
+- **Type**: University
 - **Headquarters**: United States
 - **Status**: Active
 

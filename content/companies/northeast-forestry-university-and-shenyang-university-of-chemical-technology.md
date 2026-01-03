@@ -1,6 +1,6 @@
 ---
 title: Northeast Forestry University and Shenyang University of Chemical Technology
-company_type: Technology Company
+company_type: University
 headquarters: China
 status: Active
 short_description: Northeast Forestry University and Shenyang University of Chemical
@@ -20,7 +20,7 @@ Northeast Forestry University and Shenyang University of Chemical Technology are
 
 ### Company Information
 
-- **Type**: Technology Company
+- **Type**: University
 - **Headquarters**: China
 - **Status**: Active
 

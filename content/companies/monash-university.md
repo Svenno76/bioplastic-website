@@ -1,6 +1,6 @@
 ---
 title: Monash University
-company_type: Technology Company
+company_type: University
 headquarters: Australia
 status: Active
 short_description: Monash University researchers have developed customizable bioplastic
@@ -20,7 +20,7 @@ Monash University researchers have developed customizable bioplastic films using
 
 ### Company Information
 
-- **Type**: Technology Company
+- **Type**: University
 - **Headquarters**: Australia
 - **Status**: Active
 

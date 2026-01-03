@@ -1,6 +1,6 @@
 ---
 title: Concordia University
-company_type: Technology Company
+company_type: University
 headquarters: Canada
 status: Active
 short_description: Concordia University is a research institution in Montreal with
@@ -21,7 +21,7 @@ Concordia University is a research institution in Montreal with advanced biomanu
 
 ### Company Information
 
-- **Type**: Technology Company
+- **Type**: University
 - **Headquarters**: Canada
 - **Status**: Active
 
