@@ -3,7 +3,7 @@ title: "Avantium and Logoplaste Sign Capacity Reservation Agreement for ReLeaf®
 date: 2025-11-11
 draft: false
 summary: "Avantium and Logoplaste have solidified their partnership with a capacity reservation agreement for Avantium's plant-based, recyclable polymer PEF, branded as ReLeaf®. This deal secures future volumes of ReLeaf for Logoplaste to accelerate sustainable, high-performance packaging innovation across diverse applications."
-tags: "Avantium", "Logoplaste", "ReLeaf", "PEF", "Bioplastic", "Sustainable Packaging", "Capacity Reservation", "The Bottle Collective"
+tags: ["Avantium", "Logoplaste", "ReLeaf", "PEF", "Bioplastic", "Sustainable Packaging", "Capacity Reservation", "The Bottle Collective"]
 category: "Partnerships"
 company: "Avantium"
 company_type: "Bioplastic Producer"
