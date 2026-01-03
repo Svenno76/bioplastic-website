@@ -1,30 +1,71 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Summary | plainify }}">
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="{{ . }}">
+  {{ end }}
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .site-header { border-bottom: 1px solid #eee; padding: 1rem 0; margin-bottom: 2rem; }
+    .site-branding { max-width: 64rem; margin: 0 auto; padding: 0 1rem; display: flex; justify-content: space-between; align-items: center; }
+    .site-title { font-size: 1.5rem; font-weight: bold; }
+    .site-navigation { display: flex; gap: 1.5rem; }
+    .site-navigation a { margin: 0; }
+  </style>
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+
+  <main>
 <div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
   
   <!-- Company Header Card -->
   <div style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); color: white; padding: 3rem 2rem; border-radius: 16px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 2rem;">
       <div style="flex: 1; min-width: 300px;">
-        <h1 style="font-size: 3rem; margin-bottom: 1rem; font-weight: 700;">{{ .Title }}</h1>
-        {{ if .Params.tagline }}
-        <p style="font-size: 1.3rem; opacity: 0.9; margin-bottom: 1.5rem;">{{ .Params.tagline }}</p>
-        {{ end }}
-        
-        <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.5rem;">
+        <div style="display: flex; gap: 1rem; align-items: start; margin-bottom: 1rem; flex-wrap: wrap;">
+          <h1 style="font-size: 2.5rem; margin: 0; font-weight: 700; flex: 1;">{{ .Title }}</h1>
+          {{ if .Params.company_type }}
+          <div style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
+            {{ .Params.company_type }}
+          </div>
+          {{ end }}
+          {{ if .Params.status }}
+          <div style="background: {{ if eq .Params.status "Active" }}rgba(34,197,94,0.3){{ else }}rgba(107,114,128,0.3){{ end }}; color: {{ if eq .Params.status "Active" }}#86efac{{ else }}#d1d5db{{ end }}; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
+            {{ if eq .Params.status "Active" }}✓{{ end }} {{ .Params.status }}
+          </div>
+          {{ end }}
+        </div>
+
+        <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1.5rem;">
           {{ if .Params.headquarters }}
           <div>
             <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Headquarters</div>
             <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">📍 {{ .Params.headquarters }}</div>
           </div>
           {{ end }}
-          
+
+          {{ if .Params.publicly_listed }}
+          <div>
+            <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Stock</div>
+            <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">📈 {{ if .Params.stock_ticker }}{{ .Params.stock_ticker }}{{ else }}Publicly Listed{{ end }}</div>
+          </div>
+          {{ end }}
+
           {{ if .Params.founded }}
           <div>
             <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Founded</div>
             <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">📅 {{ .Params.founded }}</div>
           </div>
           {{ end }}
-          
+
           {{ if .Params.employees }}
           <div>
             <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Employees</div>
@@ -33,50 +74,53 @@
           {{ end }}
         </div>
       </div>
-      
+
       {{ if .Params.logo }}
       <div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
         <img src="{{ .Params.logo }}" alt="{{ .Title }} logo" style="max-width: 200px; max-height: 100px;">
       </div>
       {{ end }}
     </div>
-    
-    {{ if .Params.website }}
-    <div style="margin-top: 1.5rem;">
-      <a href="{{ .Params.website }}" target="_blank" rel="noopener" 
+
+    <div style="margin-top: 1.5rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+      {{ if .Params.website }}
+      <a href="{{ .Params.website }}" target="_blank" rel="noopener"
          style="display: inline-block; background: white; color: #1e3a8a; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600;">
-        🌐 Visit Website →
+        🌐 Visit Website
       </a>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
   
-  <!-- Quick Facts Grid -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
-    {{ if .Params.products }}
-    <div style="background: #f0f9ff; border-left: 4px solid #3b82f6; padding: 1.5rem; border-radius: 8px;">
-      <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.1rem;">Key Products</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        {{ range .Params.products }}
-        <li style="padding: 0.25rem 0; color: #475569;">✓ {{ . }}</li>
-        {{ end }}
-      </ul>
+  <!-- Materials & Markets Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+    {{ if .Params.primary_materials }}
+    <div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-left: 4px solid #3b82f6; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🧬 Primary Materials</h3>
+      <p style="color: #475569; line-height: 1.6; margin: 0;">{{ .Params.primary_materials }}</p>
     </div>
     {{ end }}
-    
+
+    {{ if .Params.market_segments }}
+    <div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); border-left: 4px solid #f59e0b; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🎯 Market Segments</h3>
+      <p style="color: #475569; line-height: 1.6; margin: 0;">{{ .Params.market_segments }}</p>
+    </div>
+    {{ end }}
+
     {{ if .Params.capacity }}
-    <div style="background: #f0fdf4; border-left: 4px solid #22c55e; padding: 1.5rem; border-radius: 8px;">
-      <h3 style="color: #166534; margin-bottom: 1rem; font-size: 1.1rem;">Production Capacity</h3>
+    <div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #22c55e; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #166534; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">⚙️ Production Capacity</h3>
       <p style="color: #475569; font-size: 1.3rem; font-weight: 600; margin: 0;">{{ .Params.capacity }}</p>
     </div>
     {{ end }}
-    
-    {{ if .Params.markets }}
-    <div style="background: #fef3c7; border-left: 4px solid #f59e0b; padding: 1.5rem; border-radius: 8px;">
-      <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem;">Markets Served</h3>
+
+    {{ if .Params.products }}
+    <div style="background: linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%); border-left: 4px solid #ec4899; padding: 1.5rem; border-radius: 8px;">
+      <h3 style="color: #831843; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📦 Key Products</h3>
       <ul style="list-style: none; padding: 0; margin: 0;">
-        {{ range .Params.markets }}
-        <li style="padding: 0.25rem 0; color: #475569;">• {{ . }}</li>
+        {{ range .Params.products }}
+        <li style="padding: 0.25rem 0; color: #475569;">✓ {{ . }}</li>
         {{ end }}
       </ul>
     </div>
@@ -93,26 +137,59 @@
     
     <!-- Sidebar -->
     <aside>
-      <!-- Contact Information -->
-      {{ if or .Params.email .Params.phone .Params.address }}
-      <div style="background: #f9fafb; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #e5e7eb;">
-        <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.1rem;">Contact Information</h3>
-        {{ if .Params.email }}
-        <p style="margin: 0.5rem 0; color: #475569;">
-          <strong>Email:</strong><br>
-          <a href="mailto:{{ .Params.email }}" style="color: #3b82f6; text-decoration: none;">{{ .Params.email }}</a>
+      <!-- Connect & Social -->
+      {{ if or .Params.website .Params.email .Params.phone .Params.address }}
+      <div style="background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #e5e7eb;">
+        <h3 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🔗 Connect</h3>
+
+        {{ if .Params.website }}
+        <p style="margin: 0.75rem 0; color: #475569;">
+          <a href="{{ .Params.website }}" target="_blank" rel="noopener" style="color: #3b82f6; text-decoration: none; font-weight: 500;">🌐 Official Website →</a>
         </p>
         {{ end }}
+
+        {{ if .Params.twitter }}
+        <p style="margin: 0.75rem 0; color: #475569;">
+          <a href="https://twitter.com/{{ .Params.twitter | replace "@" "" }}" target="_blank" rel="noopener" style="color: #1d9bf0; text-decoration: none; font-weight: 500;">𝕏 Twitter →</a>
+        </p>
+        {{ end }}
+
+        {{ if .Params.linkedin }}
+        <p style="margin: 0.75rem 0; color: #475569;">
+          <a href="https://linkedin.com/company/{{ .Params.linkedin }}" target="_blank" rel="noopener" style="color: #0a66c2; text-decoration: none; font-weight: 500;">in LinkedIn →</a>
+        </p>
+        {{ end }}
+
+        {{ if .Params.youtube }}
+        <p style="margin: 0.75rem 0; color: #475569;">
+          <a href="https://youtube.com/{{ .Params.youtube }}" target="_blank" rel="noopener" style="color: #ff0000; text-decoration: none; font-weight: 500;">▶️ YouTube →</a>
+        </p>
+        {{ end }}
+
+        {{ if .Params.instagram }}
+        <p style="margin: 0.75rem 0; color: #475569;">
+          <a href="https://instagram.com/{{ .Params.instagram | replace "@" "" }}" target="_blank" rel="noopener" style="color: #e1306c; text-decoration: none; font-weight: 500;">📸 Instagram →</a>
+        </p>
+        {{ end }}
+
+        {{ if .Params.email }}
+        <p style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; color: #475569;">
+          <strong>Email:</strong><br>
+          <a href="mailto:{{ .Params.email }}" style="color: #3b82f6; text-decoration: none; font-size: 0.9rem;">{{ .Params.email }}</a>
+        </p>
+        {{ end }}
+
         {{ if .Params.phone }}
         <p style="margin: 0.5rem 0; color: #475569;">
           <strong>Phone:</strong><br>
-          {{ .Params.phone }}
+          <span style="font-size: 0.9rem;">{{ .Params.phone }}</span>
         </p>
         {{ end }}
+
         {{ if .Params.address }}
         <p style="margin: 0.5rem 0; color: #475569;">
           <strong>Address:</strong><br>
-          {{ .Params.address }}
+          <span style="font-size: 0.9rem;">{{ .Params.address }}</span>
         </p>
         {{ end }}
       </div>
@@ -131,11 +208,37 @@
       {{ end }}
       
       <!-- Related News -->
-      <div style="background: #fef3c7; padding: 1.5rem; border-radius: 12px; border: 1px solid #fde68a;">
-        <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem;">Related News</h3>
-        <p style="color: #78716c; font-size: 0.9rem;">
-          <a href="/news/" style="color: #f59e0b; text-decoration: none; font-weight: 500;">View news about {{ .Title }} →</a>
+      <div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #fde68a; margin-bottom: 1.5rem;">
+        <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📰 Latest News</h3>
+        <p style="color: #78716c; font-size: 0.9rem; margin: 0;">
+          Discover the latest news and updates about {{ .Title }}.
         </p>
+        <a href="/news/" style="display: inline-block; margin-top: 1rem; color: white; background: #f59e0b; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
+          View News →
+        </a>
+      </div>
+
+      <!-- Company Summary -->
+      <div style="background: linear-gradient(135deg, #f5f3ff 0%, #f0e7fe 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #e9d5ff;">
+        <h3 style="color: #6b21a8; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">ℹ️ Company Info</h3>
+        <dl style="margin: 0; font-size: 0.9rem;">
+          {{ if .Params.company_type }}
+          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Type</dt>
+          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ .Params.company_type }}</dd>
+          {{ end }}
+          {{ if .Params.headquarters }}
+          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Headquarters</dt>
+          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ .Params.headquarters }}</dd>
+          {{ end }}
+          {{ if .Params.status }}
+          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Status</dt>
+          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ .Params.status }}</dd>
+          {{ end }}
+          {{ if .Params.publicly_listed }}
+          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Publicly Listed</dt>
+          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ if .Params.publicly_listed }}Yes{{ else }}No{{ end }}</dd>
+          {{ end }}
+        </dl>
       </div>
     </aside>
   </div>
@@ -146,4 +249,9 @@
     <a href="/glossary/{{ .Title | urlize }}/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">View in Glossary →</a>
   </div>
 </div>
-{{ end }}
+
+  </main>
+
+  {{ partial "site-footer.html" . }}
+</body>
+</html>
