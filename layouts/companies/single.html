@@ -248,8 +248,55 @@
   </div>
   
   <!-- Navigation -->
-  <div style="display: flex; justify-content: space-between; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
-    <a href="/companies/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Company Profiles</a>
+  {{ $allCompanies := where .Site.RegularPages "Section" "companies" }}
+  {{ $sortedCompanies := sort $allCompanies ".Title" }}
+  {{ $currentIndex := 0 }}
+  {{ range $index, $page := $sortedCompanies }}
+    {{ if eq $page.Permalink $.Permalink }}
+      {{ $currentIndex = $index }}
+    {{ end }}
+  {{ end }}
+  {{ $prevIndex := sub $currentIndex 1 }}
+  {{ $nextIndex := add $currentIndex 1 }}
+  {{ $prevCompany := index $sortedCompanies $prevIndex }}
+  {{ $nextCompany := index $sortedCompanies $nextIndex }}
+
+  <div style="padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+    <!-- Previous/Next Navigation -->
+    <div style="display: flex; justify-content: space-between; margin-bottom: 1.5rem; gap: 1rem; flex-wrap: wrap;">
+      <div style="flex: 1; min-width: 200px;">
+        {{ if ge $prevIndex 0 }}
+        <a href="{{ $prevCompany.Permalink }}" style="display: inline-block; padding: 0.75rem 1.25rem; background: #f0f9ff; color: #1e3a8a; border-radius: 8px; text-decoration: none; font-weight: 500; border: 1px solid #bfdbfe; transition: all 0.2s;">
+          <span style="font-size: 0.85rem; display: block; opacity: 0.7; margin-bottom: 0.25rem;">← Previous</span>
+          <span style="font-size: 0.95rem;">{{ $prevCompany.Title }}</span>
+        </a>
+        {{ else }}
+        <div style="opacity: 0.3; padding: 0.75rem 1.25rem;">
+          <span style="font-size: 0.85rem; display: block;">← Previous</span>
+          <span style="font-size: 0.95rem;">No previous company</span>
+        </div>
+        {{ end }}
+      </div>
+
+      <div style="flex: 1; min-width: 200px; text-align: right;">
+        {{ if lt $nextIndex (len $sortedCompanies) }}
+        <a href="{{ $nextCompany.Permalink }}" style="display: inline-block; padding: 0.75rem 1.25rem; background: #f0f9ff; color: #1e3a8a; border-radius: 8px; text-decoration: none; font-weight: 500; border: 1px solid #bfdbfe; transition: all 0.2s;">
+          <span style="font-size: 0.85rem; display: block; opacity: 0.7; margin-bottom: 0.25rem;">Next →</span>
+          <span style="font-size: 0.95rem;">{{ $nextCompany.Title }}</span>
+        </a>
+        {{ else }}
+        <div style="opacity: 0.3; padding: 0.75rem 1.25rem;">
+          <span style="font-size: 0.85rem; display: block;">Next →</span>
+          <span style="font-size: 0.95rem;">No next company</span>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Back to Company Profiles -->
+    <div style="text-align: center;">
+      <a href="/companies/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Company Profiles</a>
+    </div>
   </div>
 </div>
 
