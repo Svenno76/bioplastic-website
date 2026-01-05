@@ -1,6 +1,6 @@
 ---
 title: European Bioplastics (EUBP)
-company_type: Testing/Certification Company
+company_type: Industry Association
 headquarters: Germany
 status: Active
 short_description: European Bioplastics (EUBP) is a European association representing
