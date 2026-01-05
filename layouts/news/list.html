@@ -88,7 +88,7 @@
     <!-- News List -->
     <div class="news-list" id="news-list">
       {{ range .Pages.ByDate.Reverse }}
-      <article class="news-post" data-tags="{{ delimit .Params.tags "," }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}"
+      <article class="news-post" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}"
                style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem; transition: all 0.3s;">
         <header style="margin-bottom: 1rem;">
           <h2 style="font-size: 1.5rem; color: #333; line-height: 1.3; margin-bottom: 0.5rem;">

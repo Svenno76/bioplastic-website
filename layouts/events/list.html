@@ -27,19 +27,29 @@
 
   <!-- Filter Controls -->
   <div style="margin-bottom: 2rem; padding: 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e2e8f0;">
-    <p style="font-size: 0.9rem; color: #64748b; font-weight: 500; margin-bottom: 1rem;">Filter by Event Type:</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;" id="filter-buttons">
-      <button onclick="filterByType('all')" class="filter-btn active" style="padding: 0.5rem 1rem; border: 2px solid #3b82f6; background: #3b82f6; color: white; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">
-        All Events
+    <!-- Event Type Filter -->
+    <p style="font-size: 0.9rem; color: #64748b; font-weight: 500; margin-bottom: 0.75rem;">Filter by Event Type:</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;" id="filter-buttons-type">
+      <button onclick="filterEvents()" class="filter-btn-type active" style="padding: 0.5rem 1rem; border: 2px solid #3b82f6; background: #3b82f6; color: white; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">
+        All Types
       </button>
     </div>
+
+    <!-- Region Filter -->
+    <p style="font-size: 0.9rem; color: #64748b; font-weight: 500; margin-bottom: 0.75rem;">Filter by Region:</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem;" id="filter-buttons-region">
+      <button onclick="filterEvents()" class="filter-btn-region active" style="padding: 0.5rem 1rem; border: 2px solid #10b981; background: #10b981; color: white; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">
+        All Regions
+      </button>
+    </div>
+
     <p id="event-count" style="font-size: 0.85rem; color: #64748b; margin-top: 1rem;"></p>
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem;" id="events-grid">
     {{ if .Pages }}
       {{ range .Pages.ByTitle }}
-      <article class="event-card" data-event-type="{{ .Params.event_type | default "Conference" }}" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s; display: flex; flex-direction: column;">
+      <article class="event-card" data-event-type="{{ .Params.event_type | default "Conference" }}" data-region="{{ .Params.region | default "Global" }}" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s; display: flex; flex-direction: column;">
         <div style="flex-grow: 1;">
           <!-- Event Name -->
           <h2 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: #1e3a8a;">
@@ -97,28 +107,38 @@
   </main>
 
   <script>
-    let currentFilter = 'all';
+    let currentTypeFilter = 'all';
+    let currentRegionFilter = 'all';
     let uniqueTypes = new Set();
+    let uniqueRegions = new Set();
 
     // Initialize on page load
     window.addEventListener('load', function() {
-      // Collect all unique event types from cards
+      // Collect all unique event types and regions from cards
       document.querySelectorAll('.event-card').forEach(card => {
         const type = card.getAttribute('data-event-type');
+        const region = card.getAttribute('data-region');
         if (type && type !== 'null') {
           uniqueTypes.add(type);
         }
+        if (region && region !== 'null') {
+          uniqueRegions.add(region);
+        }
       });
 
-      // Sort types for consistent ordering
+      // Sort for consistent ordering
       const sortedTypes = Array.from(uniqueTypes).sort();
+      const sortedRegions = Array.from(uniqueRegions).sort();
 
-      // Create filter buttons dynamically
-      const buttonContainer = document.getElementById('filter-buttons');
+      // Create event type filter buttons dynamically
+      const typeButtonContainer = document.getElementById('filter-buttons-type');
       sortedTypes.forEach(type => {
         const button = document.createElement('button');
-        button.className = 'filter-btn';
-        button.onclick = function() { filterByType(type); };
+        button.className = 'filter-btn-type';
+        button.onclick = function() {
+          currentTypeFilter = type;
+          filterEvents();
+        };
         button.textContent = type;
         button.style.cssText = `
           padding: 0.5rem 1rem;
@@ -131,43 +151,82 @@
           font-weight: 500;
           transition: all 0.2s;
         `;
-        buttonContainer.appendChild(button);
+        typeButtonContainer.appendChild(button);
+      });
+
+      // Create region filter buttons dynamically
+      const regionButtonContainer = document.getElementById('filter-buttons-region');
+      sortedRegions.forEach(region => {
+        const button = document.createElement('button');
+        button.className = 'filter-btn-region';
+        button.onclick = function() {
+          currentRegionFilter = region;
+          filterEvents();
+        };
+        button.textContent = region;
+        button.style.cssText = `
+          padding: 0.5rem 1rem;
+          border: 2px solid #e2e8f0;
+          background: white;
+          color: #475569;
+          border-radius: 6px;
+          cursor: pointer;
+          font-size: 0.9rem;
+          font-weight: 500;
+          transition: all 0.2s;
+        `;
+        regionButtonContainer.appendChild(button);
       });
 
       // Update initial count
       updateCount();
     });
 
-    function filterByType(type) {
-      currentFilter = type;
-
-      // Update button styles
-      document.querySelectorAll('.filter-btn').forEach(btn => {
+    function filterEvents() {
+      // Update type button styles
+      document.querySelectorAll('.filter-btn-type').forEach(btn => {
         btn.style.background = 'white';
         btn.style.color = '#475569';
         btn.style.borderColor = '#e2e8f0';
       });
 
-      // Find and highlight the active button
-      document.querySelectorAll('.filter-btn').forEach(btn => {
-        if ((type === 'all' && btn.textContent === 'All Events') ||
-            (type !== 'all' && btn.textContent === type)) {
+      // Find and highlight the active type button
+      document.querySelectorAll('.filter-btn-type').forEach(btn => {
+        if ((currentTypeFilter === 'all' && btn.textContent === 'All Types') ||
+            (currentTypeFilter !== 'all' && btn.textContent === currentTypeFilter)) {
           btn.style.background = '#3b82f6';
           btn.style.color = 'white';
           btn.style.borderColor = '#3b82f6';
         }
       });
 
-      // Filter events
+      // Update region button styles
+      document.querySelectorAll('.filter-btn-region').forEach(btn => {
+        btn.style.background = 'white';
+        btn.style.color = '#475569';
+        btn.style.borderColor = '#e2e8f0';
+      });
+
+      // Find and highlight the active region button
+      document.querySelectorAll('.filter-btn-region').forEach(btn => {
+        if ((currentRegionFilter === 'all' && btn.textContent === 'All Regions') ||
+            (currentRegionFilter !== 'all' && btn.textContent === currentRegionFilter)) {
+          btn.style.background = '#10b981';
+          btn.style.color = 'white';
+          btn.style.borderColor = '#10b981';
+        }
+      });
+
+      // Filter events based on both type and region
       const cards = document.querySelectorAll('.event-card');
       cards.forEach(card => {
         const eventType = card.getAttribute('data-event-type');
+        const region = card.getAttribute('data-region');
 
-        if (type === 'all') {
-          card.style.display = 'flex';
-        } else {
-          card.style.display = (eventType === type) ? 'flex' : 'none';
-        }
+        const typeMatches = (currentTypeFilter === 'all') || (eventType === currentTypeFilter);
+        const regionMatches = (currentRegionFilter === 'all') || (region === currentRegionFilter);
+
+        card.style.display = (typeMatches && regionMatches) ? 'flex' : 'none';
       });
 
       updateCount();
