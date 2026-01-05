@@ -2,7 +2,7 @@
 title: Lubrizol
 company_type:
   - Additive Producer
-  - Biopolymer Producer
+  - Bioplastic Producer
 headquarters: Wickliffe, United States
 status: Active
 short_description: Lubrizol Corporation is an American specialty chemicals company
