@@ -21,12 +21,6 @@ draft: false
 
 German compounder specializing in bioplastics and biodegradable compounds. Produces Bio-Flex, Terralene, and other specialty bioplastic formulations for various applications.
 
-### Company Information
-
-- **Type**: Compounder
-- **Headquarters**: Willich, Germany
-- **Status**: Active
-
 ### Primary Materials
 
 PLA, PHA, PBS, starch-based bioplastics, bio-based PE, biodegradable plastics
@@ -34,11 +28,6 @@ PLA, PHA, PBS, starch-based bioplastics, bio-based PE, biodegradable plastics
 ### Market Segments
 
 Packaging (flexible packaging, food packaging, waste bags), agriculture (mulch films), automotive, consumer goods, medical, textiles
-
-### Connect
-
-- **Website**: [FKuR Kunststoff](https://www.fkur.de)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/fkur-kunststoff-gmbh)
 
 ---
 

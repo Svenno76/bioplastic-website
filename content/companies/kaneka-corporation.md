@@ -12,6 +12,15 @@ market_segments: Packaging, food service (straws, cups, cutlery), retail (shoppi
   bags), marine environment applications
 publicly_listed: true
 stock_ticker: TSE:4118
+employees: "3,000+"
+annual_turnover: "$5.2B"
+production_capacity:
+  - biopolymer: "PHBH (Green Planet)"
+    capacity: "5,000 tons/year"
+    location: "Takasago, Japan"
+  - biopolymer: "PHBH Expansion (Green Planet)"
+    capacity: "20,000 tons/year (under construction)"
+    location: "Takasago, Japan"
 date: '2026-01-02'
 draft: false
 ---
@@ -20,13 +29,6 @@ draft: false
 
 Kaneka Corporation is a Japanese chemical company specializing in a wide range of products including chemicals, functional plastics, and bioplastics. Its bioplastic division produces Kaneka PHBH™, a 100% biomass-derived, biodegradable polymer that decomposes even in marine environments. Kaneka's bioplastics are used as sustainable alternatives to single-use plastics such as straws, shopping bags, and food packaging, contributing to marine pollution reduction.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Osaka, Japan
-- **Status**: Active
-- **Stock Ticker**: TSE:4118
-
 ### Primary Materials
 
 PHBH (poly(3-hydroxybutyrate-co-3-hydroxyhexanoate))
@@ -34,11 +36,6 @@ PHBH (poly(3-hydroxybutyrate-co-3-hydroxyhexanoate))
 ### Market Segments
 
 Packaging, food service (straws, cups, cutlery), retail (shopping bags), marine environment applications
-
-### Connect
-
-- **Website**: [Kaneka Corporation](https://www.kaneka.co.jp/en/)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/kaneka-corporation/)
 
 ---
 

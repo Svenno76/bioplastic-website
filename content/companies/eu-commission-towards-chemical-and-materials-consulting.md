@@ -1,29 +1,19 @@
 ---
-title: "EU Commission / Towards Chemical and Materials Consulting"
+title: "Towards Chemical and Materials Consulting"
+company_type: Consulting/Advisory Firm
+headquarters: Brussels, Belgium
+status: Active
+website: https://www.towardschemandmaterials.com/
+fields_of_interest: Chemical safety regulations, sustainable materials policy, bioplastics regulations, circular economy strategy, EU compliance, materials innovation policy, regulatory guidance
 date: 2026-01-02
 draft: false
 ---
 
-## Overview
+Towards Chemical and Materials Consulting is a consulting and advisory firm specializing in European chemical safety regulations and sustainable materials policy. The firm provides strategic guidance to organizations navigating EU regulations on bioplastics, circular economy requirements, and sustainable material innovation within the European policy landscape.
 
-Company profile for EU Commission / Towards Chemical and Materials Consulting
+### Fields of Interest
 
-### Company Information
-
-- **Type**: N/A
-- **Headquarters**: N/A
-- **Status**: Active
-
-### Primary Materials
-
-Contact company for details
-
-### Market Segments
-
-Multiple sectors
-
-### Connect
-
+Chemical safety regulations, sustainable materials policy, bioplastics regulations, circular economy strategy, EU compliance, materials innovation policy, regulatory guidance
 
 ---
 

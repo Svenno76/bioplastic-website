@@ -38,18 +38,33 @@
 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem;" id="companies-grid">
     {{ range .Pages.ByTitle }}
-    <article class="company-card" data-company-type="{{ .Params.company_type | default "Other" }}" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s; display: flex; flex-direction: column;">
+    {{ $types := .Params.company_type }}
+    {{ $typeStr := "" }}
+    {{ if reflect.IsSlice $types }}
+      {{ $typeStr = delimit $types "," }}
+    {{ else }}
+      {{ $typeStr = $types }}
+    {{ end }}
+    <article class="company-card" data-company-types="{{ $typeStr | default "Other" }}" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s; display: flex; flex-direction: column;">
       <div style="flex-grow: 1;">
         <!-- Company Name -->
         <h2 style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #1e3a8a;">
           <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
         </h2>
 
-        <!-- Company Type Badge -->
+        <!-- Company Type Badge(s) -->
         {{ if .Params.company_type }}
-        <div style="display: inline-block; background: #e0e7ff; color: #3730a3; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem;">
-          {{ .Params.company_type }}
-        </div>
+          {{ if reflect.IsSlice .Params.company_type }}
+            {{ range .Params.company_type }}
+            <div style="display: inline-block; background: #e0e7ff; color: #3730a3; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem; margin-right: 0.5rem;">
+              {{ . }}
+            </div>
+            {{ end }}
+          {{ else }}
+          <div style="display: inline-block; background: #e0e7ff; color: #3730a3; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem;">
+            {{ .Params.company_type }}
+          </div>
+          {{ end }}
         {{ end }}
 
         <!-- Headquarters and Status -->
@@ -73,8 +88,16 @@
         </p>
         {{ end }}
 
+        <!-- Policy/Government Organizations, Non-Profits, and Consulting Firms - Fields of Interest -->
+        {{ if or (eq .Params.company_type "Policy/Government Organization") (eq .Params.company_type "Non-Profit Foundation/NGO") (eq .Params.company_type "Consulting/Advisory Firm") }}
+          {{ if .Params.fields_of_interest }}
+          <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+            <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Fields of Interest:</p>
+            <p style="color: #475569; font-size: 0.9rem;">{{ .Params.fields_of_interest }}</p>
+          </div>
+          {{ end }}
         <!-- Equipment Manufacturers - Product Types -->
-        {{ if eq .Params.company_type "Equipment Manufacturer" }}
+        {{ else if eq .Params.company_type "Equipment Manufacturer" }}
           {{ if .Params.product_types }}
           <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
             <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Equipment:</p>
@@ -117,20 +140,29 @@
 
     // Initialize on page load
     window.addEventListener('load', function() {
-      // Collect all unique company types from cards
+      // Collect all unique company types from cards (handling both single and multiple types)
       document.querySelectorAll('.company-card').forEach(card => {
-        const type = card.getAttribute('data-company-type');
-        if (type && type !== 'null') {
-          uniqueTypes.add(type);
+        const typesStr = card.getAttribute('data-company-types');
+        if (typesStr && typesStr !== 'null') {
+          // Split comma-separated types
+          const types = typesStr.split(',').map(t => t.trim());
+          types.forEach(type => {
+            if (type) {
+              uniqueTypes.add(type);
+            }
+          });
         }
       });
 
       // Sort types for consistent ordering
       const sortedTypes = Array.from(uniqueTypes).sort();
 
+      // Filter out "Biotechnology Company" from the list
+      const filteredTypes = sortedTypes.filter(type => type !== 'Biotechnology Company');
+
       // Create filter buttons dynamically
       const buttonContainer = document.getElementById('filter-buttons');
-      sortedTypes.forEach(type => {
+      filteredTypes.forEach(type => {
         const button = document.createElement('button');
         button.className = 'filter-btn';
         button.onclick = function() { filterByType(type); };
@@ -176,12 +208,14 @@
       // Filter companies
       const cards = document.querySelectorAll('.company-card');
       cards.forEach(card => {
-        const companyType = card.getAttribute('data-company-type');
+        const typesStr = card.getAttribute('data-company-types');
+        const companyTypes = typesStr ? typesStr.split(',').map(t => t.trim()) : [];
 
         if (type === 'all') {
           card.style.display = 'flex';
         } else {
-          card.style.display = (companyType === type) ? 'flex' : 'none';
+          // Show card if it has the selected type (handles both single and multiple types)
+          card.style.display = companyTypes.includes(type) ? 'flex' : 'none';
         }
       });
 

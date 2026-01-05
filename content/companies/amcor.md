@@ -18,13 +18,6 @@ draft: false
 
 Global packaging leader developing recyclable and bio-based packaging solutions. Invests in sustainable materials including bioplastics for flexible and rigid packaging.
 
-### Company Information
-
-- **Type**: Converter
-- **Headquarters**: Thomson, United States
-- **Status**: Active
-- **Stock Ticker**: NYSE:AMCR
-
 ### Primary Materials
 
 PLA, bio-PE
@@ -32,14 +25,6 @@ PLA, bio-PE
 ### Market Segments
 
 Packaging, Healthcare
-
-### Connect
-
-- **Website**: [Amcor](https://www.amcor.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/AmcorLimited)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/amcor)
-- **YouTube**: [Subscribe](https://www.youtube.com/@AmcorPackaging)
-- **Instagram**: [Follow](https://instagram.com/https://www.instagram.com/amcorlimited)
 
 ---
 

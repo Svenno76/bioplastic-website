@@ -19,12 +19,6 @@ draft: false
 
 Joint venture producing PLA bioplastics at commercial scale. Operates one of the world's largest PLA manufacturing facilities in Thailand.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Gorinchem, Netherlands
-- **Status**: Active
-
 ### Primary Materials
 
 PLA (Polylactic Acid)
@@ -32,13 +26,6 @@ PLA (Polylactic Acid)
 ### Market Segments
 
 Packaging, Consumer Goods, Fibers, Food Serviceware, Automotive, 3D Printing
-
-### Connect
-
-- **Website**: [Total Corbion PLA](https://www.total-corbion.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/TotalEnergies)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/totalenergies-corbion)
-- **YouTube**: [Subscribe](https://www.youtube.com/@TotalEnergies)
 
 ---
 

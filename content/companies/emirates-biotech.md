@@ -19,12 +19,6 @@ draft: false
 
 Emirates Biotech is a leading manufacturer of high-quality PLA biopolymers in the Middle East, creating sustainable substitutes for traditional plastics. They produce the Embio product range of PLA grades suitable for rigid and flexible packaging, coated paper board, fibers, nonwovens, and 3D printing. The company is building the world's largest PLA production facility with 160,000 tonnes annual capacity using plant-based feedstocks, while providing expertise in application development, recyc...
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Dubai, United Arab Emirates
-- **Status**: Active
-
 ### Primary Materials
 
 PLA
@@ -32,11 +26,6 @@ PLA
 ### Market Segments
 
 packaging, fibers, nonwovens, 3D printing
-
-### Connect
-
-- **Website**: [Emirates Biotech](https://emiratesbiotech.com)
-
 
 ---
 

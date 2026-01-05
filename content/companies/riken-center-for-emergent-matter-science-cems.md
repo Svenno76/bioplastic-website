@@ -19,12 +19,6 @@ draft: false
 
 The RIKEN Center for Emergent Matter Science (CEMS) conducts research on advanced bioplastic materials, focusing on biopolyesters produced by microorganisms and novel polymers from biomass resources. Their work includes molecular design methodologies to predict properties and efficient synthesis technologies for high-performance, environmentally conscious bioplastics. Recent developments feature supramolecular plastics that are strong, recyclable, and fully degradable in seawater to prevent m...
 
-### Company Information
-
-- **Type**: University
-- **Headquarters**: Wako, Japan
-- **Status**: Active
-
 ### Primary Materials
 
 Biopolyesters, bio-polythioesters, supramolecular polymers, biomass-based polymers
@@ -32,11 +26,6 @@ Biopolyesters, bio-polythioesters, supramolecular polymers, biomass-based polyme
 ### Market Segments
 
 Packaging
-
-### Connect
-
-- **Website**: [RIKEN Center for Emergent Matter Science (CEMS)](https://www.riken.jp/en/research/labs/cems/)
-
 
 ---
 

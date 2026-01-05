@@ -19,12 +19,6 @@ draft: false
 
 ALPLA is a global leader in plastic packaging solutions, specializing in blow-moulded bottles, caps, injection-moulded parts, preforms, and tubes for various industries. The company emphasizes sustainability through its recycling division ALPLArecycling, processing rPET and rHDPE, and develops bio-based and biodegradable alternatives, including majority ownership of Paboco for paper bottles in series production since 2024. With 200 production sites in 46 countries, ALPLA focuses on innovative...
 
-### Company Information
-
-- **Type**: Converter
-- **Headquarters**: Hard, Austria
-- **Status**: Active
-
 ### Primary Materials
 
 rPET, rHDPE, bio-based materials, biodegradable plastics
@@ -32,11 +26,6 @@ rPET, rHDPE, bio-based materials, biodegradable plastics
 ### Market Segments
 
 packaging (food, beverage, cosmetics, home care, pharmaceuticals)
-
-### Connect
-
-- **Website**: [ALPLA](https://www.alpla.com/en)
-
 
 ---
 

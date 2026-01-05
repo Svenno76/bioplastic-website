@@ -11,6 +11,12 @@ primary_materials: Bio-PE
 market_segments: Packaging, Automotive, Textiles
 publicly_listed: true
 stock_ticker: B3:BRKM5
+employees: "5,400+"
+annual_turnover: "$16.4B"
+production_capacity:
+  - biopolymer: "I'm green Bio-PE"
+    capacity: "240,000 tons/year"
+    location: "Triunfo, Rio Grande do Sul, Brazil"
 date: '2026-01-02'
 draft: false
 ---
@@ -19,13 +25,6 @@ draft: false
 
 Brazilian petrochemical company producing I'm green bio-PE from sugarcane ethanol. World's leading producer of bio-based polyethylene for packaging applications.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: São Paulo, Brazil
-- **Status**: Active
-- **Stock Ticker**: B3:BRKM5
-
 ### Primary Materials
 
 Bio-PE
@@ -33,14 +32,6 @@ Bio-PE
 ### Market Segments
 
 Packaging, Automotive, Textiles
-
-### Connect
-
-- **Website**: [Braskem](https://www.braskem.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/Braskem)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/braskem)
-- **YouTube**: [Subscribe](https://www.youtube.com/@BraskemOfficial)
-- **Instagram**: [Follow](https://instagram.com/https://www.instagram.com/braskem)
 
 ---
 

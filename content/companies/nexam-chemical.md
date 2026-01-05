@@ -20,13 +20,6 @@ draft: false
 
 Nexam Chemical is a global leader in polymer additives that enhance the performance, sustainability, and recyclability of plastics. The company specializes in developing innovative additive technologies for various polymer types, with a focus on circular solutions including Reactive Recycling®, Lightweighting, High Temperature, and Aesthetics. Nexam has partnered with biotech companies to develop bio-based foam solutions, particularly PLA foam that matches the performance of traditional EPS p...
 
-### Company Information
-
-- **Type**: Additive Producer
-- **Headquarters**: Lomma, Sweden
-- **Status**: Active
-- **Stock Ticker**: NEXAM
-
 ### Primary Materials
 
 PLA (polylactic acid), general polymer additives for multiple polymer types
@@ -34,11 +27,6 @@ PLA (polylactic acid), general polymer additives for multiple polymer types
 ### Market Segments
 
 Packaging, insulation, e-commerce, pipe manufacturing, foam production, high-performance plastics, food packaging
-
-### Connect
-
-- **Website**: [Nexam Chemical](https://www.nexamchemical.com)
-
 
 ---
 

@@ -20,12 +20,6 @@ draft: false
 
 German compounder producing biodegradable and bio-based plastic compounds. Develops customized bioplastic formulations for packaging, agriculture, and technical applications.
 
-### Company Information
-
-- **Type**: Compounder
-- **Headquarters**: Emmerich, Germany
-- **Status**: Active
-
 ### Primary Materials
 
 PLA, potato starch-based polymers, other biologically sourced polymers
@@ -33,11 +27,6 @@ PLA, potato starch-based polymers, other biologically sourced polymers
 ### Market Segments
 
 Packaging, pharmaceuticals, cosmetics, food industry, agriculture, healthcare, automotive
-
-### Connect
-
-- **Website**: [Biotec](https://www.biotec.de)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/biotec-bioplastics/)
 
 ---
 

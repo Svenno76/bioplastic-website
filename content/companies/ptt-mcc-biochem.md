@@ -10,6 +10,11 @@ primary_materials: BioPBS
 market_segments: Packaging
 publicly_listed: false
 stock_ticker: .nan
+employees: "200+"
+production_capacity:
+  - biopolymer: "BioPBS"
+    capacity: "10,000 tons/year"
+    location: "Rayong, Thailand"
 date: '2026-01-02'
 draft: false
 ---
@@ -18,12 +23,6 @@ draft: false
 
 Thai-Japanese joint venture producing BioPBS biodegradable polyester. Manufactures bio-based succinic acid and PBS for compostable plastics applications.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Bangkok, Thailand
-- **Status**: Active
-
 ### Primary Materials
 
 BioPBS
@@ -31,11 +30,6 @@ BioPBS
 ### Market Segments
 
 Packaging
-
-### Connect
-
-- **Website**: [PTT MCC Biochem](https://www.pttmcc.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/ptt-mcc-biochem-co-ltd)
 
 ---
 

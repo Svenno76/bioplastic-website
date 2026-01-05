@@ -18,12 +18,6 @@ draft: false
 
 Carbon Cell develops a patent-pending, plastic-free expandable foam made from biochar and natural binders as a carbon-negative alternative to conventional polymer foams like EPS, EPP, and PUR/PIR. The material is lightweight, strong, thermally insulative, fully compostable, and serves as a drop-in replacement for existing manufacturing lines, locking in carbon for centuries. It targets persistent plastic waste issues in foams used for packaging and insulation.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: London, United Kingdom
-- **Status**: Active
-
 ### Primary Materials
 
 Biochar-based foam, natural polymers
@@ -31,11 +25,6 @@ Biochar-based foam, natural polymers
 ### Market Segments
 
 packaging, insulation
-
-### Connect
-
-- **Website**: [Carbon Cell](https://www.carboncell.co)
-
 
 ---
 

@@ -20,13 +20,6 @@ draft: false
 
 SABIC is a global leader in chemicals, plastics, and agri-nutrients, headquartered in Riyadh. The company produces a wide range of products, including engineering plastics and derivatives, with a strong focus on innovation and sustainability. While SABIC is best known for its petrochemicals, it has also developed bio-based and renewable solutions, such as certified renewable polyolefins, as part of its commitment to sustainable materials.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Riyadh, Saudi Arabia
-- **Status**: Active
-- **Stock Ticker**: Tadawul:2010
-
 ### Primary Materials
 
 Bio-based polyolefins (e.g., bio-PE, bio-PP), engineering plastics (potentially including bio-based variants)
@@ -34,13 +27,6 @@ Bio-based polyolefins (e.g., bio-PE, bio-PP), engineering plastics (potentially 
 ### Market Segments
 
 Packaging, automotive, electrical and electronics, medical devices, construction, agriculture
-
-### Connect
-
-- **Website**: [SABIC](https://www.sabic.com/en)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/SABIC_Careers)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/sabic)
-- **YouTube**: [Subscribe](https://www.youtube.com/@SABIC)
 
 ---
 

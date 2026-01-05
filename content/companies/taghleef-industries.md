@@ -18,12 +18,6 @@ draft: false
 
 Global film manufacturer producing bio-based BOPP films. Develops sustainable packaging solutions using renewable and recycled materials.
 
-### Company Information
-
-- **Type**: Converter
-- **Headquarters**: Dubai, United Arab Emirates
-- **Status**: Active
-
 ### Primary Materials
 
 PLA
@@ -31,11 +25,6 @@ PLA
 ### Market Segments
 
 Packaging, Labels, Graphic Arts
-
-### Connect
-
-- **Website**: [Taghleef Industries](https://www.ti-films.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/taghleef-industries/)
 
 ---
 

@@ -19,12 +19,6 @@ draft: false
 
 Austrian manufacturer of plastic recycling equipment and technologies. Develops machinery for processing post-consumer and post-industrial bioplastic waste.
 
-### Company Information
-
-- **Type**: Equipment Manufacturer
-- **Headquarters**: Ansfelden, Austria
-- **Status**: Active
-
 ### Products
 
 Recycling systems, shredders, grinders, extruders, and sorting equipment for processing post-consumer and post-industrial bioplastic waste
@@ -32,11 +26,6 @@ Recycling systems, shredders, grinders, extruders, and sorting equipment for pro
 ### Market Segments
 
 Packaging, automotive, textiles, medical, agriculture, plastics processing industry
-
-### Connect
-
-- **Website**: [EREMA](https://www.erema.com)
-
 
 ---
 

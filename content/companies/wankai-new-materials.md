@@ -11,6 +11,12 @@ primary_materials: PET, bio-based polyester resins, PCR-PET
 market_segments: packaging, films, fibers, photovoltaics
 publicly_listed: true
 stock_ticker: SZSE:301216
+employees: "2,000+"
+annual_turnover: "$1.2B"
+production_capacity:
+  - biopolymer: "Bio-based Polyester & PCR-PET"
+    capacity: "300,000 tons/year"
+    location: "Haining, Zhejiang, China"
 date: '2026-01-02'
 draft: false
 ---
@@ -38,13 +44,6 @@ Wankai is actively developing sustainable alternatives and has entered into a jo
 - Focus on circular economy and sustainable materials
 - Strategic partnership with European technology leaders
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Haining, China
-- **Status**: Active
-- **Stock Ticker**: SZSE:301216
-
 ### Primary Materials
 
 PET, bio-based polyester resins, PCR-PET
@@ -52,13 +51,6 @@ PET, bio-based polyester resins, PCR-PET
 ### Market Segments
 
 packaging, films, fibers, photovoltaics
-
-### Connect
-
-- **Website**: [Wankai New Materials](http://www.wkai.cc)
-- **Stock Exchange**: Shenzhen Stock Exchange (SZSE:301216)
-- **Headquarters**: Haining, China
-
 
 ---
 

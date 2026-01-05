@@ -14,6 +14,15 @@ market_segments: Packaging (organic waste bags, fruit and vegetable bags, carrie
   Coffee capsules
 publicly_listed: true
 stock_ticker: FWB:BAS
+employees: "111,000+"
+annual_turnover: "$97.5B"
+production_capacity:
+  - biopolymer: "Ecoflex (PBAT)"
+    capacity: "80,000 tons/year"
+    location: "Ludwigshafen, Germany"
+  - biopolymer: "Ecovio (PBAT/PLA blend)"
+    capacity: "50,000 tons/year"
+    location: "Ludwigshafen, Germany"
 date: '2026-01-02'
 draft: false
 ---
@@ -22,13 +31,6 @@ draft: false
 
 BASF SE is the world's largest chemical producer headquartered in Ludwigshafen, Germany, with extensive global operations. The company specializes in bioplastics such as Ecoflex and Ecovio, which are certified compostable polymers used in various applications including packaging and agricultural films. BASF focuses on sustainable plastic solutions, including biodegradable and bio-based polymers, and actively develops technologies for plastic waste management and recycling.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Ludwigshafen, Germany
-- **Status**: Active
-- **Stock Ticker**: FWB:BAS
-
 ### Primary Materials
 
 PBAT, PBAT blends, Ecoflex (fossil-based compostable polymer), Ecovio (compostable polymer blend of Ecoflex and PLA), PLA
@@ -36,14 +38,6 @@ PBAT, PBAT blends, Ecoflex (fossil-based compostable polymer), Ecovio (compostab
 ### Market Segments
 
 Packaging (organic waste bags, fruit and vegetable bags, carrier bags, compostable packaging), Agriculture (mulch films), Injection molding products, Coffee capsules
-
-### Connect
-
-- **Website**: [BASF SE](https://www.basf.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/BASF)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/basf)
-- **YouTube**: [Subscribe](https://www.youtube.com/@BASF)
-- **Instagram**: [Follow](https://instagram.com/https://www.instagram.com/basf)
 
 ---
 

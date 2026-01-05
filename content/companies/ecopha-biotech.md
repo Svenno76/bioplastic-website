@@ -1,6 +1,6 @@
 ---
 title: EcoPHA Biotech
-company_type: Biotechnology Company
+company_type: Brand
 headquarters: Bentley, Australia
 status: Active
 short_description: EcoPHA Biotech is a biotechnology company specializing in the production
@@ -10,6 +10,11 @@ website: https://ecopha.com
 primary_materials: PHA (Polyhydroxyalkanoate)
 market_segments: packaging, food service, industrial applications
 publicly_listed: false
+employees: "80+"
+production_capacity:
+  - biopolymer: "PHA"
+    capacity: "2,000 tons/year (planned)"
+    location: "Bentley, Western Australia"
 date: '2026-01-02'
 draft: false
 ---
@@ -43,13 +48,6 @@ EcoPHA Biotech targets the food service industry, packaging manufacturers, and i
 
 - **Terra Sol Studio**: Design and commercialization partner for PHA-based consumer products
 
-### Company Information
-
-- **Type**: Biotechnology Company
-- **Headquarters**: Bentley, Australia
-- **Status**: Active
-- **Primary Market**: Asia-Pacific and Global
-
 ### Primary Materials
 
 PHA (Polyhydroxyalkanoate)
@@ -57,10 +55,6 @@ PHA (Polyhydroxyalkanoate)
 ### Market Segments
 
 packaging, food service, industrial applications
-
-### Connect
-
-- **Website**: [EcoPHA Biotech](https://ecopha.com)
 
 ---
 

@@ -21,13 +21,6 @@ draft: false
 
 Isiah Enterprises, formerly Eco Bio Plastics and a division of One World Products, Inc., is a U.S.-based manufacturer specializing in renewable bioplastics and sustainable materials. The company produces compostable bioplastics used in food packaging, automotive parts, and consumer goods, leveraging proprietary pelletization technology to convert biomass and other renewable feedstocks into advanced composites. It focuses on scaling innovation in green manufacturing and expanding applications ...
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Troy, United States
-- **Status**: Active
-- **Stock Ticker**: OTC: OWPC
-
 ### Primary Materials
 
 Plant-based compostable bioplastics, specialty biopolymers, advanced composites from biomass, rubber, cellulose
@@ -35,11 +28,6 @@ Plant-based compostable bioplastics, specialty biopolymers, advanced composites 
 ### Market Segments
 
 Packaging (food containers, utensils, films), automotive components, consumer goods, reusable logistics products
-
-### Connect
-
-- **Website**: [Isiah Enterprises](https://owpv.com)
-
 
 ---
 

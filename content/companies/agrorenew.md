@@ -20,12 +20,6 @@ draft: false
 
 AgroRenew is an innovative bioplastic producer based in Indiana, specializing in creating 100% biodegradable plastics from agricultural food waste such as watermelon, cantaloupe, and pumpkin waste. Founded by Brian and Katie Southern, the company operates a cutting-edge facility that transforms crop waste into biosource resin polymers, aiming to reduce plastic's environmental footprint and foster a circular economy.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Vincennes, United States
-- **Status**: Active
-
 ### Primary Materials
 
 Biodegradable plastics derived from crop food waste including watermelon, cantaloupe, pumpkin, and other biosources
@@ -33,11 +27,6 @@ Biodegradable plastics derived from crop food waste including watermelon, cantal
 ### Market Segments
 
 Packaging, agriculture, sustainable consumer goods
-
-### Connect
-
-- **Website**: [AgroRenew](https://agrorenew.org)
-
 
 ---
 

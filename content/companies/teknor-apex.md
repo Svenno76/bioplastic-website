@@ -18,12 +18,6 @@ draft: false
 
 Teknor Apex is a leading custom compounder specializing in sustainable polymer solutions, including bioplastics and bio-based materials. The company offers a broad portfolio of thermoplastic elastomers, colorants, and functional concentrates designed for biodegradable and bio-based applications, with a focus on supporting circular economy goals.
 
-### Company Information
-
-- **Type**: Compounder
-- **Headquarters**: Pawtucket, United States
-- **Status**: Acquired
-
 ### Primary Materials
 
 PLA, PHA, Bio-based polyesters, PETek®
@@ -31,12 +25,6 @@ PLA, PHA, Bio-based polyesters, PETek®
 ### Market Segments
 
 Packaging, Consumer, Automotive, Medical, Industrial
-
-### Connect
-
-- **Website**: [Teknor Apex](https://www.teknorapex.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/teknor-apex)
-- **YouTube**: [Subscribe](https://www.youtube.com/@teknorapex)
 
 ---
 

@@ -19,13 +19,6 @@ technologies: Lightweight and sustainable materials technology
 
 FORVIA is an automotive technology group formed in 2022 from the merger of Faurecia and HELLA. The company develops sustainable materials and composites for automotive applications, including bio-based and recycled materials through its Materi'act brand. FORVIA specializes in biocomposite materials like NAFILean (hemp fiber composites) and natural fiber-reinforced polypropylene (NFPP) that reduce CO₂ emissions and weight in vehicle interiors and components.
 
-### Company Information
-
-- **Type**: Technology Company
-- **Headquarters**: Nanterre, France
-- **Status**: Active
-- **Stock Ticker**: EURONEXT:FRVIA
-
 ### Technologies
 
 Lightweight and sustainable materials technology
@@ -33,11 +26,6 @@ Lightweight and sustainable materials technology
 ### Market Segments
 
 Automotive (primary), vehicle interiors, seating, lighting, electronics, clean mobility
-
-### Connect
-
-- **Website**: [FORVIA](https://www.forvia.com/en)
-
 
 ---
 

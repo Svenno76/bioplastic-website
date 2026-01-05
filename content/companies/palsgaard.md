@@ -19,12 +19,6 @@ draft: false
 
 Danish producer of emulsifiers and functional additives. Develops bio-based additives for improving bioplastic processing and performance characteristics.
 
-### Company Information
-
-- **Type**: Additive Producer
-- **Headquarters**: Juelsminde, Denmark
-- **Status**: Active
-
 ### Primary Materials
 
 Plant-based emulsifiers and stabilizers, sustainable polymer additives including anti-static and anti-fog agents
@@ -32,11 +26,6 @@ Plant-based emulsifiers and stabilizers, sustainable polymer additives including
 ### Market Segments
 
 Food, packaging, polymers/plastics, personal care
-
-### Connect
-
-- **Website**: [Palsgaard](https://www.palsgaard.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/palsgaard)
 
 ---
 

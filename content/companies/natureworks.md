@@ -12,6 +12,11 @@ market_segments: Packaging, Food Serviceware, Health and Personal Care, Durable 
   (home, appliance, electronics), 3D Printing
 publicly_listed: false
 stock_ticker: .nan
+employees: "700+"
+production_capacity:
+  - biopolymer: "PLA (Ingeo)"
+    capacity: "140,000 tons/year"
+    location: "Blair, Nebraska, USA"
 date: '2026-01-02'
 draft: false
 ---
@@ -20,12 +25,6 @@ draft: false
 
 Leading producer of Ingeo PLA (polylactic acid) biopolymer made from renewable resources. Offers bio-based, compostable solutions for packaging, fibers, and durable goods applications.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Plymouth, United States
-- **Status**: Active
-
 ### Primary Materials
 
 PLA (Polylactic Acid)
@@ -33,11 +32,6 @@ PLA (Polylactic Acid)
 ### Market Segments
 
 Packaging, Food Serviceware, Health and Personal Care, Durable Products (home, appliance, electronics), 3D Printing
-
-### Connect
-
-- **Website**: [NatureWorks](https://www.natureworksllc.com)
-
 
 ---
 

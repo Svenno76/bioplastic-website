@@ -19,12 +19,6 @@ technologies: Antimicrobial coating technology
 
 SaniSure is a global leader in designing, developing, and manufacturing single-use solutions for the bioprocessing industry, specializing in custom assemblies, bottles, tubing, fittings, and integrated systems for aseptic transfer, mixing, filling, and storage. Their products are engineered to reduce contamination risk, eliminate cleaning validation, and protect product integrity in critical biopharmaceutical applications. SaniSure offers both off-the-shelf and custom-fabricated solutions usi...
 
-### Company Information
-
-- **Type**: Technology Company
-- **Headquarters**: Camarillo, United States
-- **Status**: Active
-
 ### Technologies
 
 Antimicrobial coating technology
@@ -32,11 +26,6 @@ Antimicrobial coating technology
 ### Market Segments
 
 Medical, biopharmaceutical, vaccine manufacturing, cell and gene therapy
-
-### Connect
-
-- **Website**: [SaniSure](https://sanisure.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/sanisure)
 
 ---
 

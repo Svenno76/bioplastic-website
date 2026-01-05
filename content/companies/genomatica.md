@@ -18,12 +18,6 @@ technologies: Synthetic biology and fermentation technology
 
 Genomatica is a biotechnology company specializing in the development and licensing of biological manufacturing processes for sustainable chemicals and materials. The company focuses on producing plant-based alternatives to fossil fuel-derived chemicals, such as 1,4-Butanediol (BDO), which are used in bioplastics and other applications. Genomatica partners with major brands to enable more sustainable production across industries.
 
-### Company Information
-
-- **Type**: Technology Company
-- **Headquarters**: San Diego, United States
-- **Status**: Active
-
 ### Technologies
 
 Synthetic biology and fermentation technology
@@ -31,11 +25,6 @@ Synthetic biology and fermentation technology
 ### Market Segments
 
 Textiles, Packaging, Personal Care, Automotive, Cosmetics
-
-### Connect
-
-- **Website**: [Genomatica](https://www.genomatica.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/genomatica)
 
 ---
 

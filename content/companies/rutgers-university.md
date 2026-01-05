@@ -20,12 +20,6 @@ draft: false
 
 Rutgers University is a research institution conducting advanced research in bioplastics and sustainable materials. Key initiatives include developing biodegradable polymers for medical applications, creating plant-based food packaging coatings, and engineering plastics that self-destruct at programmed speeds. The university also hosts spin-out companies like RenewCO2 that commercialize bioplastic technologies.
 
-### Company Information
-
-- **Type**: University
-- **Headquarters**: New Brunswick, United States
-- **Status**: Active
-
 ### Primary Materials
 
 Biodegradable polymers, plant-based biopolymers, polymer-peptide conjugates, carbon-derived plastic monomers
@@ -33,11 +27,6 @@ Biodegradable polymers, plant-based biopolymers, polymer-peptide conjugates, car
 ### Market Segments
 
 Medical devices, tissue engineering, food packaging, pharmaceutical delivery systems
-
-### Connect
-
-- **Website**: [Rutgers University](https://www.rutgers.edu)
-
 
 ---
 

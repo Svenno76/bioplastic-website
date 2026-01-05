@@ -18,12 +18,6 @@ draft: false
 
 German manufacturer of compounding and extrusion systems. Provides processing equipment for bioplastic production, compounding, and material handling.
 
-### Company Information
-
-- **Type**: Equipment Manufacturer
-- **Headquarters**: Stuttgart, Germany
-- **Status**: Acquired
-
 ### Products
 
 Compounding systems, extrusion equipment, and material handling systems for bioplastic production and processing
@@ -31,12 +25,6 @@ Compounding systems, extrusion equipment, and material handling systems for biop
 ### Market Segments
 
 Plastics, chemical, food processing, pharmaceutical, aluminum, recycling
-
-### Connect
-
-- **Website**: [Coperion](https://www.coperion.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/coperion)
-- **YouTube**: [Subscribe](https://www.youtube.com/user/CoperionGroup)
 
 ---
 

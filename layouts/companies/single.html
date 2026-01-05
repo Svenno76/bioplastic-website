@@ -29,9 +29,17 @@
         <div style="display: flex; gap: 1rem; align-items: start; margin-bottom: 1rem; flex-wrap: wrap;">
           <h1 style="font-size: 2.5rem; margin: 0; font-weight: 700; flex: 1;">{{ .Title }}</h1>
           {{ if .Params.company_type }}
-          <div style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
-            {{ .Params.company_type }}
-          </div>
+            {{ if reflect.IsSlice .Params.company_type }}
+              {{ range .Params.company_type }}
+              <div style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
+                {{ . }}
+              </div>
+              {{ end }}
+            {{ else }}
+            <div style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
+              {{ .Params.company_type }}
+            </div>
+            {{ end }}
           {{ end }}
           {{ if .Params.status }}
           <div style="background: {{ if eq .Params.status "Active" }}rgba(34,197,94,0.3){{ else }}rgba(107,114,128,0.3){{ end }}; color: {{ if eq .Params.status "Active" }}#86efac{{ else }}#d1d5db{{ end }}; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
@@ -66,6 +74,13 @@
           <div>
             <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Employees</div>
             <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">👥 {{ .Params.employees }}</div>
+          </div>
+          {{ end }}
+
+          {{ if .Params.annual_turnover }}
+          <div>
+            <div style="font-size: 0.85rem; opacity: 0.8; text-transform: uppercase; letter-spacing: 0.5px;">Annual Turnover</div>
+            <div style="font-size: 1.1rem; font-weight: 600; margin-top: 0.25rem;">💰 {{ .Params.annual_turnover }}</div>
           </div>
           {{ end }}
         </div>
@@ -122,6 +137,22 @@
     </div>
     {{ end }}
   </div>
+
+  <!-- Bioplastic Producers - Production Capacity by Biopolymer -->
+  {{ if and (eq .Params.company_type "Bioplastic Producer") .Params.production_capacity }}
+  <div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #22c55e; padding: 2rem; border-radius: 8px; margin-bottom: 2rem;">
+    <h2 style="color: #166534; margin-bottom: 1.5rem; font-size: 1.5rem; font-weight: 600;">⚙️ Production Capacity by Biopolymer</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+      {{ range .Params.production_capacity }}
+      <div style="background: white; padding: 1.5rem; border-radius: 8px; border: 1px solid #bbf7d0;">
+        <h3 style="color: #166534; margin-bottom: 0.5rem; font-size: 1.1rem; font-weight: 600;">{{ .biopolymer }}</h3>
+        <p style="color: #475569; margin: 0.75rem 0;"><strong>Capacity:</strong> {{ .capacity }}</p>
+        <p style="color: #475569; margin: 0;"><strong>Location:</strong> {{ .location }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
   
   <!-- Main Content -->
   <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; margin-bottom: 2rem;">
@@ -213,36 +244,12 @@
           View News →
         </a>
       </div>
-
-      <!-- Company Summary -->
-      <div style="background: linear-gradient(135deg, #f5f3ff 0%, #f0e7fe 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #e9d5ff;">
-        <h3 style="color: #6b21a8; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">ℹ️ Company Info</h3>
-        <dl style="margin: 0; font-size: 0.9rem;">
-          {{ if .Params.company_type }}
-          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Type</dt>
-          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ .Params.company_type }}</dd>
-          {{ end }}
-          {{ if .Params.headquarters }}
-          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Headquarters</dt>
-          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ .Params.headquarters }}</dd>
-          {{ end }}
-          {{ if .Params.status }}
-          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Status</dt>
-          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ .Params.status }}</dd>
-          {{ end }}
-          {{ if .Params.publicly_listed }}
-          <dt style="color: #6b7280; font-weight: 600; margin-top: 0.75rem;">Publicly Listed</dt>
-          <dd style="color: #475569; margin: 0.25rem 0 0 0;">{{ if .Params.publicly_listed }}Yes{{ else }}No{{ end }}</dd>
-          {{ end }}
-        </dl>
-      </div>
     </aside>
   </div>
   
   <!-- Navigation -->
   <div style="display: flex; justify-content: space-between; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
     <a href="/companies/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Company Profiles</a>
-    <a href="/glossary/{{ .Title | urlize }}/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">View in Glossary →</a>
   </div>
 </div>
 

@@ -10,6 +10,14 @@ primary_materials: PHA (Nodax™), PLA
 market_segments: Packaging, food service, agriculture, adhesives, consumer products
 publicly_listed: true
 stock_ticker: NASDAQ:DNMR
+employees: "150+"
+production_capacity:
+  - biopolymer: "PHA (Nodax)"
+    capacity: "2,500 tons/year"
+    location: "Bainbridge, Georgia, USA"
+  - biopolymer: "PHA (Nodax) - Expansion"
+    capacity: "13,500 tons/year (planned)"
+    location: "Winchester, Kentucky, USA"
 date: '2026-01-02'
 draft: false
 ---
@@ -18,13 +26,6 @@ draft: false
 
 Manufactures Nodax PHA (polyhydroxyalkanoate) biodegradable biopolymers. Develops compostable and marine-degradable solutions for single-use plastics and packaging applications.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Bainbridge, United States
-- **Status**: Active
-- **Stock Ticker**: NASDAQ:DNMR
-
 ### Primary Materials
 
 PHA (Nodax™), PLA
@@ -32,13 +33,6 @@ PHA (Nodax™), PLA
 ### Market Segments
 
 Packaging, food service, agriculture, adhesives, consumer products
-
-### Connect
-
-- **Website**: [Danimer Scientific](https://www.danimerscientific.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/DanimerScientif)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/danimer-scientific)
-- **YouTube**: [Subscribe](https://www.youtube.com/@DanimerScientific)
 
 ---
 

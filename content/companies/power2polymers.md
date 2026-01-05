@@ -18,12 +18,6 @@ technologies: CO2-based polymer technology
 
 Power2Polymers pioneers sustainable, high-performance polymer products for specialty applications including lubricants, industrial adhesives, and sealants. The company leverages innovative EU and US-patented technology that integrates a novel building block called Polyoxymethylene (POM) into base polymers, reducing product carbon footprint by 40% while offering performance advantages such as better material compatibility and potential alternatives to harmful PFAS chemicals.
 
-### Company Information
-
-- **Type**: Technology Company
-- **Headquarters**: Aachen, Germany
-- **Status**: Active
-
 ### Technologies
 
 CO2-based polymer technology
@@ -31,11 +25,6 @@ CO2-based polymer technology
 ### Market Segments
 
 Lubricants, industrial adhesives, sealants, packaging, coatings
-
-### Connect
-
-- **Website**: [Power2Polymers](https://www.power2polymers.com)
-
 
 ---
 

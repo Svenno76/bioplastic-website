@@ -20,12 +20,6 @@ technologies: Green chemistry technology
 
 P2 Science is a green chemistry technology company that develops proprietary processes like PIOz™ and PICE to convert renewable feedstocks such as pine tree oil and algae-derived oils into high-performance chemical intermediates and sustainable liquid polymers. These biobased materials serve as alternatives to petroleum-based ingredients in personal care, performance materials, and polymers, enabling biodegradable polyurethanes and other eco-friendly solutions. The company focuses on industri...
 
-### Company Information
-
-- **Type**: Technology Company
-- **Headquarters**: Woodbridge, United States
-- **Status**: Active
-
 ### Technologies
 
 Green chemistry technology
@@ -33,11 +27,6 @@ Green chemistry technology
 ### Market Segments
 
 personal care, cosmetics, fragrances, performance materials, textiles, footwear, apparel, coatings, adhesives
-
-### Connect
-
-- **Website**: [P2 Science](https://p2science.com)
-
 
 ---
 

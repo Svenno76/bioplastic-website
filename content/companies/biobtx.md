@@ -19,12 +19,6 @@ technologies: Renewable aromatic production technology
 
 BioBTX is a chemical technology development company based in Groningen, Netherlands, specializing in the production of renewable and biobased aromatic chemicals (BTX: benzene, toluene, xylenes) from waste plastics and biomass. The company has developed an integrated catalytic pyrolysis process that converts circular feedstocks into drop-in chemical building blocks, enabling a transition away from fossil-based resources in the chemical industry.
 
-### Company Information
-
-- **Type**: Technology Company
-- **Headquarters**: Groningen, Netherlands
-- **Status**: Active
-
 ### Technologies
 
 Renewable aromatic production technology
@@ -32,11 +26,6 @@ Renewable aromatic production technology
 ### Market Segments
 
 Chemical industry, petrochemical products (40% of all petrochemical products worldwide use BTX as building blocks)
-
-### Connect
-
-- **Website**: [BioBTX](https://biobtx.com)
-
 
 ---
 

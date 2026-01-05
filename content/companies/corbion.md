@@ -11,6 +11,15 @@ market_segments: Packaging, food and beverage, agriculture, medical devices, ele
   home & personal care, pharmaceuticals, bioplastics
 publicly_listed: true
 stock_ticker: Euronext:CRBN
+employees: "650+"
+annual_turnover: "$1.1B"
+production_capacity:
+  - biopolymer: "Lactic Acid (for PLA)"
+    capacity: "130,000 tons/year"
+    location: "Lauingen, Germany"
+  - biopolymer: "Lactide (PLA precursor)"
+    capacity: "50,000 tons/year"
+    location: "Oost-Gelderse, Netherlands"
 date: '2026-01-02'
 draft: false
 ---
@@ -19,13 +28,6 @@ draft: false
 
 Producer of high-purity lactic acid and lactide monomers for PLA production. Partners with Total Corbion PLA for large-scale bioplastics manufacturing.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Amsterdam, Netherlands
-- **Status**: Active
-- **Stock Ticker**: Euronext:CRBN
-
 ### Primary Materials
 
 PLA (Polylactic Acid), lactic acid and derivatives
@@ -33,13 +35,6 @@ PLA (Polylactic Acid), lactic acid and derivatives
 ### Market Segments
 
 Packaging, food and beverage, agriculture, medical devices, electronics, home & personal care, pharmaceuticals, bioplastics
-
-### Connect
-
-- **Website**: [Corbion](https://www.corbion.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/Corbion)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/corbion/)
-- **YouTube**: [Subscribe](https://www.youtube.com/@CorbionOfficial)
 
 ---
 

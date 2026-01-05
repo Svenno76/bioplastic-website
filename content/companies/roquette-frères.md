@@ -8,6 +8,15 @@ short_description: Roquette Frères is a global leader in plant-based ingredient
 website: https://www.roquette.com
 primary_materials: Starch-based bioplastics
 market_segments: Packaging, Automotive, Textiles
+employees: "5,000+"
+annual_turnover: "$3.8B"
+production_capacity:
+  - biopolymer: "Starch-based bioplastics"
+    capacity: "60,000 tons/year"
+    location: "Lestrem, France (main)"
+  - biopolymer: "Starch-based bioplastics"
+    capacity: "40,000 tons/year"
+    location: "Other European facilities"
 date: 2026-01-02
 draft: false
 ---
@@ -16,12 +25,6 @@ draft: false
 
 Roquette Frères is a global leader in plant-based ingredients, offering innovative solutions for various industries. They produce over 650 by-products from starch extracted from corn, wheat, potatoes, and peas. Their bioplastic-related activities focus on sustainable materials like biodegradable plastics and recyclable plastics.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Lestrem, France
-- **Status**: Active
-
 ### Primary Materials
 
 Starch-based bioplastics
@@ -29,13 +32,6 @@ Starch-based bioplastics
 ### Market Segments
 
 Packaging, Automotive, Textiles
-
-### Connect
-
-- **Website**: [Roquette Frères](https://www.roquette.com)
-- **Twitter**: [Follow](https://twitter.com/RoquetteGroup)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/roquette/)
-- **YouTube**: [Subscribe](https://www.youtube.com/@RoquetteGroup)
 
 ---
 

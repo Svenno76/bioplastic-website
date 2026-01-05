@@ -12,6 +12,15 @@ market_segments: Packaging, consumer goods, automotive, electronics, medical, an
   other industries requiring durable and sustainable plastic materials
 publicly_listed: true
 stock_ticker: TSE:4188
+employees: "36,000+"
+annual_turnover: "$60.8B"
+production_capacity:
+  - biopolymer: "BioPBS"
+    capacity: "30,000 tons/year"
+    location: "Yokkaichi, Japan (main production)"
+  - biopolymer: "BioPBS"
+    capacity: "10,000 tons/year"
+    location: "PTT MCC Biochem, Thailand (joint venture)"
 date: '2026-01-02'
 draft: false
 ---
@@ -20,13 +29,6 @@ draft: false
 
 Produces BioPBS (polybutylene succinate) biodegradable polyester. Offers bio-based and compostable solutions for packaging, agricultural, and industrial applications.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Tokyo, Japan
-- **Status**: Active
-- **Stock Ticker**: TSE:4188
-
 ### Primary Materials
 
 BioPBS (bio-based polybutylene succinate), DURABIO (bio-based engineering plastic from plant-derived isosorbide)
@@ -34,13 +36,6 @@ BioPBS (bio-based polybutylene succinate), DURABIO (bio-based engineering plasti
 ### Market Segments
 
 Packaging, consumer goods, automotive, electronics, medical, and other industries requiring durable and sustainable plastic materials
-
-### Connect
-
-- **Website**: [Mitsubishi Chemical](https://www.mcgc.com)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/MitsubishiChem)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/mitsubishi-chemical-corporation/)
-- **YouTube**: [Subscribe](https://www.youtube.com/user/MitsubishiChemical)
 
 ---
 

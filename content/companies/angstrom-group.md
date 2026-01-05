@@ -19,12 +19,6 @@ draft: false
 
 Angstrom Group specializes in designing, building, and installing modular cleanrooms tailored for various industries including plastics, biopharmaceuticals, and medical research. Their cleanrooms support controlled environments essential for high-quality plastic manufacturing and biopharma production, offering customizable solutions such as HardWall and RigidWall cleanrooms with ISO Class 5-8 classifications.
 
-### Company Information
-
-- **Type**: Equipment Manufacturer
-- **Headquarters**: Grand Rapids, United States
-- **Status**: Active
-
 ### Products
 
 Modular cleanrooms (HardWall and RigidWall systems with ISO Class 5-8 classifications) designed for controlled high-quality bioplastic manufacturing environments
@@ -32,11 +26,6 @@ Modular cleanrooms (HardWall and RigidWall systems with ISO Class 5-8 classifica
 ### Market Segments
 
 Biopharmaceutical, plastics manufacturing, medical research, automotive, aerospace
-
-### Connect
-
-- **Website**: [Angstrom Group](https://angstromtechnology.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/angstrom-technology/)
 
 ---
 

@@ -12,6 +12,11 @@ market_segments: Packaging, flexible films, coatings, non-woven materials, agric
   products such as biodegradable tree shelters
 publicly_listed: false
 stock_ticker: AIM:BIOM
+employees: "90+"
+production_capacity:
+  - biopolymer: "Starch-based Bioplastics"
+    capacity: "5,000 tons/year"
+    location: "Southampton, United Kingdom"
 date: '2026-01-02'
 draft: false
 ---
@@ -20,12 +25,6 @@ draft: false
 
 UK-based developer of biodegradable and bio-based plastics. Produces bioplastic resins for packaging, horticulture, and consumer products with enhanced environmental credentials.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Southampton, United Kingdom
-- **Status**: Active
-
 ### Primary Materials
 
 Starch-based bioplastics, biodegradable polymers, high temperature bioplastics, custom blends
@@ -33,12 +32,6 @@ Starch-based bioplastics, biodegradable polymers, high temperature bioplastics, 
 ### Market Segments
 
 Packaging, flexible films, coatings, non-woven materials, agricultural products such as biodegradable tree shelters
-
-### Connect
-
-- **Website**: [Biome Bioplastics](https://www.biomebioplastics.com)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/biome-bioplastics)
-- **YouTube**: [Subscribe](https://www.youtube.com/@biomebioplastics)
 
 ---
 

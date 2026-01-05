@@ -11,6 +11,11 @@ market_segments: Packaging, agriculture, automotive, fashion, cosmetics, pharmac
   electronics
 publicly_listed: false
 stock_ticker: AIM:ON
+employees: "80+"
+production_capacity:
+  - biopolymer: "PHA (MICROMALT)"
+    capacity: "5,000 tons/year (planned expansion)"
+    location: "Bologna, Italy"
 date: '2026-01-02'
 draft: false
 ---
@@ -19,12 +24,6 @@ draft: false
 
 Italian company developing PHA bioplastics from agricultural waste. Focuses on biodegradable and compostable solutions for packaging and consumer goods.
 
-### Company Information
-
-- **Type**: Bioplastic Producer
-- **Headquarters**: Bologna, Italy
-- **Status**: Active
-
 ### Primary Materials
 
 Polyhydroxyalkanoates (PHA)
@@ -32,13 +31,6 @@ Polyhydroxyalkanoates (PHA)
 ### Market Segments
 
 Packaging, agriculture, automotive, fashion, cosmetics, pharmaceuticals, electronics
-
-### Connect
-
-- **Website**: [Bio-On](https://www.bio-on.it)
-- **Twitter**: [Follow](https://twitter.com/https://twitter.com/BioOnBioplastic)
-- **LinkedIn**: [View Profile](https://www.linkedin.com/company/bio-on-s-p-a-)
-- **YouTube**: [Subscribe](https://www.youtube.com/@BioOnBioplastic)
 
 ---
 

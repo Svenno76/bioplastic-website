@@ -19,12 +19,6 @@ draft: false
 
 FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING GROUP, specializing in the research, design, and manufacture of continuous mixing systems like the FCM™ for the polymer processing industry. They focus on compounding equipment for biodegradable plastics such as PLA, PHA, and PBS, addressing challenges like shear sensitivity and hydrolysis while maintaining polymer integrity. Their technology supports sustainable applications including mechanical and chemical recycling, pyrolysi...
 
-### Company Information
-
-- **Type**: Equipment Manufacturer
-- **Headquarters**: Ansonia, United States
-- **Status**: Active
-
 ### Products
 
 Continuous mixing systems (FCM™) and compounding equipment specifically designed for biodegradable plastics processing including PLA, PHA, and PBS, supporting applications in mechanical and chemical recycling
@@ -32,11 +26,6 @@ Continuous mixing systems (FCM™) and compounding equipment specifically design
 ### Market Segments
 
 packaging, recycling
-
-### Connect
-
-- **Website**: [Farrel Pomini](https://www.farrel-pomini.com)
-
 
 ---
 
