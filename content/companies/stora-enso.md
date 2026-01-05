@@ -3,7 +3,7 @@ title: Stora Enso
 company_type: Raw Material Supplier
 headquarters: Helsinki, Finland & Stockholm, Sweden
 status: Active
-short_description: Leading renewable materials company pioneering PEF bioplastics through proprietary FuraCore technology producing FDCA and HMF derivatives from fructose. EUBP member.
+short_description: Leading renewable materials company pioneering PEF bioplastics through proprietary FuraCore technology producing FDCA and HMF derivatives from fructose..
 website: https://www.storaenso.com
 primary_materials: FDCA (Furan-dicarboxylic acid), HMF (5-hydroxymethylfurfural), PEF (Polyethylene furanoate), renewable bio-based chemicals
 market_segments: Packaging, biomaterials, specialty polymers, coatings, fuel additives, sustainable packaging materials
@@ -25,7 +25,7 @@ draft: false
 
 Stora Enso is a leading provider of renewable products in packaging, biomaterials, wooden construction and paper, headquartered in both Helsinki, Finland and Stockholm, Sweden. Formed in 1998 through the merger of the Finnish company Enso Oyj and the Swedish company Stora AB, the company employs approximately 19,000 people in more than 35 countries worldwide. With annual revenue of €9 billion in 2024, Stora Enso is at the forefront of transforming the industry from fossil-based materials to renewable solutions.
 
-As a member of European Bioplastics (EUBP), Stora Enso is pioneering the development of PEF (polyethylene furanoate), a next-generation bio-based plastic that challenges conventional PET in packaging applications. The company's proprietary FuraCore technology represents a breakthrough in converting renewable feedstocks into advanced chemical building blocks for bioplastics and specialty materials.
+Stora Enso is pioneering the development of PEF (polyethylene furanoate), a next-generation bio-based plastic that challenges conventional PET in packaging applications. The company's proprietary FuraCore technology represents a breakthrough in converting renewable feedstocks into advanced chemical building blocks for bioplastics and specialty materials.
 
 ### Primary Materials
 

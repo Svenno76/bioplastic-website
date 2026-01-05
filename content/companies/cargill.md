@@ -3,7 +3,7 @@ title: Cargill
 company_type: Raw Material Supplier
 headquarters: Minnetonka, Minnesota, USA
 status: Active
-short_description: American multinational food corporation and leading supplier of renewable raw materials from corn, soybeans, rapeseed and seaweed for bio-based plastics. EUBP member.
+short_description: American multinational food corporation and leading supplier of renewable raw materials from corn, soybeans, rapeseed and seaweed for bio-based plastics..
 website: https://www.cargill.com
 primary_materials: Renewable feedstocks (corn, soybeans, rapeseed, seaweed), bio-based raw materials for engineering plastics, lactic acid precursors, plant-based polymers
 market_segments: Engineering plastics, bio-based plastics, bioindustrial solutions, packaging materials, sustainable feedstocks, circular economy
@@ -20,7 +20,7 @@ draft: false
 
 ## Overview
 
-Cargill is an American multinational food corporation headquartered in Minnetonka, Minnesota, founded in 1865 by William Wallace Cargill. As the largest privately held company in the United States in terms of revenue, Cargill employs over 160,000 people in 66 countries and reported gross revenues of $165 billion in 2022. The company is a member of European Bioplastics (EUBP) in the "Renewable raw material" category, playing a crucial role in supplying sustainable feedstocks for the bioplastics industry.
+Cargill is an American multinational food corporation headquartered in Minnetonka, Minnesota, founded in 1865 by William Wallace Cargill. As the largest privately held company in the United States in terms of revenue, Cargill employs over 160,000 people in 66 countries and reported gross revenues of $165 billion in 2022. 
 
 Cargill has maintained a strong presence in Belgium since 1953, currently employing over 1,000 employees across eight locations: Antwerp (two locations), Izegem, Ghent, Herent, Vilvoorde, Mechelen, and Mouscron. This European footprint enables Cargill to serve the growing demand for renewable raw materials in the European bioplastics market.
 
@@ -58,8 +58,6 @@ Cargill's bioindustrial division focuses on converting renewable agricultural fe
 ### European Operations
 
 **Belgium Hub**: Cargill's Belgian operations serve as a key European hub for renewable raw materials, with eight facilities supporting various aspects of the agricultural processing and bioindustrial value chain. The company has provided value to Belgian customers since 1953, demonstrating long-term commitment to European markets.
-
-**EUBP Membership**: As a member of European Bioplastics, Cargill actively engages with industry stakeholders to advance the adoption of bio-based materials and supports the development of sustainable plastics policies and standards.
 
 ### Sustainability Initiatives
 

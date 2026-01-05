@@ -3,7 +3,7 @@ title: Sukano AG
 company_type: Additive Producer
 headquarters: Schindellegi, Switzerland
 status: Active
-short_description: Family-owned world leader in colour and additive masterbatches for polyester and specialty resins, with specialized PLA and bioplastics solutions. EUBP member.
+short_description: Family-owned world leader in colour and additive masterbatches for polyester and specialty resins, with specialized PLA and bioplastics solutions..
 website: https://www.sukano.com
 primary_materials: Colour masterbatches, additive masterbatches, compounds for polyester (PET, rPET), PLA masterbatches, antiblock additives for BOPLA, bioplastic additives
 market_segments: Packaging, durable goods, building and construction, healthcare, textiles, compostable packaging, bioplastics processing
@@ -15,7 +15,7 @@ draft: false
 
 ## Overview
 
-Sukano AG is a family-owned company headquartered in Schindellegi, Switzerland, founded in 1988. The company is a world leader in the development and production of additive and colour masterbatches and compounds for polyester and specialty resins. As a member of European Bioplastics (EUBP), Sukano plays a crucial role in the bioplastics supply chain by providing specialized masterbatch solutions that enable processors to optimize the performance and aesthetics of bio-based and biodegradable materials.
+Sukano AG is a family-owned company headquartered in Schindellegi, Switzerland, founded in 1988. The company is a world leader in the development and production of additive and colour masterbatches and compounds for polyester and specialty resins. Sukano plays a crucial role in the bioplastics supply chain by providing specialized masterbatch solutions that enable processors to optimize the performance and aesthetics of bio-based and biodegradable materials.
 
 With manufacturing facilities strategically located in Switzerland, the USA, and Malaysia, Sukano maintains a global presence while delivering technical expertise and innovative solutions to bioplastics manufacturers worldwide.
 
@@ -67,7 +67,7 @@ This global footprint ensures consistent product quality, reliable supply, and l
 
 ### Sustainability Commitment
 
-As an EUBP member and specialist in bioplastics masterbatches, Sukano actively contributes to the transition from fossil-based to renewable packaging materials. The company's products enable the broader adoption of PLA and other bioplastics by solving technical challenges and enhancing performance characteristics.
+Sukano actively contributes to the transition from fossil-based to renewable packaging materials. The company's products enable the broader adoption of PLA and other bioplastics by solving technical challenges and enhancing performance characteristics.
 
 ---
 

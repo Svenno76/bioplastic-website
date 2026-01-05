@@ -3,7 +3,7 @@ title: Asahi Kasei Corporation
 company_type: Bioplastic Producer
 headquarters: Tokyo, Japan
 status: Active
-short_description: Multinational Japanese chemical company producing bio-based chemicals and bioplastics through Revolefin technology. EUBP member since 2022.
+short_description: Multinational Japanese chemical company producing bio-based chemicals and bioplastics through Revolefin technology..
 website: https://www.asahi-kasei.com
 primary_materials: Bio-based chemicals from bioethanol (Revolefin technology), Polyacetal (POM), Polyamide (PA, nylon), Modified Polyphenylene Ether (PPE), bio-based plastics
 market_segments: Automotive, electronics, construction materials, medical devices, pharmaceuticals, packaging, engineering plastics
@@ -19,7 +19,7 @@ draft: false
 
 ## Overview
 
-Asahi Kasei Corporation is a multinational Japanese chemical company headquartered in Tokyo, founded in 1922. The company is a diversified manufacturer centered on chemistry, with operations spanning three main business sectors: Material (consisting of fibers, chemicals, and electronics), Homes (consisting of homes and construction materials), and Health care (consisting of pharmaceuticals, medical devices). Asahi Kasei joined European Bioplastics (EUBP) in June 2022, strengthening its commitment to sustainable bio-based materials and circular economy solutions.
+Asahi Kasei Corporation is a multinational Japanese chemical company headquartered in Tokyo, founded in 1922. The company is a diversified manufacturer centered on chemistry, with operations spanning three main business sectors: Material (consisting of fibers, chemicals, and electronics), Homes (consisting of homes and construction materials), and Health care (consisting of pharmaceuticals, medical devices). The company is committed to sustainable bio-based materials and circular economy solutions.
 
 The Asahi Kasei Group employs approximately 46,000 people globally and contributes to life and living around the world through its wide-ranging operations and innovations in bioplastics and sustainable materials.
 
@@ -51,7 +51,7 @@ The R&D expenses of the Asahi Kasei Group were around €700 million in 2021, wi
 
 ### Sustainability Commitment
 
-In May 2021, the Asahi Kasei Group announced its goal of achieving carbon neutrality by 2050 in scope 1 and 2 emissions, creating a sustainable world through its operations. This commitment aligns with the company's EUBP membership and its focus on developing renewable bio-based plastics through technologies like Revolefin.
+In May 2021, the Asahi Kasei Group announced its goal of achieving carbon neutrality by 2050 in scope 1 and 2 emissions, creating a sustainable world through its operations. This commitment reflects its focus on developing renewable bio-based plastics through technologies like Revolefin.
 
 ### Global Operations
 

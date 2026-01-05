@@ -1,9 +1,9 @@
 ---
 title: Tetra Pak International SA
-company_type: Industrial End User
+company_type: Brand
 headquarters: Pully, Switzerland
 status: Active
-short_description: Swedish multinational food packaging and processing company, industrial end user of bio-based plastics, pioneer in plant-based packaging from sugarcane. EUBP member.
+short_description: Swedish multinational food packaging and processing company, industrial end user of bio-based plastics, pioneer in plant-based packaging from sugarcane..
 website: https://www.tetrapak.com
 primary_materials: Plant-based polyethylene (from sugarcane), bio-based polymers, paperboard, renewable materials
 market_segments: Food and beverage packaging, aseptic packaging, dairy products, juice packaging, liquid food processing, sustainable packaging
@@ -20,7 +20,7 @@ draft: false
 
 ## Overview
 
-Tetra Pak International SA is a Swedish multinational food packaging and processing company headquartered in Pully, Switzerland. Founded in 1951 in Lund, Sweden, Tetra Pak has grown to employ 24,546 people worldwide and generated revenue of $13.9 billion in 2024. The company is a particularly active member of European Bioplastics (EUBP), with Anke Hampel serving as Innovation and Sustainability Director representing Tetra Pak's commitment to sustainable packaging solutions.
+Tetra Pak International SA is a Swedish multinational food packaging and processing company headquartered in Pully, Switzerland. Founded in 1951 in Lund, Sweden, Tetra Pak has grown to employ 24,546 people worldwide and generated revenue of $13.9 billion in 2024. The company is committed to sustainable packaging solutions, with Anke Hampel serving as Innovation and Sustainability Director.
 
 As an industrial end user of bioplastics, Tetra Pak plays a crucial role in driving demand for bio-based polymers and advancing the commercialization of plant-based packaging materials. The company was the first in its industry to introduce packages made fully from plant-based renewable materials, establishing itself as a sustainability leader in the food packaging sector.
 
@@ -64,7 +64,7 @@ Using plant-based polymers can reduce the packaging's impact on climate change c
 
 ### Innovation and Sustainability Strategy
 
-Tetra Pak continues to invest in renewable materials development, with Innovation and Sustainability Director Anke Hampel actively engaging with industry initiatives through EUBP membership. The company's vision is to create the world's most sustainable food package, made entirely from responsibly sourced renewable or recycled materials, fully recyclable, and carbon neutral.
+Tetra Pak continues to invest in renewable materials development, with Innovation and Sustainability Director Anke Hampel actively engaging with industry initiatives. The company's vision is to create the world's most sustainable food package, made entirely from responsibly sourced renewable or recycled materials, fully recyclable, and carbon neutral.
 
 ---
 

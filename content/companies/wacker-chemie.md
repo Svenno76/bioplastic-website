@@ -3,7 +3,7 @@ title: Wacker Chemie AG
 company_type: Additive Producer
 headquarters: Munich, Germany
 status: Active
-short_description: Global chemical company specializing in additives for biopolymers, offering VINNEX and GENIOPLAST product lines to optimize bioplastics production and performance. EUBP member.
+short_description: Global chemical company specializing in additives for biopolymers, offering VINNEX and GENIOPLAST product lines to optimize bioplastics production and performance..
 website: https://www.wacker.com
 primary_materials: Polymer binders and additives for biopolymers, VINNEX additives, GENIOPLAST pellets, dispersions and dispersible polymer powders
 market_segments: Bioplastics processing, biodegradable plastics, compostable materials, packaging, agricultural films, injection molding
@@ -18,7 +18,7 @@ draft: false
 
 ## Overview
 
-Wacker Chemie AG is a globally operating chemical company headquartered in Munich, Germany, founded in 1914 by Alexander Wacker. The company specializes in silicone chemistry, polymer chemistry, fine chemicals and biotech products, polysilicon, wafers and hyperpure silicon monocrystals. As a member of European Bioplastics (EUBP), Wacker Chemie plays a crucial role in the bioplastics industry by providing specialized additives and polymer solutions that optimize the production process and property profile of bioplastics.
+Wacker Chemie AG is a globally operating chemical company headquartered in Munich, Germany, founded in 1914 by Alexander Wacker. The company specializes in silicone chemistry, polymer chemistry, fine chemicals and biotech products, polysilicon, wafers and hyperpure silicon monocrystals. Wacker Chemie plays a crucial role in the bioplastics industry by providing specialized additives and polymer solutions that optimize the production process and property profile of bioplastics.
 
 Wacker Chemie employs approximately 16,600 people worldwide and generates annual revenue of $6.14 billion, making it a significant player in the global chemical industry with a strong focus on sustainable solutions for biopolymers.
 

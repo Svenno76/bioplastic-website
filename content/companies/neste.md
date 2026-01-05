@@ -3,7 +3,7 @@ title: Neste Corporation
 company_type: Raw Material Supplier
 headquarters: Espoo, Finland
 status: Active
-short_description: World's leading producer of renewable diesel and sustainable aviation fuel, supplier of renewable hydrocarbons and bio-based feedstocks for polymers and chemicals production. EUBP member.
+short_description: World's leading producer of renewable diesel and sustainable aviation fuel, supplier of renewable hydrocarbons and bio-based feedstocks for polymers and chemicals production..
 website: https://www.neste.com
 primary_materials: Renewable hydrocarbons, bio-based feedstocks (Neste RE), sustainable raw materials from waste and residues
 market_segments: Polymers and chemicals, renewable fuels, sustainable aviation fuel, bio-based plastics, packaging
@@ -19,8 +19,6 @@ draft: false
 ## Overview
 
 Neste Corporation is a Finnish oil refining and marketing company headquartered in Espoo, Finland, founded in 1948 as the State petrol company of Finland. Neste is the world's leading producer of renewable diesel and sustainable aviation fuel, and is a forerunner in developing renewable and circular feedstock solutions for polymers and chemicals. The company refines waste, residues and innovative raw materials into renewable fuels and sustainable feedstock for plastics and other materials.
-
-As an EUBP (European Bioplastics) member, Neste plays a crucial role in the bioplastics supply chain by providing renewable feedstocks that enable the production of bio-based polymers and chemicals.
 
 ### Primary Materials
 

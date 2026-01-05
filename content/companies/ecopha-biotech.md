@@ -25,14 +25,6 @@ EcoPHA Biotech is an Australian biotechnology company pioneering the production 
 
 The company is known for developing marine-biodegradable PHA materials and collaborates with design partners to bring innovative, sustainable products to market. Their commitment to circular economy principles is reflected in their focus on creating compostable products that break down naturally in various environments, including marine ecosystems.
 
-### Key Products & Solutions
-
-- **Compostable Coffee Cups and Lids**: Fully biodegradable food service containers
-- **Compostable Straws and Cutlery**: Single-use alternatives that decompose naturally
-- **Compostable Bags**: Packaging solutions for food and consumer goods
-- **Industrial PHA Materials**: Raw materials for manufacturing partners
-- **Marine-Biodegradable Formulations**: PHA variants designed for marine environments
-
 ### Technology & Innovation
 
 - **Microbial Fermentation**: Advanced biofermentation technology for PHA production

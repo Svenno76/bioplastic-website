@@ -25,7 +25,7 @@ draft: false
 
 LG Chem is the largest Korean chemical company and a leading global bioplastics manufacturer headquartered in Seoul, South Korea. Founded in 1947 as the Lucky Chemical Industrial Corporation, the company has evolved into a diversified chemical and materials producer with 18,750 employees across 61 global sites. LG Chem manufactures a comprehensive range of bioplastics including PLA, PBAT, PHA, Bio-PA, and Bio-PE, serving multiple industries from packaging to automotive applications.
 
-As a member of European Bioplastics (EUBP), LG Chem actively contributes to the development and commercialization of sustainable bio-based and biodegradable polymers. The company has received certification from DIN CERTCO, the German biodegradable materials international certification agency, confirming that its new materials meet industrial biodegradable European certification standards.
+LG Chem actively contributes to the development and commercialization of sustainable bio-based and biodegradable polymers. The company has received certification from DIN CERTCO, the German biodegradable materials international certification agency, confirming that its new materials meet industrial biodegradable European certification standards.
 
 ### Primary Materials
 
