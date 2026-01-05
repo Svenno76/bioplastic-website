@@ -48,50 +48,102 @@
 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem;" id="events-grid">
     {{ if .Pages }}
-      {{ range .Pages.ByTitle }}
-      <article class="event-card" data-event-type="{{ .Params.event_type | default "Conference" }}" data-region="{{ .Params.region | default "Global" }}" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s; display: flex; flex-direction: column;">
+      {{ $pages := .Pages }}
+      {{ $sortedPages := slice }}
+
+      {{/* Create a slice with pages and their parsed dates */}}
+      {{ range $pages }}
+        {{ $eventDate := .Params.event_date }}
+        {{ $sortKey := "" }}
+
+        {{/* Parse the event_date string to extract month and approximate day */}}
+        {{ if $eventDate }}
+          {{/* Extract month name - matches patterns like "December 1-2, 2026" or "May 19-22, 2026" */}}
+          {{ $monthMap := dict "January" "01" "February" "02" "March" "03" "April" "04" "May" "05" "June" "06" "July" "07" "August" "08" "September" "09" "October" "10" "November" "11" "December" "12" }}
+
+          {{ range $monthName, $monthNum := $monthMap }}
+            {{ if in $eventDate $monthName }}
+              {{/* Extract the first day number (e.g., "1" from "1-2" or "19" from "19-22") */}}
+              {{ $dateParts := split $eventDate " " }}
+              {{ if ge (len $dateParts) 2 }}
+                {{ $dayPart := index $dateParts 1 }}
+                {{/* Remove trailing comma and extract first number */}}
+                {{ $dayPart = replace $dayPart "," "" }}
+                {{ if in $dayPart "-" }}
+                  {{/* Handle range like "1-2" or "19-22" */}}
+                  {{ $dayRange := split $dayPart "-" }}
+                  {{ $firstDay := index $dayRange 0 }}
+                  {{/* Pad day to 2 digits */}}
+                  {{ if lt (len $firstDay) 2 }}
+                    {{ $firstDay = printf "0%s" $firstDay }}
+                  {{ end }}
+                  {{ $sortKey = printf "2026%s%s" $monthNum $firstDay }}
+                {{ else }}
+                  {{/* Handle single day */}}
+                  {{ if lt (len $dayPart) 2 }}
+                    {{ $dayPart = printf "0%s" $dayPart }}
+                  {{ end }}
+                  {{ $sortKey = printf "2026%s%s" $monthNum $dayPart }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{/* If no valid date found, use a far future date so it appears last */}}
+        {{ if eq $sortKey "" }}
+          {{ $sortKey = "99991231" }}
+        {{ end }}
+
+        {{ $sortedPages = $sortedPages | append (dict "page" . "sortKey" $sortKey) }}
+      {{ end }}
+
+      {{/* Sort by sortKey */}}
+      {{ range sort $sortedPages "sortKey" }}
+      {{ $page := .page }}
+      <article class="event-card" data-event-type="{{ $page.Params.event_type | default "Conference" }}" data-region="{{ $page.Params.region | default "Global" }}" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.3s; display: flex; flex-direction: column;">
         <div style="flex-grow: 1;">
           <!-- Event Name -->
           <h2 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: #1e3a8a;">
-            <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
+            <a href="{{ $page.Permalink }}" style="text-decoration: none; color: inherit;">{{ $page.Title }}</a>
           </h2>
 
           <!-- Event Type Badge -->
-          {{ if .Params.event_type }}
+          {{ if $page.Params.event_type }}
           <div style="display: inline-block; background: #fef3c7; color: #92400e; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem;">
-            {{ .Params.event_type }}
+            {{ $page.Params.event_type }}
           </div>
           {{ end }}
 
           <!-- Event Details -->
           <div style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">
-            {{ if .Params.event_date }}
-            <div style="margin-bottom: 0.5rem;">📅 <strong>{{ .Params.event_date }}</strong></div>
+            {{ if $page.Params.event_date }}
+            <div style="margin-bottom: 0.5rem;">📅 <strong>{{ $page.Params.event_date }}</strong></div>
             {{ end }}
-            {{ if .Params.location }}
-            <div style="margin-bottom: 0.5rem;">📍 {{ .Params.location }}</div>
+            {{ if $page.Params.location }}
+            <div style="margin-bottom: 0.5rem;">📍 {{ $page.Params.location }}</div>
             {{ end }}
-            {{ if .Params.website }}
+            {{ if $page.Params.website }}
             <div>
-              <a href="{{ .Params.website }}" target="_blank" rel="noopener" style="color: #3b82f6; font-weight: 500;">🌐 Visit Event Website →</a>
+              <a href="{{ $page.Params.website }}" target="_blank" rel="noopener" style="color: #3b82f6; font-weight: 500;">🌐 Visit Event Website →</a>
             </div>
             {{ end }}
           </div>
 
           <!-- Short Description -->
-          {{ if .Params.short_description }}
+          {{ if $page.Params.short_description }}
           <p style="color: #475569; line-height: 1.6; margin-bottom: 1rem; font-size: 0.95rem;">
-            {{ .Params.short_description }}
+            {{ $page.Params.short_description }}
           </p>
-          {{ else if .Summary }}
+          {{ else if $page.Summary }}
           <p style="color: #475569; line-height: 1.6; margin-bottom: 1rem; font-size: 0.95rem;">
-            {{ .Summary | truncate 150 }}
+            {{ $page.Summary | truncate 150 }}
           </p>
           {{ end }}
         </div>
 
         <!-- View Details Link -->
-        <a href="{{ .Permalink }}" style="display: inline-block; margin-top: 1rem; color: #fff; background: #3b82f6; padding: 0.75rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; text-align: center; width: 100%;">
+        <a href="{{ $page.Permalink }}" style="display: inline-block; margin-top: 1rem; color: #fff; background: #3b82f6; padding: 0.75rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; text-align: center; width: 100%;">
           View Details →
         </a>
       </article>
