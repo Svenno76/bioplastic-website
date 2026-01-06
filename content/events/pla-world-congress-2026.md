@@ -1,7 +1,7 @@
 ---
 title: "9th PLA World Congress 2026"
 event_type: "Conference"
-region: "Global"
+region: "Europe"
 event_date: "June 2-3, 2026"
 location: "Munich, Germany"
 website: "https://www.bioplasticsmagazine.com/"

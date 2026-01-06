@@ -1,4 +1,4 @@
-baseURL = 'https://bioplasticsportal.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Bioplastics Portal'
 theme = 'ananke'

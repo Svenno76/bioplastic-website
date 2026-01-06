@@ -1,7 +1,7 @@
 ---
 title: "PLA (Polylactic Acid)"
 aka: ["Polylactic Acid", "Polylactide"]
-type: "material"
+term_type: "material"
 related: ["Biodegradable", "Compostable", "PHA", "PBAT"]
 summary: "PLA is a biodegradable thermoplastic polyester derived from renewable resources like corn starch or sugarcane. It's one of the most widely used bioplastics globally, offering similar processing to conventional plastics with a lower carbon footprint."
 major_producers: ["NatureWorks", "Total Corbion", "COFCO", "Futerro", "Hisun Biomaterials"]

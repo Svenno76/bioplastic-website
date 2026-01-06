@@ -1,7 +1,7 @@
 ---
 title: "PBS (Polybutylene Succinate)"
 aka: ["Polybutylene Succinate"]
-type: "material"
+term_type: "material"
 related: ["Biodegradable", "Compostable", "PLA", "PBAT"]
 summary: "PBS is a biodegradable polyester with excellent mechanical properties and heat resistance. Synthesized from renewable or petrochemical sources, PBS offers superior processability and performance compared to PLA for engineering and durable applications."
 major_producers: ["PTT MCC Biochem", "Mitsubishi Chemical", "Showa Denko", "BASF", "Kingfa"]

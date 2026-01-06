@@ -1,10 +1,10 @@
 ---
 title: "Bio-PE (Bio-based Polyethylene)"
 aka: ["Green PE", "Bio-based Polyethylene", "Plant-based PE"]
-type: "material"
+term_type: "material"
 related: ["Bio-PET", "Bio-PP", "PLA"]
 summary: "Bio-PE is chemically identical to conventional polyethylene but produced from renewable feedstocks like sugarcane ethanol instead of fossil fuels. It's a drop-in replacement offering identical performance with a reduced carbon footprint."
-major_producers: ["Braskem", "Dow", "SABIC", "Neste", "TotalEnergies"]
+major_producers: ["Dow", "SABIC", "Neste", "TotalEnergies"]
 applications: ["Packaging films", "Bottles and containers", "Shopping bags", "Agricultural films", "Automotive components", "Consumer goods"]
 standards: ["ASTM D6866 (Bio-based Content)", "ISO 16620 (Bio-based Content)"]
 ---

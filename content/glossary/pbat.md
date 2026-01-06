@@ -1,8 +1,8 @@
 ---
 title: "PBAT (Polybutylene Adipate Terephthalate)"
 aka: ["Polybutylene Adipate Terephthalate"]
-type: "material"
-related: ["PLA", "Biodegradable", "Compostable", "Starch-Based Bioplastics"]
+term_type: "material"
+related: ["PLA", "Biodegradable", "Compostable", "Starch-based Bioplastic"]
 summary: "PBAT is a biodegradable copolyester that combines flexibility with compostability. Primarily used blended with PLA or starch, PBAT improves mechanical properties and enables EN 13432 certified compostable films and packaging applications."
 major_producers: ["BASF (Ecoflex)", "Novamont (Origo-Bi)", "Eastman", "Kingfa", "Jinhui Zhaolong"]
 applications: ["Flexible films", "Compostable bags", "Agricultural mulch films", "Food packaging", "Coating for paper products"]

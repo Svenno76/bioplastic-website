@@ -14,7 +14,7 @@
     a { color: #0066cc; text-decoration: none; }
     a:hover { text-decoration: underline; }
     article h2 { margin-top: 2rem; margin-bottom: 1rem; color: #1e3a8a; }
-    article h3 { margin-top: 1.5rem; margin-bottom: 0.75rem; color: #3b82f6; }
+    article h3 { margin-top: 1.5rem; margin-bottom: 0.75rem; color: #374151; }
     article p { margin-bottom: 1rem; }
     article ul, article ol { margin-bottom: 1rem; padding-left: 2rem; }
     article li { margin-bottom: 0.5rem; }
@@ -24,159 +24,129 @@
   {{ partial "site-header.html" . }}
 
   <main>
-<div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
+    <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
+      <article>
+        <!-- Header -->
+        <header style="margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid #e5e7eb;">
+          <h1 style="font-size: 2.5rem; color: #1e3a8a; margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
+          <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+            {{ if .Params.term_type }}
+            <span style="background: #dbeafe; color: #1e40af; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.85rem;">
+              {{ .Params.term_type | title }}
+            </span>
+            {{ end }}
+            {{ if .Params.aka }}
+            <span style="color: #64748b; font-style: italic; font-size: 0.95rem;">
+              Also known as: {{ delimit .Params.aka ", " }}
+            </span>
+            {{ end }}
+          </div>
+        </header>
 
-  <!-- Glossary Term Header -->
-  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); color: white; padding: 3rem 2rem; border-radius: 16px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <div>
-      <div style="display: flex; gap: 1rem; align-items: center; margin-bottom: 1rem; flex-wrap: wrap;">
-        <h1 style="font-size: 2.5rem; margin: 0; font-weight: 700; flex: 1;">{{ .Title }}</h1>
-        {{ if .Params.type }}
-        <div style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 500; white-space: nowrap;">
-          {{ .Params.type | title }}
+        <!-- Summary Box -->
+        {{ if .Params.summary }}
+        <div style="background: #f8f9fa; border-left: 4px solid #3b82f6; padding: 1.5rem; border-radius: 0 8px 8px 0; margin-bottom: 2rem;">
+          <h2 style="color: #1e3a8a; margin-bottom: 0.75rem; font-size: 1.1rem; font-weight: 600; margin-top: 0;">Quick Overview</h2>
+          <p style="color: #475569; line-height: 1.7; margin: 0; font-size: 1.05rem;">{{ .Params.summary }}</p>
         </div>
         {{ end }}
-      </div>
 
-      {{ if .Params.aka }}
-      <p style="font-size: 1.1rem; opacity: 0.9; font-style: italic; margin-top: 0.5rem;">
-        Also known as: {{ delimit .Params.aka ", " }}
-      </p>
-      {{ end }}
-    </div>
-  </div>
+        <!-- Related Terms (inline) -->
+        {{ if .Params.related }}
+        <div style="margin-bottom: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
+          <span style="color: #64748b; font-size: 0.9rem; font-weight: 500;">Related terms:</span>
+          {{ range .Params.related }}
+          <a href="/glossary/{{ . | urlize }}/" style="background: #e3f2fd; color: #1976d2; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.85rem; font-weight: 500; text-decoration: none;">{{ . }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
 
-  <!-- Main Content Area -->
-  <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; margin-bottom: 2rem;">
-    <div>
-      <!-- Summary Box -->
-      {{ if .Params.summary }}
-      <div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-left: 4px solid #3b82f6; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem;">
-        <h2 style="color: #1e3a8a; margin-bottom: 1rem; font-size: 1.2rem; font-weight: 600; margin-top: 0;">Quick Overview</h2>
-        <p style="color: #475569; line-height: 1.7; margin: 0; font-size: 1.05rem;">{{ .Params.summary }}</p>
-      </div>
-      {{ end }}
+        <!-- Main Content -->
+        <div style="font-size: 1.125rem; line-height: 1.8; color: #1f2937;">
+          {{ .Content }}
+        </div>
 
-      <!-- Main Content -->
-      <article style="background: white; padding: 2rem; border-radius: 12px; border: 1px solid #e5e7eb; line-height: 1.8; color: #374151;">
-        {{ .Content }}
+        <!-- Additional Info Boxes -->
+        {{ if or .Params.standards .Params.major_producers .Params.applications }}
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
+          {{ if .Params.standards }}
+          <div style="background: #f0fdf4; padding: 1.25rem; border-radius: 8px; border: 1px solid #bbf7d0;">
+            <h3 style="color: #166534; margin-bottom: 0.75rem; font-size: 1rem; font-weight: 600; margin-top: 0;">Standards & Certifications</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              {{ range .Params.standards }}
+              <li style="padding: 0.35rem 0; color: #475569; font-size: 0.9rem;">{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+          {{ if .Params.major_producers }}
+          <div style="background: #fef3c7; padding: 1.25rem; border-radius: 8px; border: 1px solid #fde68a;">
+            <h3 style="color: #92400e; margin-bottom: 0.75rem; font-size: 1rem; font-weight: 600; margin-top: 0;">Major Producers</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              {{ range .Params.major_producers }}
+              <li style="padding: 0.35rem 0; color: #475569; font-size: 0.9rem;">{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+          {{ if .Params.applications }}
+          <div style="background: #f5f3ff; padding: 1.25rem; border-radius: 8px; border: 1px solid #ede9fe;">
+            <h3 style="color: #5b21b6; margin-bottom: 0.75rem; font-size: 1rem; font-weight: 600; margin-top: 0;">Key Applications</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              {{ range .Params.applications }}
+              <li style="padding: 0.35rem 0; color: #475569; font-size: 0.9rem;">{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        <!-- Navigation -->
+        {{ $allGlossary := where .Site.RegularPages "Section" "glossary" }}
+        {{ $sortedGlossary := sort $allGlossary ".Title" }}
+        {{ $currentIndex := 0 }}
+        {{ range $index, $page := $sortedGlossary }}
+          {{ if eq $page.Permalink $.Permalink }}
+            {{ $currentIndex = $index }}
+          {{ end }}
+        {{ end }}
+        {{ $prevIndex := sub $currentIndex 1 }}
+        {{ $nextIndex := add $currentIndex 1 }}
+        {{ $prevTerm := index $sortedGlossary $prevIndex }}
+        {{ $nextTerm := index $sortedGlossary $nextIndex }}
+
+        <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
+          <!-- Previous/Next Navigation -->
+          <div style="display: flex; justify-content: space-between; margin-bottom: 1.5rem; gap: 1rem; flex-wrap: wrap;">
+            <div>
+              {{ if ge $prevIndex 0 }}
+              <a href="{{ $prevTerm.Permalink }}" style="color: #3b82f6; text-decoration: none; font-weight: 500;">
+                <span style="font-size: 0.85rem; display: block; color: #64748b; margin-bottom: 0.25rem;">Previous</span>
+                ← {{ $prevTerm.Title }}
+              </a>
+              {{ end }}
+            </div>
+
+            <div style="text-align: right;">
+              {{ if lt $nextIndex (len $sortedGlossary) }}
+              <a href="{{ $nextTerm.Permalink }}" style="color: #3b82f6; text-decoration: none; font-weight: 500;">
+                <span style="font-size: 0.85rem; display: block; color: #64748b; margin-bottom: 0.25rem;">Next</span>
+                {{ $nextTerm.Title }} →
+              </a>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Back to Glossary -->
+          <div style="text-align: center;">
+            <a href="/glossary/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Glossary</a>
+          </div>
+        </footer>
       </article>
     </div>
-
-    <!-- Sidebar -->
-    <aside>
-      <!-- Related Terms -->
-      {{ if .Params.related }}
-      <div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #fde68a;">
-        <h3 style="color: #92400e; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">Related Terms</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          {{ range .Params.related }}
-          <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(146,64,14,0.1);">
-            <a href="/glossary/{{ . | urlize }}/" style="color: #92400e; text-decoration: none; font-weight: 500;">{{ . }}</a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      <!-- Standards & Certifications -->
-      {{ if .Params.standards }}
-      <div style="background: #f0fdf4; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #bbf7d0;">
-        <h3 style="color: #166534; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">Standards & Certifications</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          {{ range .Params.standards }}
-          <li style="padding: 0.5rem 0; color: #475569; border-bottom: 1px solid #e5e7eb;">{{ . }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      <!-- Major Producers/Companies -->
-      {{ if .Params.major_producers }}
-      <div style="background: linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #fbcfe8;">
-        <h3 style="color: #831843; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">Major Producers</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          {{ range .Params.major_producers }}
-          <li style="padding: 0.5rem 0; color: #475569; border-bottom: 1px solid rgba(131,24,67,0.1);">{{ . }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      <!-- Key Applications -->
-      {{ if .Params.applications }}
-      <div style="background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #ede9fe;">
-        <h3 style="color: #5b21b6; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">Key Applications</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          {{ range .Params.applications }}
-          <li style="padding: 0.5rem 0; color: #475569; border-bottom: 1px solid rgba(91,33,182,0.1);">{{ . }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      <!-- Back to Glossary -->
-      <div style="background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #e5e7eb;">
-        <a href="/glossary/" style="display: block; color: #3b82f6; text-decoration: none; font-weight: 500; text-align: center;">
-          Back to Glossary
-        </a>
-      </div>
-    </aside>
-  </div>
-
-  <!-- Navigation -->
-  {{ $allGlossary := where .Site.RegularPages "Section" "glossary" }}
-  {{ $sortedGlossary := sort $allGlossary ".Title" }}
-  {{ $currentIndex := 0 }}
-  {{ range $index, $page := $sortedGlossary }}
-    {{ if eq $page.Permalink $.Permalink }}
-      {{ $currentIndex = $index }}
-    {{ end }}
-  {{ end }}
-  {{ $prevIndex := sub $currentIndex 1 }}
-  {{ $nextIndex := add $currentIndex 1 }}
-  {{ $prevTerm := index $sortedGlossary $prevIndex }}
-  {{ $nextTerm := index $sortedGlossary $nextIndex }}
-
-  <div style="padding-top: 2rem; border-top: 2px solid #e5e7eb;">
-    <!-- Previous/Next Navigation -->
-    <div style="display: flex; justify-content: space-between; margin-bottom: 1.5rem; gap: 1rem; flex-wrap: wrap;">
-      <div style="flex: 1; min-width: 200px;">
-        {{ if ge $prevIndex 0 }}
-        <a href="{{ $prevTerm.Permalink }}" style="display: inline-block; padding: 0.75rem 1.25rem; background: #f0f9ff; color: #1e3a8a; border-radius: 8px; text-decoration: none; font-weight: 500; border: 1px solid #bfdbfe; transition: all 0.2s;">
-          <span style="font-size: 0.85rem; display: block; opacity: 0.7; margin-bottom: 0.25rem;">Previous</span>
-          <span style="font-size: 0.95rem;">{{ $prevTerm.Title }}</span>
-        </a>
-        {{ else }}
-        <div style="opacity: 0.3; padding: 0.75rem 1.25rem;">
-          <span style="font-size: 0.85rem; display: block;">Previous</span>
-          <span style="font-size: 0.95rem;">No previous term</span>
-        </div>
-        {{ end }}
-      </div>
-
-      <div style="flex: 1; min-width: 200px; text-align: right;">
-        {{ if lt $nextIndex (len $sortedGlossary) }}
-        <a href="{{ $nextTerm.Permalink }}" style="display: inline-block; padding: 0.75rem 1.25rem; background: #f0f9ff; color: #1e3a8a; border-radius: 8px; text-decoration: none; font-weight: 500; border: 1px solid #bfdbfe; transition: all 0.2s;">
-          <span style="font-size: 0.85rem; display: block; opacity: 0.7; margin-bottom: 0.25rem;">Next</span>
-          <span style="font-size: 0.95rem;">{{ $nextTerm.Title }}</span>
-        </a>
-        {{ else }}
-        <div style="opacity: 0.3; padding: 0.75rem 1.25rem;">
-          <span style="font-size: 0.85rem; display: block;">Next</span>
-          <span style="font-size: 0.95rem;">No next term</span>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-
-    <!-- Back to Glossary -->
-    <div style="text-align: center;">
-      <a href="/glossary/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">Back to Glossary</a>
-    </div>
-  </div>
-</div>
-
   </main>
 
   {{ partial "site-footer.html" . }}

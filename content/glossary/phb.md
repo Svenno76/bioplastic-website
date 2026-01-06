@@ -1,7 +1,7 @@
 ---
 title: "PHB (Polyhydroxybutyrate)"
 aka: ["Polyhydroxybutyrate"]
-type: "material"
+term_type: "material"
 related: ["PHA", "Biodegradable", "Compostable"]
 summary: "PHB is the simplest member of the PHA family, produced through bacterial fermentation. Fully biodegradable in soil, marine, and composting environments, PHB offers true biological sustainability despite processing challenges from brittleness."
 major_producers: ["TianAn Biopolymer", "Danimer Scientific", "Kaneka", "Biomer", "PHB Industrial"]

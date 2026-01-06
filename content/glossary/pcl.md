@@ -1,7 +1,7 @@
 ---
 title: "PCL (Polycaprolactone)"
 aka: ["Polycaprolactone"]
-type: "material"
+term_type: "material"
 related: ["Biodegradable", "PLA", "PHA"]
 summary: "PCL is a synthetic biodegradable polyester with exceptional flexibility, low melting point, and excellent blending capabilities. Primarily used in medical devices and specialty applications requiring biocompatibility and controlled biodegradation."
 major_producers: ["Solvay (Capa)", "Daicel Corporation", "BASF", "Perstorp", "Corbion"]

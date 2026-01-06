@@ -1,7 +1,7 @@
 ---
 title: "PHA (Polyhydroxyalkanoates)"
 aka: ["Polyhydroxyalkanoates", "PHB", "PHBV"]
-type: "material"
+term_type: "material"
 related: ["PHB", "Biodegradable", "Compostable", "PLA"]
 summary: "PHA is a family of biodegradable polyesters naturally produced by bacteria through biotechnology. Fully biodegradable in soil, marine, and composting environments, PHAs offer versatile material properties and can be produced from renewable feedstocks including food waste."
 major_producers: ["Danimer Scientific", "Kaneka", "TianAn Biopolymer", "CJ CheilJedang", "Newlight Technologies"]
