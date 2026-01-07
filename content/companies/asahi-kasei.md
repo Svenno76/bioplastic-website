@@ -5,6 +5,7 @@ headquarters: Tokyo, Japan
 status: Active
 short_description: Multinational Japanese chemical company producing bio-based chemicals and bioplastics through Revolefin technology..
 website: https://www.asahi-kasei.com
+logo: /images/logos/asahi-kasei.png
 primary_materials: Bio-based chemicals from bioethanol (Revolefin technology), Polyacetal (POM), Polyamide (PA, nylon), Modified Polyphenylene Ether (PPE), bio-based plastics
 market_segments: Automotive, electronics, construction materials, medical devices, pharmaceuticals, packaging, engineering plastics
 publicly_listed: true

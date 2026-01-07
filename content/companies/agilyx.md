@@ -6,6 +6,7 @@ status: Active
 short_description: Agilyx ASA is a technology provider specializing in advanced recycling
   solutions for plastic waste, particularly polystyrene through its proprietary S...
 website: https://www.agilyx.com
+logo: /images/logos/agilyx.png
 market_segments: Packaging, Recycling
 publicly_listed: true
 stock_ticker: OSL:AGLX

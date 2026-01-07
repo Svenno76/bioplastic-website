@@ -6,6 +6,7 @@ status: Active
 short_description: BioBTX is a chemical technology development company based in Groningen,
   Netherlands, specializing in the production of renewable and biobased aromatic...
 website: https://biobtx.com
+logo: /images/logos/biobtx.svg
 market_segments: Chemical industry, petrochemical products (40% of all petrochemical
   products worldwide use BTX as building blocks)
 publicly_listed: false

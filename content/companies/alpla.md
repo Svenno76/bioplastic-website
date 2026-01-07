@@ -7,6 +7,7 @@ short_description: ALPLA is a global leader in plastic packaging solutions, spec
   in blow-moulded bottles, caps, injection-moulded parts, preforms, and tubes for
   ...
 website: https://www.alpla.com/en
+logo: /images/logos/alpla.svg
 primary_materials: rPET, rHDPE, bio-based materials, biodegradable plastics
 market_segments: packaging (food, beverage, cosmetics, home care, pharmaceuticals)
 publicly_listed: false

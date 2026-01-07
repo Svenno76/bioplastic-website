@@ -7,6 +7,7 @@ short_description: BASF SE is the world's largest chemical producer headquartere
   in Ludwigshafen, Germany, with extensive global operations. The company specializes
   in ...
 website: https://www.basf.com
+logo: /images/logos/basf-se.png
 primary_materials: PBAT, PBAT blends, Ecoflex (fossil-based compostable polymer),
   Ecovio (compostable polymer blend of Ecoflex and PLA), PLA
 market_segments: Packaging (organic waste bags, fruit and vegetable bags, carrier

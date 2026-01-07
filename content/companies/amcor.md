@@ -6,6 +6,7 @@ status: Active
 short_description: Global packaging leader developing recyclable and bio-based packaging
   solutions. Invests in sustainable materials including bioplastics for flexible a...
 website: https://www.amcor.com
+logo: /images/logos/amcor.png
 primary_materials: PLA, bio-PE
 market_segments: Packaging, Healthcare
 publicly_listed: true

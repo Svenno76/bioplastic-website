@@ -7,6 +7,7 @@ short_description: Berry Global Group, Inc. is a global manufacturer and markete
   of plastic packaging products, specializing in innovative packaging and engineered
   prod...
 website: https://www.berryglobal.com
+logo: /images/logos/berry-global.png
 primary_materials: Biobased-polyethylene (bio-PE), biobased-polypropylene (bio-PP),
   compostable plastics certified to EN 13432
 market_segments: Packaging, healthcare, food service, agriculture, consumer goods,

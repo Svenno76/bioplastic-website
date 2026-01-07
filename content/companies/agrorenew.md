@@ -7,6 +7,7 @@ short_description: AgroRenew is an innovative bioplastic producer based in India
   specializing in creating 100% biodegradable plastics from agricultural food waste
   suc...
 website: https://agrorenew.org
+logo: /images/logos/agrorenew.png
 primary_materials: Biodegradable plastics derived from crop food waste including watermelon,
   cantaloupe, pumpkin, and other biosources
 market_segments: Packaging, agriculture, sustainable consumer goods
