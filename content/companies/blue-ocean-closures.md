@@ -17,7 +17,7 @@ technologies: Fiber-based closure technology
 
 ## Overview
 
-Blue Ocean Closures is a Swedish technology company focused on developing fiber-based closures as sustainable alternatives to plastic caps. Their proprietary technology enables high-volume production of biodegradable, recyclable screw caps from cellulose fibers, offering significant reductions in energy use and carbon footprint compared to traditional plastic molding. The company specializes in drop-in solutions for the packaging industry, particularly for beverage and liquid carton applicati...
+Blue Ocean Closures is a Swedish technology company focused on developing fiber-based closures as sustainable alternatives to plastic caps. Their proprietary technology enables high-volume production of biodegradable, recyclable screw caps from cellulose fibers, offering significant reductions in energy use and carbon footprint compared to traditional plastic molding. The company specializes in drop-in solutions for the packaging industry, particularly for beverage and liquid carton applications.
 
 ### Technologies
 

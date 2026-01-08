@@ -20,7 +20,7 @@ draft: false
 
 ## Overview
 
-Berry Global Group, Inc. is a global manufacturer and marketer of plastic packaging products, specializing in innovative packaging and engineered products with a strong focus on sustainability and circular economy principles. The company produces a wide range of plastic packaging components, including bottles, containers, flexible films, and compostable wipes, serving thousands of major brands worldwide. Berry Global has integrated biobased plastics such as bio-polyethylene and bio-polypropyl...
+Berry Global Group, Inc. is a global manufacturer and marketer of plastic packaging products, specializing in innovative packaging and engineered products with a strong focus on sustainability and circular economy principles. The company produces a wide range of plastic packaging components, including bottles, containers, flexible films, and compostable wipes, serving thousands of major brands worldwide. Berry Global has integrated biobased plastics such as bio-polyethylene and bio-polypropylene into its portfolio to meet growing demand for sustainable packaging solutions.
 
 ### Primary Materials
 

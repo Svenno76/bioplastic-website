@@ -21,7 +21,7 @@ draft: false
 
 ## Overview
 
-Green Dot Bioplastics is a material science company founded in 2011, specializing in the development and production of sustainable bioplastic materials. The company offers a diverse portfolio including wood plastic composites, starch biocomposites, biodegradable composites, and compostable elastomers, aiming to reduce reliance on petroleum-based plastics and minimize environmental impact. Green Dot focuses on innovation in plant-based materials, supporting product designers and manufacturers ...
+Green Dot Bioplastics is a material science company founded in 2011, specializing in the development and production of sustainable bioplastic materials. The company offers a diverse portfolio including wood plastic composites, starch biocomposites, biodegradable composites, and compostable elastomers, aiming to reduce reliance on petroleum-based plastics and minimize environmental impact. Green Dot focuses on innovation in plant-based materials, supporting product designers and manufacturers in creating sustainable bioplastic solutions.
 
 ### Primary Materials
 

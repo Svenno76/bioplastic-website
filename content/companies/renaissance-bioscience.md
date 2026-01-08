@@ -16,7 +16,7 @@ technologies: PHA fermentation and processing technology
 
 ## Overview
 
-Renaissance BioScience is a Canadian biotechnology company specializing in bioengineering yeast and microorganisms for sustainable solutions, including renewable bioplastics. The company partners with Biome Bioplastics to develop bio-based building blocks for bioplastics using advanced fermentation processes, targeting applications in packaging, personal care, health, and consumer goods. Their technology focuses on reducing dependence on fossil fuels and addressing plastic pollution through i...
+Renaissance BioScience is a Canadian biotechnology company specializing in bioengineering yeast and microorganisms for sustainable solutions, including renewable bioplastics. The company partners with Biome Bioplastics to develop bio-based building blocks for bioplastics using advanced fermentation processes, targeting applications in packaging, personal care, health, and consumer goods. Their technology focuses on reducing dependence on fossil fuels and addressing plastic pollution through innovative biotechnology solutions.
 
 ### Technologies
 

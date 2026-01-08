@@ -23,7 +23,7 @@ draft: false
 
 ## Overview
 
-TIPA, founded in 2010, develops and manufactures fully compostable flexible packaging solutions that mimic the performance of conventional plastics in durability, transparency, barrier properties, sealability, printability, and shelf-life while degrading like organic waste in industrial or home compost within 6-12 months. The company specializes in high-barrier films and laminates for food applications such as dry food, fresh produce, meat, and coffee, as well as fashion items like polybags, ...
+TIPA, founded in 2010, develops and manufactures fully compostable flexible packaging solutions that mimic the performance of conventional plastics in durability, transparency, barrier properties, sealability, printability, and shelf-life while degrading like organic waste in industrial or home compost within 6-12 months. The company specializes in high-barrier films and laminates for food applications such as dry food, fresh produce, meat, and coffee, as well as fashion items like polybags, and other retail applications.
 
 ### Primary Materials
 

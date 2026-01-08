@@ -18,7 +18,7 @@ technologies: PEF technology, FDCA production technology
 
 ## Overview
 
-Avantium is a chemical technology company headquartered in Amsterdam, Netherlands, specializing in renewable chemistry and circular polymer materials from sustainable feedstocks like plant-based sugars and CO2. It develops and commercializes innovative technologies, with its lead product being PEF (polyethylene furanoate), a 100% plant-based, fully recyclable polymer offering superior performance to PET. Avantium operates R&D labs, pilot plants, and a flagship FDCA plant, partnering globally ...
+Avantium is a chemical technology company headquartered in Amsterdam, Netherlands, specializing in renewable chemistry and circular polymer materials from sustainable feedstocks like plant-based sugars and CO2. It develops and commercializes innovative technologies, with its lead product being PEF (polyethylene furanoate), a 100% plant-based, fully recyclable polymer offering superior performance to PET. Avantium operates R&D labs, pilot plants, and a flagship FDCA plant, partnering globally on scaling sustainable packaging solutions.
 
 ### Technologies
 

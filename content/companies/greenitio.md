@@ -16,7 +16,7 @@ draft: false
 
 ## Overview
 
-Greenitio develops high-performance, bio-based specialty ingredients that replace petrochemical and microplastic-based materials in cosmetics and personal care using a patented green chemistry platform. Their proprietary products, such as vegan chitosan-derived CHITOBE and CHITOBELA, offer multifunctional benefits including moisturizing, anti-aging, SPF boosting, emulsifying, and thickening while being biodegradable and cost-effective. The company leverages AI-powered molecular design to crea...
+Greenitio develops high-performance, bio-based specialty ingredients that replace petrochemical and microplastic-based materials in cosmetics and personal care using a patented green chemistry platform. Their proprietary products, such as vegan chitosan-derived CHITOBE and CHITOBELA, offer multifunctional benefits including moisturizing, anti-aging, SPF boosting, emulsifying, and thickening while being biodegradable and cost-effective. The company leverages AI-powered molecular design to create innovative sustainable solutions for the cosmetics and personal care industry.
 
 ### Primary Materials
 
