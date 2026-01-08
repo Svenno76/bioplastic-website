@@ -3,7 +3,10 @@ title: Northeast Forestry University
 company_type: University
 headquarters: Harbin, China
 status: Active
-short_description: Northeast Forestry University is an academic institution researching bamboo cellulose-based bioplastics in collaboration with Shenyang University of Chemical Technology, developing sustainable materials with performance matching petroleum-based plastics.
+short_description: Northeast Forestry University is an academic institution researching
+  bamboo cellulose-based bioplastics in collaboration with Shenyang University of
+  Chemical Technology, developing sustainable materials with performance matching
+  petroleum-based plastics.
 website: https://www.nefu.edu.cn/
 primary_materials: Bamboo cellulose-based bioplastic
 market_segments: Automotive, appliances, construction, packaging, engineering

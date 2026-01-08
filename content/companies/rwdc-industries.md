@@ -12,11 +12,11 @@ market_segments: Packaging, food service, consumer goods, single-use plastics su
   as cutlery, straws, cup lids, diapers
 publicly_listed: false
 stock_ticker: .nan
-employees: "120+"
+employees: 120+
 production_capacity:
-  - biopolymer: "PHA (Solon)"
-    capacity: "3,000 tons/year"
-    location: "Athens, Georgia, USA"
+- biopolymer: PHA (Solon)
+  capacity: 3,000 tons/year
+  location: Athens, Georgia, USA
 date: '2026-01-02'
 draft: false
 ---

@@ -1,9 +1,10 @@
 ---
-title: "The Pew Charitable Trusts"
+title: The Pew Charitable Trusts
 company_type: Non-Profit Foundation/NGO
 headquarters: Philadelphia, United States
 status: Active
-fields_of_interest: Plastic pollution, marine conservation, sustainable materials, environmental policy, ocean health, circular economy, research and advocacy
+fields_of_interest: Plastic pollution, marine conservation, sustainable materials,
+  environmental policy, ocean health, circular economy, research and advocacy
 date: 2026-01-02
 draft: false
 ---

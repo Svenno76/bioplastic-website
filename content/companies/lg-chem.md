@@ -3,20 +3,22 @@ title: LG Chem
 company_type: Bioplastic Producer
 headquarters: Seoul, South Korea
 status: Active
-short_description: Largest Korean chemical company and major bioplastics manufacturer producing PLA, PBAT, PHA, Bio-PA, and Bio-PE. EUBP member with global operations.
+short_description: Largest Korean chemical company and major bioplastics manufacturer
+  producing PLA, PBAT, PHA, Bio-PA, and Bio-PE. EUBP member with global operations.
 website: https://www.lgchem.com
-primary_materials: PLA (Polylactic Acid), PBAT (Polybutylene Adipate Terephthalate), PHA (Polyhydroxyalkanoates), Bio-PA (Bio-based Polyamide), Bio-PE (Bio-based Polyethylene)
-market_segments: Packaging, agriculture, automotive, textiles, consumer goods, mulch films, compostable packaging
+primary_materials: PLA (Polylactic Acid), PBAT (Polybutylene Adipate Terephthalate),
+  PHA (Polyhydroxyalkanoates), Bio-PA (Bio-based Polyamide), Bio-PE (Bio-based Polyethylene)
+market_segments: Packaging, agriculture, automotive, textiles, consumer goods, mulch
+  films, compostable packaging
 publicly_listed: true
 stock_ticker: KRX:051910
-employees: "18,750+"
-annual_turnover: "$36.5B"
-eubp_member: true
+employees: 18,750+
+annual_turnover: $36.5B
 production_capacity:
-  - biopolymer: "PBAT"
-    capacity: "50,000 tons/year"
-    location: "South Korea"
-    status: "Full production from 2024"
+- biopolymer: PBAT
+  capacity: 50,000 tons/year
+  location: South Korea
+  status: Full production from 2024
 date: '2026-01-05'
 draft: false
 ---

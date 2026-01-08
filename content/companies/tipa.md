@@ -12,11 +12,11 @@ primary_materials: Compostable films, multi-ply laminates, high-barrier composta
 market_segments: packaging (food, fashion)
 publicly_listed: false
 stock_ticker: .nan
-employees: "150+"
+employees: 150+
 production_capacity:
-  - biopolymer: "Compostable Films & Laminates"
-    capacity: "3,000 tons/year"
-    location: "Hod HaSharon, Israel"
+- biopolymer: Compostable Films & Laminates
+  capacity: 3,000 tons/year
+  location: Hod HaSharon, Israel
 date: '2026-01-02'
 draft: false
 ---

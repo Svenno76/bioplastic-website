@@ -12,11 +12,11 @@ market_segments: Packaging, flexible films, coatings, non-woven materials, agric
   products such as biodegradable tree shelters
 publicly_listed: false
 stock_ticker: AIM:BIOM
-employees: "90+"
+employees: 90+
 production_capacity:
-  - biopolymer: "Starch-based Bioplastics"
-    capacity: "5,000 tons/year"
-    location: "Southampton, United Kingdom"
+- biopolymer: Starch-based Bioplastics
+  capacity: 5,000 tons/year
+  location: Southampton, United Kingdom
 date: '2026-01-02'
 draft: false
 ---

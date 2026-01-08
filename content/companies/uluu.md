@@ -10,11 +10,11 @@ primary_materials: PHA (Polyhydroxyalkanoates), specifically PHBV (poly-3-hydrox
 market_segments: Packaging, textiles, cosmetics, fashion, automotive
 publicly_listed: false
 stock_ticker: .nan
-employees: "60+"
+employees: 60+
 production_capacity:
-  - biopolymer: "Seaweed-based PHA (PHBV)"
-    capacity: "500 tons/year (pilot)"
-    location: "Perth, Western Australia"
+- biopolymer: Seaweed-based PHA (PHBV)
+  capacity: 500 tons/year (pilot)
+  location: Perth, Western Australia
 date: '2026-01-02'
 draft: false
 ---

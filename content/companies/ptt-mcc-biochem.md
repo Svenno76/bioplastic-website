@@ -10,11 +10,11 @@ primary_materials: BioPBS
 market_segments: Packaging
 publicly_listed: false
 stock_ticker: .nan
-employees: "200+"
+employees: 200+
 production_capacity:
-  - biopolymer: "BioPBS"
-    capacity: "10,000 tons/year"
-    location: "Rayong, Thailand"
+- biopolymer: BioPBS
+  capacity: 10,000 tons/year
+  location: Rayong, Thailand
 date: '2026-01-02'
 draft: false
 ---

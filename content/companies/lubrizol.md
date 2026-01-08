@@ -1,15 +1,15 @@
 ---
 title: Lubrizol
 company_type:
-  - Additive Producer
-  - Bioplastic Producer
+- Additive Producer
+- Bioplastic Producer
 headquarters: Wickliffe, United States
 status: Active
 short_description: Lubrizol Corporation is an American specialty chemicals company
   founded in 1928 that produces additives and ingredients for various industries includi...
 website: https://www.lubrizol.com
-primary_materials: Bio-based TPU (ESTANE® ECO, Pearlthane™ ECO), Carbopol® BioSense
-  polymer, engineered polymers, thermoplastic polyurethane (TPU)
+primary_materials: "Bio-based TPU (ESTANE\xAE ECO, Pearlthane\u2122 ECO), Carbopol\xAE\
+  \ BioSense polymer, engineered polymers, thermoplastic polyurethane (TPU)"
 market_segments: Automotive, personal care, pharmaceuticals, medical devices, footwear,
   adhesives, additive manufacturing, textiles, coatings, industrial applications
 publicly_listed: false

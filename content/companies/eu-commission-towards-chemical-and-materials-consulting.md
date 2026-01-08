@@ -1,10 +1,12 @@
 ---
-title: "Towards Chemical and Materials Consulting"
+title: Towards Chemical and Materials Consulting
 company_type: Consulting/Advisory Firm
 headquarters: Brussels, Belgium
 status: Active
 website: https://www.towardschemandmaterials.com/
-fields_of_interest: Chemical safety regulations, sustainable materials policy, bioplastics regulations, circular economy strategy, EU compliance, materials innovation policy, regulatory guidance
+fields_of_interest: Chemical safety regulations, sustainable materials policy, bioplastics
+  regulations, circular economy strategy, EU compliance, materials innovation policy,
+  regulatory guidance
 date: 2026-01-02
 draft: false
 ---

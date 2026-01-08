@@ -11,12 +11,12 @@ primary_materials: PET, bio-based polyester resins, PCR-PET
 market_segments: packaging, films, fibers, photovoltaics
 publicly_listed: true
 stock_ticker: SZSE:301216
-employees: "2,000+"
-annual_turnover: "$1.2B"
+employees: 2,000+
+annual_turnover: $1.2B
 production_capacity:
-  - biopolymer: "Bio-based Polyester & PCR-PET"
-    capacity: "300,000 tons/year"
-    location: "Haining, Zhejiang, China"
+- biopolymer: Bio-based Polyester & PCR-PET
+  capacity: 300,000 tons/year
+  location: Haining, Zhejiang, China
 date: '2026-01-02'
 draft: false
 ---

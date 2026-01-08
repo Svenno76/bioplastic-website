@@ -3,15 +3,18 @@ title: Wacker Chemie AG
 company_type: Additive Producer
 headquarters: Munich, Germany
 status: Active
-short_description: Global chemical company specializing in additives for biopolymers, offering VINNEX and GENIOPLAST product lines to optimize bioplastics production and performance..
+short_description: Global chemical company specializing in additives for biopolymers,
+  offering VINNEX and GENIOPLAST product lines to optimize bioplastics production
+  and performance..
 website: https://www.wacker.com
-primary_materials: Polymer binders and additives for biopolymers, VINNEX additives, GENIOPLAST pellets, dispersions and dispersible polymer powders
-market_segments: Bioplastics processing, biodegradable plastics, compostable materials, packaging, agricultural films, injection molding
+primary_materials: Polymer binders and additives for biopolymers, VINNEX additives,
+  GENIOPLAST pellets, dispersions and dispersible polymer powders
+market_segments: Bioplastics processing, biodegradable plastics, compostable materials,
+  packaging, agricultural films, injection molding
 publicly_listed: true
 stock_ticker: FWB:WCH
-employees: "16,600+"
-annual_turnover: "$6.14B"
-eubp_member: true
+employees: 16,600+
+annual_turnover: $6.14B
 date: '2026-01-05'
 draft: false
 ---

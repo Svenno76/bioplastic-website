@@ -10,14 +10,14 @@ primary_materials: PLA (polylactic acid), lactic acid, lactide
 market_segments: Packaging, agriculture, automotive, medical, textiles
 publicly_listed: false
 stock_ticker: .nan
-employees: "100+"
+employees: 100+
 production_capacity:
-  - biopolymer: "PLA"
-    capacity: "4,000 tons/year"
-    location: "Escanaffles, Belgium"
-  - biopolymer: "Lactic Acid"
-    capacity: "15,000 tons/year"
-    location: "Escanaffles, Belgium"
+- biopolymer: PLA
+  capacity: 4,000 tons/year
+  location: Escanaffles, Belgium
+- biopolymer: Lactic Acid
+  capacity: 15,000 tons/year
+  location: Escanaffles, Belgium
 date: '2026-01-02'
 draft: false
 ---

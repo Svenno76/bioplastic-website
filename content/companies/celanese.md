@@ -3,15 +3,17 @@ title: Celanese Corporation
 company_type: Bioplastic Producer
 headquarters: Dallas, Texas, USA
 status: Active
-short_description: Global chemistry and specialty materials company producing biodegradable cellulosic pellets and films including Clarifoil and BlueRidge products..
+short_description: Global chemistry and specialty materials company producing biodegradable
+  cellulosic pellets and films including Clarifoil and BlueRidge products..
 website: https://www.celanese.com
-primary_materials: Cellulose Diacetate (Clarifoil film), Cellulosic pellets (BlueRidge), biodegradable cellulosic materials, bio-based polymers
-market_segments: Packaging, rigid containers, flexible films, food packaging, compostable packaging, home compostable products
+primary_materials: Cellulose Diacetate (Clarifoil film), Cellulosic pellets (BlueRidge),
+  biodegradable cellulosic materials, bio-based polymers
+market_segments: Packaging, rigid containers, flexible films, food packaging, compostable
+  packaging, home compostable products
 publicly_listed: true
 stock_ticker: NYSE:CE
-employees: "13,300+"
-annual_turnover: "$9.7B"
-eubp_member: true
+employees: 13,300+
+annual_turnover: $9.7B
 date: '2026-01-05'
 draft: false
 ---

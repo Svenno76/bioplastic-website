@@ -3,17 +3,19 @@ title: Tetra Pak International SA
 company_type: Brand
 headquarters: Pully, Switzerland
 status: Active
-short_description: Swedish multinational food packaging and processing company, industrial end user of bio-based plastics, pioneer in plant-based packaging from sugarcane..
+short_description: Swedish multinational food packaging and processing company, industrial
+  end user of bio-based plastics, pioneer in plant-based packaging from sugarcane..
 website: https://www.tetrapak.com
-primary_materials: Plant-based polyethylene (from sugarcane), bio-based polymers, paperboard, renewable materials
-market_segments: Food and beverage packaging, aseptic packaging, dairy products, juice packaging, liquid food processing, sustainable packaging
+primary_materials: Plant-based polyethylene (from sugarcane), bio-based polymers,
+  paperboard, renewable materials
+market_segments: Food and beverage packaging, aseptic packaging, dairy products, juice
+  packaging, liquid food processing, sustainable packaging
 publicly_listed: false
-ownership: "Private (Tetra Laval Group)"
-employees: "24,546"
-annual_turnover: "$13.9B"
-eubp_member: true
-founded: "1951"
-origin: "Lund, Sweden"
+ownership: Private (Tetra Laval Group)
+employees: 24,546
+annual_turnover: $13.9B
+founded: '1951'
+origin: Lund, Sweden
 date: '2026-01-05'
 draft: false
 ---

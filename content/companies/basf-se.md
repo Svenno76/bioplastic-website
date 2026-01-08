@@ -15,15 +15,15 @@ market_segments: Packaging (organic waste bags, fruit and vegetable bags, carrie
   Coffee capsules
 publicly_listed: true
 stock_ticker: FWB:BAS
-employees: "111,000+"
-annual_turnover: "$97.5B"
+employees: 111,000+
+annual_turnover: $97.5B
 production_capacity:
-  - biopolymer: "Ecoflex (PBAT)"
-    capacity: "80,000 tons/year"
-    location: "Ludwigshafen, Germany"
-  - biopolymer: "Ecovio (PBAT/PLA blend)"
-    capacity: "50,000 tons/year"
-    location: "Ludwigshafen, Germany"
+- biopolymer: Ecoflex (PBAT)
+  capacity: 80,000 tons/year
+  location: Ludwigshafen, Germany
+- biopolymer: Ecovio (PBAT/PLA blend)
+  capacity: 50,000 tons/year
+  location: Ludwigshafen, Germany
 date: '2026-01-02'
 draft: false
 ---

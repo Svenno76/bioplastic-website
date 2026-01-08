@@ -3,12 +3,14 @@ title: Sukano AG
 company_type: Additive Producer
 headquarters: Schindellegi, Switzerland
 status: Active
-short_description: Family-owned world leader in colour and additive masterbatches for polyester and specialty resins, with specialized PLA and bioplastics solutions..
+short_description: Family-owned world leader in colour and additive masterbatches
+  for polyester and specialty resins, with specialized PLA and bioplastics solutions..
 website: https://www.sukano.com
-primary_materials: Colour masterbatches, additive masterbatches, compounds for polyester (PET, rPET), PLA masterbatches, antiblock additives for BOPLA, bioplastic additives
-market_segments: Packaging, durable goods, building and construction, healthcare, textiles, compostable packaging, bioplastics processing
-founded: "1988"
-eubp_member: true
+primary_materials: Colour masterbatches, additive masterbatches, compounds for polyester
+  (PET, rPET), PLA masterbatches, antiblock additives for BOPLA, bioplastic additives
+market_segments: Packaging, durable goods, building and construction, healthcare,
+  textiles, compostable packaging, bioplastics processing
+founded: '1988'
 date: '2026-01-05'
 draft: false
 ---

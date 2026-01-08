@@ -3,15 +3,18 @@ title: Neste Corporation
 company_type: Raw Material Supplier
 headquarters: Espoo, Finland
 status: Active
-short_description: World's leading producer of renewable diesel and sustainable aviation fuel, supplier of renewable hydrocarbons and bio-based feedstocks for polymers and chemicals production..
+short_description: World's leading producer of renewable diesel and sustainable aviation
+  fuel, supplier of renewable hydrocarbons and bio-based feedstocks for polymers and
+  chemicals production..
 website: https://www.neste.com
-primary_materials: Renewable hydrocarbons, bio-based feedstocks (Neste RE), sustainable raw materials from waste and residues
-market_segments: Polymers and chemicals, renewable fuels, sustainable aviation fuel, bio-based plastics, packaging
+primary_materials: Renewable hydrocarbons, bio-based feedstocks (Neste RE), sustainable
+  raw materials from waste and residues
+market_segments: Polymers and chemicals, renewable fuels, sustainable aviation fuel,
+  bio-based plastics, packaging
 publicly_listed: true
 stock_ticker: NESTE.HE
-employees: "5,000+"
-annual_turnover: "€20.6B"
-eubp_member: true
+employees: 5,000+
+annual_turnover: "\u20AC20.6B"
 date: '2026-01-05'
 draft: false
 ---

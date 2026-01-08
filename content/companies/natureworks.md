@@ -12,11 +12,11 @@ market_segments: Packaging, Food Serviceware, Health and Personal Care, Durable 
   (home, appliance, electronics), 3D Printing
 publicly_listed: false
 stock_ticker: .nan
-employees: "700+"
+employees: 700+
 production_capacity:
-  - biopolymer: "PLA (Ingeo)"
-    capacity: "140,000 tons/year"
-    location: "Blair, Nebraska, USA"
+- biopolymer: PLA (Ingeo)
+  capacity: 140,000 tons/year
+  location: Blair, Nebraska, USA
 date: '2026-01-02'
 draft: false
 ---

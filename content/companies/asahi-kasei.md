@@ -3,17 +3,18 @@ title: Asahi Kasei Corporation
 company_type: Bioplastic Producer
 headquarters: Tokyo, Japan
 status: Active
-short_description: Multinational Japanese chemical company producing bio-based chemicals and bioplastics through Revolefin technology..
+short_description: Multinational Japanese chemical company producing bio-based chemicals
+  and bioplastics through Revolefin technology..
 website: https://www.asahi-kasei.com
 logo: /images/logos/asahi-kasei.png
-primary_materials: Bio-based chemicals from bioethanol (Revolefin technology), Polyacetal (POM), Polyamide (PA, nylon), Modified Polyphenylene Ether (PPE), bio-based plastics
-market_segments: Automotive, electronics, construction materials, medical devices, pharmaceuticals, packaging, engineering plastics
+primary_materials: Bio-based chemicals from bioethanol (Revolefin technology), Polyacetal
+  (POM), Polyamide (PA, nylon), Modified Polyphenylene Ether (PPE), bio-based plastics
+market_segments: Automotive, electronics, construction materials, medical devices,
+  pharmaceuticals, packaging, engineering plastics
 publicly_listed: true
 stock_ticker: TYO:3407
-employees: "46,000+"
-annual_turnover: "$17.5B"
-eubp_member: true
-eubp_membership_date: "June 2022"
+employees: 46,000+
+annual_turnover: $17.5B
 date: '2026-01-05'
 draft: false
 ---

@@ -10,7 +10,7 @@ primary_materials: Wheat straw, rice husk (biobased composite materials), polypr
   (in paddles)
 market_segments: Sports equipment (pickleball), recreational sports
 publicly_listed: false
-employees: "50+"
+employees: 50+
 date: '2026-01-02'
 draft: false
 ---

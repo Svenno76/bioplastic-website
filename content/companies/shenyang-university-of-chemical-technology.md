@@ -3,7 +3,9 @@ title: Shenyang University of Chemical Technology
 company_type: University
 headquarters: Shenyang, China
 status: Active
-short_description: Shenyang University of Chemical Technology is an academic institution collaborating with Northeast Forestry University on bamboo cellulose-based bioplastics research, developing sustainable materials with superior performance characteristics.
+short_description: Shenyang University of Chemical Technology is an academic institution
+  collaborating with Northeast Forestry University on bamboo cellulose-based bioplastics
+  research, developing sustainable materials with superior performance characteristics.
 website: https://www.syuct.edu.cn/
 primary_materials: Bamboo cellulose-based bioplastic
 market_segments: Automotive, appliances, construction, packaging, engineering

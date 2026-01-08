@@ -3,17 +3,20 @@ title: Futamura Chemical Company
 company_type: Bioplastic Producer
 headquarters: Nagoya, Japan
 status: Active
-short_description: Major producer of regenerated cellulose films including NatureFlex and Cellophane, offering compostable bio-based packaging solutions. EUBP member with global operations.
+short_description: Major producer of regenerated cellulose films including NatureFlex
+  and Cellophane, offering compostable bio-based packaging solutions. EUBP member
+  with global operations.
 website: https://www.futamuragroup.com
-primary_materials: Regenerated cellulose (NatureFlex film), Cellophane film, compostable cellulosic films, bio-based packaging materials
-market_segments: Flexible packaging, food packaging, compostable packaging, sustainable packaging, labels, twist wrap, flowrap
+primary_materials: Regenerated cellulose (NatureFlex film), Cellophane film, compostable
+  cellulosic films, bio-based packaging materials
+market_segments: Flexible packaging, food packaging, compostable packaging, sustainable
+  packaging, labels, twist wrap, flowrap
 publicly_listed: false
-ownership: "Private"
-employees: "1,500"
-annual_turnover: "$451.7M"
-eubp_member: true
-founded: "1950"
-global_operations: "Production sites in Japan, UK, and USA"
+ownership: Private
+employees: 1,500
+annual_turnover: $451.7M
+founded: '1950'
+global_operations: Production sites in Japan, UK, and USA
 date: '2026-01-05'
 draft: false
 ---

@@ -12,17 +12,17 @@ market_segments: Packaging, agriculture, retail, waste collection, automotive, u
   areas, marine, food services
 publicly_listed: false
 stock_ticker: .nan
-employees: "700+"
+employees: 700+
 production_capacity:
-  - biopolymer: "Mater-Bi (Starch-based)"
-    capacity: "100,000 tons/year"
-    location: "Terni, Italy (main)"
-  - biopolymer: "Mater-Bi (Starch-based)"
-    capacity: "25,000 tons/year"
-    location: "Patrica, Italy"
-  - biopolymer: "Origo-Bi (Bio-based Polyester)"
-    capacity: "40,000 tons/year"
-    location: "Porto Torres, Italy"
+- biopolymer: Mater-Bi (Starch-based)
+  capacity: 100,000 tons/year
+  location: Terni, Italy (main)
+- biopolymer: Mater-Bi (Starch-based)
+  capacity: 25,000 tons/year
+  location: Patrica, Italy
+- biopolymer: Origo-Bi (Bio-based Polyester)
+  capacity: 40,000 tons/year
+  location: Porto Torres, Italy
 date: '2026-01-02'
 draft: false
 ---

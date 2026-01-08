@@ -1,9 +1,11 @@
 ---
-title: "European Commission"
+title: European Commission
 company_type: Policy/Government Organization
 headquarters: Brussels, Belgium
 status: Active
-fields_of_interest: Bioplastics policy, sustainability regulations, circular economy, biodegradable polymers standardization, environmental protection, industrial policy, research and innovation funding
+fields_of_interest: Bioplastics policy, sustainability regulations, circular economy,
+  biodegradable polymers standardization, environmental protection, industrial policy,
+  research and innovation funding
 date: 2026-01-02
 draft: false
 ---

@@ -13,11 +13,11 @@ primary_materials: Bio-based polymers, biodegradable polymers, starch-based mate
 market_segments: Packaging, agriculture, paper, luxury goods, cosmetics, food processing
 publicly_listed: false
 stock_ticker: .nan
-employees: "120+"
+employees: 120+
 production_capacity:
-  - biopolymer: "Starch-based & Bio-based Polymers"
-    capacity: "8,000 tons/year"
-    location: "Ifs, France"
+- biopolymer: Starch-based & Bio-based Polymers
+  capacity: 8,000 tons/year
+  location: Ifs, France
 date: '2026-01-02'
 draft: false
 ---

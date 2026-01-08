@@ -11,11 +11,11 @@ market_segments: Packaging, agriculture, automotive, fashion, cosmetics, pharmac
   electronics
 publicly_listed: false
 stock_ticker: AIM:ON
-employees: "80+"
+employees: 80+
 production_capacity:
-  - biopolymer: "PHA (MICROMALT)"
-    capacity: "5,000 tons/year (planned expansion)"
-    location: "Bologna, Italy"
+- biopolymer: PHA (MICROMALT)
+  capacity: 5,000 tons/year (planned expansion)
+  location: Bologna, Italy
 date: '2026-01-02'
 draft: false
 ---

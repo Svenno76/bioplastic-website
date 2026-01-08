@@ -3,12 +3,14 @@ title: Terra Sol Studio
 company_type: Brand
 headquarters: Australia
 status: Active
-short_description: Terra Sol Studio is an Australian design studio specializing in sustainable product design and commercialization of innovative bioplastic solutions, partnering with biotechnology companies to bring eco-friendly products to market.
+short_description: Terra Sol Studio is an Australian design studio specializing in
+  sustainable product design and commercialization of innovative bioplastic solutions,
+  partnering with biotechnology companies to bring eco-friendly products to market.
 website: https://terrasolstudio.com
 primary_materials: PHA, Bioplastics
 market_segments: design, product development, sustainable packaging
 publicly_listed: false
-employees: "30+"
+employees: 30+
 date: '2026-01-02'
 draft: false
 ---

@@ -10,11 +10,11 @@ website: https://ecopha.com
 primary_materials: PHA (Polyhydroxyalkanoate)
 market_segments: packaging, food service, industrial applications
 publicly_listed: false
-employees: "80+"
+employees: 80+
 production_capacity:
-  - biopolymer: "PHA"
-    capacity: "2,000 tons/year (planned)"
-    location: "Bentley, Western Australia"
+- biopolymer: PHA
+  capacity: 2,000 tons/year (planned)
+  location: Bentley, Western Australia
 date: '2026-01-02'
 draft: false
 ---

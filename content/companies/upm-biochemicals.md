@@ -13,11 +13,11 @@ market_segments: Packaging (including pharmaceutical packaging), plastics, rubbe
   cosmetics, personal care, durable goods
 publicly_listed: false
 stock_ticker: HEL:UPM1V
-employees: "300+"
+employees: 300+
 production_capacity:
-  - biopolymer: "BioMEG (Bio-based PET)"
-    capacity: "12,000 tons/year (planned)"
-    location: "Leuna, Germany (under construction)"
+- biopolymer: BioMEG (Bio-based PET)
+  capacity: 12,000 tons/year (planned)
+  location: Leuna, Germany (under construction)
 date: '2026-01-02'
 draft: false
 ---

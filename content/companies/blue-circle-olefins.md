@@ -11,11 +11,11 @@ primary_materials: Circular ethylene, circular propylene (produced from renewabl
 market_segments: Packaging, chemical industry, plastics manufacturing
 publicly_listed: false
 stock_ticker: .nan
-employees: "50+"
+employees: 50+
 production_capacity:
-  - biopolymer: "Circular Ethylene & Propylene"
-    capacity: "20,000 tons/year (planned)"
-    location: "Wageningen, Netherlands"
+- biopolymer: Circular Ethylene & Propylene
+  capacity: 20,000 tons/year (planned)
+  location: Wageningen, Netherlands
 date: '2026-01-02'
 draft: false
 ---

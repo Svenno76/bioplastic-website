@@ -11,15 +11,15 @@ market_segments: Packaging, food and beverage, agriculture, medical devices, ele
   home & personal care, pharmaceuticals, bioplastics
 publicly_listed: true
 stock_ticker: Euronext:CRBN
-employees: "650+"
-annual_turnover: "$1.1B"
+employees: 650+
+annual_turnover: $1.1B
 production_capacity:
-  - biopolymer: "Lactic Acid (for PLA)"
-    capacity: "130,000 tons/year"
-    location: "Lauingen, Germany"
-  - biopolymer: "Lactide (PLA precursor)"
-    capacity: "50,000 tons/year"
-    location: "Oost-Gelderse, Netherlands"
+- biopolymer: Lactic Acid (for PLA)
+  capacity: 130,000 tons/year
+  location: Lauingen, Germany
+- biopolymer: Lactide (PLA precursor)
+  capacity: 50,000 tons/year
+  location: Oost-Gelderse, Netherlands
 date: '2026-01-02'
 draft: false
 ---

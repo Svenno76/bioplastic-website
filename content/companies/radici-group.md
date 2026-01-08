@@ -6,9 +6,10 @@ status: Active
 short_description: RadiciGroup is a diversified Italian chemical company specializing
   in the production of polyamide and polyester engineering polymers, chemical interme...
 website: https://www.radicigroup.com
-primary_materials: Polyamide 6, Polyamide 6.6, Polyamide 6.10, Polyamide 6.12, Polyester
-  (including Raditer®), Thermoplastic elastomers (Heraflex®), Acetal copolymers (Heraform®),
-  Polyphenylene sulfide (Raditeck®), Recycled nylon 6 (Renycle®)
+primary_materials: "Polyamide 6, Polyamide 6.6, Polyamide 6.10, Polyamide 6.12, Polyester\
+  \ (including Raditer\xAE), Thermoplastic elastomers (Heraflex\xAE), Acetal copolymers\
+  \ (Heraform\xAE), Polyphenylene sulfide (Raditeck\xAE), Recycled nylon 6 (Renycle\xAE\
+  )"
 market_segments: Automotive, Electrical/Electronics, Consumer Goods, Industrial Applications,
   Apparel, Sportswear, Furnishings, Home Appliances, Construction, Railways
 publicly_listed: false

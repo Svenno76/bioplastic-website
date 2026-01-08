@@ -12,14 +12,14 @@ market_segments: packaging, consumer goods, agriculture, automotive, electronics
   textiles, 3D printing, injection molding
 publicly_listed: false
 stock_ticker: .nan
-employees: "200+"
+employees: 200+
 production_capacity:
-  - biopolymer: "Luminy PLA"
-    capacity: "75,000 tons/year"
-    location: "Rayong, Thailand"
-  - biopolymer: "Luminy PLA"
-    capacity: "100,000 tons/year (under construction)"
-    location: "Grandpuits, France"
+- biopolymer: Luminy PLA
+  capacity: 75,000 tons/year
+  location: Rayong, Thailand
+- biopolymer: Luminy PLA
+  capacity: 100,000 tons/year (under construction)
+  location: Grandpuits, France
 date: '2026-01-02'
 draft: false
 ---

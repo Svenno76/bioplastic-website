@@ -12,15 +12,15 @@ market_segments: Packaging, food service (straws, cups, cutlery), retail (shoppi
   bags), marine environment applications
 publicly_listed: true
 stock_ticker: TSE:4118
-employees: "3,000+"
-annual_turnover: "$5.2B"
+employees: 3,000+
+annual_turnover: $5.2B
 production_capacity:
-  - biopolymer: "PHBH (Green Planet)"
-    capacity: "5,000 tons/year"
-    location: "Takasago, Japan"
-  - biopolymer: "PHBH Expansion (Green Planet)"
-    capacity: "20,000 tons/year (under construction)"
-    location: "Takasago, Japan"
+- biopolymer: PHBH (Green Planet)
+  capacity: 5,000 tons/year
+  location: Takasago, Japan
+- biopolymer: PHBH Expansion (Green Planet)
+  capacity: 20,000 tons/year (under construction)
+  location: Takasago, Japan
 date: '2026-01-02'
 draft: false
 ---

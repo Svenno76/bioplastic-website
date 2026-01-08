@@ -3,17 +3,19 @@ title: Cargill
 company_type: Raw Material Supplier
 headquarters: Minnetonka, Minnesota, USA
 status: Active
-short_description: American multinational food corporation and leading supplier of renewable raw materials from corn, soybeans, rapeseed and seaweed for bio-based plastics..
+short_description: American multinational food corporation and leading supplier of
+  renewable raw materials from corn, soybeans, rapeseed and seaweed for bio-based
+  plastics..
 website: https://www.cargill.com
-primary_materials: Renewable feedstocks (corn, soybeans, rapeseed, seaweed), bio-based raw materials for engineering plastics, lactic acid precursors, plant-based polymers
-market_segments: Engineering plastics, bio-based plastics, bioindustrial solutions, packaging materials, sustainable feedstocks, circular economy
+primary_materials: Renewable feedstocks (corn, soybeans, rapeseed, seaweed), bio-based
+  raw materials for engineering plastics, lactic acid precursors, plant-based polymers
+market_segments: Engineering plastics, bio-based plastics, bioindustrial solutions,
+  packaging materials, sustainable feedstocks, circular economy
 publicly_listed: false
-ownership: "Private (Cargill family)"
-employees: "160,000+"
-annual_turnover: "$165B"
-eubp_member: true
-founded: "1865"
-belgium_operations: "8 locations, 1,000+ employees since 1953"
+ownership: Private (Cargill family)
+employees: 160,000+
+annual_turnover: $165B
+founded: '1865'
 date: '2026-01-05'
 draft: false
 ---

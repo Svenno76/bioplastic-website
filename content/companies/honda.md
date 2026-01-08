@@ -9,8 +9,8 @@ website: https://global.honda/
 market_segments: Automotive (motorcycles, automotive parts), mobility, recycling
 publicly_listed: true
 stock_ticker: TSE:7267
-employees: "210,000+"
-annual_turnover: "$150B"
+employees: 210,000+
+annual_turnover: $150B
 date: '2026-01-02'
 draft: false
 ---

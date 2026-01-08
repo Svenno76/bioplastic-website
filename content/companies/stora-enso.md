@@ -3,20 +3,23 @@ title: Stora Enso
 company_type: Raw Material Supplier
 headquarters: Helsinki, Finland & Stockholm, Sweden
 status: Active
-short_description: Leading renewable materials company pioneering PEF bioplastics through proprietary FuraCore technology producing FDCA and HMF derivatives from fructose..
+short_description: Leading renewable materials company pioneering PEF bioplastics
+  through proprietary FuraCore technology producing FDCA and HMF derivatives from
+  fructose..
 website: https://www.storaenso.com
-primary_materials: FDCA (Furan-dicarboxylic acid), HMF (5-hydroxymethylfurfural), PEF (Polyethylene furanoate), renewable bio-based chemicals
-market_segments: Packaging, biomaterials, specialty polymers, coatings, fuel additives, sustainable packaging materials
+primary_materials: FDCA (Furan-dicarboxylic acid), HMF (5-hydroxymethylfurfural),
+  PEF (Polyethylene furanoate), renewable bio-based chemicals
+market_segments: Packaging, biomaterials, specialty polymers, coatings, fuel additives,
+  sustainable packaging materials
 publicly_listed: true
 stock_ticker: HEL:STERV
-employees: "19,000+"
-annual_turnover: "€9B"
-eubp_member: true
+employees: 19,000+
+annual_turnover: "\u20AC9B"
 production_capacity:
-  - biopolymer: "FDCA/HMF (FuraCore process)"
-    capacity: "Pilot plant"
-    location: "Langerbrugge, Belgium (near Ghent)"
-    status: "Technology validation, commercialization planned 2026"
+- biopolymer: FDCA/HMF (FuraCore process)
+  capacity: Pilot plant
+  location: Langerbrugge, Belgium (near Ghent)
+  status: Technology validation, commercialization planned 2026
 date: '2026-01-05'
 draft: false
 ---

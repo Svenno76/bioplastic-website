@@ -12,15 +12,15 @@ market_segments: Packaging, consumer goods, automotive, electronics, medical, an
   other industries requiring durable and sustainable plastic materials
 publicly_listed: true
 stock_ticker: TSE:4188
-employees: "36,000+"
-annual_turnover: "$60.8B"
+employees: 36,000+
+annual_turnover: $60.8B
 production_capacity:
-  - biopolymer: "BioPBS"
-    capacity: "30,000 tons/year"
-    location: "Yokkaichi, Japan (main production)"
-  - biopolymer: "BioPBS"
-    capacity: "10,000 tons/year"
-    location: "PTT MCC Biochem, Thailand (joint venture)"
+- biopolymer: BioPBS
+  capacity: 30,000 tons/year
+  location: Yokkaichi, Japan (main production)
+- biopolymer: BioPBS
+  capacity: 10,000 tons/year
+  location: PTT MCC Biochem, Thailand (joint venture)
 date: '2026-01-02'
 draft: false
 ---

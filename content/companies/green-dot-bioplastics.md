@@ -10,11 +10,11 @@ primary_materials: PBAT, PBS, PLA, thermoplastic starch
 market_segments: Packaging, consumer goods, toys, fashion, 3D printing
 publicly_listed: false
 stock_ticker: .nan
-employees: "80+"
+employees: 80+
 production_capacity:
-  - biopolymer: "Bioplastic Blends & Composites"
-    capacity: "4,000 tons/year"
-    location: "Emporia, Kansas, USA"
+- biopolymer: Bioplastic Blends & Composites
+  capacity: 4,000 tons/year
+  location: Emporia, Kansas, USA
 date: '2026-01-02'
 draft: false
 ---
