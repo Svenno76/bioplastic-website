@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Bioplastics Portal'
 theme = 'ananke'
 enableRobotsTXT = true
+ignoreFiles = ["^database/"]
 
 [params]
   featured_image = '/images/bioplastics-banner.jpg'
