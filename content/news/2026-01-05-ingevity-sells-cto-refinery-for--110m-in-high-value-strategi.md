@@ -28,4 +28,4 @@ The $110 million influx provides Ingevity with a robust capital cushion to navig
 
 **Source:** [Read more](https://ir.ingevity.com/news-releases/news-releases-details/2026/Ingevity-announces-successful-completion-of-sale-of-North-Charleston-crude-tall-oil-refinery-and-majority-of-Industrial-Specialties-product-line/default.aspx)
 
-**Contact**[Caroline Monahan](https://www.linkedin.com/in/caroline-monahan/)
+**Contact** [Caroline Monahan](https://www.linkedin.com/in/caroline-monahan/)
