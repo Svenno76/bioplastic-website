@@ -27,4 +27,5 @@ Industry analysts view the $110 million sale as a calculated move to fund furthe
 The $110 million influx provides Ingevity with a robust capital cushion to navigate the evolving 2026 economic landscape. The move is expected to improve the company’s overall margin profile and reduce exposure to the volatility of raw material pricing. As the company doubles down on its "high-value" strategy, stakeholders are looking toward upcoming R&D announcements that could further solidify Ingevity's role as a leader in the global transition to a circular economy.
 
 **Source:** [Read more](https://ir.ingevity.com/news-releases/news-releases-details/2026/Ingevity-announces-successful-completion-of-sale-of-North-Charleston-crude-tall-oil-refinery-and-majority-of-Industrial-Specialties-product-line/default.aspx)
+
 **Contact**[Caroline Monahan](https://www.linkedin.com/in/caroline-monahan/)
