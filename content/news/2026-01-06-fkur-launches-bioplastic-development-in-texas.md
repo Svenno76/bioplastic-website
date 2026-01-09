@@ -1,6 +1,6 @@
 ---
 title: "FKuR Launches Bioplastic Development in Texas"
-date: 2026-01-06
+date: 2010-01-06
 draft: false
 summary: "German bioplastic company FKuR is gearing up operations in Texas to develop and sell innovative biocompound products."
 tags: ['FKuR', 'plant-announcement', 'manufacturing', 'capacity']
