@@ -1,7 +1,7 @@
 ---
 title: "L'Oréal Backs Bioplastics Startups via L'AcceleratOR Program"
 date: 2026-01-15
-draft: true
+draft: false
 summary: "L'Oréal has selected 13 innovative startups for its L’AcceleratOR program to advance circularity, climate resilience, and sustainable bioplastic packaging solutions."
 tags: ['L\'Oréal', 'innovation', 'sustainability']
 category: "News"
