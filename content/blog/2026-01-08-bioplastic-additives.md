@@ -31,7 +31,7 @@ keywords:
 
 Bioplastics represent one of the most promising pathways toward sustainable materials, but few people realize that pure biopolymers rarely meet the performance requirements of real-world applications. The secret to transforming brittle, heat-sensitive biopolymers into durable products lies in a sophisticated toolkit of additives. Understanding these additives—what they do, how they work chemically, and which commercial products are available—is essential for anyone working with bioplastics.
 
-## Why Bioplastics Need Additives
+# Why Bioplastics Need Additives
 
 Pure polylactic acid (PLA), one of the most common bioplastics, is inherently brittle with poor impact resistance. Polyhydroxyalkanoates (PHAs) can be too soft and weak for many applications. Starch-based bioplastics absorb moisture and lose dimensional stability. Without additives, these materials would be limited to niche applications where their shortcomings don't matter.
 
@@ -57,6 +57,7 @@ Semicrystalline bioplastics like PLA face a critical problem: slow crystallizati
 
 Chemically, nucleating agents work through heterogeneous nucleation—the nucleating agent surface serves as a template where polymer chains can align and begin forming ordered crystalline structures. The agent's surface chemistry and crystal structure must be compatible with the polymer's crystal lattice for effective nucleation.
 
+
 **Commercial nucleating agents include:**
 
 - Takemoto Oil & Fat's **LAK-301** is specifically designed for PLA, an organic nucleating agent that dramatically accelerates crystallization and enables parts with high heat deflection temperatures. BASF's **Irgaclear XT 386** is an acetal-based nucleator that provides both nucleation efficiency and transparency maintenance in PLA.
@@ -70,6 +71,7 @@ Chemically, nucleating agents work through heterogeneous nucleation—the nuclea
 Impact modifiers address one of bioplastics' most significant weaknesses: poor impact resistance. These additives, typically elastomeric materials or core-shell particles, absorb and dissipate impact energy through plastic deformation, preventing catastrophic crack propagation through the rigid bioplastic matrix.
 
 The mechanism involves creating a dispersed rubber phase that can undergo cavitation or shear yielding under stress. When impact occurs, these rubber domains deform and absorb energy, while also triggering shear banding in the surrounding matrix that further dissipates energy. For this to work effectively, the rubber phase must be well-dispersed and properly bonded to the matrix.
+
 
 **Commercial impact modifiers include:**
 
@@ -85,6 +87,7 @@ Bioplastics are generally more thermally sensitive than conventional polymers, w
 
 For polyesters like PLA, stabilization requires addressing both oxidative degradation (through antioxidants) and hydrolytic degradation (through moisture control and hydrolysis inhibitors). The chemistry involves donating hydrogen atoms to stabilize polymer radicals, or converting unstable peroxide groups to stable alcohols before they can propagate degradation.
 
+
 **Commercial thermal stabilizers include:**
 
 - BASF's **Irganox** series includes industry-standard phenolic antioxidants like Irganox 1010 and 1076, which provide primary antioxidant protection by donating hydrogen to polymer free radicals. These are typically combined with phosphite secondary antioxidants like BASF's **Irgafos 168**, which decompose hydroperoxides before they generate more radicals.
@@ -98,6 +101,7 @@ For bioplastics specifically, these antioxidants are often combined with special
 Bioplastics intended for outdoor applications need protection against photodegradation from UV radiation. UV stabilizers work through two complementary mechanisms: UV absorbers convert harmful UV energy to harmless heat through internal molecular rearrangement, while hindered amine light stabilizers (HALS) scavenge the free radicals generated when UV radiation does break polymer bonds.
 
 The chemistry of UV absorbers typically involves aromatic compounds with extended conjugation that can absorb UV photons and dissipate the energy through non-radiative relaxation pathways. HALS compounds contain hindered amine groups that can repeatedly cycle through radical-scavenging reactions, providing long-term protection.
+
 
 **Commercial UV stabilizers include:**
 
@@ -113,6 +117,7 @@ Processing aids reduce friction, improve melt flow, and enable lower processing 
 
 Chemically, these are typically low-molecular-weight compounds with structures similar to the polymer (for internal effects) or with polar groups that interact with metal surfaces (for external effects). In bioplastics, the challenge is finding lubricants that are compatible with polar polymers and meet sustainability requirements.
 
+
 **Commercial processing aids include:**
 
 - Clariant's **Licowax** PE waxes and **Licomont** fatty acid esters provide both conventional and bio-based options for processing aid applications. Emery Oleochemicals' **Loxiol** bio-based lubricants are specifically designed for sustainable polymer processing.
@@ -126,6 +131,7 @@ For bio-based formulations, Lonza's **Glycolube** series of glycerol esters offe
 Fillers serve multiple purposes: reinforcing mechanical properties, improving dimensional stability, providing cost reduction, and sometimes enhancing biodegradability. Natural fibers have particular synergy with bioplastics due to their compatible polarity and renewable origins.
 
 The mechanism of reinforcement depends on the filler type. Rigid particles restrict polymer chain motion and can bear load if properly bonded to the matrix. Natural fibers provide tensile reinforcement along their length. Nanofillers create enormous interfacial areas that restrict chain mobility even at low loadings.
+
 
 **Commercial fillers and reinforcements include:**
 
