@@ -45,11 +45,11 @@ For PLA, which has a glass transition around 55-60°C and is notoriously brittle
 
 **Commercial plasticizers for bioplastics include:**
 
-**Citrate esters** are among the most popular bio-compatible plasticizers. Jungbunzlauer's **Citrofol** line includes acetyl tributyl citrate (ATBC) and tributyl citrate (TBC), which are FDA-approved for food contact and effectively plasticize PLA and starch-based polymers. Vertellus offers the competing **Citroflex** range. These esters work by disrupting chain packing without significantly migrating from the polymer matrix.
+- **Citrate esters** are among the most popular bio-compatible plasticizers. Jungbunzlauer's **Citrofol** line includes acetyl tributyl citrate (ATBC) and tributyl citrate (TBC), which are FDA-approved for food contact and effectively plasticize PLA and starch-based polymers. Vertellus offers the competing **Citroflex** range. These esters work by disrupting chain packing without significantly migrating from the polymer matrix.
 
-**Glycerol** is widely used in starch-based bioplastics, supplied as commodity glycerin by companies like Cargill and Wilmar International. Its three hydroxyl groups form extensive hydrogen bonding networks with starch, dramatically reducing brittleness. However, glycerol's high hygroscopicity can cause moisture absorption issues in the final product.
+- **Glycerol** is widely used in starch-based bioplastics, supplied as commodity glycerin by companies like Cargill and Wilmar International. Its three hydroxyl groups form extensive hydrogen bonding networks with starch, dramatically reducing brittleness. However, glycerol's high hygroscopicity can cause moisture absorption issues in the final product.
 
-**Bio-based specialty plasticizers** represent the cutting edge. Roquette's **Polysorb** isosorbide-based plasticizers offer excellent compatibility with biopolyesters while being derived from renewable resources. HallStar's **Hallgreen** bio-based plasticizer esters provide performance comparable to phthalates without the toxicity concerns. BASF's **Dehyton** partially bio-based plasticizers balance performance with sustainability.
+- **Bio-based specialty plasticizers** represent the cutting edge. Roquette's **Polysorb** isosorbide-based plasticizers offer excellent compatibility with biopolyesters while being derived from renewable resources. HallStar's **Hallgreen** bio-based plasticizer esters provide performance comparable to phthalates without the toxicity concerns. BASF's **Dehyton** partially bio-based plasticizers balance performance with sustainability.
 
 ## Nucleating Agents: Controlling Crystallization
 
@@ -59,11 +59,11 @@ Chemically, nucleating agents work through heterogeneous nucleation—the nuclea
 
 **Commercial nucleating agents include:**
 
-Takemoto Oil & Fat's **LAK-301** is specifically designed for PLA, an organic nucleating agent that dramatically accelerates crystallization and enables parts with high heat deflection temperatures. BASF's **Irgaclear XT 386** is an acetal-based nucleator that provides both nucleation efficiency and transparency maintenance in PLA.
+- Takemoto Oil & Fat's **LAK-301** is specifically designed for PLA, an organic nucleating agent that dramatically accelerates crystallization and enables parts with high heat deflection temperatures. BASF's **Irgaclear XT 386** is an acetal-based nucleator that provides both nucleation efficiency and transparency maintenance in PLA.
 
-Milliken's **Millad NX** series and **Hyperform** products, originally developed for polypropylene, have been adapted for various biopolymers. These organic nucleators can reduce cycle times and improve properties when properly matched to the polymer.
+- Milliken's **Millad NX** series and **Hyperform** products, originally developed for polypropylene, have been adapted for various biopolymers. These organic nucleators can reduce cycle times and improve properties when properly matched to the polymer.
 
-Traditional mineral nucleators like **talc** (from suppliers including Imerys and Mondo Minerals) or **sodium benzoate** (commodity chemical from multiple suppliers) work in bioplastics but are generally less effective than organic nucleators specifically designed for biopolyesters.
+- Traditional mineral nucleators like **talc** (from suppliers including Imerys and Mondo Minerals) or **sodium benzoate** (commodity chemical from multiple suppliers) work in bioplastics but are generally less effective than organic nucleators specifically designed for biopolyesters.
 
 ## Impact Modifiers: Toughening Brittle Bioplastics
 
@@ -73,11 +73,11 @@ The mechanism involves creating a dispersed rubber phase that can undergo cavita
 
 **Commercial impact modifiers include:**
 
-DuPont's **Biomax Strong** grades are specifically formulated for PLA toughening, improving impact resistance while maintaining bioplastic character. BASF's **Ecoflex**, a polybutylene adipate terephthalate (PBAT), is commonly blended with PLA to improve toughness. Ecoflex itself is biodegradable, maintaining the end-of-life benefits of the formulation.
+- DuPont's **Biomax Strong** grades are specifically formulated for PLA toughening, improving impact resistance while maintaining bioplastic character. BASF's **Ecoflex**, a polybutylene adipate terephthalate (PBAT), is commonly blended with PLA to improve toughness. Ecoflex itself is biodegradable, maintaining the end-of-life benefits of the formulation.
 
-Arkema's **Biostrength** acrylic impact modifiers and **Nanostrength** core-shell products are engineered for compatibility with polar biopolymers. These products feature surface functionalization that promotes bonding with ester groups in biopolyesters, ensuring effective stress transfer.
+- Arkema's **Biostrength** acrylic impact modifiers and **Nanostrength** core-shell products are engineered for compatibility with polar biopolymers. These products feature surface functionalization that promotes bonding with ester groups in biopolyesters, ensuring effective stress transfer.
 
-DuPont's **Elvaloy BioSA** bio-based ethylene copolymers offer another approach, providing rubber-like toughening while increasing bio-based content. Dow's **Paraloid BPM** series brings decades of acrylic impact modifier expertise to the bioplastics space.
+- DuPont's **Elvaloy BioSA** bio-based ethylene copolymers offer another approach, providing rubber-like toughening while increasing bio-based content. Dow's **Paraloid BPM** series brings decades of acrylic impact modifier expertise to the bioplastics space.
 
 ## Thermal Stabilizers: Protecting Against Heat Degradation
 
@@ -87,9 +87,9 @@ For polyesters like PLA, stabilization requires addressing both oxidative degrad
 
 **Commercial thermal stabilizers include:**
 
-BASF's **Irganox** series includes industry-standard phenolic antioxidants like Irganox 1010 and 1076, which provide primary antioxidant protection by donating hydrogen to polymer free radicals. These are typically combined with phosphite secondary antioxidants like BASF's **Irgafos 168**, which decompose hydroperoxides before they generate more radicals.
+- BASF's **Irganox** series includes industry-standard phenolic antioxidants like Irganox 1010 and 1076, which provide primary antioxidant protection by donating hydrogen to polymer free radicals. These are typically combined with phosphite secondary antioxidants like BASF's **Irgafos 168**, which decompose hydroperoxides before they generate more radicals.
 
-Solvay's **Cyanox** hindered phenol antioxidants and Songwon's **Songnox** phosphite stabilizers offer competing products with similar mechanisms. Addivant's **Lowinox** phenolic antioxidants and **Doverphos** phosphite processing stabilizers provide additional options.
+- Solvay's **Cyanox** hindered phenol antioxidants and Songwon's **Songnox** phosphite stabilizers offer competing products with similar mechanisms. Addivant's **Lowinox** phenolic antioxidants and **Doverphos** phosphite processing stabilizers provide additional options.
 
 For bioplastics specifically, these antioxidants are often combined with specialized stabilizers. Carbodiimide-based products like Rhein Chemie's **Stabaxol** provide hydrolytic stabilization by scavenging water and reacting with carboxylic acid end groups that catalyze degradation.
 
@@ -101,9 +101,9 @@ The chemistry of UV absorbers typically involves aromatic compounds with extende
 
 **Commercial UV stabilizers include:**
 
-BASF's **Tinuvin** series dominates the market with products like Tinuvin 328 and 1130 (benzotriazole UV absorbers) and Tinuvin 770 and 944 (HALS). The **Chimassorb** line from BASF offers high-performance HALS for demanding applications.
+- BASF's **Tinuvin** series dominates the market with products like Tinuvin 328 and 1130 (benzotriazole UV absorbers) and Tinuvin 770 and 944 (HALS). The **Chimassorb** line from BASF offers high-performance HALS for demanding applications.
 
-Solvay's **Cyasorb UV** products, including the polymeric HALS Cyasorb UV-3346, provide alternatives with different solubility and migration characteristics. Clariant's **Hostavin** UV absorbers and **Sanduvor** HALS stabilizers round out the major offerings.
+- Solvay's **Cyasorb UV** products, including the polymeric HALS Cyasorb UV-3346, provide alternatives with different solubility and migration characteristics. Clariant's **Hostavin** UV absorbers and **Sanduvor** HALS stabilizers round out the major offerings.
 
 For bioplastics, combinations of UV absorbers and HALS typically provide the best protection, with careful selection to ensure compatibility with the polar polymer matrix and compliance with any biodegradability requirements.
 
@@ -115,9 +115,9 @@ Chemically, these are typically low-molecular-weight compounds with structures s
 
 **Commercial processing aids include:**
 
-Clariant's **Licowax** PE waxes and **Licomont** fatty acid esters provide both conventional and bio-based options for processing aid applications. Emery Oleochemicals' **Loxiol** bio-based lubricants are specifically designed for sustainable polymer processing.
+- Clariant's **Licowax** PE waxes and **Licomont** fatty acid esters provide both conventional and bio-based options for processing aid applications. Emery Oleochemicals' **Loxiol** bio-based lubricants are specifically designed for sustainable polymer processing.
 
-Struktol's processing aid portfolio includes bio-based options compatible with bioplastic processing requirements. Croda's **Crodamide** fatty acid amides, derived from natural oils, provide effective slip and antiblock properties.
+- Struktol's processing aid portfolio includes bio-based options compatible with bioplastic processing requirements. Croda's **Crodamide** fatty acid amides, derived from natural oils, provide effective slip and antiblock properties.
 
 For bio-based formulations, Lonza's **Glycolube** series of glycerol esters offers FDA-approved processing aids derived from renewable resources, maintaining the sustainability profile of the finished product.
 
