@@ -37,13 +37,14 @@ Pure polylactic acid (PLA), one of the most common bioplastics, is inherently br
 
 Additives modify physical properties, enhance processing characteristics, extend service life, and enable bioplastics to compete with conventional polymers in demanding applications. The challenge is selecting additives that maintain the environmental benefits of the base biopolymer while delivering the necessary performance.
 
+# What Additives are out there? 
 ## Plasticizers: Adding Flexibility
 
 Plasticizers are the workhorses of bioplastic formulation, used to overcome the brittleness that plagues many biopolymers. These molecules work by inserting themselves between polymer chains, increasing the free volume and molecular mobility. This reduces intermolecular forces—particularly hydrogen bonding in polar bioplastics—which lowers the glass transition temperature and increases flexibility.
 
 For PLA, which has a glass transition around 55-60°C and is notoriously brittle at room temperature, plasticizers can dramatically improve ductility and impact resistance. The chemistry matters: PLA's polar ester groups respond well to polar plasticizers that can form hydrogen bonds or dipole interactions with the polymer chains.
 
-**Commercial plasticizers for bioplastics include:**
+## Commercial plasticizers for bioplastics include: ##
 
 - **Citrate esters** are among the most popular bio-compatible plasticizers. Jungbunzlauer's **Citrofol** line includes acetyl tributyl citrate (ATBC) and tributyl citrate (TBC), which are FDA-approved for food contact and effectively plasticize PLA and starch-based polymers. Vertellus offers the competing **Citroflex** range. These esters work by disrupting chain packing without significantly migrating from the polymer matrix.
 
@@ -57,8 +58,7 @@ Semicrystalline bioplastics like PLA face a critical problem: slow crystallizati
 
 Chemically, nucleating agents work through heterogeneous nucleation—the nucleating agent surface serves as a template where polymer chains can align and begin forming ordered crystalline structures. The agent's surface chemistry and crystal structure must be compatible with the polymer's crystal lattice for effective nucleation.
 
-
-**Commercial nucleating agents include:**
+### Commercial nucleating agents include:
 
 - Takemoto Oil & Fat's **LAK-301** is specifically designed for PLA, an organic nucleating agent that dramatically accelerates crystallization and enables parts with high heat deflection temperatures. BASF's **Irgaclear XT 386** is an acetal-based nucleator that provides both nucleation efficiency and transparency maintenance in PLA.
 
@@ -73,7 +73,7 @@ Impact modifiers address one of bioplastics' most significant weaknesses: poor i
 The mechanism involves creating a dispersed rubber phase that can undergo cavitation or shear yielding under stress. When impact occurs, these rubber domains deform and absorb energy, while also triggering shear banding in the surrounding matrix that further dissipates energy. For this to work effectively, the rubber phase must be well-dispersed and properly bonded to the matrix.
 
 
-**Commercial impact modifiers include:**
+### Commercial impact modifiers include:
 
 - DuPont's **Biomax Strong** grades are specifically formulated for PLA toughening, improving impact resistance while maintaining bioplastic character. BASF's **Ecoflex**, a polybutylene adipate terephthalate (PBAT), is commonly blended with PLA to improve toughness. Ecoflex itself is biodegradable, maintaining the end-of-life benefits of the formulation.
 
@@ -88,7 +88,7 @@ Bioplastics are generally more thermally sensitive than conventional polymers, w
 For polyesters like PLA, stabilization requires addressing both oxidative degradation (through antioxidants) and hydrolytic degradation (through moisture control and hydrolysis inhibitors). The chemistry involves donating hydrogen atoms to stabilize polymer radicals, or converting unstable peroxide groups to stable alcohols before they can propagate degradation.
 
 
-**Commercial thermal stabilizers include:**
+### Commercial thermal stabilizers include:
 
 - BASF's **Irganox** series includes industry-standard phenolic antioxidants like Irganox 1010 and 1076, which provide primary antioxidant protection by donating hydrogen to polymer free radicals. These are typically combined with phosphite secondary antioxidants like BASF's **Irgafos 168**, which decompose hydroperoxides before they generate more radicals.
 
@@ -102,8 +102,7 @@ Bioplastics intended for outdoor applications need protection against photodegra
 
 The chemistry of UV absorbers typically involves aromatic compounds with extended conjugation that can absorb UV photons and dissipate the energy through non-radiative relaxation pathways. HALS compounds contain hindered amine groups that can repeatedly cycle through radical-scavenging reactions, providing long-term protection.
 
-
-**Commercial UV stabilizers include:**
+### Commercial UV stabilizers include:
 
 - BASF's **Tinuvin** series dominates the market with products like Tinuvin 328 and 1130 (benzotriazole UV absorbers) and Tinuvin 770 and 944 (HALS). The **Chimassorb** line from BASF offers high-performance HALS for demanding applications.
 
@@ -117,8 +116,7 @@ Processing aids reduce friction, improve melt flow, and enable lower processing 
 
 Chemically, these are typically low-molecular-weight compounds with structures similar to the polymer (for internal effects) or with polar groups that interact with metal surfaces (for external effects). In bioplastics, the challenge is finding lubricants that are compatible with polar polymers and meet sustainability requirements.
 
-
-**Commercial processing aids include:**
+### Commercial processing aids include:
 
 - Clariant's **Licowax** PE waxes and **Licomont** fatty acid esters provide both conventional and bio-based options for processing aid applications. Emery Oleochemicals' **Loxiol** bio-based lubricants are specifically designed for sustainable polymer processing.
 
@@ -133,13 +131,13 @@ Fillers serve multiple purposes: reinforcing mechanical properties, improving di
 The mechanism of reinforcement depends on the filler type. Rigid particles restrict polymer chain motion and can bear load if properly bonded to the matrix. Natural fibers provide tensile reinforcement along their length. Nanofillers create enormous interfacial areas that restrict chain mobility even at low loadings.
 
 
-**Commercial fillers and reinforcements include:**
+### Commercial fillers and reinforcements include:
 
-**Natural fibers** from JRS including **Arbocel** cellulose fibers and **Jelucel** wood fiber products are specifically processed for polymer compounding. Jelu-Werk's **Rettenmaier fibers** and products from **Greenfield Natural Fibers** (hemp and flax) provide renewable reinforcement with good compatibility with polar bioplastics.
+- **Natural fibers** from JRS including **Arbocel** cellulose fibers and **Jelucel** wood fiber products are specifically processed for polymer compounding. Jelu-Werk's **Rettenmaier fibers** and products from **Greenfield Natural Fibers** (hemp and flax) provide renewable reinforcement with good compatibility with polar bioplastics.
 
-**Mineral fillers** like Omya's calcium carbonate grades, Imerys' **Jetfine** ultra-fine calcium carbonate, and Imerys' **Luzenac** and **Mistron** talc products provide cost-effective reinforcement and improved dimensional stability.
+- **Mineral fillers** like Omya's calcium carbonate grades, Imerys' **Jetfine** ultra-fine calcium carbonate, and Imerys' **Luzenac** and **Mistron** talc products provide cost-effective reinforcement and improved dimensional stability.
 
-**Nanofillers** represent advanced reinforcement. BYK's **Cloisite** organomodified nanoclays, Nanocor's **Nanomer** products, CelluForce's cellulose nanocrystals, and FiberLean Technologies' **Keystone** microfibrillated cellulose offer dramatic property improvements at low loadings (typically 1-5%) through nanoscale reinforcement mechanisms.
+- **Nanofillers** represent advanced reinforcement. BYK's **Cloisite** organomodified nanoclays, Nanocor's **Nanomer** products, CelluForce's cellulose nanocrystals, and FiberLean Technologies' **Keystone** microfibrillated cellulose offer dramatic property improvements at low loadings (typically 1-5%) through nanoscale reinforcement mechanisms.
 
 ## Compatibilizers: Making Blends Work
 
@@ -147,7 +145,7 @@ Few bioplastic formulations use a single polymer. Blending different bioplastics
 
 These molecules typically have dual functionality: one part compatible with or reactive toward one phase, and another part compatible with the second phase. For natural fiber reinforcement, compatibilizers often contain reactive groups (maleic anhydride, silanes) that can bond to hydroxyl groups on fiber surfaces while remaining compatible with the hydrophobic polymer.
 
-**Commercial compatibilizers include:**
+### Commercial compatibilizers include:
 
 DuPont's **Fusabond** functionalized polyolefins, SK Functional Polymer's **Orevac** grafted PE and PP, and BYK's **Scona** reactive compatibilizers provide maleic anhydride functionality for bonding to natural fibers or polar polymers. Addivant's **Polybond** maleated polyolefins offer similar functionality.
 
@@ -161,13 +159,13 @@ Chain extenders are unique to bioplastics processing, rarely needed for virgin c
 
 The chemistry involves reactive groups (typically epoxy, carbodiimide, or isocyanate) that react with carboxylic acid or hydroxyl chain ends to form new covalent bonds, effectively stitching shorter chains back into longer molecules. This restores melt strength and mechanical properties.
 
-**Commercial chain extenders include:**
+### Commercial chain extenders include:
 
-BASF's **Joncryl ADR** series, particularly ADR-4368 and ADR-4370, are styrene-acrylic multifunctional chain extenders specifically designed for polyesters. These products contain multiple epoxy groups that react with carboxylic acid end groups during processing.
+- BASF's **Joncryl ADR** series, particularly ADR-4368 and ADR-4370, are styrene-acrylic multifunctional chain extenders specifically designed for polyesters. These products contain multiple epoxy groups that react with carboxylic acid end groups during processing.
 
-Rhein Chemie's **Stabaxol** carbodiimide-based chain extenders provide both chain extension and hydrolytic stabilization by reacting with water and carboxylic acids. Angus Chemical's **Picassian** carbodiimide stabilizers offer similar functionality.
+- Rhein Chemie's **Stabaxol** carbodiimide-based chain extenders provide both chain extension and hydrolytic stabilization by reacting with water and carboxylic acids. Angus Chemical's **Picassian** carbodiimide stabilizers offer similar functionality.
 
-Clariant's **CESA Extend** PLA chain extender masterbatches provide convenient chain extension in an easy-to-dose format, particularly useful for recycling operations.
+- Clariant's **CESA Extend** PLA chain extender masterbatches provide convenient chain extension in an easy-to-dose format, particularly useful for recycling operations.
 
 ## Antimicrobial Agents: Preventing Microbial Growth
 
@@ -175,7 +173,7 @@ For food packaging and medical applications, antimicrobial agents prevent bacter
 
 The challenge with bioplastics is ensuring antimicrobial efficacy without interfering with intended biodegradation in composting environments, and without releasing substances that fail ecotoxicity testing.
 
-**Commercial antimicrobial agents include:**
+### Commercial antimicrobial agents include:
 
 BASF's **Irgaguard** silver-based antimicrobials provide broad-spectrum protection through controlled silver ion release. Microban International's **Microban** technologies offer various antimicrobial options including silver, zinc, and organic alternatives. Sciessent's **Agion** silver ion antimicrobials use zeolite carriers for controlled release.
 
