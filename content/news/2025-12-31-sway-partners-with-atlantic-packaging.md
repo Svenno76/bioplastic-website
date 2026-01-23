@@ -3,9 +3,9 @@ title: "Sway partners with Atlantic Packaging"
 date: 2025-12-31
 draft: false
 summary: "Sway partnered with Atlantic Packaging for biopolymer packaging initiatives."
-tags: ['Sway', 'partnerships', 'collaboration', 'partnership']
+tags: ["Sway", "Atlantic Packaging"]
 category: "Partnerships"
-company: "Sway"
+company: ["Sway", "Atlantic Packaging"]
 source: "Perplexity Rev2"
 ---
 

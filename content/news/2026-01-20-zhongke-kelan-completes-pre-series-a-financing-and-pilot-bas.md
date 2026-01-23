@@ -3,10 +3,10 @@ title: "Zhongke Kelan Completes Pre-Series A Financing and Pilot Base Capping"
 date: 2026-01-20
 draft: false
 summary: "Beijing Zhongke Kelan New Material Technology has successfully secured Pre-Series A funding and reached a critical construction milestone for its pilot production facility, accelerating the commercialization of high-performance bioplastic solutions."
-tags: ['Beijing Zhongke Kelan New Material Technology Co., Ltd.', 'innovation', 'sustainability']
-category: "News"
-company: "Beijing Zhongke Kelan New Material Technology Co., Ltd."
-company_type: "Bioplastic Producer"
+tags: ["Zhongke Kelan"]
+category: "Investment & Funding"
+company: ["Beijing Zhongke Kelan New Material Technology Co., Ltd."]
+company_type: "Technology Company"
 source: "36Kr"
 ---
 

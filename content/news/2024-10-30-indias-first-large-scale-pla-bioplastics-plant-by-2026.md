@@ -3,9 +3,9 @@ title: "India's first large-scale PLA bioplastics plant by 2026"
 date: 2024-10-30
 draft: false
 summary: "Balrampur Chini Mills will build India's first large-scale polylactic acid bioplastics plant by October 2026. Operating under Bioyug brand, facility will produce 80,000 tonnes annually from sugarcane."
-tags: ['Balrampur Chini Mills Limited', 'plant-announcement', 'manufacturing', 'capacity']
+tags: ["Balrampur Chini Mills Limited"]
 category: "Plant Announcement"
-company: "Balrampur Chini Mills Limited"
+company: ["Balrampur Chini Mills Limited"]
 company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---

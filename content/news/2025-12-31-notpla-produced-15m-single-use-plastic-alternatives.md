@@ -3,9 +3,9 @@ title: "Notpla produced 15M single-use plastic alternatives"
 date: 2025-12-31
 draft: false
 summary: "Notpla produced 15 million single-use plastic alternatives in 2025, advancing seaweed biopolymer applications."
-tags: ['Notpla', 'financial-results', 'earnings', 'financial']
+tags: ["Notpla"]
 category: "Financial Results"
-company: "Notpla"
+company: ["Notpla"]
 source: "Perplexity Rev2"
 ---
 

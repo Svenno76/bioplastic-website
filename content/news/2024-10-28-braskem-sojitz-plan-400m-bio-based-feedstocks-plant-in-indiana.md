@@ -3,9 +3,9 @@ title: "Braskem-Sojitz plan $400M bio-based feedstocks plant in Indiana"
 date: 2024-10-28
 draft: false
 summary: "Braskem SA and Sojitz Corp planning $400 million joint venture facility in Lafayette, Indiana to produce bio-based plastic feedstocks, expanding North American sustainable materials capacity."
-tags: ['Braskem', 'plant-announcement', 'manufacturing', 'capacity']
+tags: ["Braskem", "Sojitz"]
 category: "Plant Announcement"
-company: "Braskem"
+company: ["Braskem", "Sojitz"]
 company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---

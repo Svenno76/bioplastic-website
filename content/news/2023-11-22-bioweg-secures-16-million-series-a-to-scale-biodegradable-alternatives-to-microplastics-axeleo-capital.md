@@ -3,9 +3,9 @@ title: "BIOWEG secures €16 million Series A to scale biodegradable alternative
 date: 2023-11-22
 draft: false
 summary: "BIOWEG has successfully closed a €16 million Series A funding round"
-tags: ['BIOWEG', 'investment-&-funding', 'investment', 'funding']
+tags: ["BIOWEG"]
 category: "Investment & Funding"
-company: "BIOWEG"
+company: ["BIOWEG"]
 company_type: "Technology Company"
 source: "Axeleo Capital"
 ---

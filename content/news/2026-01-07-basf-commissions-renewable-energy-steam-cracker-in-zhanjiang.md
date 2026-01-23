@@ -3,9 +3,9 @@ title: "BASF Commissions Renewable Energy Steam Cracker in Zhanjiang"
 date: 2026-01-07
 draft: false
 summary: "BASF has officially commissioned its landmark steam cracker at the Zhanjiang Verbund site, representing a massive shift toward low-emission chemical production powered by renewable energy."
-tags: ['BASF', 'innovation', 'sustainability']
-category: "News"
-company: "BASF"
+tags: ["BASF"]
+category: "Plant Announcement"
+company: ["BASF"]
 company_type: "Bioplastic Producer"
 source: "BASF News"
 ---

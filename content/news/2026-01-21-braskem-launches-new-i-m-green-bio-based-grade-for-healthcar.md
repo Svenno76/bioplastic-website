@@ -3,9 +3,9 @@ title: "Braskem Launches New I'm Green Bio-Based Grade for Healthcare"
 date: 2026-01-21
 draft: false
 summary: "Braskem has introduced a new bio-based polyethylene grade specifically engineered for the healthcare sector, debuting at Pharmapack 2026 to support more sustainable medical packaging and devices."
-tags: ['Braskem', 'innovation', 'sustainability']
-category: "News"
-company: "Braskem"
+tags: ["Braskem"]
+category: "Product Launch"
+company: ["Braskem"]
 company_type: "Bioplastic Producer"
 source: "Braskem News"
 ---

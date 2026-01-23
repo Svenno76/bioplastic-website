@@ -3,9 +3,9 @@ title: "Vioneo Shifts Planned 300,000 t/yr Bio-based Polymer Plant to China"
 date: 2026-01-19
 draft: false
 summary: "Vioneo has announced the relocation of its flagship 300,000 t/yr bio-based polymer production facility to China, a strategic move aimed at leveraging local infrastructure and the world's largest plastics market."
-tags: ['Vioneo', 'innovation', 'sustainability']
-category: "News"
-company: "Vioneo"
+tags: ["Vioneo"]
+category: "Plant Announcement"
+company: ["Vioneo"]
 company_type: "Bioplastic Producer"
 source: "Argus Media"
 ---

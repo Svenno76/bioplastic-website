@@ -3,9 +3,9 @@ title: "Natur-Tec Bioplastics Segment Drives Record Q1 Sales"
 date: 2026-01-08
 draft: false
 summary: "Northern Technologies International Corp (NTIC) reported record-breaking first-quarter fiscal 2026 sales, fueled by explosive growth in its Natur-Tec bioplastics division."
-tags: ['Northern Technologies International Corp (NTIC)', 'innovation', 'sustainability']
-category: "News"
-company: "Northern Technologies International Corp (NTIC)"
+tags: ["Northern Technologies International Corp"]
+category: "Financial Results"
+company: ["Northern Technologies International Corp"]
 company_type: "Bioplastic Producer"
 source: "Seeking Alpha"
 ---

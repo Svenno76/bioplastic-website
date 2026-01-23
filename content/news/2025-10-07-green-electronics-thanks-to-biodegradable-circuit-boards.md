@@ -3,10 +3,10 @@ title: "Green electronics thanks to biodegradable circuit boards"
 date: 2025-10-07
 draft: false
 summary: "Researchers at Empa have developed a revolutionary biodegradable circuit board that allows electronic waste to decompose naturally, tackling the global e-waste crisis through bioplastic innovation."
-tags: ['Empa', 'innovation', 'sustainability']
-category: "News"
-company: "Empa"
-company_type: "Bioplastic Producer"
+tags: ["Empa"]
+category: "Product Launch"
+company: ["Empa"]
+company_type: "Research Institute"
 source: "news.admin.ch"
 ---
 

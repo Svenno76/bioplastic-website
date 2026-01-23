@@ -6,7 +6,7 @@ status: Acquired
 short_description: Bakelite, invented in 1907 by Leo Baekeland, was the world's first
   fully synthetic plastic, a thermosetting phenol formaldehyde resin used in electric...
 website: https://bakelite.com
-logo: /images/logos/bakelite.png
+logo: /images/logos/bakelite.webp
 primary_materials: phenol formaldehyde resin
 market_segments: packaging, electronics, automotive, consumer goods
 publicly_listed: false

@@ -3,9 +3,9 @@ title: "Bakelite acquires sustainable adhesives maker Sestec"
 date: 2024-10-31
 draft: false
 summary: "Thermoset resin producer Bakelite acquired Sestec, Polish company specializing in sustainable protein-based adhesives for wood and composite products, expanding its bio-based materials portfolio."
-tags: ['Bakelite', 'm&a']
+tags: ["Bakelite", "Sestec"]
 category: "M&A"
-company: "Bakelite"
+company: ["Bakelite", "Sestec"]
 source: "Gemini search"
 ---
 

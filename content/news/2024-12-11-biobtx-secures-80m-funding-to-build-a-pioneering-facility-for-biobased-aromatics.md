@@ -3,9 +3,9 @@ title: "BioBTX secures €80M funding to build a pioneering facility for biobase
 date: 2024-12-11
 draft: false
 summary: "BioBTX has successfully secured over €80 million in funding to construct the world's first commercia"
-tags: ['BioBTX', 'investment-&-funding', 'investment', 'funding']
+tags: ["BioBTX"]
 category: "Investment & Funding"
-company: "BioBTX"
+company: ["BioBTX"]
 company_type: "Technology Company"
 source: "BioBTX"
 ---

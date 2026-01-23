@@ -7,7 +7,7 @@ short_description: Balrampur Chini Mills Limited (BCML) is a leading Indian suga
   producer that has launched India's first industrial-scale biopolymer plant for Poly
   Lac...
 website: https://www.balrampurbioyug.com
-logo: /images/logos/balrampur-chini-mills-limited.png
+logo: /images/logos/balrampur.png
 primary_materials: PLA
 market_segments: packaging, food service, medical, agriculture
 publicly_listed: true

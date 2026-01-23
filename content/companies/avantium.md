@@ -7,7 +7,7 @@ short_description: Avantium is a chemical technology company headquartered in Am
   Netherlands, specializing in renewable chemistry and circular polymer materials
   ...
 website: https://www.avantium.com
-logo: /images/logos/avantium.svg
+logo: /images/logos/avantium.png
 market_segments: packaging
 publicly_listed: true
 stock_ticker: AVTX.AS

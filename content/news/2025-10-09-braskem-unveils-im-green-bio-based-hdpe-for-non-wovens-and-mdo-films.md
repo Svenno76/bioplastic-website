@@ -3,9 +3,9 @@ title: "Braskem Unveils I'm green Bio-based HDPE for Non-wovens and MDO Films"
 date: 2025-10-09
 draft: false
 summary: "Braskem has launched a new I'm green bio-based high-density polyethylene (HDPE) derived from sugarca"
-tags: ['Braskem', 'product-launch', 'innovation', 'product']
+tags: ["Braskem"]
 category: "Product Launch"
-company: "Braskem"
+company: ["Braskem"]
 company_type: "Bioplastic Producer"
 source: "DataM Intelligence (Market Report Summary)"
 ---

@@ -3,10 +3,10 @@ title: "MTU Launches Pilot Green Biorefinery at Kerry Campus"
 date: 2026-01-08
 draft: false
 summary: "Munster Technological University has officially opened a state-of-the-art pilot green biorefinery at its Kerry campus, marking a significant milestone in Ireland's transition toward a circular bioeconomy."
-tags: ['Munster Technological University (MTU)', 'innovation', 'sustainability']
-category: "News"
-company: "Munster Technological University (MTU)"
-company_type: "Bioplastic Producer"
+tags: ["Munster Technological University"]
+category: "Plant Announcement"
+company: ["Munster Technological University"]
+company_type: "University"
 source: "MTU"
 ---
 

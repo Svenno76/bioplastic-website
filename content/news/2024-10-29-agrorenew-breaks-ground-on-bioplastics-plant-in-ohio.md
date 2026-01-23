@@ -3,9 +3,9 @@ title: "AgroRenew breaks ground on bioplastics plant in Ohio"
 date: 2024-10-29
 draft: false
 summary: "AgroRenew LLC started construction in Northeast Ohio on facility converting food waste from pumpkins, watermelons, and cantaloupes into bioplastics, addressing agricultural waste challenges."
-tags: ['AgroRenew', 'plant-announcement', 'manufacturing', 'capacity']
+tags: ["AgroRenew"]
 category: "Plant Announcement"
-company: "AgroRenew"
+company: ["AgroRenew"]
 company_type: "Bioplastic Producer"
 source: "Gemini search"
 ---

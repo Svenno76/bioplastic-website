@@ -3,9 +3,9 @@ title: "Uluu raises $10.5 million in funding"
 date: 2025-12-31
 draft: false
 summary: "Uluu raised $10.5 million to expand seaweed biopolymer production and development."
-tags: ['Uluu', 'investment-&-funding', 'investment', 'funding']
+tags: ["Uluu"]
 category: "Investment & Funding"
-company: "Uluu"
+company: ["Uluu"]
 company_type: "Bioplastic Producer"
 source: "Perplexity Rev2"
 ---

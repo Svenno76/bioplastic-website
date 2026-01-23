@@ -3,10 +3,10 @@ title: "Solena Materials Relocates to New Pilot Facility for Commercial Scale-up
 date: 2026-01-12
 draft: false
 summary: "Solena Materials has moved to a larger pilot facility to accelerate the production of its AI-designed protein fibers in preparation for a 2028 commercial launch."
-tags: ['Solena Materials', 'innovation', 'sustainability']
-category: "News"
-company: "Solena Materials"
-company_type: "Bioplastic Producer"
+tags: ["Solena Materials"]
+category: "Plant Announcement"
+company: ["Solena Materials"]
+company_type: "Technology Company"
 source: "FashionUnited"
 ---
 

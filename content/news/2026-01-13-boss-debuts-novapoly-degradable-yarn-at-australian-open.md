@@ -3,9 +3,9 @@ title: "Boss Debuts NovaPoly Degradable Yarn at Australian Open"
 date: 2026-01-13
 draft: false
 summary: "Hugo Boss has partnered with Jiaren Recycling and NBC LLC to unveil NovaPoly™, a breakthrough degradable yarn featured in high-performance tennis apparel at the 2026 Australian Open."
-tags: ['Hugo Boss', 'innovation', 'sustainability']
-category: "News"
-company: "Hugo Boss"
+tags: ["Hugo Boss", "Jiaren Chemical Recycling", "NBC LLC"]
+category: "Product Launch"
+company: ["Hugo Boss", "Jiaren Chemical Recycling", "NBC LLC"]
 company_type: "Bioplastic Producer"
 source: "FashionUnited"
 ---

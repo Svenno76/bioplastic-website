@@ -1,11 +1,11 @@
 ---
 title: "BASF debuts world's first biomass-balanced polyethersulfone"
-date: 2025-03-04
+date: 2026-01-06
 draft: false
 summary: "BASF debuted the world's first biomass-balanced polyethersulfone biopolymer."
-tags: ['BASF', 'product-launch', 'innovation', 'product']
+tags: ["BASF"]
 category: "Product Launch"
-company: "BASF"
+company: ["BASF"]
 source: "Perplexity Rev2"
 ---
 

@@ -3,10 +3,10 @@ title: "Aimplas Launches Biovalsa Project for Agricultural Waste Bioplastics"
 date: 2026-01-12
 draft: false
 summary: "Aimplas has initiated the Biovalsa project to develop high-performance bioplastics for the packaging industry by upcycling lignocellulosic agricultural residues."
-tags: ['Aimplas', 'innovation', 'sustainability']
-category: "News"
-company: "Aimplas"
-company_type: "Bioplastic Producer"
+tags: ["AIMPLAS"]
+category: "Product Launch"
+company: ["AIMPLAS"]
+company_type: "Research Institute"
 source: "Packaging Insights"
 ---
 

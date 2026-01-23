@@ -3,9 +3,9 @@ title: "AIMPLAS Launches 2026 Training Program with Bioplastics Focus"
 date: 2026-01-06
 draft: false
 summary: "AIMPLAS launches extensive 2026 training program including bioplastics, sustainability, and circular economy topics via Plastics Academy."
-tags: ['AIMPLAS', 'product-launch', 'innovation', 'product']
+tags: ["AIMPLAS"]
 category: "Product Launch"
-company: "AIMPLAS"
+company: ["AIMPLAS"]
 source: "Perplexity Rev2"
 ---
 

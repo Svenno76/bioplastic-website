@@ -3,10 +3,10 @@ title: "AI Tool Released to Predict Bioplastic Biodegradability"
 date: 2026-01-05
 draft: false
 summary: "The ANIPH Project has launched a pioneering AI-driven predictive tool designed to forecast the biodegradability and safety of new bioplastic formulations, accelerating the shift toward sustainable materials."
-tags: ['ANIPH Project', 'innovation', 'sustainability']
-category: "News"
-company: "ANIPH Project"
-company_type: "Bioplastic Producer"
+tags: ["ANIPH Project"]
+category: "Product Launch"
+company: ["ANIPH Project"]
+company_type: "Research Institute"
 source: "Aniph.eu"
 ---
 

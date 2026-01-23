@@ -3,9 +3,9 @@ title: "Concordia University Expands Sustainable Biomanufacturing Capacity with 
 date: 2025-12-11
 draft: false
 summary: "Concordia University has significantly upgraded its Genome Foundry and Bioprocessing facilities with"
-tags: ['Concordia University', 'investment-&-funding', 'investment', 'funding']
+tags: ["Concordia University"]
 category: "Investment & Funding"
-company: "Concordia University"
+company: ["Concordia University"]
 company_type: "University"
 source: "Concordia University News"
 ---

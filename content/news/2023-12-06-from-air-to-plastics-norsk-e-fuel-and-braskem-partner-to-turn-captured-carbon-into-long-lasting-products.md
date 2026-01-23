@@ -3,9 +3,9 @@ title: "From Air to Plastics: Norsk e-Fuel and Braskem Partner to Turn Captured 
 date: 2023-12-06
 draft: false
 summary: "Braskem and Norsk e-Fuel have formed a strategic partnership to explore integrating e-Naphtha"
-tags: ['Braskem', 'partnerships', 'collaboration', 'partnership']
+tags: ["Braskem", "Norsk e-Fuel"]
 category: "Partnerships"
-company: "Braskem"
+company: ["Braskem", "Norsk e-Fuel"]
 company_type: "Bioplastic Producer"
 source: "Braskem"
 ---

@@ -3,9 +3,9 @@ title: "NatureWorks Expands Thailand Manufacturing Footprint and Prioritizes Clo
 date: 2023-10-18
 draft: false
 summary: "NatureWorks is advancing construction on its new Ingeo™ PLA biopolymer manufacturing facility in Tha"
-tags: ['NatureWorks', 'plant-announcements']
-category: "Plant Announcements"
-company: "NatureWorks"
+tags: ["NatureWorks"]
+category: "Plant Announcement"
+company: ["NatureWorks"]
 company_type: "Bioplastic Producer"
 source: "NatureWorks"
 ---

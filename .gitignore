@@ -12,8 +12,10 @@ resources/_gen/
 ehthumbs.db
 Thumbs.db
 git-token.txt
+token.txt
 
 # Editor files
 *.swp
 *.swo
 *~
+*.odt

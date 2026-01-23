@@ -1,0 +1,12 @@
+{{- $.Scratch.Set "items" slice -}}
+{{- range .Pages -}}
+  {{- $.Scratch.Add "items" (dict
+    "title" .Title
+    "url" .Permalink
+    "summary" (.Params.summary | default .Summary | plainify | truncate 200)
+    "date" (.Date.Format "January 2, 2006")
+    "tags" .Params.tags
+    "author" .Params.author
+  ) -}}
+{{- end -}}
+{{- $.Scratch.Get "items" | jsonify -}}
