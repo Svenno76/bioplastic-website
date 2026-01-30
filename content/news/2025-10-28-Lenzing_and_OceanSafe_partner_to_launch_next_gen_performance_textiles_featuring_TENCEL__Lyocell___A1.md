@@ -6,7 +6,7 @@ summary: "Lenzing Group and OceanSafe have collaborated to introduce a next-gene
 tags: ["Lenzing Group", "OceanSafe", "TENCEL Lyocell", "naNea", "bioplastic textiles", "sustainable fashion", "performance textiles"]
 category: "Product Launch"
 company: "Lenzing Group, OceanSafe"
-company_type: "Bioplastic Producer, Technology Company"
+company_type: ["Bioplastic Producer, Technology Company"]
 source: "Lenzing Newsroom"
 ---
 
