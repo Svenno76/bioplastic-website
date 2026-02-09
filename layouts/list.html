@@ -32,31 +32,42 @@
   <section class="ph3 ph4-l">
     {{ .Content }}
 
-    <div class="news-list mt4">
+    <div class="news-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2.5rem; margin-top: 3rem;">
       {{ range .Pages.ByDate.Reverse }}
-      <article class="bb b--light-gray pb4 mb4">
-        <header class="mb3">
-          <h2 class="f3 near-black lh-title mb1">
-            <a href="{{ .Permalink }}" class="color-inherit dim link">{{ .Title }}</a>
-          </h2>
-          <time datetime="{{ .Date.Format "2006-01-02" }}" class="f6 ttu tracked gray">
-            {{ .Date.Format "January 2, 2006" }}
-          </time>
-        </header>
-        
+      <article class="news-card">
         {{ if .Params.featured_image }}
-        <div class="mb3">
-          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="w-100 db br2">
+        <div class="news-card-image">
+          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
         </div>
         {{ end }}
-        
-        <div class="f5 f4-l lh-copy measure mb3">
-          {{ .Summary }}
+
+        <div class="news-card-content">
+          <div class="news-card-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}" class="news-card-date">
+              {{ .Date.Format "Jan 2, 2006" }}
+            </time>
+            {{ if .Params.category }}
+            <span class="news-card-badge">{{ .Params.category }}</span>
+            {{ end }}
+          </div>
+
+          <h2 class="news-card-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h2>
+
+          <p class="news-card-summary">
+            {{ .Summary }}
+          </p>
+
+          <div class="news-card-footer">
+            {{ if .Params.company }}
+            <span class="news-card-company">{{ .Params.company }}</span>
+            {{ end }}
+            <a href="{{ .Permalink }}" class="news-card-link">
+              Read more →
+            </a>
+          </div>
         </div>
-        
-        <a href="{{ .Permalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph3 pv2">
-          Read more →
-        </a>
       </article>
       {{ end }}
     </div>

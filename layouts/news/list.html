@@ -10,25 +10,25 @@
   {{ end }}
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; padding-top: 80px; }
-    a { color: #0066cc; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; line-height: 1.7; color: #1a2a28; padding-top: 80px; }
+    a { color: #3d7a6f; text-decoration: none; }
+    a:hover { color: #2d5a4f; }
   </style>
 </head>
 <body>
   {{ partial "site-header.html" . }}
 
   <main>
-<div style="max-width: 64rem; margin: 0 auto; padding: 1rem;">
-  <section style="padding: 0 1rem;">
-    
-    <!-- Category Filter Section -->
-    <div id="category-filter-section" style="margin-bottom: 1.5rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
-      <h3 style="margin: 0 0 1rem 0; color: #333; font-size: 1.1rem;">Filter by News Category:</h3>
+<div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
+  <section style="padding: 0;">
 
-      <div id="category-buttons" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+    <!-- Category Filter Section -->
+    <div id="category-filter-section" style="margin-bottom: 2rem; padding: 2rem; background: #f7f9f8; border-radius: 12px; border: 1px solid #e0e8e6;">
+      <h3 style="margin: 0 0 1.25rem 0; color: #2d5a4f; font-size: 1.1rem; font-weight: 700;">Filter by News Category:</h3>
+
+      <div id="category-buttons" style="display: flex; flex-wrap: wrap; gap: 0.75rem;">
         <button onclick="filterPosts('all', 'category')" class="category-filter active" data-category="all"
-                style="padding: 0.5rem 1rem; border: 1px solid #0066cc; background: #0066cc; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+                style="padding: 0.6rem 1.2rem; border: 1px solid #3d7a6f; background: #3d7a6f; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
           All Categories
         </button>
 
@@ -42,7 +42,7 @@
 
         {{ range $uniqueCategories }}
         <button onclick="filterPosts('{{ . }}', 'category')" class="category-filter" data-category="{{ . }}"
-                style="padding: 0.5rem 1rem; border: 1px solid #0066cc; background: white; color: #0066cc; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+                style="padding: 0.6rem 1.2rem; border: 1px solid #3d7a6f; background: white; color: #3d7a6f; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
           {{ . }}
         </button>
         {{ end }}
@@ -50,87 +50,102 @@
     </div>
 
     <!-- Company Type Filter Section -->
-    <div id="company-type-filter-section" style="margin-bottom: 2rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
-      <h3 style="margin: 0 0 1rem 0; color: #333; font-size: 1.1rem;">Filter by Company Type:</h3>
+    <div id="company-type-filter-section" style="margin-bottom: 2.5rem; padding: 2rem; background: #f7f9f8; border-radius: 12px; border: 1px solid #e0e8e6;">
+      <h3 style="margin: 0 0 1.25rem 0; color: #2d5a4f; font-size: 1.1rem; font-weight: 700;">Filter by Company Type:</h3>
 
-      <div id="company-type-buttons" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+      <div id="company-type-buttons" style="display: flex; flex-wrap: wrap; gap: 0.75rem;">
         <button onclick="filterPosts('all', 'company_type')" class="company-type-filter active" data-company_type="all"
-                style="padding: 0.5rem 1rem; border: 1px solid #cc6600; background: #cc6600; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+                style="padding: 0.6rem 1.2rem; border: 1px solid #d4a574; background: #d4a574; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
           All Types
         </button>
 
         {{ $allCompanyTypes := slice }}
         {{ range .Pages }}
           {{ if .Params.company_type }}
-            {{ $allCompanyTypes = $allCompanyTypes | append .Params.company_type }}
+            {{ $companyType := .Params.company_type }}
+            {{ if eq (printf "%T" $companyType) "string" }}
+              {{ if ne $companyType "Bioplastic Producer, Technology Company" }}
+                {{ $allCompanyTypes = $allCompanyTypes | append $companyType }}
+              {{ end }}
+            {{ end }}
           {{ end }}
         {{ end }}
         {{ $uniqueCompanyTypes := $allCompanyTypes | uniq | sort }}
 
         {{ range $uniqueCompanyTypes }}
         <button onclick="filterPosts('{{ . }}', 'company_type')" class="company-type-filter" data-company_type="{{ . }}"
-                style="padding: 0.5rem 1rem; border: 1px solid #cc6600; background: white; color: #cc6600; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s;">
+                style="padding: 0.6rem 1.2rem; border: 1px solid #d4a574; background: white; color: #d4a574; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
           {{ . }}
         </button>
         {{ end }}
       </div>
 
-      <div id="active-filters" style="font-size: 0.9rem; color: #666; margin-top: 1rem;">
-        Showing: <span id="filter-status">All posts</span>
+      <div id="active-filters" style="font-size: 0.9rem; color: #6b7f7d; margin-top: 1.25rem; font-weight: 500;">
+        Showing: <span id="filter-status" style="color: #2d5a4f;">All posts</span>
       </div>
     </div>
 
     <!-- Posts Counter -->
-    <div id="posts-counter" style="margin-bottom: 1.5rem; padding: 0.5rem 0; color: #666; font-size: 0.95rem; border-bottom: 1px solid #eee;">
-      <span id="visible-count">{{ len .Pages }}</span> of {{ len .Pages }} posts
+    <div id="posts-counter" style="margin-bottom: 2rem; padding: 0.75rem 0; color: #6b7f7d; font-size: 0.95rem; border-bottom: 1px solid #e0e8e6;">
+      <span id="visible-count" style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> of <span style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> posts
     </div>
 
-    <!-- News List -->
-    <div class="news-list" id="news-list">
+    <!-- News List Grid -->
+    <div class="news-list" id="news-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2.5rem;">
       {{ range .Pages.ByDate.Reverse }}
       <article class="news-post" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}"
-               style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem; transition: all 0.3s;">
-        <header style="margin-bottom: 1rem;">
-          <h2 style="font-size: 1.5rem; color: #333; line-height: 1.3; margin-bottom: 0.5rem;">
-            <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
-          </h2>
-          <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem;">
-            <time datetime="{{ .Date.Format "2006-01-02" }}" style="font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">
-              {{ .Date.Format "January 2, 2006" }}
-            </time>
-            {{ if .Params.tags }}
-            <div class="post-tags" style="display: flex; gap: 0.3rem; flex-wrap: wrap;">
-              {{ range .Params.tags }}
-              <span class="post-tag" style="background: #e3f2fd; color: #1976d2; padding: 0.2rem 0.5rem; border-radius: 12px; font-size: 0.75rem; font-weight: 500;">
-                {{ . | title }}
-              </span>
-              {{ end }}
-            </div>
-            {{ end }}
-          </div>
-        </header>
-        
+               style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.06); display: flex; flex-direction: column;">
+
         {{ if .Params.featured_image }}
-        <div style="margin-bottom: 1rem;">
-          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px;">
+        <div style="width: 100%; height: 200px; overflow: hidden; background: #f7f9f8;">
+          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;">
         </div>
         {{ end }}
-        
-        <div style="font-size: 1.125rem; line-height: 1.6; margin-bottom: 1rem; max-width: 48rem;">
-          {{ .Summary }}
+
+        <div style="padding: 1.75rem; flex-grow: 1; display: flex; flex-direction: column;">
+          <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; font-size: 0.85rem;">
+            <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #6b7f7d; font-weight: 500;">
+              {{ .Date.Format "Jan 2, 2006" }}
+            </time>
+            {{ if .Params.category }}
+            <span style="background: #e8f2f0; color: #2d5a4f; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+              {{ .Params.category }}
+            </span>
+            {{ end }}
+          </div>
+
+          <h2 style="font-size: 1.35rem; color: #2d5a4f; line-height: 1.3; margin-bottom: 0.75rem; font-weight: 700; letter-spacing: -0.5px;">
+            <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none; transition: color 0.3s;">{{ .Title }}</a>
+          </h2>
+
+          {{ if .Params.tags }}
+          <div class="post-tags" style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            {{ range .Params.tags }}
+            <span class="post-tag" style="background: #e8f2f0; color: #3d7a6f; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 500;">
+              {{ . | title }}
+            </span>
+            {{ end }}
+          </div>
+          {{ end }}
+
+          <p style="color: #6b7f7d; font-size: 0.95rem; line-height: 1.7; margin-bottom: 1.25rem; flex-grow: 1;">
+            {{ .Summary }}
+          </p>
+
+          <div style="display: flex; justify-content: flex-end; align-items: center; padding-top: 1rem; border-top: 1px solid #e0e8e6;">
+            <a href="{{ .Permalink }}" style="color: #3d7a6f; font-weight: 600; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.3s; text-decoration: none;">
+              Read more →
+            </a>
+          </div>
         </div>
-        
-        <a href="{{ .Permalink }}" style="border: 1px solid #ccc; background-color: #f7f7f7; border-radius: 4px; color: inherit; display: inline-block; font-size: 0.875rem; text-decoration: none; margin-top: 0.5rem; padding: 0.5rem 1rem;">
-          Read more →
-        </a>
       </article>
       {{ end }}
     </div>
 
     <!-- No Results Message -->
-    <div id="no-results" style="display: none; text-align: center; padding: 3rem 0; color: #666; font-style: italic;">
-      <h3 style="margin-bottom: 1rem;">No posts found</h3>
-      <p>Try selecting different tags or view all posts.</p>
+    <div id="no-results" style="display: none; text-align: center; padding: 3rem 0; color: #6b7f7d; font-style: italic;">
+      <h3 style="margin-bottom: 1rem; color: #2d5a4f; font-weight: 600;">No posts found</h3>
+      <p>Try selecting different filters or view all posts.</p>
     </div>
 
   </section>
@@ -158,13 +173,13 @@ function filterPosts(value, filterType) {
   document.querySelectorAll('.category-filter').forEach(btn => {
     btn.classList.remove('active');
     btn.style.background = 'white';
-    btn.style.color = '#0066cc';
+    btn.style.color = '#3d7a6f';
   });
 
   const activeCategoryBtn = document.querySelector(`[data-category="${currentCategoryFilter}"]`);
   if (activeCategoryBtn) {
     activeCategoryBtn.classList.add('active');
-    activeCategoryBtn.style.background = '#0066cc';
+    activeCategoryBtn.style.background = '#3d7a6f';
     activeCategoryBtn.style.color = 'white';
   }
 
@@ -172,13 +187,13 @@ function filterPosts(value, filterType) {
   document.querySelectorAll('.company-type-filter').forEach(btn => {
     btn.classList.remove('active');
     btn.style.background = 'white';
-    btn.style.color = '#cc6600';
+    btn.style.color = '#d4a574';
   });
 
   const activeCompanyTypeBtn = document.querySelector(`[data-company_type="${currentCompanyTypeFilter}"]`);
   if (activeCompanyTypeBtn) {
     activeCompanyTypeBtn.classList.add('active');
-    activeCompanyTypeBtn.style.background = '#cc6600';
+    activeCompanyTypeBtn.style.background = '#d4a574';
     activeCompanyTypeBtn.style.color = 'white';
   }
 
@@ -193,7 +208,7 @@ function filterPosts(value, filterType) {
     const shouldShow = categoryMatches && companyTypeMatches;
 
     if (shouldShow) {
-      post.style.display = 'block';
+      post.style.display = 'flex';
       post.style.opacity = '1';
       visiblePosts++;
     } else {
@@ -207,10 +222,10 @@ function filterPosts(value, filterType) {
 
   let statusText = [];
   if (currentCategoryFilter !== 'all') {
-    statusText.push(`Category: "${currentCategoryFilter}"`);
+    statusText.push(`"${currentCategoryFilter}"`);
   }
   if (currentCompanyTypeFilter !== 'all') {
-    statusText.push(`Type: "${currentCompanyTypeFilter}"`);
+    statusText.push(`"${currentCompanyTypeFilter}"`);
   }
 
   if (statusText.length === 0) {
@@ -247,6 +262,20 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   });
+
+  // Add hover effects to news cards
+  document.querySelectorAll('.news-post').forEach(card => {
+    card.addEventListener('mouseenter', function() {
+      this.style.transform = 'translateY(-6px)';
+      this.style.boxShadow = '0 12px 24px rgba(26, 42, 40, 0.12)';
+      this.style.borderColor = '#3d7a6f';
+    });
+    card.addEventListener('mouseleave', function() {
+      this.style.transform = 'translateY(0)';
+      this.style.boxShadow = '0 2px 8px rgba(26, 42, 40, 0.06)';
+      this.style.borderColor = '#e0e8e6';
+    });
+  });
 });
 </script>
 
@@ -257,21 +286,31 @@ document.addEventListener('DOMContentLoaded', function() {
 
 .category-filter:hover, .company-type-filter:hover {
   transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(26, 42, 40, 0.1);
 }
 
 .category-filter.active {
-  background: #0066cc !important;
+  background: #3d7a6f !important;
   color: white !important;
 }
 
 .company-type-filter.active {
-  background: #cc6600 !important;
+  background: #d4a574 !important;
   color: white !important;
 }
 
 .news-post {
   transition: all 0.3s ease;
+}
+
+.news-post:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(26, 42, 40, 0.12) !important;
+  border-color: #3d7a6f !important;
+}
+
+.news-post:hover img {
+  transform: scale(1.05);
 }
 
 .post-tag {
@@ -280,7 +319,13 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 .post-tag:hover {
-  background: #bbdefb !important;
+  background: #d4e8e5 !important;
+}
+
+@media (max-width: 768px) {
+  #news-list {
+    grid-template-columns: 1fr !important;
+  }
 }
 </style>
 

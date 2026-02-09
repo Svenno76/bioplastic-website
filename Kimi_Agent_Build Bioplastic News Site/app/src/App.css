@@ -1,0 +1,131 @@
+/* App-specific styles */
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Ensure proper stacking context */
+main {
+  position: relative;
+}
+
+/* Section transitions */
+section {
+  will-change: transform;
+}
+
+/* Image grade overlay */
+.image-grade {
+  position: relative;
+}
+
+.image-grade::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(47, 142, 146, 0.06);
+  mix-blend-mode: multiply;
+  pointer-events: none;
+}
+
+/* Card shadow on hover */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Button hover effects */
+.btn-primary {
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 8px 24px rgba(47, 142, 146, 0.3);
+}
+
+.btn-secondary {
+  transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+  transform: translateY(-2px);
+  background-color: rgba(17, 28, 26, 0.05);
+}
+
+/* Tag hover effects */
+.tag-hover {
+  transition: all 0.2s ease;
+}
+
+.tag-hover:hover {
+  background-color: #2F8E92;
+  color: white;
+  border-color: #2F8E92;
+}
+
+/* Responsive adjustments for pinned sections */
+@media (max-width: 1024px) {
+  .section-pinned {
+    min-height: 100vh;
+    height: auto;
+  }
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .headline-xl {
+    font-size: clamp(32px, 8vw, 44px) !important;
+  }
+  
+  .headline-lg {
+    font-size: clamp(28px, 7vw, 34px) !important;
+  }
+  
+  .section-pinned {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .section-pinned > div {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 50vh;
+  }
+}
+
+/* Focus states for accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid #2F8E92;
+  outline-offset: 2px;
+}
+
+/* Selection color */
+::selection {
+  background-color: rgba(47, 142, 146, 0.3);
+  color: inherit;
+}
+
+/* Print styles */
+@media print {
+  .grain-overlay,
+  nav {
+    display: none !important;
+  }
+  
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}

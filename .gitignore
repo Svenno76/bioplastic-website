@@ -19,3 +19,8 @@ token.txt
 *.swo
 *~
 *.odt
+
+# Excel and data files
+*.xlsx
+*.xls
+*.csv

@@ -1,3 +1,27 @@
+/* ===== COLOR PALETTE ===== */
+:root {
+  /* Primary Colors */
+  --color-primary-dark: #2d5a4f;      /* Deep teal-green */
+  --color-primary: #3d7a6f;           /* Teal green */
+  --color-primary-light: #5a9e93;     /* Light teal */
+
+  /* Neutrals */
+  --color-bg-light: #f7f9f8;          /* Very soft off-white */
+  --color-bg-dark: #1a2a28;           /* Deep charcoal */
+  --color-text-dark: #1a2a28;         /* Text color */
+  --color-text-muted: #6b7f7d;        /* Muted text */
+  --color-border: #e0e8e6;            /* Subtle borders */
+
+  /* Accent Colors */
+  --color-accent: #d4a574;            /* Warm accent (tan/gold) */
+  --color-success: #4a9d6f;           /* Success green */
+  --color-warning: #d89d4a;           /* Warning amber */
+
+  /* Typography */
+  --font-heading: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
 /* Page header styling */
 .page-header {
   margin-bottom: 2rem;
@@ -5,13 +29,16 @@
 
 .page-header h1 {
   font-size: 2.5rem;
-  color: #1e3a8a;
+  color: var(--color-primary-dark);
   margin-bottom: 0.5rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
 }
 
 .page-header p {
   font-size: 1.1rem;
-  color: #64748b;
+  color: var(--color-text-muted);
+  font-weight: 400;
 }
 
 /* Fixed site header with logo/branding */
@@ -21,11 +48,14 @@
   left: 0 !important;
   right: 0 !important;
   width: 100% !important;
-  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%) !important;
+  background: var(--color-bg-light) !important;
   z-index: 2000 !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 3px rgba(26, 42, 40, 0.08);
   height: auto !important;
+  border-bottom: 1px solid var(--color-border);
+  backdrop-filter: blur(10px);
 }
+
 /* Site branding section */
 .site-branding {
   display: flex;
@@ -35,47 +65,60 @@
   max-width: 1400px;
   margin: 0 auto;
 }
+
 .site-title {
   font-size: 1.8rem !important;
-  font-weight: 600 !important;
-  color: white !important;
+  font-weight: 700 !important;
+  color: var(--color-primary-dark) !important;
   text-decoration: none !important;
-  letter-spacing: 0.5px;
+  letter-spacing: -0.5px;
   margin: 0 !important;
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  transition: color 0.3s ease;
 }
+
 .site-title:hover {
-  color: #e0f2fe !important;
+  color: var(--color-primary) !important;
 }
+
 /* Navigation menu */
 .site-navigation {
   display: flex;
   gap: 0.5rem;
   align-items: center;
 }
+
 .site-navigation a {
-  color: white !important;
+  color: var(--color-text-dark) !important;
   text-decoration: none !important;
   padding: 0.5rem 1rem;
   border-radius: 0.375rem;
-  transition: background-color 0.2s;
+  transition: all 0.3s ease;
   font-weight: 500;
+  font-size: 0.95rem;
 }
+
 .site-navigation a:hover {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(61, 122, 111, 0.1);
+  color: var(--color-primary) !important;
 }
+
 /* Add padding to body to account for fixed header */
 body {
   padding-top: 80px !important;
+  font-family: var(--font-body);
+  color: var(--color-text-dark);
+  background-color: white;
 }
+
 /* Style für die Homepage Description */
 .home-page-content p:first-of-type {
-  color: #2d6a4f;
+  color: var(--color-text-muted);
   font-size: 1.2em;
-  font-weight: 300;
-  line-height: 1.6;
+  font-weight: 400;
+  line-height: 1.7;
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
@@ -92,16 +135,18 @@ article.cf header h1,
 article.cf header h2,
 .cf.ph3.ph5-l header h1,
 .cf.ph3.ph5-l header h2 {
-  color: #1e3a8a !important;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important;
+  color: var(--color-primary-dark) !important;
+  text-shadow: none !important;
+  font-weight: 700;
+  letter-spacing: -0.5px;
 }
 
 /* Target ALL text inside the homepage header */
 article header *,
 article.cf header *,
 .home header * {
-  color: #1e3a8a !important;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important;
+  color: var(--color-primary-dark) !important;
+  text-shadow: none !important;
 }
 
 /* Override any white text classes */
@@ -111,5 +156,34 @@ article.cf header *,
 header .white-90,
 header .white-80,
 header .white {
-  color: #1e3a8a !important;
+  color: var(--color-primary-dark) !important;
+}
+
+/* Improve global typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-primary-dark);
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+
+p {
+  line-height: 1.7;
+  color: var(--color-text-dark);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-primary-light);
 }
