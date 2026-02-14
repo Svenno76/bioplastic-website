@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Description }}">
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; padding-top: 80px; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+
+  <main>
+    <div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
+
+      <!-- Page Header -->
+      <div style="margin-bottom: 3rem;">
+        <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px;">{{ .Title }}</h1>
+        <p style="font-size: 1.1rem; color: #6b7f7d; line-height: 1.6;">{{ .Description }}</p>
+      </div>
+
+      <!-- Studies Grid -->
+      {{ if .Pages }}
+      <div class="studies-grid">
+        {{ range .Pages }}
+        <article class="study-card {{ if .Params.external_url }}external{{ else }}internal{{ end }}">
+          <div class="study-card-content">
+            <!-- Title -->
+            <h2 class="study-card-title">
+              {{ if .Params.external_url }}
+              <a href="{{ .Params.external_url }}" target="_blank" rel="noopener sponsored">{{ .Title }}</a>
+              {{ else }}
+              <a href="{{ .Permalink }}" style="color: inherit;">{{ .Title }}</a>
+              {{ end }}
+            </h2>
+
+            <!-- Meta Information -->
+            <div class="study-card-meta">
+              {{ if .Params.publisher }}
+              <span>{{ .Params.publisher }}</span>
+              {{ end }}
+              {{ if .Params.year }}
+              <span>{{ .Params.year }}</span>
+              {{ end }}
+              {{ if .Params.study_type }}
+              <span>{{ .Params.study_type }}</span>
+              {{ end }}
+            </div>
+
+            <!-- Badge -->
+            <div>
+              {{ if .Params.external_url }}
+              <span class="study-card-badge">{{ .Params.price | default "Commercial" }}</span>
+              {{ else }}
+              <span class="study-card-badge">Free</span>
+              {{ end }}
+            </div>
+
+            <!-- Summary -->
+            <p class="study-card-summary">
+              {{ .Summary }}
+            </p>
+          </div>
+
+          <!-- CTA Button -->
+          {{ if .Params.external_url }}
+          <a href="{{ .Params.external_url }}" target="_blank" rel="noopener sponsored" class="study-card-cta">
+            View Report →
+          </a>
+          {{ else }}
+          <a href="{{ .Permalink }}" class="study-card-cta">
+            Read Study →
+          </a>
+          {{ end }}
+        </article>
+        {{ end }}
+      </div>
+      {{ else }}
+      <div style="text-align: center; padding: 3rem 1rem; color: #64748b;">
+        <p style="font-size: 1.1rem;">No studies available yet. Check back soon for market research and analysis.</p>
+      </div>
+      {{ end }}
+
+    </div>
+  </main>
+
+  {{ partial "site-footer.html" . }}
+</body>
+</html>
