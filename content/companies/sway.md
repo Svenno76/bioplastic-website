@@ -1,6 +1,6 @@
 ---
 title: Sway
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "United States"
 status: Active
 short_description: "Sway is a California-based biomaterials company specializing in seaweed-based bioplastics for sustainable packaging. Founded in the 2010s, the company produces home-compostable straws, cups, utensils, and packaging materials from seaweed polymers, supporting regenerative coastal practices and partnerships with seaweed farmers in Latin America."

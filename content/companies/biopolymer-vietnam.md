@@ -1,6 +1,6 @@
 ---
 title: "Biopolymer Vietnam"
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Ho Chi Minh City, Vietnam"
 status: "Active"
 short_description: "Biopolymer Vietnam, launched in 2021 by Veritas Vietnam Joint Stock Company, is the world's first and only company specializing in coffee grounds-based bioplastics production. The company transforms 60% of coffee waste from Vietnamese coffee consumption chains into biodegradable coffee bio-composite materials for consumer products including cutlery, cups, containers, and specialty items, establishing a novel bioplastics category and addressing environmental challenges from millions of tons of annual global coffee waste."
