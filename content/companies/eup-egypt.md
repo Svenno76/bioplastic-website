@@ -1,6 +1,6 @@
 ---
 title: EuP Egypt
-company_type: Bioplastic Producer
+company_type: Compounder
 headquarters: "Egypt"
 status: Active
 short_description: "EuP Egypt is a leading Egyptian bioplastics company producing BiONext branded biodegradable and compostable polymer compounds from bio-based and fossil-derived materials. Operating with 180,000 tonnes annual production capacity and leveraging Egypt's high-purity calcium carbonate resources, EuP Egypt produces specialized bioplastic formulations for diverse applications including food packaging, shopping bags, and specialized industrial products."

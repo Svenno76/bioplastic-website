@@ -1,6 +1,6 @@
 ---
 title: Granulous
-company_type: Bioplastic Producer
+company_type: Compounder
 headquarters: "United Kingdom"
 status: Active
 short_description: "Granulous is a UK-based bioplastics feedstock supplier specializing in production and distribution of certified biodegradable plastic pellets and granules. Founded in the 2010s, the company supplies processing-ready PLA, PBAT, PBS, and custom blended formulations to converters and manufacturers across packaging, textiles, consumer goods, and industrial sectors. Granulous makes biodegradable materials accessible to small and medium manufacturers without requiring proprietary formulation or compounding equipment investment."
