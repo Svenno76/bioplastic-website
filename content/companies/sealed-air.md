@@ -1,6 +1,6 @@
 ---
 title: Sealed Air Corporation
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Charlotte, North Carolina, USA"
 status: Active
 short_description: "American protective packaging and food packaging company producing innovative solutions for product protection and food safety globally"

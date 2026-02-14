@@ -1,6 +1,6 @@
 ---
 title: Berry Global
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Evansville, Indiana, USA"
 status: Acquired
 short_description: "Major global plastic packaging manufacturer producing bio-based, compostable, and innovative packaging solutions; acquired by Amcor in 2025"

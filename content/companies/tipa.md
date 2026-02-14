@@ -1,6 +1,6 @@
 ---
 title: TIPA
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Israel (formerly Austria connection)"
 status: Active
 short_description: "TIPA is a leading developer and manufacturer of fully compostable flexible packaging films and laminates for food and consumer goods. Founded in 2010, TIPA produces high-barrier, home and industrially compostable films certified to EN 13432 and ASTM D6400. With $70M in expansion funding, the company operates globally with facilities in USA, Europe, and Australia."

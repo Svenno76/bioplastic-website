@@ -1,6 +1,6 @@
 ---
 title: Amcor
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Melbourne, Victoria, Australia"
 status: Active
 short_description: "World's largest packaging company producing sustainable, recyclable, and bio-based flexible and rigid packaging solutions for diverse industries"

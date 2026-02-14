@@ -1,6 +1,6 @@
 ---
 title: Huhtamaki Oyj
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Espoo, Finland"
 status: Active
 short_description: "Finnish global packaging company producing sustainable and eco-friendly food and beverage packaging solutions with operations across 30+ countries"
