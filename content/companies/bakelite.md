@@ -1,6 +1,6 @@
 ---
 title: "Bakelite"
-company_type: Bioplastic Producer
+company_type: Historical (Not Current Bioplastics)
 headquarters: "Germany / Europe (distributed)"
 status: "Historical"
 short_description: "Bakelite was the world's first fully synthetic plastic, a phenol-formaldehyde thermosetting resin invented in 1907 by Leo Baekeland. Though the original Bakelite Corporation ceased operations in the late 20th century, the name survives as a trademark for phenolic resins and historical reference. Modern producers of phenolic resins continue Bakelite's heritage, though these are not strictly bioplastics by contemporary standards. Bakelite represents important plastics history and early experimentation with synthetic alternatives to petroleum-derived materials."

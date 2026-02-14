@@ -1,6 +1,6 @@
 ---
 title: Bioelements
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Santiago, Chile"
 status: Active
 short_description: "Bioelements is a leading Latin American biodegradable packaging company founded in 2014 by lawyers Ignacio Parada and Juan Eduardo Joannon. Operating across seven countries (Chile, Peru, Colombia, Argentina, Brazil, Mexico, USA), Bioelements produces biobased, biodegradable, and compostable packaging that degrades in maximum 20 months. With USD 30M in funding from BTG Pactual and Endeavor, serving 250+ customers, Bioelements represents the emerging wave of sustainable packaging innovation in Latin America and globally."

@@ -104,3 +104,19 @@ News articles automatically link company names mentioned in content. The regex p
 - News content files are frequently added/updated
 - `public/` directory is generated and not committed
 - Main branch is used for production deployments
+
+## 📋 ACTIVE TASKS
+
+### Company Classification Audit (In Progress)
+**Status:** Phase 2 of 3 Complete
+**Files:**
+- `CLASSIFICATION_REVIEW_TODO.md` - **📌 START HERE** for pending work
+- `COMPANY_CLASSIFICATION_AUDIT.md` - Detailed audit report
+
+**Recent Progress:**
+- ✅ Reclassified 18 companies to "Converter" (Batches 1-2, early fix)
+- ✅ Reclassified 3 companies to "Compounder" (Batch 3)
+- ✅ Verified 10 companies as correctly classified (Batch 4)
+- ⏳ **2 companies pending manual review:** Blue Circle Olefins, Asahi Kasei
+
+**Next Step:** Open `CLASSIFICATION_REVIEW_TODO.md` to see high-priority items
