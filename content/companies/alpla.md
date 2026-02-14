@@ -1,6 +1,6 @@
 ---
 title: ALPLA
-company_type: Bioplastic Producer
+company_type: Converter
 headquarters: "Hard, Austria"
 status: Active
 short_description: "Global leader in plastic packaging manufacturing specializing in sustainable solutions including recycled plastics, bio-based materials, and paper bottles"
