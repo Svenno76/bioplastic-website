@@ -31,10 +31,10 @@ ignoreFiles = ["^database/"]
   url = "/events/"
   weight = 25
 
-# [[menu.main]]
-#  name = "Studies"
-#  url = "/studies/"
-#  weight = 30
+[[menu.main]]
+  name = "Studies"
+  url = "/studies/"
+  weight = 30
 
 # [[menu.main]]
 #  name = "Books"
