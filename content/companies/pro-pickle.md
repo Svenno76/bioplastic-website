@@ -1,17 +1,15 @@
 ---
 title: Pro-Pickle
-company_type: Brand
+company_type: Bioplastic Producer
 headquarters: United States
 status: Active
-short_description: Pro-Pickle, also known as Professional Pickleball Partners, is
-  a company specializing in manufacturing customizable pickleball paddles and accessories...
-website: https://pro-pickle.com
-primary_materials: Wheat straw, rice husk (biobased composite materials), polypropylene
-  (in paddles)
+short_description: Pro-Pickle, also known as Professional Pickleball Partners, is a company specializing in manufacturing customizable pickleball paddles and accessories...
+website: "https://pro-pickle.com"
+primary_materials: Wheat straw, rice husk (biobased composite materials), polypropylene (in paddles)
 market_segments: Sports equipment (pickleball), recreational sports
-publicly_listed: false
-employees: 50+
-date: '2026-01-02'
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
@@ -29,4 +27,4 @@ Sports equipment (pickleball), recreational sports
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

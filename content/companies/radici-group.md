@@ -1,20 +1,15 @@
 ---
 title: Radici Group
 company_type: Compounder
-headquarters: Gandino, Italy
+headquarters: Italy
 status: Active
-short_description: RadiciGroup is a diversified Italian chemical company specializing
-  in the production of polyamide and polyester engineering polymers, chemical interme...
-website: https://www.radicigroup.com
-primary_materials: "Polyamide 6, Polyamide 6.6, Polyamide 6.10, Polyamide 6.12, Polyester\
-  \ (including Raditer\xAE), Thermoplastic elastomers (Heraflex\xAE), Acetal copolymers\
-  \ (Heraform\xAE), Polyphenylene sulfide (Raditeck\xAE), Recycled nylon 6 (Renycle\xAE\
-  )"
-market_segments: Automotive, Electrical/Electronics, Consumer Goods, Industrial Applications,
-  Apparel, Sportswear, Furnishings, Home Appliances, Construction, Railways
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+short_description: RadiciGroup is a diversified Italian chemical company specializing in the production of polyamide and polyester engineering polymers, chemical interme...
+website: "https://www.radicigroup.com"
+primary_materials: Polyamide 6, Polyamide 6.6, Polyamide 6.10, Polyamide 6.12, Polyester (including Raditer®), Thermoplastic elastomers (Heraflex®), Acetal copolymers (Heraform®), Polyphenylene sulfide (Raditeck®), Recycled nylon 6 (Renycle®)
+market_segments: Automotive, Electrical/Electronics, Consumer Goods, Industrial Applications, Apparel, Sportswear, Furnishings, Home Appliances, Construction, Railways
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
@@ -32,4 +27,4 @@ Automotive, Electrical/Electronics, Consumer Goods, Industrial Applications, App
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

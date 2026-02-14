@@ -1,16 +1,15 @@
 ---
 title: Teknor Apex
 company_type: Compounder
-headquarters: Pawtucket, United States
+headquarters: United States
 status: Acquired
-short_description: Teknor Apex is a leading custom compounder specializing in sustainable
-  polymer solutions, including bioplastics and bio-based materials. The company o...
-website: https://www.teknorapex.com
-primary_materials: "PLA, PHA, Bio-based polyesters, PETek\xAE"
+short_description: Teknor Apex is a leading custom compounder specializing in sustainable polymer solutions, including bioplastics and bio-based materials. The company o...
+website: "https://www.teknorapex.com"
+primary_materials: PLA, PHA, Bio-based polyesters, PETek®
 market_segments: Packaging, Consumer, Automotive, Medical, Industrial
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
@@ -28,4 +27,4 @@ Packaging, Consumer, Automotive, Medical, Industrial
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

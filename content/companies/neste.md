@@ -1,6 +1,6 @@
 ---
 title: Neste Corporation
-company_type: Raw Material Supplier
+company_type: Bioplastic Producer
 headquarters: Espoo, Finland
 status: Active
 short_description: World's leading producer of renewable diesel and sustainable aviation

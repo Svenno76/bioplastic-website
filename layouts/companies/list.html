@@ -29,7 +29,7 @@
   <div style="margin-bottom: 2rem; padding: 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e2e8f0;">
     <p style="font-size: 0.9rem; color: #64748b; font-weight: 500; margin-bottom: 1rem;">Filter by Company Type:</p>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;" id="filter-buttons">
-      <button onclick="filterByType('all')" class="filter-btn active" style="padding: 0.5rem 1rem; border: 2px solid #3b82f6; background: #3b82f6; color: white; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">
+      <button onclick="filterByType('all')" class="filter-btn active" style="padding: 0.5rem 1rem; border: 2px solid #3d7a6f; background: #3d7a6f; color: white; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">
         All Companies
       </button>
     </div>
@@ -53,7 +53,7 @@
       {{ end }}
       <div style="flex-grow: 1;">
         <!-- Company Name -->
-        <h2 style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #1e3a8a; {{ if .Params.logo }}padding-right: 90px;{{ end }}">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #2d5a4f; {{ if .Params.logo }}padding-right: 90px;{{ end }}">
           <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">{{ .Title }}</a>
         </h2>
 
@@ -61,12 +61,12 @@
         {{ if .Params.company_type }}
           {{ if reflect.IsSlice .Params.company_type }}
             {{ range .Params.company_type }}
-            <div style="display: inline-block; background: #e0e7ff; color: #3730a3; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem; margin-right: 0.5rem;">
+            <div style="display: inline-block; background: #e8f2f0; color: #2d5a4f; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem; margin-right: 0.5rem;">
               {{ . }}
             </div>
             {{ end }}
           {{ else }}
-          <div style="display: inline-block; background: #e0e7ff; color: #3730a3; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem;">
+          <div style="display: inline-block; background: #e8f2f0; color: #2d5a4f; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem;">
             {{ .Params.company_type }}
           </div>
           {{ end }}
@@ -129,7 +129,7 @@
       </div>
 
       <!-- View Profile Link -->
-      <a href="{{ .Permalink }}" style="display: inline-block; margin-top: 1rem; color: #fff; background: #3b82f6; padding: 0.75rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; text-align: center; width: 100%;">
+      <a href="{{ .Permalink }}" style="display: inline-block; margin-top: 1rem; color: white; background: #3d7a6f; padding: 0.75rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; text-align: center; width: 100%; transition: background 0.3s;">
         View Profile →
       </a>
     </article>
@@ -174,9 +174,9 @@
         button.textContent = type;
         button.style.cssText = `
           padding: 0.5rem 1rem;
-          border: 2px solid #e2e8f0;
+          border: 2px solid #e0e8e6;
           background: white;
-          color: #475569;
+          color: #3d7a6f;
           border-radius: 6px;
           cursor: pointer;
           font-size: 0.9rem;
@@ -196,17 +196,17 @@
       // Update button styles
       document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.style.background = 'white';
-        btn.style.color = '#475569';
-        btn.style.borderColor = '#e2e8f0';
+        btn.style.color = '#3d7a6f';
+        btn.style.borderColor = '#e0e8e6';
       });
 
       // Find and highlight the active button
       document.querySelectorAll('.filter-btn').forEach(btn => {
         if ((type === 'all' && btn.textContent === 'All Companies') ||
             (type !== 'all' && btn.textContent === type)) {
-          btn.style.background = '#3b82f6';
+          btn.style.background = '#3d7a6f';
           btn.style.color = 'white';
-          btn.style.borderColor = '#3b82f6';
+          btn.style.borderColor = '#3d7a6f';
         }
       });
 

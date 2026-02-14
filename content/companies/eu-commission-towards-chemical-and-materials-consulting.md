@@ -1,6 +1,6 @@
 ---
 title: Towards Chemical and Materials Consulting
-company_type: Consulting/Advisory Firm
+company_type: Consulting
 headquarters: Brussels, Belgium
 status: Active
 website: https://www.towardschemandmaterials.com/

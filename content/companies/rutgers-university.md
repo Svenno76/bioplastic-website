@@ -1,18 +1,15 @@
 ---
 title: Rutgers University
 company_type: University
-headquarters: New Brunswick, United States
+headquarters: United States
 status: Active
-short_description: Rutgers University is a research institution conducting advanced
-  research in bioplastics and sustainable materials. Key initiatives include developing...
-website: https://www.rutgers.edu
-primary_materials: Biodegradable polymers, plant-based biopolymers, polymer-peptide
-  conjugates, carbon-derived plastic monomers
-market_segments: Medical devices, tissue engineering, food packaging, pharmaceutical
-  delivery systems
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+short_description: Rutgers University is a research institution conducting advanced research in bioplastics and sustainable materials. Key initiatives include developing...
+website: "https://www.rutgers.edu"
+primary_materials: Biodegradable polymers, plant-based biopolymers, polymer-peptide conjugates, carbon-derived plastic monomers
+market_segments: Medical devices, tissue engineering, food packaging, pharmaceutical delivery systems
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
@@ -30,4 +27,4 @@ Medical devices, tissue engineering, food packaging, pharmaceutical delivery sys
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

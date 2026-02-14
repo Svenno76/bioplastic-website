@@ -1,6 +1,6 @@
 ---
 title: European Commission
-company_type: Policy/Government Organization
+company_type: Consulting
 headquarters: Brussels, Belgium
 status: Active
 fields_of_interest: Bioplastics policy, sustainability regulations, circular economy,

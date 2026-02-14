@@ -1,6 +1,6 @@
 ---
 title: The Pew Charitable Trusts
-company_type: Non-Profit Foundation/NGO
+company_type: Research Institute
 headquarters: Philadelphia, United States
 status: Active
 fields_of_interest: Plastic pollution, marine conservation, sustainable materials,

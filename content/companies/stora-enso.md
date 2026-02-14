@@ -1,6 +1,6 @@
 ---
 title: Stora Enso
-company_type: Raw Material Supplier
+company_type: Bioplastic Producer
 headquarters: Helsinki, Finland & Stockholm, Sweden
 status: Active
 short_description: Leading renewable materials company pioneering PEF bioplastics

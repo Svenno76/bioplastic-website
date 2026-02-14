@@ -1,18 +1,15 @@
 ---
 title: Nexam Chemical
 company_type: Additive Producer
-headquarters: Lomma, Sweden
+headquarters: Sweden
 status: Active
-short_description: Nexam Chemical is a global leader in polymer additives that enhance
-  the performance, sustainability, and recyclability of plastics. The company specia...
-website: https://www.nexamchemical.com
-primary_materials: PLA (polylactic acid), general polymer additives for multiple polymer
-  types
-market_segments: Packaging, insulation, e-commerce, pipe manufacturing, foam production,
-  high-performance plastics, food packaging
-publicly_listed: true
+short_description: Nexam Chemical is a global leader in polymer additives that enhance the performance, sustainability, and recyclability of plastics. The company specia...
+website: "https://www.nexamchemical.com"
+primary_materials: PLA (polylactic acid), general polymer additives for multiple polymer types
+market_segments: Packaging, insulation, e-commerce, pipe manufacturing, foam production, high-performance plastics, food packaging
+publicly_listed: yes
 stock_ticker: NEXAM
-date: '2026-01-02'
+date: '2026-02-13'
 draft: false
 ---
 
@@ -30,4 +27,4 @@ Packaging, insulation, e-commerce, pipe manufacturing, foam production, high-per
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

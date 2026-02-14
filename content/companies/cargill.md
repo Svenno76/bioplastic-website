@@ -1,6 +1,6 @@
 ---
 title: Cargill
-company_type: Raw Material Supplier
+company_type: Bioplastic Producer
 headquarters: Minnetonka, Minnesota, USA
 status: Active
 short_description: American multinational food corporation and leading supplier of

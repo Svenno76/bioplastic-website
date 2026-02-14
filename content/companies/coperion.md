@@ -1,16 +1,15 @@
 ---
 title: Coperion
-company_type: Equipment Manufacturer
-headquarters: Stuttgart, Germany
+company_type: Technology Company
+headquarters: Germany
 status: Acquired
-short_description: German manufacturer of compounding and extrusion systems. Provides
-  processing equipment for bioplastic production, compounding, and material handling.
-website: https://www.coperion.com
-product_types: Compounding systems, extrusion equipment, material handling systems
+short_description: German manufacturer of compounding and extrusion systems. Provides processing equipment for bioplastic production, compounding, and material handling.
+website: "https://www.coperion.com"
+primary_materials: PET, polyolefins, film, rigid plastics
 market_segments: Plastics, chemical, food processing, pharmaceutical, aluminum, recycling
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
@@ -18,9 +17,9 @@ draft: false
 
 German manufacturer of compounding and extrusion systems. Provides processing equipment for bioplastic production, compounding, and material handling.
 
-### Products
+### Primary Materials
 
-Compounding systems, extrusion equipment, and material handling systems for bioplastic production and processing
+PET, polyolefins, film, rigid plastics
 
 ### Market Segments
 
@@ -28,4 +27,4 @@ Plastics, chemical, food processing, pharmaceutical, aluminum, recycling
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

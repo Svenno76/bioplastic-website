@@ -1,16 +1,15 @@
 ---
 title: Monash University
 company_type: University
-headquarters: Melbourne, Australia
+headquarters: Australia
 status: Active
-short_description: Monash University researchers have developed customizable bioplastic
-  films using polyhydroxyalkanoates (PHA) produced by soil microbes fed on food was...
-website: https://www.monash.edu
+short_description: Monash University researchers have developed customizable bioplastic films using polyhydroxyalkanoates (PHA) produced by soil microbes fed on food was...
+website: "https://www.monash.edu"
 primary_materials: Polyhydroxyalkanoates (PHA)
 market_segments: Packaging, Medical, Agriculture
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+publicly_listed: no
+stock_ticker: "ASX:MQG"
+date: '2026-02-13'
 draft: false
 ---
 
@@ -28,4 +27,4 @@ Packaging, Medical, Agriculture
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

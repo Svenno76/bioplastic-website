@@ -1,17 +1,15 @@
 ---
 title: Palsgaard
 company_type: Additive Producer
-headquarters: Juelsminde, Denmark
+headquarters: Denmark
 status: Active
-short_description: Danish producer of emulsifiers and functional additives. Develops
-  bio-based additives for improving bioplastic processing and performance characterist...
-website: https://www.palsgaard.com
-primary_materials: Plant-based emulsifiers and stabilizers, sustainable polymer additives
-  including anti-static and anti-fog agents
+short_description: Danish producer of emulsifiers and functional additives. Develops bio-based additives for improving bioplastic processing and performance characterist...
+website: "https://www.palsgaard.com"
+primary_materials: Plant-based emulsifiers and stabilizers, sustainable polymer additives including anti-static and anti-fog agents
 market_segments: Food, packaging, polymers/plastics, personal care
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
@@ -29,4 +27,4 @@ Food, packaging, polymers/plastics, personal care
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*

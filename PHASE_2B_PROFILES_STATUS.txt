@@ -1,0 +1,126 @@
+PHASE 2B PROFILE CREATION STATUS
+================================
+Date: February 14, 2026
+Task: Create 34 detailed markdown profiles for specialist bioplastics companies
+
+COMPLETED PROFILES (Comprehensive - 3,000+ words each):
+======================================================
+
+1. Balrampur Chini Mills (CREATED)
+   - File: /home/sven/bioplastic-website/content/companies/balrampur-chini-mills.md
+   - India's first industrial-scale PLA facility
+   - 75,000 MT/year capacity, commissioning Oct 2026
+
+UPDATED PROFILES (From Minimal to Comprehensive):
+==================================================
+
+2. Bio-On (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/bio-on.md
+   - Italian PHA from agricultural waste
+   - Technology licensing business model
+
+3. Danimer Scientific (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/danimer-scientific.md
+   - Bankruptcy case study (March 2025)
+   - Nodax PHA from canola oil, marine-degradable
+
+4. Futerro (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/futerro.md
+   - Belgian PLA specialist with vertical integration
+   - 100K MT/year China + 175K MT/year France expansion
+
+5. Kaneka Corporation (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/kaneka-corporation.md
+   - Japanese PHBH (Green Planet) with seawater biodegradation
+   - 20,000 MT/year capacity, Takasago facility
+
+6. Lenzing Group (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/lenzing-group.md
+   - World's largest integrated fiber producer
+   - Lyocell, Modal, Viscose cellulosic fibers
+
+7. Granulous (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/granulous.md
+   - UK biodegradable pellets supplier
+   - PLA, PBAT, PBS processing-ready for converters
+
+8. Notpla (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/notpla.md
+   - UK 100% natural seaweed coating
+   - Home-compostable in 6 weeks, PFAS-free
+
+9. Sway (UPDATED)
+   - File: /home/sven/bioplastic-website/content/companies/sway.md
+   - California seaweed-based bioplastics
+   - Regenerative coastal sourcing, straws/cups/packaging
+
+10. TIPA (UPDATED)
+    - File: /home/sven/bioplastic-website/content/companies/tipa.md
+    - Israeli high-barrier compostable films
+    - 20-80% bio-based, $70M expansion funding
+
+11. FKuR (CREATED)
+    - File: /home/sven/bioplastic-website/content/companies/fkur-specialty.md
+    - German specialist with Fraunhofer collaboration
+    - Global presence: Germany, Texas, India (JV)
+
+REMAINING TO CREATE (26 companies):
+====================================
+
+PLA Specialists (5):
+- Corbion/Total Corbion PLA
+- NaturePlast
+- Roquette Frères
+- SK Chemicals
+- Verde Bioresins
+
+PHA Specialists (6):
+- RWDC Industries
+- CJ Biomaterials
+- Uluu (seaweed-based PHA)
+- Loliware (seaweed-based edible)
+- Carbon Cell (PHA biotech)
+- Cardia Bioplastics
+
+Polyester Specialists (3):
+- Mitsubishi Chemical
+- PTT MCC Biochem
+- UPM Biochemicals
+
+Other Technologies (4):
+- Blue Circle Olefins (methanol-to-olefins)
+- Wankai New Materials (PET recycling)
+- Zerocircle (ocean-safe packaging)
+- Green Dot Bioplastics (thermoplastic starch)
+
+Other Companies (8):
+- Isiah Enterprises
+- One World Products
+- Plus others
+
+SPECIAL NOTES:
+==============
+- Bakelite: Historical company (inactive since 1987)
+- Danimer Scientific: Chapter 11 bankruptcy filed March 2025
+- All profiles follow template format with front matter, sections, and sources
+- Date stamp: 2026-02-14
+- File naming: kebab-case (e.g., balrampur-chini-mills.md)
+
+PROFILE FORMAT ELEMENTS:
+=======================
+Front Matter: Title, company_type, headquarters, status, short_description, website, founded, employees, primary_materials, market_segments, publicly_listed, stock_ticker, production_capacity, date, draft
+
+Sections:
+1. Overview
+2. Primary Technologies/Materials
+3. Production Facilities (if applicable)
+4. Market Segments and Applications
+5. Industry Position/Strategic Advantages
+6. Sustainability Credentials
+7. Competitive Advantages / Future Outlook
+8. Last updated date and sources
+
+Content Depth: 2,500-4,000+ words per profile
+
+STATUS: 11 profiles completed/updated (31% of task)
+REMAINING: 26 profiles to create (69% of task)

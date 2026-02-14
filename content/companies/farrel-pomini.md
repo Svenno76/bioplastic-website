@@ -1,27 +1,25 @@
 ---
 title: Farrel Pomini
-company_type: Equipment Manufacturer
-headquarters: Ansonia, United States
+company_type: Technology Company
+headquarters: United States
 status: Active
-short_description: FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING
-  GROUP, specializing in the research, design, and manufacture of continuous mixing
-  sys...
-website: https://www.farrel-pomini.com
-product_types: Continuous mixing systems, compounding equipment, processing machinery
+short_description: FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING GROUP, specializing in the research, design, and manufacture of continuous mixing sys...
+website: "https://www.farrel-pomini.com"
+primary_materials: PLA, PHA, PBS
 market_segments: packaging, recycling
-publicly_listed: false
-stock_ticker: .nan
-date: '2026-01-02'
+publicly_listed: no
+stock_ticker: 
+date: '2026-02-13'
 draft: false
 ---
 
 ## Overview
 
-FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING GROUP, specializing in the research, design, and manufacture of continuous mixing systems like the FCM™ for the polymer processing industry. They focus on compounding equipment for biodegradable plastics such as PLA, PHA, and PBS, addressing challenges like shear sensitivity and hydrolysis while maintaining polymer integrity. Their technology supports sustainable applications including mechanical and chemical recycling, pyrolysis, and other sustainable recycling processes.
+FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING GROUP, specializing in the research, design, and manufacture of continuous mixing systems like the FCM™ for the polymer processing industry. They focus on compounding equipment for biodegradable plastics such as PLA, PHA, and PBS, addressing challenges like shear sensitivity and hydrolysis while maintaining polymer integrity. Their technology supports sustainable applications including mechanical and chemical recycling, pyrolysi...
 
-### Products
+### Primary Materials
 
-Continuous mixing systems (FCM™) and compounding equipment specifically designed for biodegradable plastics processing including PLA, PHA, and PBS, supporting applications in mechanical and chemical recycling
+PLA, PHA, PBS
 
 ### Market Segments
 
@@ -29,4 +27,4 @@ packaging, recycling
 
 ---
 
-*Last updated: January 02, 2026*
+*Last updated: February 13, 2026*
