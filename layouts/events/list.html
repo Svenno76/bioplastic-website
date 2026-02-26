@@ -50,11 +50,15 @@
     {{ if .Pages }}
       {{ $pages := .Pages }}
       {{ $sortedPages := slice }}
+      {{/* Get today's date for filtering past events */}}
+      {{ $now := now }}
+      {{ $nowInt := $now.Format "20060102" }}
 
       {{/* Create a slice with pages and their parsed dates */}}
       {{ range $pages }}
         {{ $eventDate := .Params.event_date }}
         {{ $sortKey := "" }}
+        {{ $endDateInt := "" }}
 
         {{/* Parse the event_date string to extract month and approximate day */}}
         {{ if $eventDate }}
@@ -73,29 +77,39 @@
                   {{/* Handle range like "1-2" or "19-22" */}}
                   {{ $dayRange := split $dayPart "-" }}
                   {{ $firstDay := index $dayRange 0 }}
+                  {{ $endDay := index $dayRange 1 }}
                   {{/* Pad day to 2 digits */}}
                   {{ if lt (len $firstDay) 2 }}
                     {{ $firstDay = printf "0%s" $firstDay }}
                   {{ end }}
+                  {{ if lt (len $endDay) 2 }}
+                    {{ $endDay = printf "0%s" $endDay }}
+                  {{ end }}
                   {{ $sortKey = printf "2026%s%s" $monthNum $firstDay }}
+                  {{ $endDateInt = printf "2026%s%s" $monthNum $endDay }}
                 {{ else }}
                   {{/* Handle single day */}}
                   {{ if lt (len $dayPart) 2 }}
                     {{ $dayPart = printf "0%s" $dayPart }}
                   {{ end }}
                   {{ $sortKey = printf "2026%s%s" $monthNum $dayPart }}
+                  {{ $endDateInt = printf "2026%s%s" $monthNum $dayPart }}
                 {{ end }}
               {{ end }}
             {{ end }}
           {{ end }}
         {{ end }}
 
-        {{/* If no valid date found, use a far future date so it appears last */}}
+        {{/* If no valid date found, use a far future date so it appears last (and is included) */}}
         {{ if eq $sortKey "" }}
           {{ $sortKey = "99991231" }}
+          {{ $endDateInt = "99991231" }}
         {{ end }}
 
-        {{ $sortedPages = $sortedPages | append (dict "page" . "sortKey" $sortKey) }}
+        {{/* Only include events if their end date is today or in the future */}}
+        {{ if ge $endDateInt $nowInt }}
+          {{ $sortedPages = $sortedPages | append (dict "page" . "sortKey" $sortKey) }}
+        {{ end }}
       {{ end }}
 
       {{/* Sort by sortKey */}}
