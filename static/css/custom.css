@@ -187,3 +187,82 @@ a {
 a:hover {
   color: var(--color-primary-light);
 }
+
+/* ===== MOBILE RESPONSIVENESS ===== */
+
+/* Tablet and small screens (max-width: 768px) */
+@media (max-width: 768px) {
+  /* Reduce site title size to prevent wrapping */
+  .site-title {
+    font-size: 1.3rem !important;
+    gap: 0.35rem;
+  }
+
+  /* Adjust navigation link sizing */
+  .site-navigation a {
+    font-size: 0.85rem !important;
+    padding: 0.4rem 0.75rem !important;
+  }
+
+  /* Reduce header padding for space efficiency */
+  .site-branding {
+    padding: 0.75rem 1rem !important;
+  }
+
+  /* Increase body padding to prevent content overlap */
+  body {
+    padding-top: 100px !important;
+  }
+
+  /* Reduce page header sizes on smaller screens */
+  .page-header h1 {
+    font-size: 2rem;
+  }
+
+  .page-header p {
+    font-size: 1rem;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+  h4 { font-size: 1.1rem; }
+}
+
+/* Mobile phones (max-width: 480px) */
+@media (max-width: 480px) {
+  /* Further reduce title size on very small screens */
+  .site-title {
+    font-size: 1.15rem !important;
+  }
+
+  /* Compact navigation links */
+  .site-navigation a {
+    font-size: 0.8rem !important;
+    padding: 0.35rem 0.6rem !important;
+  }
+
+  /* Tighter header padding */
+  .site-branding {
+    padding: 0.65rem 0.75rem !important;
+  }
+
+  /* More body padding for safety */
+  body {
+    padding-top: 110px !important;
+  }
+
+  /* Further reduce page header sizes */
+  .page-header h1 {
+    font-size: 1.75rem;
+  }
+
+  .page-header p {
+    font-size: 0.95rem;
+  }
+
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.1rem; }
+  h4 { font-size: 1rem; }
+}
