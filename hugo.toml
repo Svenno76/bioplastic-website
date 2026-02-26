@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://bioplastic.netlify.app/'
 languageCode = 'en-us'
 title = 'Bioplastics Portal'
 theme = 'ananke'
