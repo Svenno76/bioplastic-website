@@ -25,12 +25,12 @@
 - ⚠️ chugai-pharmaceutical.md - Marked as data error, kept in draft
 - ⚠️ colesco.md - Marked as data error, kept in draft
 
-### ⏳ Batch 2
-- [ ] covationbio.md
-- [ ] ducor-petrochemicals.md
-- [ ] ecopha-biotech.md
-- [ ] ecovia-bio.md
-- [ ] ecovyst.md
+### ✅ Batch 2 (COMPLETED)
+- [x] covationbio.md - ✓ Completed (Bioplastic Producer)
+- [x] ducor-petrochemicals.md - ✓ Completed (Bioplastic Producer)
+- [x] ecopha-biotech.md - ✓ Completed (Bioplastic Producer)
+- [x] ecovia-bio.md - ✓ Completed (Bioplastic Producer)
+- [x] ecovyst.md - ✓ Completed (Technology Company)
 
 ### Batch 3
 - [ ] empa.md
