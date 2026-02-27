@@ -60,12 +60,12 @@
 - [x] northern-technologies-international-corp.md - ✓ Completed (Bioplastic Producer)
 - [x] notplast.md - ✓ Completed as "Notpla" (Bioplastic Producer)
 
-### Batch 7
-- [ ] novonor.md
-- [ ] oceansafe.md
-- [ ] octarine-bio.md
-- [ ] omikron.md
-- [ ] orinko-advanced-plastics.md
+### ✅ Batch 7 (COMPLETED)
+- ⚠️ novonor.md - Data issue (insufficient public information) - kept as draft
+- ⚠️ oceansafe.md - Data error (textile materials, not bioplastics) - kept as draft
+- ⚠️ octarine-bio.md - Data error (synthetic biology/dyes, not bioplastics) - kept as draft
+- ⚠️ omikron.md - Data error (no information found) - kept as draft
+- [x] orinko-advanced-plastics.md - ✓ Completed (Bioplastic Producer)
 
 ### Batch 8
 - [ ] packamama.md
@@ -174,3 +174,11 @@
 - **nbc-llc.md** - NBC Packaging USA LLC is a glass container and glass bottle distributor, not a bioplastics company. Completely unrelated to bioplastics/biodegradable polymers.
 
 **Status:** Keeping as draft (draft: true) pending clarification on database scope and relevance criteria.
+
+### Batch 7 Issues:
+- **novonor.md** - Appears registered in Bloomberg but no public information found about operations, location, or bioplastics focus. Limited online presence.
+- **oceansafe.md** - OceanSafe AG is a Swiss textile materials company (Cradle to Cradle certified). Focuses on circular synthetic textiles, NOT bioplastics packaging.
+- **octarine-bio.md** - Danish synthetic biology company focused on bio-engineered textile dyes, cannabinoids, and psychedelics. Primary focus is NOT bioplastics.
+- **omikron.md** - No company information found in any bioplastics databases or search results. Likely data entry error or non-existent company.
+
+**Status:** Keeping all four as draft (draft: true) pending clarification on data accuracy and bioplastics relevance.
