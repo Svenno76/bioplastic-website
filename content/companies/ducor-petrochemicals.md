@@ -11,7 +11,6 @@ primary_materials: "Polypropylene (PP) - bio-based, bio-circular, and recycled v
 market_segments: "Automotive, healthcare, electrical appliances, textiles, packaging, household products, life sciences"
 publicly_listed: false
 stock_ticker:
-production_capacity: "180,000+ metric tons/year"
 date: '2026-02-27'
 draft: false
 ---
