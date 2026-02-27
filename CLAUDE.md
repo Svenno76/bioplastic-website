@@ -94,7 +94,7 @@ News articles automatically link company names mentioned in content. The regex p
 - Homepage redirects to `/news/` section
 
 ## Site Configuration
-- **Base URL:** `https://bioplastic.netlify.app`
+- **Base URL:** `https://bioplasticsportal.com`
 - **Hugo config:** `hugo.toml` - Contains menu structure, custom CSS includes, and site metadata
 - **Theme:** Ananke theme with extensive layout overrides
 - **Deployment:** Netlify (configured in `netlify.toml`)
