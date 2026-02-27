@@ -46,12 +46,12 @@
 - [x] ingevity.md - ✓ Completed (Bioplastic Producer)
 - [x] isc3.md - ✓ Completed (Research Institute)
 
-### Batch 5
-- [ ] kelpi.md
-- [ ] kemvera.md
-- [ ] l-kril-technologies.md
-- [ ] luminy.md
-- [ ] mialgae.md
+### ✅ Batch 5 (COMPLETED)
+- [x] kelpi.md - ✓ Completed (Bioplastic Producer)
+- [x] kemvera.md - ✓ Completed (Technology Company)
+- ⚠️ l-kril-technologies.md - Data error (no information found) - kept as draft
+- ⚠️ luminy.md - Data error (brand by TotalEnergies Corbion, not standalone company) - kept as draft
+- ⚠️ mialgae.md - Relevance error (omega-3 ingredients, not bioplastics) - kept as draft
 
 ### Batch 6
 - [ ] mitr-phol.md
@@ -162,3 +162,10 @@
 - **ichihara.md** - Appears to be a location name (Ichihara, Chiba, Japan), not a company. There is a Chemical Recycling Japan facility in this location (subsidiary of Idemitsu Kosan), but "Ichihara" itself is not a company name. Needs clarification on intended company.
 
 **Status:** Keeping both as draft (draft: true) pending clarification on actual company names or data correction.
+
+### Batch 5 Issues:
+- **l-kril-technologies.md** - No publicly available information found. No search results in bioplastics databases. May be misspelled company name or non-existent entry.
+- **luminy.md** - Brand/product line of TotalEnergies Corbion, not a standalone company. Should either be removed or replaced with TotalEnergies Corbion as the actual company.
+- **mialgae.md** - Scottish biotech company focused on omega-3 aquaculture ingredients, NOT bioplastics. Outside the scope of this bioplastics database and should be removed.
+
+**Status:** Keeping all three as draft (draft: true) pending clarification on data accuracy and relevance to bioplastics industry.
