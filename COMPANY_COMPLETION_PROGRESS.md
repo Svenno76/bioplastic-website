@@ -39,12 +39,12 @@
 - [x] fraunhofer-ipms.md - ✓ Completed (Research Institute)
 - [x] gabriel-chemie.md - ✓ Completed (Additive Producer)
 
-### Batch 4
-- [ ] haining.md
-- [ ] ichihara.md
-- [ ] idemitsu-kosan.md
-- [ ] ingevity.md
-- [ ] isc3.md
+### ✅ Batch 4 (PARTIALLY COMPLETED - 3 of 5)
+- ⚠️ haining.md - Data error (location name, not company) - kept as draft
+- ⚠️ ichihara.md - Data error (location name, not company) - kept as draft
+- [x] idemitsu-kosan.md - ✓ Completed (Bioplastic Producer)
+- [x] ingevity.md - ✓ Completed (Bioplastic Producer)
+- [x] isc3.md - ✓ Completed (Research Institute)
 
 ### Batch 5
 - [ ] kelpi.md
@@ -152,3 +152,13 @@
   - Overview section with detailed content
 
 - Mark as `draft: false` once completed and verified
+
+---
+
+## Data Errors / Pending Investigation
+
+### Batch 4 Issues:
+- **haining.md** - Appears to be a location name (Haining, Zhejiang, China), not a company. Needs clarification on intended company.
+- **ichihara.md** - Appears to be a location name (Ichihara, Chiba, Japan), not a company. There is a Chemical Recycling Japan facility in this location (subsidiary of Idemitsu Kosan), but "Ichihara" itself is not a company name. Needs clarification on intended company.
+
+**Status:** Keeping both as draft (draft: true) pending clarification on actual company names or data correction.
