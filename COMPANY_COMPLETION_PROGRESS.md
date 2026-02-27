@@ -32,12 +32,12 @@
 - [x] ecovia-bio.md - ✓ Completed (Bioplastic Producer)
 - [x] ecovyst.md - ✓ Completed (Technology Company)
 
-### Batch 3
-- [ ] empa.md
-- [ ] entec-polymers.md
-- [ ] exxtend.md
-- [ ] fraunhofer-ipms.md
-- [ ] gabriel-chemie.md
+### ✅ Batch 3 (COMPLETED)
+- [x] empa.md - ✓ Completed (Research Institute)
+- [x] entec-polymers.md - ✓ Completed (Converter)
+- [x] exxtend.md - ✓ Completed (Technology Company - ExxonMobil)
+- [x] fraunhofer-ipms.md - ✓ Completed (Research Institute)
+- [x] gabriel-chemie.md - ✓ Completed (Additive Producer)
 
 ### Batch 4
 - [ ] haining.md
