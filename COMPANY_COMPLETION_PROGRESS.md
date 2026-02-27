@@ -53,12 +53,12 @@
 - ⚠️ luminy.md - Data error (brand by TotalEnergies Corbion, not standalone company) - kept as draft
 - ⚠️ mialgae.md - Relevance error (omega-3 ingredients, not bioplastics) - kept as draft
 
-### Batch 6
-- [ ] mitr-phol.md
-- [ ] nbc-llc.md
-- [ ] norsk-e-fuel.md
-- [ ] northern-technologies-international-corp.md
-- [ ] notplast.md
+### ✅ Batch 6 (COMPLETED)
+- [x] mitr-phol.md - ✓ Completed (Bioplastic Producer)
+- ⚠️ nbc-llc.md - Data error (glass containers, not bioplastics) - kept as draft
+- [x] norsk-e-fuel.md - ✓ Completed (Technology Company)
+- [x] northern-technologies-international-corp.md - ✓ Completed (Bioplastic Producer)
+- [x] notplast.md - ✓ Completed as "Notpla" (Bioplastic Producer)
 
 ### Batch 7
 - [ ] novonor.md
@@ -169,3 +169,8 @@
 - **mialgae.md** - Scottish biotech company focused on omega-3 aquaculture ingredients, NOT bioplastics. Outside the scope of this bioplastics database and should be removed.
 
 **Status:** Keeping all three as draft (draft: true) pending clarification on data accuracy and relevance to bioplastics industry.
+
+### Batch 6 Issues:
+- **nbc-llc.md** - NBC Packaging USA LLC is a glass container and glass bottle distributor, not a bioplastics company. Completely unrelated to bioplastics/biodegradable polymers.
+
+**Status:** Keeping as draft (draft: true) pending clarification on database scope and relevance criteria.

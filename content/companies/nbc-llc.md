@@ -1,30 +1,41 @@
 ---
 title: NBC LLC
-company_type: Technology Company
-headquarters: Unknown
+company_type: Packaging (Not Bioplastics)
+headquarters: "Pittsburg, California, USA"
 status: Active
-short_description: 
-website: 
-primary_materials: Not specified
-market_segments: Not specified
+short_description: "Data quality issue: NBC Packaging USA LLC is a glass container and glass bottle supplier, not a bioplastics company. Outside the scope of this bioplastics database."
+website: "https://www.nbcpackaging.com"
+primary_materials: Glass containers
+market_segments: Glass packaging, glass jars, glass bottles, container distribution
 publicly_listed: false
-stock_ticker: 
-date: '2026-02-13'
+stock_ticker:
+date: '2026-02-27'
 draft: true
 ---
 
 ## Overview
 
-Information not yet available.
+**⚠️ RELEVANCE ERROR:** NBC LLC (NBC Packaging USA LLC) operates outside the bioplastics industry scope.
 
-### Primary Materials
+### Company Focus
 
-Not specified
+NBC Packaging USA is a glass container and glass bottle supplier and distributor operating from a 93,000 square foot distribution center in Pittsburg, California. The company designs and supplies glass containers, glass jars, and glass bottles for various packaging applications.
 
-### Market Segments
+### Why This Entry Doesn't Fit
 
-Not specified
+- **Focus:** Glass container and bottle distribution and supply
+- **Products:** Glass jars, glass bottles, glass containers
+- **Materials:** Glass, not bioplastics or biodegradable polymers
+- **Market:** General packaging industry, not sustainable/bio-based materials
+
+This is a conventional packaging materials company with no connection to bioplastics, biodegradable polymers, or sustainable packaging innovation.
+
+### Recommendation
+
+This entry should be removed from the bioplastics database as NBC Packaging's business is unrelated to bioplastics production, biopolymers, or sustainable materials.
+
+**Status:** This profile is kept as a draft pending clarification on database scope and relevance criteria.
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: February 27, 2026*
