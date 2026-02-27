@@ -222,8 +222,8 @@ a:hover {
 
 /* ===== MOBILE RESPONSIVENESS ===== */
 
-/* Tablet and small screens (max-width: 768px) */
-@media (max-width: 768px) {
+/* Tablet and small screens (max-width: 950px) */
+@media (max-width: 950px) {
   /* Show hamburger menu on tablet */
   .hamburger-menu {
     display: flex;
@@ -294,8 +294,8 @@ a:hover {
   h4 { font-size: 1.1rem; }
 }
 
-/* Mobile phones (max-width: 480px) */
-@media (max-width: 480px) {
+/* Mobile phones (max-width: 640px) */
+@media (max-width: 640px) {
   /* Further reduce title size on very small screens */
   .site-title {
     font-size: 1.15rem !important;
