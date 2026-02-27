@@ -3,10 +3,41 @@
     <a href="/" class="site-title">
       🌱 Bioplastics Portal
     </a>
-    <nav class="site-navigation">
+    <button class="hamburger-menu" aria-label="Toggle navigation menu" onclick="toggleMobileMenu()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-navigation" id="mobile-menu">
       {{ range .Site.Menus.main }}
         <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
     </nav>
   </div>
 </header>
+
+<script>
+  function toggleMobileMenu() {
+    const menu = document.getElementById('mobile-menu');
+    const button = document.querySelector('.hamburger-menu');
+    menu.classList.toggle('active');
+    button.classList.toggle('active');
+  }
+
+  // Close menu when a link is clicked
+  document.querySelectorAll('.site-navigation a').forEach(link => {
+    link.addEventListener('click', () => {
+      document.getElementById('mobile-menu').classList.remove('active');
+      document.querySelector('.hamburger-menu').classList.remove('active');
+    });
+  });
+
+  // Close menu when clicking outside
+  document.addEventListener('click', (e) => {
+    const header = document.querySelector('.site-header');
+    if (!header.contains(e.target)) {
+      document.getElementById('mobile-menu').classList.remove('active');
+      document.querySelector('.hamburger-menu').classList.remove('active');
+    }
+  });
+</script>

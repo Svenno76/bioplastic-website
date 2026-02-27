@@ -188,25 +188,90 @@ a:hover {
   color: var(--color-primary-light);
 }
 
+/* ===== HAMBURGER MENU ===== */
+.hamburger-menu {
+  display: none;
+  flex-direction: column;
+  gap: 0.35rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.hamburger-menu span {
+  width: 1.5rem;
+  height: 2px;
+  background-color: var(--color-text-dark);
+  transition: all 0.3s ease;
+  border-radius: 2px;
+}
+
+.hamburger-menu.active span:nth-child(1) {
+  transform: rotate(45deg) translate(10px, 10px);
+}
+
+.hamburger-menu.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger-menu.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -7px);
+}
+
 /* ===== MOBILE RESPONSIVENESS ===== */
 
 /* Tablet and small screens (max-width: 768px) */
 @media (max-width: 768px) {
-  /* Reduce site title size to prevent wrapping */
+  /* Show hamburger menu on tablet */
+  .hamburger-menu {
+    display: flex;
+  }
+
+  /* Convert navigation to dropdown menu */
+  .site-navigation {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    background: var(--color-bg-light);
+    border-top: 1px solid var(--color-border);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    gap: 0;
+  }
+
+  .site-navigation.active {
+    max-height: 300px;
+    box-shadow: 0 4px 6px rgba(26, 42, 40, 0.1);
+  }
+
+  .site-navigation a {
+    font-size: 0.95rem !important;
+    padding: 1rem 2rem !important;
+    border-bottom: 1px solid var(--color-border);
+    width: 100%;
+    text-align: left;
+    display: block;
+  }
+
+  .site-navigation a:last-child {
+    border-bottom: none;
+  }
+
+  /* Adjust site branding layout for hamburger */
+  .site-branding {
+    padding: 0.75rem 1rem !important;
+    position: relative;
+  }
+
+  /* Reduce site title size */
   .site-title {
     font-size: 1.3rem !important;
     gap: 0.35rem;
-  }
-
-  /* Adjust navigation link sizing */
-  .site-navigation a {
-    font-size: 0.85rem !important;
-    padding: 0.4rem 0.75rem !important;
-  }
-
-  /* Reduce header padding for space efficiency */
-  .site-branding {
-    padding: 0.75rem 1rem !important;
   }
 
   /* Increase body padding to prevent content overlap */
@@ -236,20 +301,26 @@ a:hover {
     font-size: 1.15rem !important;
   }
 
-  /* Compact navigation links */
+  /* Hamburger menu sizing for small screens */
+  .hamburger-menu span {
+    width: 1.25rem;
+    height: 1.5px;
+  }
+
+  /* Mobile navigation dropdown styling */
   .site-navigation a {
-    font-size: 0.8rem !important;
-    padding: 0.35rem 0.6rem !important;
+    font-size: 0.9rem !important;
+    padding: 0.85rem 1.5rem !important;
   }
 
   /* Tighter header padding */
   .site-branding {
-    padding: 0.65rem 0.75rem !important;
+    padding: 0.6rem 0.75rem !important;
   }
 
   /* More body padding for safety */
   body {
-    padding-top: 110px !important;
+    padding-top: 90px !important;
   }
 
   /* Further reduce page header sizes */
