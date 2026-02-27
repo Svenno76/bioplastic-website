@@ -67,12 +67,12 @@
 - ⚠️ omikron.md - Data error (no information found) - kept as draft
 - [x] orinko-advanced-plastics.md - ✓ Completed (Bioplastic Producer)
 
-### Batch 8
-- [ ] packamama.md
-- [ ] pharmapack.md
-- [ ] pew-charitable-trusts.md
-- [ ] petrobras.md
-- [ ] plastipak.md
+### ✅ Batch 8 (COMPLETED)
+- [x] packamama.md - ✓ Completed (Converter)
+- ⚠️ pharmapack.md - Data error (trade show/conference, not company) - kept as draft
+- ⚠️ pew-charitable-trusts.md - Data error (nonprofit think tank, not manufacturer) - kept as draft
+- ⚠️ petrobras.md - Classification error (investor/parent company, not bioplastics producer) - kept as draft
+- ⚠️ plastipak.md - Data error (conventional plastics/recycling, not bioplastics) - kept as draft
 
 ### Batch 9
 - [ ] pointe-angels.md
@@ -182,3 +182,11 @@
 - **omikron.md** - No company information found in any bioplastics databases or search results. Likely data entry error or non-existent company.
 
 **Status:** Keeping all four as draft (draft: true) pending clarification on data accuracy and bioplastics relevance.
+
+### Batch 8 Issues:
+- **pharmapack.md** - "Pharmapack" is a European trade show/conference for pharmaceutical packaging industry, not a company.
+- **pew-charitable-trusts.md** - Nonprofit research and advocacy organization focused on plastic waste policy, not a bioplastics manufacturer.
+- **petrobras.md** - Brazilian state oil company that owns 36% of Braskem (actual bioplastics producer), but Petrobras itself does not manufacture bioplastics.
+- **plastipak.md** - Conventional plastics container manufacturer and recycler (PET-based, recycled content). Not a bioplastics producer.
+
+**Status:** Keeping all four as draft (draft: true) pending clarification on database scope and classification criteria.
