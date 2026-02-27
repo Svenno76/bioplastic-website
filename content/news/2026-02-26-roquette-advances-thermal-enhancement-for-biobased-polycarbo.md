@@ -2,26 +2,30 @@
 title: "Roquette Advances Thermal Enhancement for Biobased Polycarbonates"
 date: 2026-02-26
 draft: false
-summary: "Roquette unveils advanced application data demonstrating how high-purity isosorbide significantly elevates the glass transition temperature and optical clarity of biobased polycarbonates."
-tags: ["Roquette", "Isosorbide", "Polycarbonates", "Biobased PC", "BPA-free"]
+summary: "Roquette utilizes high-purity isosorbide to significantly elevate the glass transition temperature and optical clarity of biobased polycarbonates."
+tags: ["Roquette", "Isosorbide", "Bio-polycarbonate", "POLYSORB"]
 category: "Product Launch"
 company: ["Roquette"]
 company_type: ["Additive Producer", "Bioplastic Producer"]
 source: "Roquette Corporate News"
 ---
 
-Roquette, a global leader in plant-based ingredients and a pioneer in isosorbide technology, has announced significant strides in the thermal performance capabilities of biobased polycarbonates (PC). Through the optimized application of its POLYSORB® isosorbide, the company has demonstrated the ability to engineer thermoplastics that exceed the heat resistance limitations of traditional materials while maintaining exceptional transparency.
+Roquette has announced significant advancements in the formulation of biobased polycarbonates, utilizing its high-purity isosorbide technology to overcome historical thermal limitations in sustainable engineering plastics. By leveraging its flagship POLYSORB® product, the company aims to provide a viable, high-performance alternative to fossil-based polycarbonates, addressing critical demands in the automotive, electronics, and smart glazing industries.
 
-## Elevating Glass Transition Temperatures
+## Unlocking High-Heat Performance
 
-The demand for high-performance engineering plastics that are both sustainable and durable is at an all-time high. Roquette’s latest technical advancements focus on the modification of polycarbonate backbones using high-purity isosorbide. This plant-based bicyclic diol acts as a rigid monomer, significantly increasing the Glass Transition Temperature (Tg) of the final polymer.
+The primary challenge for many biobased polymers has been maintaining structural integrity under high temperatures. Roquette’s latest development focuses on the integration of isosorbide—a rigid, heterocyclic diol derived from starch—into the polycarbonate backbone. This chemical modification significantly increases the material's Glass Transition Temperature (Tg).
 
-According to the new data released by Roquette, these isosorbide-based polycarbonates can achieve thermal resistance levels surpassing standard petrochemical counterparts. This breakthrough is critical for industries requiring materials that can withstand harsh environments without deformation, such as automotive interior components and high-intensity lighting covers.
+Unlike standard bio-polymers that may deform under heat, these enhanced bio-polycarbonates offer superior thermal resistance, making them suitable for demanding applications such as interior automotive components and outdoor housings that endure fluctuating environmental conditions. The rigid ring structure of isosorbide acts as a stiffening agent, effectively bridging the performance gap between renewables and high-grade engineering thermoplastics.
 
-## Optical Clarity and BPA-Free Safety
+## Clarity and Chemical Resistance
 
-Beyond thermal enhancements, the integration of isosorbide offers a dual benefit: superior optical properties and improved safety profiles. The biobased polycarbonates exhibit low birefringence and high light transmission, making them ideal candidates for optical lenses, touchscreens, and smart device interfaces.
+Beyond thermal enhancement, the new advancements address the need for optical purity. Traditional polycarbonates, while clear, often rely on Bisphenol A (BPA). Roquette’s solution enables the production of BPA-free polycarbonates that maintain exceptional transparency and UV stability.
 
-Furthermore, Roquette’s technology addresses the growing regulatory and consumer pressure to eliminate Bisphenol A (BPA). By substituting BPA with biobased isosorbide, manufacturers can produce high-performance plastics that are non-toxic and suitable for food contact and medical applications. This development bridges the gap between environmental responsibility and the rigorous mechanical requirements of engineering thermoplastics, offering compounders a viable path toward decarbonization without compromising on quality.
+The inclusion of isosorbide also improves the chemical resistance of the polymer matrix. This resistance is vital for consumer electronics and medical devices, where materials are frequently exposed to cleaning agents and oils. By combining high scratch resistance with excellent light transmission, Roquette is positioning this biobased solution as a premium material for touchscreens and optical lenses.
+
+## A Scalable Path Forward
+
+This development marks a crucial step in the "plant-based chemistry" sector, moving beyond simple biodegradable packaging into durable, long-life applications. Roquette continues to refine the polymerization process to ensure that these high-Tg bio-polycarbonates can be processed on standard injection molding and extrusion equipment, facilitating easier adoption for manufacturers looking to reduce their carbon footprint without sacrificing performance.
 
 **Source:** [Read more](https://www.roquette.com/bioindustry/resources/improving-pet-performance-and-sustainability#:~:text=Conclusion,Download)
