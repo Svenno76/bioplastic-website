@@ -10,7 +10,7 @@ market_segments: Not specified
 publicly_listed: false
 stock_ticker: 
 date: '2026-02-13'
-draft: false
+draft: true
 ---
 
 ## Overview
