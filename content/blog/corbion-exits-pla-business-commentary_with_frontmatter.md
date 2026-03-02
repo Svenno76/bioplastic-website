@@ -3,7 +3,7 @@ title: "Why Corbion Is Walking Away from PLA: Follow the Money"
 date: 2026-03-02
 draft: false
 summary: "A business commentary on Corbion's exit from the TotalEnergies Corbion joint venture — analyzing the financial logic, margin differentials, and what it means for the economics of PLA and the broader bioplastics industry."
-featured_image: "/images/blog/2026-03-02_Corbion_Exits_PLA.png"
+featured_image: "/images/blog/corbionlogo-rgb.jpg"
 tags: 
   - bioplastics
   - PLA
