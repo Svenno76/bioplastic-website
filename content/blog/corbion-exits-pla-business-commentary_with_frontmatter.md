@@ -28,14 +28,6 @@ keywords:
   - bioplastics investment
   - polymer manufacturing economics
 ---
-# Why Corbion Is Walking Away from PLA: Follow the Money
-
-*A business commentary on Corbion's exit from the TotalEnergies Corbion joint venture — and what it tells us about the economics of bioplastics.*
-
-**Published: March 2026 | Bioplastics Portal**
-
----
-
 Corbion has officially completed its exit from the TotalEnergies Corbion joint venture, ending its direct involvement in the production and marketing of Luminy® PLA resins. On the surface, a sustainability-focused company abandoning one of the most prominent bioplastics on the market seems counterintuitive. But when you look at Corbion's financial trajectory and strategic calculus, the picture becomes remarkably clear: PLA manufacturing was dragging the company down, while its core food and health ingredients businesses were generating far superior returns.
 
 ## The Numbers Don't Lie
