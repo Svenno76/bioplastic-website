@@ -31,12 +31,6 @@ keywords:
   - CADE Brazil
 ---
 
-# The Fall and Second Chance of Braskem: What the IG4 Capital Takeover Tells Us About the Bioplastics Industry
-
-*March 2026 | Industry Analysis*
-
----
-
 Latin America's largest petrochemical company has just changed hands — not through a traditional acquisition, but through a labyrinthine debt-for-equity conversion that is itself a testament to how deeply troubled the company's history has been. On March 7, 2026, Brazil's antitrust authority CADE approved private equity firm IG4 Capital's acquisition of a controlling stake in Braskem SA from conglomerate Novonor, ending a saga that began with one of the largest corruption scandals in Latin American history.
 
 The story of Braskem is also, in its own way, a story about bioplastics — because Braskem happens to be the world's largest producer of bio-based polyethylene and a company that has staked part of its identity on being green. So what does this corporate near-collapse mean for the bioplastics sector?
