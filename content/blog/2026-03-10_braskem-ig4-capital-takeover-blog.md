@@ -3,7 +3,8 @@ title: "The Fall and Second Chance of Braskem: What the IG4 Capital Takeover Tel
 date: 2026-03-10
 draft: false
 summary: "Brazil's antitrust regulator has just approved private equity firm IG4 Capital's takeover of Braskem, the world's largest biopolymer producer. Here's why it happened — corruption, sinkholes, and a brutal petrochemical downturn — and what it means for the bioplastics sector."
-featured_image: "/static/images/blog/2026-03-10_Braskem_IG4_Takeover.jpg"
+featured_image: "/images/logos/braskem.webp"
+image_type: "logo"
 tags:
   - bioplastics
   - industry news

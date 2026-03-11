@@ -43,7 +43,7 @@
         {{ $companiesSection := .Site.GetPage "section" "companies" }}
         {{ $newsSection := .Site.GetPage "section" "news" }}
         {{ $eventsSection := .Site.GetPage "section" "events" }}
-        {{ $glossarySection := .Site.GetPage "section" "glossary" }}
+        {{ $blogSection := .Site.GetPage "section" "blog" }}
 
         <a href="/companies/" class="stats-bar-item" style="text-decoration: none; color: inherit;">
           <span class="stats-bar-icon">🏢</span>
@@ -60,10 +60,10 @@
           <div class="stats-bar-number">{{ len $eventsSection.Pages }}</div>
           <div class="stats-bar-label">Events</div>
         </a>
-        <a href="/glossary/" class="stats-bar-item" style="text-decoration: none; color: inherit;">
-          <span class="stats-bar-icon">📖</span>
-          <div class="stats-bar-number">{{ len $glossarySection.Pages }}</div>
-          <div class="stats-bar-label">Glossary Terms</div>
+        <a href="/blog/" class="stats-bar-item" style="text-decoration: none; color: inherit;">
+          <span class="stats-bar-icon">✍️</span>
+          <div class="stats-bar-number">{{ len $blogSection.Pages }}</div>
+          <div class="stats-bar-label">Blog Posts</div>
         </a>
       </section>
 
@@ -189,6 +189,44 @@
           {{ end }}
         </div>
       </section>
+
+      <!-- ===== 4b. LATEST FROM THE BLOG (3 CARDS) ===== -->
+      {{ $blogSection := .Site.GetPage "section" "blog" }}
+      {{ if $blogSection.Pages }}
+      <section>
+        <div class="section-heading">
+          <h2>Latest from the Blog</h2>
+          <a href="/blog/">View All Posts →</a>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+          {{ range first 3 $blogSection.Pages.ByDate.Reverse }}
+          <article class="news-card">
+            {{ if .Params.featured_image }}
+            <div class="news-card-image">
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            </div>
+            {{ end }}
+            <div class="news-card-content">
+              <div class="news-card-meta">
+                <span class="news-card-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                {{ if .Params.author }}
+                <span class="news-card-badge">{{ .Params.author }}</span>
+                {{ end }}
+              </div>
+              <h3 class="news-card-title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h3>
+              <p class="news-card-summary">{{ .Summary }}</p>
+              <div class="news-card-footer">
+                <a href="{{ .RelPermalink }}" class="news-card-link">Read more →</a>
+              </div>
+            </div>
+          </article>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
 
       <!-- ===== 5. UPCOMING EVENTS (3 CARDS) ===== -->
       {{ if $eventsSection.Pages }}

@@ -4,6 +4,7 @@ date: 2026-03-02
 draft: false
 summary: "A business commentary on Corbion's exit from the TotalEnergies Corbion joint venture — analyzing the financial logic, margin differentials, and what it means for the economics of PLA and the broader bioplastics industry."
 featured_image: "/images/blog/corbionlogo-rgb.jpg"
+image_type: "logo"
 tags: 
   - bioplastics
   - PLA

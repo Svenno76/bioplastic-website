@@ -29,16 +29,20 @@
         </header>
 
         {{ if .Params.featured_image }}
-        <div style="margin-bottom: 2rem;">
-          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px;">
-        </div>
+          {{ if eq .Params.image_type "logo" }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;">
+          {{ else }}
+            <div style="margin-bottom: 2rem;">
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px;">
+            </div>
+          {{ end }}
         {{ end }}
 
         <div style="font-size: 1.125rem; line-height: 1.8; color: #1f2937;">
           {{ .Content }}
         </div>
 
-        <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
+        <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb; clear: both;">
           <a href="/blog/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Blog</a>
         </footer>
       </article>

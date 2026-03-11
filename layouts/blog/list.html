@@ -33,10 +33,10 @@
         <!-- Blog List -->
         <div class="blog-list" id="blog-list">
           {{ range .Pages.ByDate.Reverse }}
-          <article class="blog-post" style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem; transition: all 0.3s;">
+          <article class="blog-post" style="border-bottom: 1px solid #eee; padding-bottom: 2rem; margin-bottom: 2rem; transition: all 0.3s; overflow: auto;">
             <header style="margin-bottom: 1rem;">
               <h2 style="font-size: 1.75rem; color: #333; line-height: 1.3; margin-bottom: 0.5rem;">
-                <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
+                <a href="{{ .RelPermalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
               </h2>
               <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
                 <time datetime="{{ .Date.Format "2006-01-02" }}" style="font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; color: #666;">
@@ -46,16 +46,20 @@
             </header>
 
             {{ if .Params.featured_image }}
-            <div style="margin-bottom: 1rem;">
-              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px; max-height: 300px; object-fit: cover;">
-            </div>
+              {{ if eq .Params.image_type "logo" }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 140px; height: auto; border-radius: 8px; float: left; margin-right: 1.5rem; margin-bottom: 1rem;">
+              {{ else }}
+                <div style="margin-bottom: 1rem;">
+                  <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px; max-height: 300px; object-fit: cover;">
+                </div>
+              {{ end }}
             {{ end }}
 
             <div style="font-size: 1.125rem; line-height: 1.6; margin-bottom: 1rem; max-width: 48rem;">
               {{ .Summary }}
             </div>
 
-            <a href="{{ .Permalink }}" style="border: 1px solid #ccc; background-color: #f7f7f7; border-radius: 4px; color: inherit; display: inline-block; font-size: 0.875rem; text-decoration: none; margin-top: 0.5rem; padding: 0.5rem 1rem;">
+            <a href="{{ .RelPermalink }}" style="border: 1px solid #ccc; background-color: #f7f7f7; border-radius: 4px; color: inherit; display: inline-block; font-size: 0.875rem; text-decoration: none; margin-top: 0.5rem; padding: 0.5rem 1rem;">
               Read more →
             </a>
           </article>

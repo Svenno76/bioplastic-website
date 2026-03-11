@@ -3,7 +3,8 @@ title: "Essential Additives for Bioplastics: Chemistry, Functions, and Commercia
 date: 2026-01-07
 draft: false
 summary: "Deep dive into bioplastic additives: plasticizers, nucleating agents, impact modifiers, thermal stabilizers, UV stabilizers, processing aids, fillers, compatibilizers, chain extenders, and antimicrobial agents. Includes commercial product recommendations and chemistry explanations."
-featured_image: "/images/blog/2026-01-07_Essential_Additives.png"
+featured_image: "/images/blog/2026-01-07_bioplastic-additives-hero.jpg"
+image_type: "hero"
 tags: 
   - bioplastics
   - additives
