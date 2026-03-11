@@ -39,8 +39,6 @@ The stakes were high, particularly in California. Under state law SB 343, any pa
 
 After extensive public commentary, a commissioned technical review, and BPI's rebuttal, the NOSB voted against inclusion across broad material classes. The board did leave the door open for reviewing individual substances in restricted applications, such as fruit stickers and food-scrap collection bags. But for the industry at large, the ruling stings.
 
----
-
 ## The USDA's Concerns — And How Well Do They Hold Up?
 
 ### 1. The "Synthetic Origin" Argument — A Definitional Dead End
@@ -57,8 +55,6 @@ The NOSB's logic also creates a curious paradox. Wine vinegar — produced from 
 
 **Verdict: Debatable at best.** The "once synthetic, always synthetic" doctrine is a regulatory artifact, not a scientific finding. An outcomes-based standard — one that asks what actually ends up in the soil after composting — would reach a very different conclusion for certified compostable biopolymers.
 
----
-
 ### 2. PFAS and Additive Contamination — A Real Issue, Wrongly Generalized
 
 The concern about PFAS (per- and polyfluoroalkyl substances) entering organic soils through compostable packaging is genuine and should be taken seriously. PFAS have been used in some grease-resistant food-contact coatings, and their persistence in soil and water is well-documented. Some compost streams accepting mixed compostable foodservice items have shown elevated PFAS levels.
@@ -68,8 +64,6 @@ But here the NOSB makes a category error. PFAS contamination is a problem with c
 Blaming bioplastic polymers for PFAS contamination is a bit like banning organic cotton because some cotton is treated with pesticides. The correct response is stricter substance-level standards and transparent ingredient disclosure — which the industry has consistently advocated for — not a blanket ban on all compostable materials.
 
 **Verdict: The concern is real but misapplied.** PFAS contamination requires targeted regulation, not categorical exclusion of all compostable polymers. The NOSB's own openness to reviewing individual substances is an implicit acknowledgment of this.
-
----
 
 ### 3. Operational Infeasibility — An Infrastructure Problem, Not a Material Problem
 
@@ -81,8 +75,6 @@ The bioplastics industry has been pushing for clearer standardized labeling — 
 
 **Verdict: Partially valid, but self-reinforcing.** Operational challenges are real but solvable, and this ruling makes them less likely to be solved.
 
----
-
 ### 4. No Clear Benefit to Organic Agriculture — A Narrow Frame
 
 The NOSB found that compostable materials failed the National List criteria on necessity: the argument being that organic farming doesn't need compostable packaging in its compost stream. This is true in the narrow sense that organic farmers have been composting without it for decades.
@@ -92,8 +84,6 @@ But the frame is too narrow. The benefit of integrating compostable packaging in
 The organic farming community's concerns about protecting soil integrity are understandable and legitimate. But "no clear benefit" ignores the significant environmental cost of sending compostable packaging to landfill — the direct consequence of this ruling.
 
 **Verdict: Too narrow.** The systemic environmental case for integration was not adequately weighed against the risk of marginal disruption to existing organic compost programs.
-
----
 
 ## What This Means for the Industry
 
