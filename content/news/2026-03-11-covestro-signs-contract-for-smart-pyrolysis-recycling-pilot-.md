@@ -12,7 +12,7 @@ source: "bioplastics MAGAZINE"
 
 ## A Leap Forward in Chemical Recycling
 
-Materials manufacturer Covestro has officially signed a contract with the Fraunhofer Institute for Environmental, Safety, and Energy Technology (UMSICHT) to build a state-of-the-art smart pyrolysis pilot plant. This collaborative milestone marks a critical engineering step toward commercializing advanced chemical recycling processes for high-performance polymers. 
+Materials manufacturer Covestro has officially signed a contract with the Fraunhofer Institute for Environmental, Safety, and Energy Technology (UMSICHT) to build a state-of-the-art smart pyrolysis pilot plant for the chemical recycling of PU. The process focuses on recovering high-purity aniline (~99% purity) from the pyrolysis oil, which is then used as a feedstock for MDI production. This collaborative milestone marks a critical engineering step toward commercializing advanced chemical recycling processes for high-performance polymers. 
 
 The upcoming facility will serve as a dedicated testing ground for scaling up "smart pyrolysis," a highly optimized thermochemical process engineered to break down complex plastic waste into its fundamental chemical building blocks.
 
