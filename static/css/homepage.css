@@ -15,20 +15,24 @@
 }
 
 .hero-title {
-  font-size: 3rem;
+  font-size: 3.2rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   line-height: 1.2;
   color: white !important;
   letter-spacing: -0.5px;
+  font-family: 'Fraunces', serif;
 }
 
 .hero-subtitle {
-  font-size: 1.3rem;
+  font-size: 1.35rem;
   opacity: 0.95;
-  line-height: 1.6;
+  line-height: 1.7;
   color: white !important;
   font-weight: 400;
+  font-family: 'Lora', serif;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 /* ===== NEWS/FEATURES GRID ===== */
@@ -66,11 +70,12 @@
 
 .feature-card h3 {
   color: #2d5a4f !important;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   margin-bottom: 0.75rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
   padding: 2rem 2rem 0 2rem;
+  font-family: 'Fraunces', serif;
 }
 
 .feature-card p {
@@ -160,11 +165,12 @@
 
 .news-card-title {
   color: #2d5a4f;
-  font-size: 1.35rem;
+  font-size: 1.4rem;
   margin-bottom: 0.75rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
   line-height: 1.3;
+  font-family: 'Fraunces', serif;
 }
 
 .news-card-title a {
@@ -222,11 +228,12 @@
 
 .info-section h2 {
   color: #2d5a4f !important;
-  font-size: 2rem;
+  font-size: 2.2rem;
   text-align: center;
   margin-bottom: 2rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
+  font-family: 'Fraunces', serif;
 }
 
 .info-content {
@@ -269,11 +276,12 @@
 }
 
 .stat-number {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   font-weight: 700;
   color: #2d5a4f !important;
   margin-bottom: 0.5rem;
   letter-spacing: -0.5px;
+  font-family: 'Fraunces', serif;
 }
 
 .stat-label {
@@ -289,11 +297,12 @@
 
 .cta-section h2 {
   color: #2d5a4f !important;
-  font-size: 2rem;
+  font-size: 2.3rem;
   text-align: center;
   margin-bottom: 2rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
+  font-family: 'Fraunces', serif;
 }
 
 .cta-grid {
@@ -322,7 +331,8 @@
   font-size: 1.5rem;
   margin-bottom: 1rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
+  font-family: 'Fraunces', serif;
 }
 
 .cta-card p {
@@ -449,11 +459,12 @@
 }
 
 .stats-bar-number {
-  font-size: 3.2rem;
+  font-size: 3.5rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
   letter-spacing: -0.5px;
   line-height: 1;
+  font-family: 'Fraunces', serif;
 }
 
 .stats-bar-item:nth-child(1) .stats-bar-number {
@@ -507,10 +518,11 @@
 
 .section-heading h2 {
   color: #2d5a4f !important;
-  font-size: 1.8rem;
+  font-size: 2rem;
   margin: 0 !important;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
+  font-family: 'Fraunces', serif;
 }
 
 .section-heading a {
@@ -557,10 +569,11 @@
 
 .event-strip-card h3 {
   color: #2d5a4f !important;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   margin-bottom: 0.75rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
+  font-family: 'Fraunces', serif;
 }
 
 .event-strip-card .event-meta {
@@ -638,11 +651,12 @@
 
 .study-card-title {
   color: #2d5a4f;
-  font-size: 1.3rem;
+  font-size: 1.35rem;
   margin-bottom: 0.75rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
   line-height: 1.3;
+  font-family: 'Fraunces', serif;
 }
 
 .study-card-meta {
