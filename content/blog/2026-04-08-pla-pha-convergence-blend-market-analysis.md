@@ -1,5 +1,5 @@
 ---
-title: "PLA and PHA: from rivals to partners — the real convergence story unfolding in bioplastics"
+title: "PLA and PHA: From Rivals to Partners — The Real Convergence Story Unfolding in Bioplastics"
 date: 2026-04-08
 draft: false
 categories: ["Market Analysis"]
