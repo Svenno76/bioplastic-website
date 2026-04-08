@@ -4,9 +4,8 @@ date: 2026-04-08
 categories: ["Market Analysis"]
 tags: ["PLA", "PHA", "Polylactic Acid", "Polyhydroxyalkanoates", "TotalEnergies Corbion", "Luminy", "Bluepha", "Danimer Scientific", "PPWR", "Compostability", "Home Compostable"]
 summary: "For a decade, PLA and PHA were cast as rival biopolymers. In 2026, the market has moved on — industry partnerships, blending data, and EU regulatory pressure are converging to make PLA/PHA combinations the pragmatic path forward for compostable packaging. Here is what the evidence actually shows."
+image: "/images/blog/2026-04-08_pla-pha-convergence-hero.png"
 ---
-
-![Compostable packaging on supermarket shelf — PLA and PHA products including home compostable cups, trays and pouches](/images/blog/2026-04-08_pla-pha-convergence-hero.png)
 
 **GORINCHEM, Netherlands / BAINBRIDGE, Georgia** – A persistent narrative in bioplastics holds that PLA and PHA are locked in a zero-sum competition for the same packaging applications. The story is tidy: PLA is cheap and processable but limited to industrial composting; PHA is the premium, environmentally superior option but expensive and difficult to run. Pick your side.
 
