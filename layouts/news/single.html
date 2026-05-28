@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   <meta name="description" content="{{ .Summary | plainify }}">
+  {{ partial "head-seo.html" . }}
   {{ range .Site.Params.custom_css }}
   <link rel="stylesheet" href="/{{ . }}">
   {{ end }}
@@ -22,6 +23,11 @@
           <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
           <div style="display: flex; gap: 1rem; align-items: center; color: #64748b; margin-bottom: 1rem;">
             <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ if .Params.author }}
+            <span>by {{ .Params.author }}</span>
+            {{ else }}
+            <span>by Sven Cammerer</span>
+            {{ end }}
             {{ if .Params.tags }}
             <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
               {{ range .Params.tags }}

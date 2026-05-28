@@ -1,0 +1,25 @@
+# Bioplastics Portal
+
+Your comprehensive resource for bioplastics research, company profiles, industry news, market studies, and educational content.
+
+## Sections
+
+- [News](/news/) — Latest bioplastics industry news and company announcements
+- [Blog](/blog/) — In-depth articles and analysis on bioplastics innovation
+- [Company Profiles](/companies/) — Directory of bioplastics producers, converters, and innovators
+- [Events](/events/) — Conferences, trade shows, and workshops
+- [Studies](/studies/) — Market research, forecasts, and technical analysis
+- [Glossary](/glossary/) — Definitions of bioplastics terminology
+- [Bioplastics Guide](/bioplastics/) — Educational guide on bioplastics types and applications
+
+## Key Pages
+
+- [About](/about/)
+- [News](/news/)
+- [Company Profiles](/companies/)
+- [Glossary](/glossary/)
+- [Bioplastics Guide](/bioplastics/)
+
+## Content
+
+This site covers bioplastics industry news, company profiles, market studies, conferences, educational content, and a comprehensive glossary of bioplastics terms. It aggregates publicly available information about bioplastics manufacturers, products, technologies, and market developments.

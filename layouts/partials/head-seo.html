@@ -1,0 +1,224 @@
+{{/* SEO Head Partial — OG + Twitter Cards + Canonical + JSON-LD */}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* Open Graph */}}
+<meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ .Params.summary | default (.Summary | plainify) }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+{{ if .Params.featured_image }}
+  <meta property="og:image" content="{{ .Params.featured_image | absURL }}">
+  <meta property="og:image:alt" content="{{ .Title }}">
+  <meta property="og:type" content="article">
+{{ else if .Params.image }}
+  <meta property="og:image" content="{{ .Params.image | absURL }}">
+  <meta property="og:image:alt" content="{{ .Title }}">
+  <meta property="og:type" content="article">
+{{ else }}
+  <meta property="og:image" content="{{ .Site.Params.featured_image | absURL }}">
+  <meta property="og:type" content="website">
+{{ end }}
+
+{{/* Twitter Card */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ .Params.summary | default (.Summary | plainify) }}">
+{{ if or .Params.featured_image .Params.image }}
+  <meta name="twitter:image" content="{{ or .Params.featured_image .Params.image | absURL }}">
+{{ else }}
+  <meta name="twitter:image" content="{{ .Site.Params.featured_image | absURL }}">
+{{ end }}
+
+{{/* Robots */}}
+<meta name="robots" content="index, follow">
+
+{{/* JSON-LD Structured Data */}}
+
+{{/* === NewsArticle for news pages === */}}
+{{ if eq .Section "news" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default "Sven Cammerer" }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bioplastics Portal",
+    "url": "https://bioplasticsportal.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://bioplasticsportal.com/images/bioplastics-banner.jpg"
+    }
+  },
+  "description": "{{ .Summary | plainify | truncate 200 }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+  {{ if or .Params.featured_image .Params.image }}
+  ,
+  "image": ["{{ or .Params.featured_image .Params.image | absURL }}"]
+  {{ end }}
+  {{ if .Params.category }}
+  ,
+  "articleSection": "{{ .Params.category }}"
+  {{ end }}
+}
+</script>
+{{ end }}
+
+{{/* === Organization for company pages === */}}
+{{ if eq .Section "companies" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Title }}",
+  "url": "{{ .Params.website }}"
+  {{ if .Params.headquarters }}
+  ,
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.headquarters }}"
+  }
+  {{ end }}
+  {{ if .Params.founded }}
+  ,
+  "foundingDate": "{{ .Params.founded }}"
+  {{ end }}
+  {{ if .Params.employees }}
+  ,
+  "numberOfEmployees": "{{ .Params.employees }}"
+  {{ end }}
+  {{ if .Params.description }}
+  ,
+  "description": "{{ .Params.description }}"
+  {{ else if .Summary }}
+  ,
+  "description": "{{ .Summary | plainify | truncate 300 }}"
+  {{ end }}
+  {{ $sameAs := slice }}
+  {{ if .Params.website }}{{ $sameAs = $sameAs | append .Params.website }}{{ end }}
+  {{ if .Params.linkedin }}{{ $sameAs = $sameAs | append (printf "https://linkedin.com/company/%s" .Params.linkedin) }}{{ end }}
+  {{ if .Params.twitter }}{{ $sameAs = $sameAs | append (printf "https://twitter.com/%s" .Params.twitter) }}{{ end }}
+  {{ if gt (len $sameAs) 0 }}
+  ,
+  "sameAs": [{{ range $i, $url := $sameAs }}{{ if $i }}, {{ end }}"{{ $url }}"{{ end }}]
+  {{ end }}
+}
+</script>
+{{ end }}
+
+{{/* === DefinedTerm for glossary pages === */}}
+{{ if eq .Section "glossary" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.summary | default (.Summary | plainify) }}",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Bioplastics Portal Glossary",
+    "url": "https://bioplasticsportal.com/glossary/"
+  }
+  {{ if .Params.term_type }}
+  ,
+  "termCode": "{{ .Params.term_type }}"
+  {{ end }}
+}
+</script>
+{{ end }}
+
+{{/* === Article for blog posts === */}}
+{{ if eq .Section "blog" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default "Sven Cammerer" }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bioplastics Portal",
+    "url": "https://bioplasticsportal.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://bioplasticsportal.com/images/bioplastics-banner.jpg"
+    }
+  },
+  "description": "{{ .Summary | plainify | truncate 200 }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+  {{ if or .Params.featured_image .Params.image }}
+  ,
+  "image": ["{{ or .Params.featured_image .Params.image | absURL }}"]
+  {{ end }}
+}
+</script>
+{{ end }}
+
+{{/* === Event for events pages === */}}
+{{ if eq .Section "events" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.summary | default (.Summary | plainify) }}",
+  "url": "{{ .Permalink }}"
+  {{ if .Params.event_date }}
+  ,
+  "startDate": "{{ .Params.event_date }}"
+  {{ end }}
+  {{ if .Params.end_date }}
+  ,
+  "endDate": "{{ .Params.end_date }}"
+  {{ end }}
+  {{ if .Params.location }}
+  ,
+  "location": {
+    "@type": "Place",
+    "name": "{{ .Params.location }}"
+  }
+  {{ end }}
+  {{ if .Params.website }}
+  ,
+  "organizer": {
+    "@type": "Organization",
+    "url": "{{ .Params.website }}"
+  }
+  {{ end }}
+}
+</script>
+{{ end }}
+
+{{/* === Default: Organization + WebSite schema === */}}
+{{ if or (eq .Section "") (eq .Section "bioplastics") (eq .Section "studies") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Organization", "WebSite"],
+  "name": "Bioplastics Portal",
+  "url": "https://bioplasticsportal.com",
+  "description": "Your comprehensive resource for bioplastics research, news, and industry insights",
+  "logo": "https://bioplasticsportal.com/images/bioplastics-banner.jpg",
+  "sameAs": [
+    "https://github.com/Svenno76/bioplastic-website"
+  ]
+}
+</script>
+{{ end }}
