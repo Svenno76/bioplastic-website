@@ -1,124 +1,107 @@
 ---
 title: "Composting Infrastructure"
-aka: ["Composting facilities", "Composting systems"]
+aka: ["Composting facilities", "Composting systems", "Organic waste processing"]
 term_type: "concept"
-related: ["Compostable", "Biodegradable", "EN 13432"]
+related: ["Compostable", "Biodegradable", "EN 13432", "Circular Economy", "PLA"]
 summary: "Composting infrastructure refers to the facilities, systems, and processes that collect, process, and decompose compostable materials at scale. Adequate infrastructure is essential for biodegradable and compostable materials to achieve their environmental benefits."
 ---
 
-## Overview
+## Why Composting Infrastructure Matters
 
-Composting infrastructure encompasses the entire system required to manage compostable materials from collection through decomposition and final use. Without adequate composting infrastructure, even certified compostable materials cannot deliver their environmental benefits, as they will end up in landfills where degradation is extremely slow.
+Compostable bioplastics only deliver their environmental promise when they reach **appropriate composting facilities**. Without industrial composting infrastructure, a certified compostable bag in a landfill is no better than a conventional plastic bag.
+
+The composting infrastructure gap is the **single biggest barrier** to realizing the benefits of compostable materials globally.
 
 ## Types of Composting Facilities
 
-**Industrial Composting Facilities:**
-Industrial-scale facilities operate under controlled conditions:
-- Temperature control (55-60°C for aerobic composting)
-- Moisture management
-- Aeration systems
-- Processing capacity: typically 1,000-100,000+ tonnes per year
-- Turnover time: 90-180 days for complete decomposition
-- Output: finished compost for agricultural or horticultural use
+### Industrial Composting
+Large-scale facilities operating under controlled conditions:
+- **Temperature:** 55–68°C (optimal for rapid biodegradation)
+- **Capacity:** 1,000–100,000+ tonnes per year
+- **Processing time:** 6–12 weeks active composting + 4–8 weeks curing
+- **Output:** Quality compost for agriculture and horticulture
 
-**Home Composting Systems:**
-Smaller-scale systems for household use:
-- Lower temperatures (40-50°C)
-- Variable microbial populations
-- Less controlled conditions
-- Processing time: 6-12 months
-- Limited to small quantities of material
-
-**Municipal Composting Programs:**
-Community-level infrastructure:
-- Collection systems for compostable waste
-- Central processing facilities
-- Education and outreach programs
-- Distribution of finished compost
-
-**In-vessel Composting:**
-Enclosed systems offering maximum control:
-- Controlled temperature, moisture, and aeration
-- Faster processing (4-8 weeks)
+### In-Vessel Composting
+Enclosed systems with maximum environmental control:
+- Complete control of temperature, moisture, and aeration
+- Faster processing (4–8 weeks)
 - Reduced odor and pest issues
-- Higher capital and operational costs
+- Higher capital and operating costs
+
+### Windrow Composting
+Open-air elongated heaps, most common for large volumes:
+- Regular turning for aeration
+- Lower capital cost than in-vessel
+- Weather-dependent performance
+- Requires large land area
+
+### Home Composting
+Small-scale systems for household use:
+- Lower temperatures (20–40°C)
+- Variable and uncontrolled conditions
+- Much slower degradation (6–12 months)
+- Only suitable for [OK Compost HOME](https://www.tuv-at.be/green-marks/ok-compost-home/) certified materials
+
+## The Composting Process
+
+### Step 1: Feedstock Preparation
+Organic waste (food scraps, garden waste, compostable packaging) is collected, sorted, and shredded.
+
+### Step 2: Active Composting (3–6 weeks)
+Microbial communities break down organic matter at 55–70°C with regular aeration and 50–60% moisture.
+
+### Step 3: Curing (4–8 weeks)
+Mature compost stabilises as temperature drops and humic substances form.
+
+### Step 4: Screening and Quality Control
+Final compost is screened to remove particles >2mm (including any incompletely degraded bioplastics) and tested for contaminants and nutrient content.
 
 ## Global Infrastructure Status
 
-**Well-Developed Regions:**
-- European Union: Extensive network of industrial facilities
-- Some US states and cities: Growing infrastructure
-- Parts of Asia: Rapidly expanding facilities
+| Region | Industrial Capacity | Key Standard | Organic Waste Collection |
+|--------|-------------------|--------------|------------------------|
+| European Union | Extensive (~3,500 facilities) | EN 13432 | Mandatory in many countries |
+| United States | Growing (~5,000 facilities) | ASTM D6400 | ~20% of municipalities |
+| China | Rapidly expanding | GB/T standards | Developing programs |
+| India | Limited industrial | IS 17088 | Minimal municipal collection |
+| Latin America | Very limited | Variable | Minimal |
+| Africa | Minimal | — | Minimal |
 
-**Underdeveloped Regions:**
-- Many developing countries: Limited or no industrial composting capacity
-- Rural areas: Minimal infrastructure
-- Emerging markets: Infrastructure still being built
+## Contamination Challenges
 
-## Collection and Sorting Systems
+| Contamination Source | Impact | Mitigation |
+|---------------------|--------|------------|
+| Non-compostable plastics in compost batches | Reduces compost quality; fragments persist | Better labelling; NIR sorting at facilities |
+| Compostable plastics in recycling streams | Compromises PET and PE recyclate quality | Consumer education; separate collection |
+| Heavy metals | Accumulates in compost; soil contamination | Limits in EN 13432; testing requirements |
+| PFAS and persistent chemicals | Long-term soil and water contamination | Regulatory pressure to eliminate |
 
-Effective composting infrastructure requires:
-- **Separate collection:** Dedicated bins for compostable materials
-- **Public education:** Clear labeling and consumer understanding
-- **Contamination prevention:** Non-compostable items removed before processing
-- **Quality control:** Verification of compostable certification
-- **Logistics:** Efficient transport to processing facilities
+## Frequently Asked Questions
 
-## Challenges and Barriers
+**How many composting facilities exist globally?**
+An estimated 15,000–20,000 industrial composting facilities operate worldwide, with the majority in Europe and North America.
 
-**Infrastructure Gaps:**
-- Insufficient capacity in many regions
-- High capital investment requirements
-- Regulatory barriers and inconsistent standards
-- Limited economic viability without regulatory support or subsidies
+**Can compostable bioplastics be processed in anaerobic digestion facilities?**
+Yes. Many anaerobic digestion plants accept compostable bioplastics alongside food waste. PHA and starch-based materials break down well; PLA requires longer retention times.
 
-**Contamination Issues:**
-- Plastic bags marketed as "compostable" that don't degrade in time
-- Non-compostable items mixed in
-- Consumer confusion about what can be composted
-- Contamination ruins entire batches of compost
+**Why don't more municipalities collect organic waste?**
+Cost and logistics. Organic waste collection requires additional bins, trucks, and processing capacity. EU regulations are driving mandatory collection by 2025–2030.
 
-**Economic Challenges:**
-- Collection and sorting costs
-- Processing facility expenses
-- Competition with cheaper landfill disposal
-- Market for finished compost may be limited
+**Does composting bioplastics produce good quality compost?**
+Yes, when properly processed. Compost from certified compostable bioplastes meets the same quality standards as compost from other organic materials.
 
-**Regulatory Inconsistencies:**
-- Different standards across regions (EN 13432, ASTM D6400, etc.)
-- Certification requirements vary
-- Export restrictions for compost in some jurisdictions
+**What is the biggest barrier to composting infrastructure growth?**
+Economics. Compost competes with cheap synthetic fertilisers, and organic waste collection adds municipal costs. Regulatory mandates are the primary driver compelling investment.
 
-## End Products and Value
+## The Infrastructure Gap and Bioplastics
 
-**Finished Compost Quality:**
-- Nutrient-rich soil amendment
-- Agricultural applications: crop growing
-- Horticultural uses: gardens and landscaping
-- Habitat restoration projects
+For the bioplastics industry, infrastructure development is **as important as material development**. A compostable product with no composting facility to process it is an incomplete solution.
 
-**Environmental Benefits:**
-- Reduces landfill dependency
-- Sequesters carbon in soil
-- Improves soil health and water retention
-- Supports sustainable agriculture
+The EU's Waste Framework Directive requires separate biowaste collection, driving significant expansion. In the US, state-level legislation (California SB 1383, Washington, Massachusetts) is accelerating adoption.
 
-## Future Development
+## Related Terms
 
-**Expansion Needed:**
-- Significant growth in industrial composting capacity
-- Integration into municipal waste management systems
-- Investment in technology and infrastructure
-- Development of standardized collection systems
-
-**Technological Improvements:**
-- Faster processing techniques
-- Better contamination detection
-- Optimization of composting parameters
-- Integration with other waste management systems
-
-## Importance for Bioplastics
-
-Compostable bioplastics can only fulfill their environmental promise with adequate composting infrastructure. In regions without industrial composting facilities, compostable materials offer no advantage over conventional plastics and may create consumer confusion about disposal methods.
-
-The development of composting infrastructure is as important as the development of compostable materials themselves. Without it, the bioplastics industry cannot achieve its sustainability goals.
+- [Compostable](/glossary/compostable/) — The material property that depends on this infrastructure
+- [Biodegradable](/glossary/biodegradable/) — The broader decomposition concept
+- [EN 13432](/glossary/en-13432/) — The standard defining compostable material requirements
+- [Circular Economy](/glossary/circular-economy/) — The framework integrating composting into material flows
