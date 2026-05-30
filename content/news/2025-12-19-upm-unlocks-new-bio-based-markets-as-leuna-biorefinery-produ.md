@@ -5,7 +5,7 @@ date: 2025-12-19
 draft: false
 summary: "UPM has officially launched commercial production at its Leuna biorefinery, marking a transformative step in replacing fossil-based raw materials with renewable, wood-based biochemicals."
 tags: ['UPM', 'Innovation', 'Sustainability']
-category: "News"
+category: "Plant Announcement"
 company: "UPM"
 company_type: "Bioplastic Producer"
 source: "UPM"
