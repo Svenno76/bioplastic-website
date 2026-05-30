@@ -1,13 +1,15 @@
 ---
+
 title: "Braskem showcases new I'm green™ bio-based grade at Pharmapack 2026"
 date: 2026-01-21
 draft: false
 summary: "Braskem unveils a specialized grade of its sugarcane-derived polyethylene designed to meet the rigorous safety and performance standards of the pharmaceutical packaging industry."
-tags: ["Braskem", "Bio-PE", "Polyethylene", "Pharmapack", "Sugarcane"]
+tags: ["Braskem", "Bio-PE", "PE", "Pharmapack", "Sugarcane"]
 category: "Product Launch"
 company: ["Braskem"]
 company_type: ["Bioplastic Producer"]
 source: "Braskem"
+
 ---
 
 At Pharmapack 2026 in Paris, Braskem has unveiled a significant expansion to its sustainable portfolio with a new grade of I'm green™ bio-based polyethylene specifically engineered for the pharmaceutical and healthcare industries. The move underscores the growing demand for renewable materials within highly regulated sectors that have traditionally relied on virgin fossil-based polymers due to strict purity requirements.

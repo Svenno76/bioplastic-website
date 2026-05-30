@@ -1,9 +1,10 @@
 ---
+
 title: "Lubrizol Unveils 2025 Innovations"
 date: 2025-04-08
 draft: false
 summary: "Lubrizol has launched new readily biodegradable polymers"
-tags: ['Lubrizol', 'product-launch', 'innovation', 'product']
+tags: ['Lubrizol', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"
 company: "Lubrizol"
 company_type: "Additive Producer"
@@ -19,7 +20,6 @@ The flagship offering is **Carbopol® BioSense polymer**, the first readily biod
 ## Applications
 
 These innovations enable formulators to create serums, creams, lotions, and sun protection products that align with sustainability principles while maintaining premium performance. Carbopol® BioSense polymer's ability to replace synthetic silicone elastomers represents a breakthrough for the natural beauty segment, addressing the 12 Principles of Green Chemistry. The polymers' versatility across skincare, sun care, and hair care applications positions them as transformative solutions for manufacturers seeking to reduce environmental impact without compromising product efficacy or consumer experience.
-
 ---
 
 **Source:** [Read more](nan)

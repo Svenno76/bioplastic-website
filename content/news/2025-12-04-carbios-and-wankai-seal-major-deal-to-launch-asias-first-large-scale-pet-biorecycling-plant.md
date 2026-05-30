@@ -1,9 +1,10 @@
 ---
+
 title: "CARBIOS and Wankai seal major deal to launch Asia's first large-scale PET biorecycling plant"
 date: 2025-12-04
 draft: false
 summary: "CARBIOS and Wankai New Materials have finalized a landmark agreement to establish a joint venture fo"
-tags: ['CARBIOS and Wankai New Materials', 'plant-announcements']
+tags: ['CARBIOS and Wankai New Materials', 'Plant Announcement']
 category: "Plant Announcement"
 company: "CARBIOS and Wankai New Materials"
 source: "CARBIOS Newsroom"
@@ -20,7 +21,6 @@ The joint venture will construct a €115 million (US$134 million) PET biorecycl
 ## Significance
 
 This partnership represents a transformative step for circular PET production in Asia, the world's leading PET manufacturing region. The agreement establishes a long-term commitment to develop multiple biorecycling facilities across Asia, targeting one million tonnes of annual capacity. CARBIOS has granted Wankai exclusive licensing rights in Asia for three years, extendable based on additional capacity commitments of at least 100,000 tonnes annually. The collaboration accelerates the transition toward sustainable, low-carbon PET production while positioning both companies as leaders in enzymatic recycling innovation.
-
 ---
 
 **Source:** [Read more](nan)

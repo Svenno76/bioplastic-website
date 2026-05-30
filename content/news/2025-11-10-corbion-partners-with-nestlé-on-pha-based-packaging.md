@@ -1,9 +1,10 @@
 ---
+
 title: "Corbion Partners with Nestlé on PHA-Based Packaging"
 date: 2025-11-10
 draft: false
 summary: "Corbion partnered with Nestlé to co-develop PHA-based barrier materials for shelf-stable, compostable food packaging, advancing circular packaging systems and sustainability commitments."
-tags: ['Corbion', 'partnerships']
+tags: ['Corbion', 'Partnership']
 category: "Partnerships"
 company: "Corbion"
 company_type: "Bioplastic Producer"
@@ -19,7 +20,6 @@ The partnership will focus on creating high-performance PHA (polyhydroxyalkanoat
 ## Expected Outcomes
 
 This initiative is poised to set new benchmarks in the bioplastics industry by demonstrating scalable, compostable packaging solutions for mainstream food applications. By advancing PHA-based materials, Corbion and Nestlé are addressing critical challenges in packaging sustainability, including end-of-life management and circularity. The partnership is expected to catalyze broader industry adoption of biopolymers, supporting the transition toward a more sustainable and circular packaging ecosystem.
-
 ---
 
 **Source:** [Read more](https://www.einpresswire.com/article/867894247/bioplastics-market-size-expected-to-hit-usd-22-23-billion-by-2032-key-trends-demand-share-analysis-forecast-report)

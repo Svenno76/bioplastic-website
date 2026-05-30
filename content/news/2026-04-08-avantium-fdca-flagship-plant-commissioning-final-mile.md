@@ -1,9 +1,11 @@
 ---
+
 title: "Avantium's FDCA Flagship Plant: The World's First Commercial PEF Facility Enters Its Final Commissioning Phase"
 date: 2026-04-08
 categories: ["Plant Announcement"]
-tags: ["Avantium", "FDCA", "PEF", "Delfzijl", "Commissioning", "Polyethylene Furanoate", "YXY Technology", "Releaf", "Bio-Based Plastics"]
+tags: ["Avantium", "FDCA", "PEF", "Delfzijl", "Commissioning", "YXY Technology", "Releaf", "Bio-Based Plastics"]
 summary: "Avantium is in the final stretch of commissioning the world's first commercial-scale FDCA plant in Delfzijl. After resolving titanium weld issues that pushed the timeline to mid-2026, the Dutch company is on track to begin commercial PEF sales in H2 2026."
+
 ---
 
 **AMSTERDAM** – After years of construction, a phased commissioning campaign, and an unexpected €7 million detour through titanium weld repairs, Avantium N.V. is now in the final stages of bringing the world's first commercial-scale plant for furandicarboxylic acid (FDCA) to full operation. Located at Chemie Park Delfzijl in the Netherlands, the plant represents one of the most anticipated milestones in the global bioplastics industry — the moment when polyethylene furanoate (PEF), Avantium's 100% plant-based polymer branded as **releaf®**, transitions from laboratory promise to industrial reality.

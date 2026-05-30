@@ -1,13 +1,15 @@
 ---
+
 title: "Vichem Appointed Official PLA Distributor in Vietnam"
 date: 2025-11-21
 draft: false
 summary: "TotalEnergies Corbion has selected Vichem as the official distributor for its Luminy PLA resins in Vietnam to expand the reach of biobased materials in the region."
-tags: ["TotalEnergies Corbion", "Vichem", "Luminy", "PLA", "Polylactic Acid"]
+tags: ["TotalEnergies", "Vichem", "Luminy", "PLA"]
 category: "Partnerships"
 company: ["TotalEnergies Corbion", "Vichem"]
 company_type: ["Bioplastic Producer"]
 source: "TotalEnergies Corbion Press"
+
 ---
 
 TotalEnergies Corbion has officially appointed Vichem as the authorized distributor for its Luminy® Poly Lactic Acid (PLA) portfolio in Vietnam. This strategic partnership, finalized in early 2026, aims to strengthen the supply chain for biobased materials in one of Southeast Asia’s most dynamic manufacturing hubs.

@@ -1,13 +1,16 @@
 ---
+
+
 title: "Emirates Biotech launches PLA biopolymer 'Embio'"
 date: 2025-11-30
 draft: false
 summary: "Emirates Biotech has launched 'Embio', a new series of plant-based PLA biopolymers, offering a sustainable alternative to conventional plastics in the Middle East with local stock and lower minimum order quantities."
-tags: ["Emirates Biotech", "PLA", "biopolymer", "sustainable packaging", "Middle East", "circular economy"]
+tags: ["Emirates Biotech", "PLA", "Biopolymer", "Sustainable Packaging", "Middle East", "Circular Economy"]
 category: "Product Launch"
 company: "Emirates Biotech"
 company_type: "Bioplastic Producer"
 source: "Emirates Biotech"
+
 ---
 
 ## Details

@@ -1,9 +1,10 @@
 ---
+
 title: "Breaking the Plastic Wave 2025: Global Report Warns of Doubling Pollution Without Urgent Action"
 date: 2025-12-03
 draft: false
 summary: "New landmark report from The Pew Charitable Trusts reveals plastic pollution could more than double "
-tags: ['The Pew Charitable Trusts', 'regulatory-&-policy']
+tags: ['The Pew Charitable Trusts', 'Regulatory & Policy']
 category: "Regulatory & Policy"
 company: "The Pew Charitable Trusts"
 source: "The Pew Charitable Trusts"
@@ -18,7 +19,6 @@ The report identifies four strategic pillars for transformation: reducing plasti
 ## Significance
 
 For the bioplastics and sustainable materials sector, the report represents a pivotal market opportunity. The recommended transformation could unlock a **multi-trillion-dollar sustainable solutions market** while creating 8.6 million jobs globally. However, the findings emphasize that innovation alone is insufficient—systemic policy changes, including production reduction targets and subsidy elimination, are essential. The report warns that delaying action by five years would add 540 million metric tons of plastic to the environment and cost governments an additional US$27 billion annually.
-
 ---
 
 **Source:** [Read more](nan)

@@ -1,13 +1,15 @@
 ---
+
 title: "Danimer Scientific Announces Expansion of Kentucky PHA Facility"
 date: 2026-03-24
 draft: false
 summary: "Danimer Scientific has unveiled plans to significantly expand its Kentucky manufacturing facility to meet the surging global demand for its marine-degradable PHA biopolymers."
-tags: ["Danimer Scientific", "PHA", "Polyhydroxyalkanoate", "Nodax"]
+tags: ["Danimer Scientific", "PHA", "Nodax"]
 category: "Plant Announcement"
 company: ["Danimer Scientific"]
 company_type: ["Bioplastic Producer"]
 source: "OpenPR"
+
 ---
 
 ## Scaling Up Next-Generation Biopolymers

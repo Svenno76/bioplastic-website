@@ -1,9 +1,10 @@
 ---
+
 title: "Braskem Expands Renewable Innovation Center"
 date: 2025-11-10
 draft: false
 summary: "Braskem continues expansion of its $20 million Renewable Innovation Center in Massachusetts, targeting 1 million tons of annual bioproduct capacity by 2030 and advancing biopolymer R&D."
-tags: ['Braskem', 'plant-announcement', 'manufacturing', 'capacity']
+tags: ['Braskem', 'Plant Announcement', 'Manufacturing', 'Capacity']
 category: "Plant Announcement"
 company: "Braskem"
 company_type: "Bioplastic Producer"
@@ -19,7 +20,6 @@ The 35,000-square-foot Renewable Innovation Center enhances Braskem’s capabili
 ## Market Impact
 
 Braskem’s expansion positions the company as a leader in the bioplastics industry, driving the transition to a carbon-neutral circular economy. The center’s innovations are expected to underpin new bio-based products, including polyethylene and polypropylene, reducing reliance on fossil fuels and lowering greenhouse gas emissions. This initiative aligns with global sustainability trends and supports Braskem’s ambition to capture significant market share in renewable polymers by 2030, contributing to climate change mitigation and advancing the broader adoption of sustainable packaging and materials.
-
 ---
 
 **Source:** [Read more](https://www.packagingdive.com/news/braskem-renewable-innovation-center-massachusetts-bioplastic-sugar/750738/)

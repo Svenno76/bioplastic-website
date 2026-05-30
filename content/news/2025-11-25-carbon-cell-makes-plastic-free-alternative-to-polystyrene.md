@@ -1,9 +1,10 @@
 ---
+
 title: "Carbon Cell makes plastic-free alternative to polystyrene"
 date: 2025-11-25
 draft: false
 summary: "British company Carbon Cell has developed a carbon-negative"
-tags: ['Carbon Cell', 'product-launch', 'innovation', 'product']
+tags: ['Carbon Cell', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"
 company: "Carbon Cell"
 company_type: "Bioplastic Producer"
@@ -19,7 +20,6 @@ Carbon Cell's foam uses **biochar**—a carbon-rich residue from pyrolyzed crop 
 ## Applications
 
 In the **bioplastics industry**, Carbon Cell disrupts polystyrene's dominance, projected to produce 2.5 million truckloads of EPS annually by 2024, by providing superior fire resistance, soundproofing, and compostability for insulation, acoustic panels, thermal packaging, automotive composites, and even film props. Construction emerges as the largest market, though certifications may delay scale-up. This scalable solution from waste reduces plastic pollution, regenerates soil post-use, and accelerates sustainable materials transition amid rising emissions pressures.
-
 ---
 
 **Source:** [Read more](nan)

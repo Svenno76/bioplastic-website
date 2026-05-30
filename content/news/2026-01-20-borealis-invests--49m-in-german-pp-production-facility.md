@@ -1,13 +1,15 @@
 ---
+
 title: "Borealis Invests €49M in German PP Production Facility"
 date: 2026-01-20
 draft: false
 summary: "Borealis allocates €49 million to upgrade its Burghausen polypropylene plant to enhance the production of circular and bio-based polymer grades."
-tags: ["Borealis", "Polypropylene", "Burghausen"]
+tags: ["Borealis", "PP", "Burghausen"]
 category: "Plant Announcement"
 company: ["Borealis"]
 company_type: ["Bioplastic Producer"]
 source: "PlasticsToday"
+
 ---
 
 Chemical and polyolefin giant Borealis has announced a significant capital expenditure of €49 million for its production site in Burghausen, Germany. The investment is specifically targeted at upgrading the facility's polypropylene (PP) capabilities to meet the growing market demand for recyclable-by-design materials and renewable polymer grades.

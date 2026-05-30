@@ -1,13 +1,15 @@
 ---
+
 title: "BCML Secures First Institutional Order for Upcoming PLA Vertical"
 date: 2026-02-23
 draft: false
 summary: "Balrampur Chini Mills Limited has finalized its first commercial institutional order for its new Polylactic Acid manufacturing division, marking a major milestone in its diversification strategy."
-tags: ["Balrampur Chini Mills Limited", "PLA", "Polylactic Acid", "Sugar"]
+tags: ["Balrampur Chini Mills Limited", "PLA", "Sugar"]
 category: "Partnerships"
 company: ["Balrampur Chini Mills Limited"]
 company_type: ["Bioplastic Producer"]
 source: "Whalesbook"
+
 ---
 
 Balrampur Chini Mills Limited (BCML), one of India’s most prominent integrated sugar conglomerates, has officially announced a pivotal development in its diversification strategy: the acquisition of its first institutional order for its Polylactic Acid (PLA) business vertical. This milestone marks a significant transition for the company as it evolves from a traditional sugar and ethanol manufacturer into a key player in the global bioplastics market.

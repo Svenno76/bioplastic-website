@@ -1,13 +1,15 @@
 ---
+
 title: "Grolman Group to Distribute Bio-Based Cellulose Ingredients in Europe"
 date: 2026-02-24
 draft: false
 summary: "The Grolman Group has partnered with Seprify to distribute fully biodegradable, cellulose-based additives across the European market, providing a natural alternative to synthetic pigments."
-tags: ["Grolman Group", "Seprify", "Cellulose", "Bio-based Additives"]
+tags: ["Grolman Group", "Seprify", "Cellulose", "Bio-Based Additives"]
 category: "Partnerships"
 company: ["Grolman Group", "Seprify"]
 company_type: ["Additive Producer", "Technology Company"]
 source: "World Bio Market Insights"
+
 ---
 
 ## A Strategic Distribution Agreement

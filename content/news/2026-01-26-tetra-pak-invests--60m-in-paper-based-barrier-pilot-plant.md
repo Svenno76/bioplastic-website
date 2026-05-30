@@ -1,13 +1,15 @@
 ---
+
 title: "Tetra Pak Invests €60m in Paper-Based Barrier Pilot Plant"
 date: 2026-01-28
 draft: false
 summary: "Tetra Pak allocates €60 million for a new commercial pilot plant to test and scale paper-based barrier technologies, aiming to replace aluminum in aseptic packaging."
-tags: ["Tetra Pak", "Paper-based barrier", "Aseptic packaging", "Cellulose"]
+tags: ["Tetra Pak", "Paper-Based Barrier", "Aseptic Packaging", "Cellulose"]
 category: "Plant Announcement"
 company: ["Tetra Pak"]
 company_type: ["Technology Company"]
 source: "FDI Forum"
+
 ---
 
 Tetra Pak has announced a strategic investment of €60 million to establish a commercial pilot plant dedicated to the development and testing of paper-based barrier solutions. This initiative marks a significant milestone in the company's roadmap toward creating a fully renewable, aseptic food package.

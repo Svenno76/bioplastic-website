@@ -1,13 +1,15 @@
 ---
+
 title: "UP Cabinet Approves India's First Large-Scale PLA Bioplastics Plant"
 date: 2026-02-12
 draft: false
 summary: "The Uttar Pradesh Cabinet has approved Balrampur Chini Mills Limited's proposal to establish India's first industrial-scale Polylactic Acid manufacturing facility, utilizing sugar-based feedstock for sustainable plastic production."
-tags: ["Polylactic Acid", "PLA", "Balrampur Chini Mills Limited", "Sugar Feedstock"]
+tags: ["PLA", "Balrampur Chini Mills Limited", "Sugar Feedstock"]
 category: "Plant Announcement"
 company: ["Balrampur Chini Mills Limited"]
 company_type: ["Bioplastic Producer"]
 source: "United News of India"
+
 ---
 
 The Uttar Pradesh Cabinet, led by Chief Minister Yogi Adityanath, has officially approved the proposal to establish India’s first large-scale Polylactic Acid (PLA) bioplastics plant. The project, spearheaded by Balrampur Chini Mills Limited (BCML), marks a historic milestone in the nation’s transition toward sustainable materials and reduces reliance on single-use fossil-based plastics.

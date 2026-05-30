@@ -1,13 +1,15 @@
 ---
+
 title: "Amcor recognized for sustainability leadership at 2026 Flexible Packaging Association Achievement Awards"
 date: 2026-03-19
 draft: false
 summary: "Amcor has received top honors at the 2026 Flexible Packaging Association Achievement Awards for its innovative Earth Sense Pro bioplastic packaging solution."
-tags: ["Amcor", "Earth Sense Pro", "Flexible Packaging Association", "Bio-based Films"]
+tags: ["Amcor", "Earth Sense Pro", "Flexible Packaging Association", "Bio-Based Films"]
 category: "Certifications"
 company: ["Amcor", "Flexible Packaging Association"]
 company_type: ["Bioplastic Producer", "Testing / Certification Company"]
 source: "Amcor"
+
 ---
 
 ## Industry Recognition for Bio-based Packaging

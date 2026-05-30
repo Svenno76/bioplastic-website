@@ -1,13 +1,15 @@
 ---
+
 title: "Balrampur Chini Secures First Institutional Order for PLA Bioplastics"
 date: 2026-02-23
 draft: false
 summary: "Balrampur Chini Mills achieves a commercial milestone by securing its first institutional order for sugarcane-derived PLA products from the Lucknow Cantonment Board."
-tags: ["Balrampur Chini Mills Ltd.", "Lucknow Cantonment Board", "PLA", "Polylactic Acid"]
+tags: ["Balrampur Chini Mills Ltd.", "Lucknow Cantonment Board", "PLA"]
 category: "Partnerships"
 company: ["Balrampur Chini Mills Ltd.", "Lucknow Cantonment Board"]
 company_type: ["Bioplastic Producer"]
 source: "ChiniMandi"
+
 ---
 
 Balrampur Chini Mills Ltd. (BCML), one of India's leading integrated sugar manufacturing companies, has marked a significant milestone in its diversification strategy by securing its first institutional order for Polylactic Acid (PLA) bioplastics. The order, placed by the Lucknow Cantonment Board, validates the commercial viability of BCML’s newly commissioned bioplastic capacity and signals a shift in public procurement toward sustainable alternatives.

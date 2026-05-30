@@ -1,13 +1,15 @@
 ---
+
 title: "Plastics recycling technologies mapped across Europe"
 date: 2026-02-03
 draft: false
 summary: "Plastics Recyclers Europe has released comprehensive data mapping the installed capacity and diverse technologies of recycling facilities across the continent to benchmark progress against 2030 targets."
-tags: ["Plastics Recyclers Europe", "Mechanical Recycling", "Chemical Recycling", "Polyethylene", "PET"]
+tags: ["Plastics Recyclers Europe", "Mechanical Recycling", "Chemical Recycling", "PE", "PET"]
 category: "Market Analysis"
 company: ["Plastics Recyclers Europe"]
 company_type: ["Recycler"]
 source: "Plastics Recyclers Europe"
+
 ---
 
 **BRUSSELS** — Plastics Recyclers Europe (PRE) has officially released an extensive mapping of recycling technologies across the continent, providing a critical snapshot of the industry’s infrastructure as the European Union approaches its aggressive 2030 waste diversion targets. The new data offers a granular look at the installed capacities for both mechanical and chemical recycling, highlighting significant regional shifts in processing capabilities.

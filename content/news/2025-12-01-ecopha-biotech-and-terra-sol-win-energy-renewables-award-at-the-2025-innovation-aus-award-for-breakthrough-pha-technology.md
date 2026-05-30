@@ -1,9 +1,10 @@
 ---
+
 title: "Ecopha Biotech and Terra Sol Win Energy & Renewables Award at the 2025 Innovation Aus award for Breakthrough PHA Technology"
 date: 2025-12-01
 draft: false
 summary: "Ecopha Biotech and design partner Terra Sol Studio secured the 2025 InnovationAus Energy & Renewable"
-tags: ['Ecopha Biotech and Terra Sol Studio', 'product-launch', 'innovation', 'product']
+tags: ['Ecopha Biotech and Terra Sol Studio', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"
 company: "Ecopha Biotech and Terra Sol Studio"
 source: "News Hub"
@@ -20,7 +21,6 @@ EcoPHA's patented PHA manufacturing process represents a significant advancement
 ## Applications and Industry Impact
 
 EcoPHA's dual-output system delivers both cleaner fuels and bioplastics, addressing critical sustainability challenges. The technology targets hard-to-abate sectors including aviation and freight through sustainable aviation fuel and renewable diesel production. Key industries—energy, mining, and large-scale manufacturing—increasingly demand carbon reduction solutions that EcoPHA's biodegradable alternatives provide. The Queensland-based project positions the partnership to supply sustainable products for the Brisbane 2032 Olympic Games, showcasing Australian innovation globally. This breakthrough demonstrates how integrated biotech solutions can simultaneously reduce plastic waste and fossil fuel dependency.
-
 ---
 
 **Source:** [Read more](nan)

@@ -1,13 +1,15 @@
 ---
+
 title: "Uzbek Scientists Create Biodegradable Film from Plant Polysaccharides"
 date: 2026-02-12
 draft: false
 summary: "Researchers at the Uzbek Academy of Sciences have developed a water-soluble, antimicrobial biodegradable film using plant polysaccharides and copper ions."
-tags: ["Uzbek Academy of Sciences", "Institute of Polymer Chemistry and Physics", "Polysaccharides", "Cellulose", "Antimicrobial packaging"]
+tags: ["Uzbek Academy of Sciences", "Institute of Polymer Chemistry and Physics", "Polysaccharides", "Cellulose", "Antimicrobial Packaging"]
 category: "Product Launch"
 company: ["Uzbek Academy of Sciences", "Institute of Polymer Chemistry and Physics"]
 company_type: ["Research Institute"]
 source: "Renewable Carbon News"
+
 ---
 
 Researchers at the Institute of Polymer Chemistry and Physics, operating under the Uzbek Academy of Sciences, have announced the development of a novel biodegradable film derived from plant polysaccharides. This advancement marks a significant step forward in the region's efforts to combat plastic pollution through the utilization of renewable biomass resources.

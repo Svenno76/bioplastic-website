@@ -1,13 +1,15 @@
 ---
+
 title: "Bio-based Functional Coatings Reach Commercial Maturity for Marine Use"
 date: 2026-02-11
 draft: false
 summary: "AkzoNobel and Arkema successfully commercialize a high-performance bio-based marine coating utilizing renewable castor bean derivatives to reduce maritime emissions."
-tags: ["AkzoNobel", "Arkema", "Marine Coatings", "Castor Oil", "Polyamide 11"]
+tags: ["AkzoNobel", "Arkema", "Marine Coatings", "Castor Oil", "PA11"]
 category: "Product Launch"
 company: ["AkzoNobel", "Arkema"]
 company_type: ["Bioplastic Producer", "Compounder"]
 source: "World Bio Market Insights"
+
 ---
 
 A significant milestone in the decarbonization of the maritime industry has been reached as AkzoNobel and Arkema announce the full commercial maturity of their joint bio-based marine coating solution. Following extensive sea trials and formulation refinement, the companies have validated a high-performance functional coating that relies on renewable chemistry without compromising the rigorous durability standards required for oceangoing vessels.

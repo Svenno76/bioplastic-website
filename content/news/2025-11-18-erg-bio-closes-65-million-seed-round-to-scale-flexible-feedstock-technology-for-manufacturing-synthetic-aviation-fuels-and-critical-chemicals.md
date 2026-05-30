@@ -1,9 +1,10 @@
 ---
+
 title: "Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology for Manufacturing Synthetic Aviation Fuels and Critical Chemicals"
 date: 2025-11-18
 draft: false
 summary: "Erg Bio has successfully secured $6.5 million in a seed funding round to accelerate the scale-up of "
-tags: ['Erg Bio', 'investment-&-funding', 'investment', 'funding']
+tags: ['Erg Bio', 'investment-&-funding', 'Investment', 'Funding']
 category: "Investment & Funding"
 company: "Erg Bio"
 company_type: "Technology Company"
@@ -19,7 +20,6 @@ The seed round was led by **Azolla Ventures**, with participation from **Chevron
 ## Strategic Use
 
 Erg Bio's **low-temperature solvent pretreatment process** represents a significant advancement for the bioeconomy. The technology processes over 30 different biomass feedstocks—including agricultural and forestry waste—delivering 90-95% sugar recovery compared to traditional methods yielding 75-80%. This flexibility addresses a longstanding bottleneck in cellulosic ethanol production, potentially unlocking an untapped market. By converting waste biomass into fermentable sugars and high-value intermediates, Erg Bio strengthens domestic manufacturing capacity while promoting cost-competitive, sustainable alternatives to petroleum-based chemicals and fuels.
-
 ---
 
 **Source:** [Read more](nan)

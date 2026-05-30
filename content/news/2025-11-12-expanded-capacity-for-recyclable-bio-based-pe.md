@@ -1,9 +1,10 @@
 ---
+
 title: "Expanded Capacity for Recyclable Bio-based PE"
 date: 2025-11-12
 draft: false
 summary: "Braskem America has announced expanded production capacity for its 'I'm green' bio-based polyethylen"
-tags: ['Braskem', 'plant-announcement', 'manufacturing', 'capacity']
+tags: ['Braskem', 'Plant Announcement', 'Manufacturing', 'Capacity']
 category: "Plant Announcement"
 company: "Braskem"
 company_type: "Bioplastic Producer"
@@ -19,7 +20,6 @@ The expansion builds on milestones from 2021-2023, including a 30% capacity boos
 ## Market Impact
 
 This expansion positions Braskem to meet surging demand for sustainable materials, serving over 200 global brands in packaging, footwear, consumer goods, and more—such as Balsam Hill's plant-based Christmas trees. By 2025, Braskem aims for 300,000 tons of recycled content sales, accelerating the bioplastics shift toward renewables amid regulatory pressures for lower emissions. Partnerships like with FKuR for European distribution enhance accessibility, fostering innovation in low-carbon plastics and circular supply chains across the Americas, Europe, and Asia.
-
 ---
 
 **Source:** [Read more](nan)

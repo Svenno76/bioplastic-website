@@ -1,9 +1,10 @@
 ---
+
 title: "Fibre Screw Caps on Track to Be Cost-Competitive with Fossil Plastics"
 date: 2025-11-05
 draft: false
 summary: "Blue Ocean Closures (BOC) has announced a significant breakthrough"
-tags: ['Blue Ocean Closures', 'product-launch', 'innovation', 'product']
+tags: ['Blue Ocean Closures', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"
 company: "Blue Ocean Closures"
 company_type: "Technology Company"
@@ -19,7 +20,6 @@ BOC's proprietary vacuum press forming technology shapes renewable fibers from v
 ## Applications
 
 This innovation accelerates the bioplastics shift by replacing plastic in nutraceuticals, cosmetics, and beverages, reducing ocean plastic pollution—where caps rank among top marine debris—and cutting carbon footprints. Great Earth, an early adopter, swapped all supplement jars to BOC's NutraCap 38-400, slashing plastic use by 2.6 tons annually while maintaining seal integrity and shelf appeal. With customizable designs enhancing brand differentiation, BOC's caps support 90% fiber recycling goals by 2030, aligning profitability with sustainability demands.
-
 ---
 
 **Source:** [Read more](nan)

@@ -1,13 +1,15 @@
 ---
+
 title: "Twogee Biotech Secures €2.2 Million for Circular Biomass Industrialization"
 date: 2026-01-29
 draft: false
 summary: "German biotech innovator Twogee Biotech has raised €2.2 million in Seed funding to scale its proprietary technology for converting organic waste into sustainable bio-based building blocks."
-tags: ["Twogee Biotech", "Biomass", "Bio-based Chemicals"]
+tags: ["Twogee Biotech", "Biomass", "Bio-Based Chemicals"]
 category: "Investment & Funding"
 company: ["Twogee Biotech", "HTGF"]
 company_type: ["Technology Company"]
 source: "HTGF"
+
 ---
 
 German innovator **Twogee Biotech** has announced the successful closing of a €2.2 million Seed funding round. The fresh capital will be utilized to accelerate the industrialization of the company’s proprietary technology, which focuses on transforming organic residues into high-value bio-based chemicals and materials.

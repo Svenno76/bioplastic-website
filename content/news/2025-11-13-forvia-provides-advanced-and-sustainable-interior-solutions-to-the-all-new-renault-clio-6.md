@@ -1,9 +1,10 @@
 ---
+
 title: "FORVIA provides advanced and sustainable interior solutions to the all-new Renault Clio 6"
 date: 2025-11-13
 draft: false
 summary: "FORVIA is supplying the instrument panel and center console for the all-new Renault Clio 6"
-tags: ['FORVIA', 'product-launch', 'innovation', 'product']
+tags: ['FORVIA', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"
 company: "FORVIA"
 company_type: "Technology Company"

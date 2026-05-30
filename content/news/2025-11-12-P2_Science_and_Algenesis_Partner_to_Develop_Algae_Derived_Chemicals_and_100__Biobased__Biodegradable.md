@@ -1,14 +1,17 @@
 ---
+
+
 title: "P2 Science and Algenesis Partner to Develop Algae-Derived Chemicals and 100% Biobased, Biodegradable Polyurethanes"
 date: 2025-11-12
 draft: false
 summary: "P2 Science and Algenesis Corporation have formed a strategic partnership to develop and commercialize 100% biobased and biodegradable polyurethanes derived from algae, aiming to replace petroleum-based plastics across various industries."
-tags: ["P2 Science", "Algenesis", "bioplastics", "polyurethanes", "algae-derived", "biodegradable", "green chemistry"]
+tags: ["P2 Science", "Algenesis", "Bioplastics", "Polyurethane", "Algae-Derived", "biodegradable", "Green Chemistry"]
 category: "Partnerships"
 company: "P2 Science"
 company_type: "Technology Company"
 source: "P2 Science Inc."
 contact: "None"
+
 ---
 
 ## Details

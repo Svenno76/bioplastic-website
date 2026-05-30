@@ -1,13 +1,15 @@
 ---
+
 title: "Novonor Agrees to Sell Controlling Stake in Braskem for BRL 20 Billion"
 date: 2025-12-15
 draft: false
 summary: "Novonor concludes its divestment strategy by agreeing to sell its controlling interest in petrochemical giant Braskem to private equity firm IG4 Capital for BRL 20 billion."
-tags: ["Braskem", "Novonor", "IG4 Capital", "Petrobras", "Bio-PE", "Polyethylene", "Bio-PP"]
+tags: ["Braskem", "Novonor", "IG4 Capital", "Petrobras", "Bio-PE", "PE", "Bio-PP"]
 category: "M&A"
 company: ["Braskem", "Novonor", "IG4 Capital", "Petrobras"]
 company_type: ["Bioplastic Producer"]
 source: "Eco-plastics in Packaging"
+
 ---
 
 After years of speculation and prolonged negotiations, Novonor (formerly Odebrecht) has officially agreed to sell its controlling stake in petrochemical giant Braskem to IG4 Capital. The transaction, valued at approximately BRL 20 billion, marks the end of an era for the Brazilian conglomerate and signals a major governance restructuring for the Americas' leading producer of thermoplastic resins and biopolymers.

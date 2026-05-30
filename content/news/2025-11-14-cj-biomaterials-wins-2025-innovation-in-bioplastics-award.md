@@ -1,9 +1,10 @@
 ---
+
 title: "CJ Biomaterials Wins 2025 Innovation in Bioplastics Award"
 date: 2025-11-14
 draft: false
 summary: "CJ Biomaterials was recognized with the 2025 Innovation in Bioplastics Award for its advancements in biopolymer technology and sustainable materials, highlighting its leadership in the bioplastics industry."
-tags: ['CJ Biomaterials', 'certification', 'standards']
+tags: ['CJ Biomaterials', 'Certification', 'Standards']
 category: "Certifications"
 company: "CJ Biomaterials"
 company_type: "Bioplastic Producer"
@@ -19,7 +20,6 @@ The award specifically recognizes CJ Biomaterials’ PHACT™ PHA technology, a 
 ## Market Significance
 
 CJ Biomaterials’ achievement underscores the growing importance of high-performance, truly biodegradable bioplastics in the global effort to replace fossil-based plastics. The company’s scalable production and strategic partnerships—such as with NatureWorks and BIQ Materials—demonstrate the viability of PHA-based solutions for mainstream markets. This recognition reinforces the industry’s shift toward materials that are not only sustainable but also designed for real-world end-of-life scenarios, accelerating the adoption of circular economy principles in the plastics sector.
-
 ---
 
 **Source:** [Read more](https://bioplasticsnews.com/2025/11/14/the-plastics-industry-association-names-cj-biomaterials-as-its-2025-innovation-in-bioplastics-award-winner/)
