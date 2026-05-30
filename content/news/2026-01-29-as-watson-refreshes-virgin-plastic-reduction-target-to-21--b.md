@@ -4,7 +4,7 @@ date: 2026-01-29
 draft: false
 summary: "The world's largest international health and beauty retailer has updated its environmental roadmap, targeting a 21% reduction in virgin plastic intensity within its own-brand packaging by 2030."
 tags: ["AS Watson", "rPET", "packaging", "recycling"]
-category: "Regulatory&Policy"
+category: "Regulatory & Policy"
 company: ["AS Watson"]
 company_type: ["Recycler"]
 source: "AS Watson Group"

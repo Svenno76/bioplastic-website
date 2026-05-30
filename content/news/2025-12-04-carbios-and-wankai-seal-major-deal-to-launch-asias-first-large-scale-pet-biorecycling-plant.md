@@ -4,7 +4,7 @@ date: 2025-12-04
 draft: false
 summary: "CARBIOS and Wankai New Materials have finalized a landmark agreement to establish a joint venture fo"
 tags: ['CARBIOS and Wankai New Materials', 'plant-announcements']
-category: "Plant Announcements"
+category: "Plant Announcement"
 company: "CARBIOS and Wankai New Materials"
 source: "CARBIOS Newsroom"
 ---

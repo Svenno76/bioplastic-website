@@ -5,7 +5,7 @@ date: 2026-03-06
 draft: false
 summary: "The USDA has officially rejected the use of compostable bioplastics as acceptable feedstock for certified organic compost due to their synthetic manufacturing processes."
 tags: ["USDA", "Compostable Plastics", "Organic Compost", "PLA", "PHA"]
-category: "Regulatory&Policy"
+category: "Regulatory & Policy"
 company: ["USDA", "Bioplastics Industry"]
 company_type: ["Testing / Certification Company", "Bioplastic Producer"]
 source: "Bioplastics News"

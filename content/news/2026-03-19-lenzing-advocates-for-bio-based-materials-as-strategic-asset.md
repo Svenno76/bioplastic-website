@@ -4,7 +4,7 @@ date: 2026-03-19
 draft: false
 summary: "Austrian manufacturer Lenzing is urging European policymakers to classify bio-based materials as strategic assets to bolster the region's industrial competitiveness and achieve circular economy targets."
 tags: ["Lenzing", "Cellulosic Fibers", "Bio-economy"]
-category: "Regulatory&Policy"
+category: "Regulatory & Policy"
 company: ["Lenzing"]
 company_type: ["Bioplastic Producer"]
 source: "World Bio Market Insights"

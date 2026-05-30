@@ -4,7 +4,7 @@ date: 2025-06-19
 draft: false
 summary: "TotalEnergies' Grandpuits platform in France is undergoing a major €500 million conversion to become a zero-crude facility by mid-2025, focusing on sustainable aviation fuel, plastic recycling, and renewable energy production."
 tags: ["TotalEnergies", "Grandpuits", "Biofuels", "Plastic Recycling", "Sustainable Aviation Fuel"]
-category: "Plant Announcements"
+category: "Plant Announcement"
 company: "TotalEnergies"
 company_type: "Bioplastic Producer"
 source: "TotalEnergies.com"

@@ -4,7 +4,7 @@ date: 2025-02-04
 draft: false
 summary: "European Bioplastics urges EU policymakers to formally recognize the bioplastics sector as a critical enabler for achieving the European Green Deal's climate and circularity goals."
 tags: ["European Green Deal", "Bio-based Plastics", "Compostable Plastics", "Biogenic Carbon"]
-category: "Regulatory&Policy"
+category: "Regulatory & Policy"
 company: ["European Bioplastics"]
 company_type: ["Bioplastic Producer"]
 source: "European Bioplastics"

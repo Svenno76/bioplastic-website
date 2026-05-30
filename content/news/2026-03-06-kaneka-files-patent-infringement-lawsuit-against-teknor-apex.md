@@ -4,7 +4,7 @@ date: 2026-03-12
 draft: false
 summary: "Kaneka Corporation has initiated legal action against Danimer Scientific and Teknor Apex, alleging patent infringement related to proprietary biopolymer technologies."
 tags: ["Kaneka Corporation", "Danimer Scientific", "Teknor Apex", "PHA", "PHBH", "Patent Infringement"]
-category: "Regulatory&Policy"
+category: "Regulatory & Policy"
 company: ["Kaneka Corporation", "Danimer Scientific", "Teknor Apex"]
 company_type: ["Bioplastic Producer", "Compounder"]
 source: "PacerMonitor"
