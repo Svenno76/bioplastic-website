@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>News | {{ .Site.Title }}</title>
-  <meta name="description" content="{{ .Site.Params.description | default .Site.Title }}">
+  {{ partial "head-seo.html" . }}
   {{ range .Site.Params.custom_css }}
   <link rel="stylesheet" href="/{{ . }}">
   {{ end }}

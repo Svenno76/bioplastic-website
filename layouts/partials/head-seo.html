@@ -206,8 +206,8 @@
 </script>
 {{ end }}
 
-{{/* === Default: Organization + WebSite schema === */}}
-{{ if or (eq .Section "") (eq .Section "bioplastics") (eq .Section "studies") }}
+{{/* === CollectionPage for list/archive pages === */}}
+{{ if .IsHome }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -219,6 +219,52 @@
   "sameAs": [
     "https://github.com/Svenno76/bioplastic-website"
   ]
+}
+</script>
+{{ else if .IsNode }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ .Title }} | {{ .Site.Title }}",
+  "description": "{{ .Params.description | default .Site.Params.description }}",
+  "url": "{{ .Permalink }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Bioplastics Portal",
+    "url": "https://bioplasticsportal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bioplastics Portal",
+    "url": "https://bioplasticsportal.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://bioplasticsportal.com/images/bioplastics-banner.jpg"
+    }
+  }
+  {{ if .Pages }}
+  ,
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ len .Pages }},
+    "itemListElement": [
+      {{ range $i, $p := .Pages.ByDate.Reverse }}
+      {{ if $i }},{{ end }}
+      {
+        "@type": "{{ if eq $p.Section "companies" }}Organization{{ else if eq $p.Section "events" }}Event{{ else if eq $p.Section "glossary" }}DefinedTerm{{ else if eq $p.Section "news" }}NewsArticle{{ else if eq $p.Section "studies" }}Report{{ else }}Article{{ end }}",
+        "position": {{ add $i 1 }},
+        "url": "{{ $p.Permalink }}",
+        "name": "{{ $p.Title }}"
+        {{ if eq $p.Section "events" }}{{ if $p.Params.startDate }},
+        "startDate": "{{ $p.Params.startDate }}"{{ end }}{{ end }}
+        {{ if eq $p.Section "companies" }}{{ if $p.Params.headquarters }},
+        "address": { "@type": "PostalAddress", "addressLocality": "{{ $p.Params.headquarters }}" }{{ end }}{{ end }}
+      }
+      {{ end }}
+    ]
+  }
+  {{ end }}
 }
 </script>
 {{ end }}

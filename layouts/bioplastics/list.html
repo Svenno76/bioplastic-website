@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ .Title }} | {{ .Site.Title }}</title>
-  <meta name="description" content="{{ .Summary | plainify }}">
+  {{ partial "head-seo.html" . }}
   {{ range .Site.Params.custom_css }}
   <link rel="stylesheet" href="/{{ . }}">
   {{ end }}
@@ -24,7 +23,7 @@
     <div style="font-size: 1.125rem; line-height: 1.6; max-width: 48rem;">
       {{ .Content }}
     </div>
-    
+
     <!-- Show individual bioplastic pages if they exist -->
     {{ if .Pages }}
     <div style="margin-top: 2rem;">
@@ -41,7 +40,7 @@
           </time>
           {{ end }}
         </header>
-        
+
         {{ if .Params.summary }}
         <div style="font-size: 1rem; line-height: 1.5; margin-bottom: 1rem; color: #555;">
           {{ .Params.summary }}
@@ -51,7 +50,7 @@
           {{ .Summary }}
         </div>
         {{ end }}
-        
+
         <a href="{{ .Permalink }}" style="border: 1px solid #ccc; background-color: #f7f7f7; border-radius: 4px; color: inherit; display: inline-block; font-size: 0.875rem; text-decoration: none; margin-top: 0.5rem; padding: 0.5rem 1rem;">
           Read detailed guide →
         </a>
