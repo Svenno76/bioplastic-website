@@ -9,18 +9,18 @@ company: "Blue Ocean Closures"
 source: "https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/"
 ---
 
-Blue Ocean Closions aus Schweden hat einen Meilenstein erreicht: ihre faserbasierten Schraubverschlüsse sind jetzt genauso billig wie konventionelle Plastikverschlüsse. Das Preisparität-Problem — lange das größte Hindernis für nachhaltige Verpackungsalternativen — ist gelöst.
+Blue Ocean Closures from Sweden has hit a milestone: its fiber-based screw caps are now cost-competitive with conventional plastic closures. The price parity problem — long the biggest barrier to sustainable packaging alternatives — is solved.
 
-### Was BOC anders macht
+### What Makes BOC Different
 
-Die faserbasierten Verschlüsse von BOC funktionieren auf bestehenden Abfüllanlagen — kein Umstellen nötig. Sie sind in den Papier-Recyclingkreislauf integrierbar, was sie zu einer Mono-Material-Lösung macht. Genau das, was die neue EU-Verpackungsverordnung (PPWR) fordert.
+BOC's fiber-based closures run on existing filling lines — no retooling needed. They're compatible with paper recycling streams, making them a mono-material solution. That's exactly what the new EU Packaging and Packaging Waste Regulation (PPWR) is pushing for.
 
-### Große Marken an Bord
+### Major Brands On Board
 
-L'Oréal hat Blue Ocean Closures für sein 100-Million-Euro L'Accelerator-Programm ausgewählt. Das Programm identifiziert und skaliert nachhaltige Innovationen in der gesamten Lieferkette des Schönheitskonzerns. Auch Live Puri, eine Premium-Marke für Nahrungsergänzungsmittel, setzt auf BOC's NutraCap-Faserverschlüsse.
+L'Oréal has selected Blue Ocean Closures for its €100 million L'Accelerator program. The program identifies and scales sustainable innovation across the beauty giant's entire supply chain. Live Puri, a premium nutraceutical brand, has also adopted BOC's NutraCap fiber closures.
 
-### Anerkennung
+### Recognition
 
-BOC wurde als Gold-Startup auf NyTekniks renommierter 33-Liste ausgezeichnet — eine der wichtigsten Technologie-Startup-Listen in Schweden.
+BOC was named a Gold Startup on NyTeknik's prestigious 33-list — one of Sweden's most important technology startup rankings.
 
-**Quelle:** [Blue Ocean Closures](https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/)
+**Source:** [Blue Ocean Closures](https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/)

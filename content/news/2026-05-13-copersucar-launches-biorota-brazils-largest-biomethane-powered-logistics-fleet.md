@@ -9,18 +9,18 @@ company: "Copersucar"
 source: "https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m"
 ---
 
-Copersucar, einer der weltweit größten Zucker- und Ethanolhändler, hat BioRota vorgestellt — Brasiliens größte nachhaltige Logistikflotte, betrieben mit Biomethan.
+Copersucar, one of the world's largest sugar and ethanol traders, has launched BioRota — Brazil's largest sustainable logistics fleet, powered by biomethane.
 
-### Wie funktioniert's?
+### How It Works
 
-Mehr als 70 Biomethan-LKW transportieren Zucker von Copersucar verbundenen Fabriken zum Hafen von Santos. Das Biomethan kommt aus Zuckerrohr-Reststoffen (Vinasse und Filtercake) — produziert in Cocal's Pionier-Anlagen in West-São Paulo. Es ist eine echte Kreislaufwirtschaft: Abfall aus der Zuckerproduktion wird zu Kraftstoff für die gleiche Lieferkette.
+More than 70 biomethane-powered trucks transport sugar from Copersucar-affiliated mills to the port of Santos. The biomethane comes from sugarcane residues (vinasse and filter cake) — produced at Cocal's pioneering plants in western São Paulo. It's genuine circular economy: waste from sugar production becomes fuel for the same supply chain.
 
-### Die Zahlen sprechen für sich
+### The Numbers Speak for Themselves
 
-Biomethan reduziert den CO₂-Ausstoss um bis zu 90% im Vergleich zu Diesel. Die BioRota-Flotte hat bereits rund 5 Millionen Liter Diesel ersetzt und über 8.000 Tons CO₂ vermieden. Und es ist nicht nur klimafreundlich — es ist auch wirtschaftlich.
+Biomethane reduces CO₂ emissions by up to 90% compared to diesel. The BioRota fleet has already replaced roughly 5 million liters of diesel and avoided over 8,000 tons of CO₂. And it's not just climate-friendly — it makes economic sense too.
 
-### Skalierbar
+### Scalable
 
-Copersucar betont, dass das BioRota-Modell skalierbar ist. Unternehmen aus verschiedenen Branchen mit Straßenlogistik könnten den Ansatz kopieren. Cocal, der Biomethan-Lieferant, betreibt zwei Großanlagen und war Pionier für Biomethan im brasilianischen Zuckerrohrsektor.
+Copersucar emphasizes that the BioRota model is scalable. Companies across different industries with road logistics operations could replicate the approach. Cocal, the biomethane supplier, operates two large-scale plants and was a pioneer in biomethane from sugarcane in Brazil.
 
-**Quelle:** [Copersucar](https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m)
+**Source:** [Copersucar](https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m)

@@ -9,18 +9,18 @@ company: "BioBTX"
 source: "https://biobtx.com/biobtx_secures/"
 ---
 
-BioBTX, ein niederländisches Circular-Chemie-Unternehmen aus Groningen, hat über 80 Millionen Euro eingesammelt. Das Geld geht in den Bau des weltweit ersten kommerziellen Werks für erneuerbare Aromaten — in Delfzijl, direkt an der Nordseeküste.
+BioBTX, a Dutch circular chemistry company from Groningen, has raised over €80 million to build the world's first commercial-scale renewable aromatics plant — in Delfzijl, right on the North Sea coast.
 
-### Was genau passiert dort?
+### What's Actually Happening There
 
-Das Werk im PETRA Circular Chemicals Plant wird jährlich 20.000 Tonnen Plastikmüll verarbeiten. Dafür nutzt BioBTX seine eigene ICCP-Technologie (Integrated Cascaded Catalytic Pyrolysis). Am Ende kommen erneuerbare Aromaten raus — Benzol, Toluol und Xylol, kurz BTX. Diese Chemikalien stecken in Isolierschäumen, Beschichtungen, PET-Flaschen, Batterien und Arzneimitteln. Bisher werden sie fast ausschließlich aus Erdöl gewonnen.
+The plant at the PETRA Circular Chemicals site will process 20,000 tons of mixed plastic waste per year using BioBTX's proprietary ICCP technology (Integrated Cascaded Catalytic Pyrolysis). The output: renewable aromatics — benzene, toluene, and xylene, known as BTX. These chemicals show up in insulation foams, coatings, PET bottles, batteries, and pharmaceuticals. Until now they've come almost exclusively from fossil feedstock.
 
-### Warum ist das relevant?
+### Why It Matters
 
-Plastikmüll, der sonst verbrannt oder auf der Deponie landet, wird so zu hochwertigen Chemikalien. Das ist nicht nur weniger CO₂ — es schließt auch den Kreislauf. Die Aromatenindustrie ist riesig, und bisher gab es keine echte fossile Alternative für diesen spezifischen Anwendungsfall.
+Plastic waste that would otherwise be incinerated or landfilled gets upgraded to high-value chemicals. It's not just about lower CO₂ — it closes the loop. The aromatics industry is enormous, and until now there's been no real renewable alternative for this specific application.
 
-### Nächste Schritte
+### What's Next
 
-BioBTX forscht seit 2012 an der Technologie, zunächst im Pilotmaßstab. Mit den 80 Millionen Euro geht es jetzt in die Kommerzialisierung. Wenn der großtechnische Betrieb funktioniert, will die Firma die Technologie weltweit lizenzieren. Ziel: Die chemische Industrie soll systematisch auf erneuerbare Rohstoffe umsteigen.
+BioBTX has been developing the technology since 2012, initially at pilot scale. With the €80 million, it's now heading into commercialization. If the full-scale plant works, the company plans to license the technology globally. The goal: systematically shift the chemical industry to renewable feedstocks.
 
-**Quelle:** [BioBTX](https://biobtx.com/biobtx_secures/)
+**Source:** [BioBTX](https://biobtx.com/biobtx_secures/)

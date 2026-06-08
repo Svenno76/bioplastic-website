@@ -9,22 +9,22 @@ company: "Aduro Clean Technologies"
 source: "https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx"
 ---
 
-Aduro Clean Technologies aus Kanada macht ernst mit Europa. Das Unternehmen, das eine eigene Technologie zur chemischen Verwertung von Altkunststoffen entwickelt, hat drei wichtige Schritte gemacht.
+Aduro Clean Technologies from Canada is getting serious about Europe. The company, which has developed its own technology for chemical recycling of waste plastics, has taken three significant steps.
 
-### 1. Mitglied bei Chemical Recycling Europe
+### 1. Membership in Chemical Recycling Europe
 
-Aduro ist der Branchenorganisation Chemical Recycling Europe (CRE) beigetreten. CRE setzt sich für politische Rahmenbedingungen ein, die chemisches Recycling in Europa fördern. Zu den Mitgliedern gehören große Chemiekonzerne, Technologieentwickler und Marken.
+Aduro has joined Chemical Recycling Europe (CRE), an industry organization that advocates for policy frameworks supporting chemical recycling across Europe. Members include major chemical companies, technology developers, and brands.
 
-### 2. FOAK-Führungspersonal gefunden
+### 2. FOAK Facility Leadership Hired
 
-Für die Erst-Of-A-Kind (FOAK)-Anlage im Chemelot-Industriekomplex in den Niederlanden hat Aduro einen erfahrenen europäischen Industriellen eingestellt. Chemelot ist eines der wichtigsten Chemiestandorte Europas — die Wahl des Standorts ist kein Zufall.
+For the first-of-a-kind (FOAK) plant at the Chemelot industrial complex in the Netherlands, Aduro has brought on an experienced European industrial leader. Chemelot is one of Europe's most important chemical industry hubs — the site selection is deliberate.
 
-### 3. 10.000-Tonnen-Recyclinganlage geplant
+### 3. 10,000-Tonne Recycling Plant Advancing
 
-Aduro treibt den Bau einer chemischen Recyclinganlage mit 10.000 Tonnen Jahreskapazität voran. Die proprietäre HCU-Technologie (Hydrochemolytic Upgrading) kann gemischte Kunststoffe — auch schwer recycelbare Polyolefine, Polystyrol und PET — in hochwertige Kohlenwasserstoffe umwandeln.
+Aduro is moving forward on a chemical recycling plant with 10,000 tonnes annual capacity. The proprietary HCU technology (Hydrochemolytic Upgrading) converts mixed plastics — including hard-to-recycle polyolefins, polystyrene, and PET — into high-quality hydrocarbons.
 
-### Was anders ist als Pyrolyse
+### How It Differs from Pyrolysis
 
-Im Gegensatz zu pyrolysebasierten Verfahren arbeitet Aduros HCU-Technologie mit wässrigen Prozessen bei niedrigeren Temperaturen. Das Ergebnis ist ein höherwertiges Output mit größerer Flexibilität bei der Rohstoffauswahl. Die Firma betreibt seit Jahren eine Pilotanlage und geht jetzt in die Kommerzialisierung.
+Unlike pyrolysis-based processes, Aduro's HCU technology uses aqueous processes at lower temperatures. The result is a higher-value output with greater flexibility on feedstock. The company has operated a pilot plant for years and is now entering commercialization.
 
-**Quelle:** [Aduro Clean Technologies](https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx)
+**Source:** [Aduro Clean Technologies](https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx)

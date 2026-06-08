@@ -9,20 +9,20 @@ company: "Kelpi"
 source: "https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch"
 ---
 
-Kelpi steht kurz vor dem ersten kommerzen Einsatz seerpackung — und das mit einem ziemlich passenden Partner.
+Kelpi is on the verge of its first commercial deployment — and with a fitting partner at that.
 
-Die britische Clean-Brand Homethings wird Kelpi's algenbasiertes Material für ihre nächste Generation von Nachfüllbeuteln verwenden. Es ist der weltweit erste kommerzielle Einsatz von Kelpi's spezieller Algenbeschichtung für flexible Verpackungen.
+UK cleaning brand Homethings will use Kelpi's seaweed-based material for its next generation of refill sachets. It's the world's first commercial use of Kelpi's proprietary seaweed coating for flexible packaging.
 
-### Was ist anders an der Technik?
+### What's Different About the Technology
 
-Kelpi extrahiert Biopolymere aus nachhaltig geernteten Algen und verarbeitet sie zu einer wasserlöslichen Beschichtung. Diese ersetzt die konventionellen Kunststofffolien in Beuteln. Das Material bietet vergleichbare Barriereeigenschaften und Produktschutz, ist aber nach Gebrauch vollständig biologisch abbaubar.
+Kelpi extracts biopolymers from sustainably harvested seaweed and processes them into a water-soluble coating. This replaces conventional plastic films in sachets. The material offers comparable barrier properties and product protection, yet is fully biodegradable after use.
 
-Flexible Beuteln sind in der Recyclingbranche berüchtigt — sie bestehen aus mehrschichtigen Materialien, die sich nur schwer trennen lassen. Kelpi's Ansatz könnte das Problem an der Packung lösen.
+Flexible sachets are notorious in the recycling world — they consist of multi-layer materials that are extremely difficult to separate. Kelpi's approach could solve the problem at the packaging level.
 
-### Zwei B Corps, eine Mission
+### Two B Corps, One Mission
 
-Sowohl Kelpi als auch Homethings sind zertifizierte B Corps. Matthew Aubrey, Gründer von Homethings: "Homethings hat es sich zur Aufgabe gemacht, Reinigung sauberer zu machen. Wir waren wirklich beeindruckt von der Leistung des Kelpi-Materials."
+Both Kelpi and Homethings are certified B Corps. Matthew Aubrey, founder of Homethings: "Homethings is committed to making cleaning cleaner. We were genuinely impressed by the performance of Kelpi's material."
 
-Kelpi-CEO Hugo Adams sagt: "Wir beweisen, dass Spitzenforschung echte Lösungen für die Plastikkrise liefern kann. Die Partnerschaft mit Homethings zeigt, was möglich ist, wenn gleichgesinnte Unternehmen zusammenarbeiten."
+Kelpi CEO Hugo Adams: "We're proving that cutting-edge research can deliver real solutions to the plastic crisis. The partnership with Homethings shows what's possible when like-minded companies work together."
 
-**Quelle:** [Kelpi](https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch)
+**Source:** [Kelpi](https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch)

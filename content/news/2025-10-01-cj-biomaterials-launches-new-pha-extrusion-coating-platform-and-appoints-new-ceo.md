@@ -9,26 +9,26 @@ company: "CJ Biomaterials"
 source: "https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin"
 ---
 
-CJ Biomaterials, der Bioplastik-Arm des südkoreanischen Konzerns CJ CheilJedang, hat eine Reihe von Entwicklungen vorgestellt, die das Anwendungsspektrum von PHA deutlich erweitern.
+CJ Biomaterials, the bioplastics arm of South Korean conglomerate CJ CheilJedang, has unveiled a series of developments that significantly expand PHA's application range.
 
-### Neue PHA-Beschichtungsplattform
+### New PHA Coating Platform
 
-CJ Biomaterials hat eine PHA-Plattform speziell für Extrusionsbeschichtungen auf Papier und Karton lanciert. Die Technologie ersetzt Polyethylen- und andere fossile Beschichtungen, die Papierverpackungen momentan schwer recycelbar machen. Das eröffnet große neue Märkte in Food-Service-Geschirr, Verpackungen und industriellen Anwendungen.
+CJ Biomaterials has launched a PHA platform specifically designed for extrusion coatings on paper and board. The technology replaces polyethylene and other fossil-based coatings that currently make paper packaging difficult to recycle. This opens up large new markets in food service packaging, containers, and industrial applications.
 
 ### PHACT Masterbatch
 
-Dazu kommt ein neues PHACT-Masterbatch-Produkt, das Es für Konverter und Marken einfacher macht, PHACT PHA in bestehende Produktionsprozesse einzubauen — ohne Spezialausrüstung.
+Alongside the platform comes a new PHACT masterbatch product, making it easier for converters and brands to incorporate PHACT PHA into existing production processes — no special equipment required.
 
-### Geschäftsführung erneuert
+### Leadership Change
 
-Allan Chung wurde zum CEO von CJ Biomaterials ernennen, um das Unternehmen durch die nächste Wachstumsphase zu führen.
+Allan Chung has been appointed CEO of CJ Biomaterials to lead the company through its next growth phase.
 
-### Weitere Partnerschaften
+### Additional Partnerships
 
-Separat hat CJ Biomaterials eine Partnerschaft mit BIQ Materials abgeschlossen, um künstliche Rasenauffüllungen aus PHACT-PHA für den europäischen Markt zu produzieren.
+Separately, CJ Biomaterials has partnered with BIQ Materials to produce PHACT PHA artificial turf infill for the European market.
 
-### Auszeichnung für CJ CheilJedang
+### Recognition for CJ CheilJedang
 
-CJ CheilJedang hat den Grand Prize für Marine-Erhaltung beim SDGs Award 2025 erhalten — eine Anerkennung für die Beiträge des Unternehmens zum Meeresschutz durch biologisch abbaubare Produkte.
+CJ CheilJedang received the Grand Prize for Marine Conservation at the SDGs Award 2025 — recognition for the company's contributions to ocean protection through biodegradable products.
 
-**Quelle:** [CJ Biomaterials](https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin)
+**Source:** [CJ Biomaterials](https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin)

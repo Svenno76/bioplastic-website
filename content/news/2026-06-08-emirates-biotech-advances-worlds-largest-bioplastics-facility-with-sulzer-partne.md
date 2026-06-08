@@ -9,22 +9,22 @@ company: "Emirates Biotech"
 source: "https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip"
 ---
 
-Emirates Biotech treibt sein Mega-Projekt voran — und holt sich die richtigen Partner an Bord.
+Emirates Biotech is pushing forward on its mega-project — and lining up serious partners to do it.
 
-### Sulzer als Equipment-Partner
+### Sulzer as Equipment Partner
 
-Emirates Biotech und Sulzer haben ihre strategische Partnerschaft durch einen Equipment-Liefervertrag vorangetrieben. Sulzer, weltweit führend in Fluidtechnik und Polymerverarbeitung, liefert kritische Anlagenkomponenten für das PLA-Produktionswerk in den UAE.
+Emirates Biotech and Sulzer have deepened their strategic partnership through an equipment supply agreement. Sulzer, a global leader in fluid engineering and polymer processing, will supply critical plant components for the PLA production facility in the UAE.
 
-### Samsung E&A als Generalunternehmer
+### Samsung E&A as General Contractor
 
-Samsung E&A wurde als Hauptauftragnehmer ausgewählt. Das Unternehmen bringt Erfahrung in der Großindustrieprojektabwicklung mit — wichtig für eine Anlage, die die weltweit größte Bioplastik-Produktionsstätte werden soll.
+Samsung E&A has been selected as the main EPC contractor. The South Korean firm brings large-scale industrial project experience — essential for a plant aiming to be the world's largest bioplastics production site.
 
-### PLA aus Lebensmittelabfällen
+### PLA from Food Waste
 
-Die Anlage wird PLA aus Lebensmittelabfällen produzieren — bezogen über das europäische CIRCLE-Konsortium. Das ist ein cleverer Ansatz: Die UAE importieren Lebensmittel, produzieren Abfälle, und diese Abfälle werden zu Bioplastik verarbeitet. Ein lokaler Kreislauf mit globaler Wirkung.
+The facility will produce PLA from food waste, sourced through the European CIRCLE Consortium. It's a clever approach: the UAE imports food, generates waste, and that waste gets converted into bioplastic. A local feedstock loop with global impact.
 
-### Strategische Bedeutung
+### Strategic Significance
 
-Das Projekt ist Teil der UAE-Strategie, inländische Bioplastik-Produktion aufzubauen und die Abhängigkeit von importierten Materialien zu reduzieren. Es passt zur nationalen Nachhaltigkeits- und Kreislaufwirtschaftsagenda.
+The project fits squarely into the UAE's strategy to build domestic bioplastics production and reduce dependence on imported materials. It also aligns with the national sustainability and circular economy agenda.
 
-**Quelle:** [Emirates Biotech](https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip)
+**Source:** [Emirates Biotech](https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip)
