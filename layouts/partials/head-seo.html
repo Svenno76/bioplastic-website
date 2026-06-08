@@ -32,15 +32,13 @@
       "position": 1,
       "name": "Home",
       "item": "https://bioplasticsportal.com"
-    }
-    {{ if .Section }}
-    ,{
+    }{{ if .Section }},
+    {
       "@type": "ListItem",
       "position": 2,
       "name": "{{ .Section | humanize }}",
       "item": "https://bioplasticsportal.com/{{ .Section }}/"
-    }
-    {{ end }}
+    }{{ end }},
     {
       "@type": "ListItem",
       "position": {{ if .Section }}3{{ else }}2{{ end }},
