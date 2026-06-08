@@ -1,30 +1,30 @@
 ---
-title: "Aduro Clean Technologies Joins Chemical Recycling Europe and Appoints FOAK Facility Lead"
+title: "Aduro Joins Chemical Recycling Europe, Appoints FOAK Facility Lead"
 date: 2026-06-03
 draft: false
-summary: "Aduro has joined Chemical Recycling Europe, appointed a senior industrial leader to deliver its FOAK facility at Chemelot, and plans to build a 10,000-tonne chemical recycling plant."
+summary: "Aduro joins Chemical Recycling Europe, appoints senior industrial leader for FOAK facility at Chemelot, Netherlands, and advances plans for a 10,000-tonne chemical recycling plant."
 tags: ["Chemical Recycling", "FOAK", "Netherlands", "10,000t", "Chemelot", "Canada"]
 category: "Investment & Funding"
 company: "Aduro Clean Technologies"
 source: "https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx"
 ---
 
-Aduro Clean Technologies, the Canadian chemical recycling company developing proprietary technology to convert end-of-life plastics into valuable resources, has taken several significant steps forward in its European strategy.
+Aduro Clean Technologies aus Kanada macht ernst mit Europa. Das Unternehmen, das eine eigene Technologie zur chemischen Verwertung von Altkunststoffen entwickelt, hat drei wichtige Schritte gemacht.
 
-### Industry Association Membership
+### 1. Mitglied bei Chemical Recycling Europe
 
-Aduro has joined Chemical Recycling Europe (CRE), the leading industry association advocating for supportive policy frameworks for chemical recycling across Europe. CRE members include major chemical companies, technology developers, and brands committed to advancing circularity for plastics.
+Aduro ist der Branchenorganisation Chemical Recycling Europe (CRE) beigetreten. CRE setzt sich für politische Rahmenbedingungen ein, die chemisches Recycling in Europa fördern. Zu den Mitgliedern gehören große Chemiekonzerne, Technologieentwickler und Marken.
 
-### FOAK Facility Leadership
+### 2. FOAK-Führungspersonal gefunden
 
-The company has appointed a senior European industrial leader to oversee delivery of its First-of-a-Kind (FOAK) plastic recycling facility at the Chemelot industrial complex in the Netherlands — one of Europe's premier chemical manufacturing sites. This appointment brings critical large-scale project delivery capability to Aduro's European ambitions.
+Für die Erst-Of-A-Kind (FOAK)-Anlage im Chemelot-Industriekomplex in den Niederlanden hat Aduro einen erfahrenen europäischen Industriellen eingestellt. Chemelot ist eines der wichtigsten Chemiestandorte Europas — die Wahl des Standorts ist kein Zufall.
 
-### 10,000-Tonne Recycling Plant
+### 3. 10.000-Tonnen-Recyclinganlage geplant
 
-Aduro is advancing plans to build a 10,000-tonne-per-year chemical recycling plant using its proprietary hydrochemolytic upgrading (HCU) technology. The process converts mixed plastic waste — including hard-to-recycle polyolefins, polystyrene, and PET — into high-value hydrocarbon products suitable for use in new plastic production and other chemical applications.
+Aduro treibt den Bau einer chemischen Recyclinganlage mit 10.000 Tonnen Jahreskapazität voran. Die proprietäre HCU-Technologie (Hydrochemolytic Upgrading) kann gemischte Kunststoffe — auch schwer recycelbare Polyolefine, Polystyrol und PET — in hochwertige Kohlenwasserstoffe umwandeln.
 
-### Technology Differentiation
+### Was anders ist als Pyrolyse
 
-Unlike pyrolysis-based approaches, Aduro's aqueous-based HCU technology operates at lower temperatures and produces a higher-quality output with greater flexibility in feedstock acceptance. The company has been operating a pilot plant for several years and is now transitioning to commercial scale.
+Im Gegensatz zu pyrolysebasierten Verfahren arbeitet Aduros HCU-Technologie mit wässrigen Prozessen bei niedrigeren Temperaturen. Das Ergebnis ist ein höherwertiges Output mit größerer Flexibilität bei der Rohstoffauswahl. Die Firma betreibt seit Jahren eine Pilotanlage und geht jetzt in die Kommerzialisierung.
 
-**Source:** [Aduro Clean Technologies](https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx)
+**Quelle:** [Aduro Clean Technologies](https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx)

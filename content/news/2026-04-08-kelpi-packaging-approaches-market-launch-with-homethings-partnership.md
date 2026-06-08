@@ -2,27 +2,27 @@
 title: "Kelpi Packaging Approaches Market Launch with Homethings Partnership"
 date: 2026-04-08
 draft: false
-summary: "Kelpi's seaweed-derived packaging material is approaching its first commercial deployment, with planet-positive cleaning brand Homethings selected for next-generation refill sachets."
+summary: "UK-based Kelpi's seaweed-derived packaging material approaches first commercial deployment. Cleaning brand Homethings selected for next-generation refill sachets — the world's first commercial use of Kelpi's seaweed-coated packaging."
 tags: ["Seaweed Packaging", "Sachets", "B Corp", "Market Launch", "Coatings", "UK"]
 category: "Partnerships"
 company: "Kelpi"
 source: "https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch"
 ---
 
-UK-based biotech startup Kelpi has reached a significant commercial milestone: its innovative seaweed-derived packaging material is approaching market launch, with cleaning brand Homethings selected as the first commercial partner.
+Kelpi steht kurz vor dem ersten kommerzen Einsatz seerpackung — und das mit einem ziemlich passenden Partner.
 
-### Seaweed-Based Packaging Goes Commercial
+Die britische Clean-Brand Homethings wird Kelpi's algenbasiertes Material für ihre nächste Generation von Nachfüllbeuteln verwenden. Es ist der weltweit erste kommerzielle Einsatz von Kelpi's spezieller Algenbeschichtung für flexible Verpackungen.
 
-The two UK-based sustainability businesses — both certified B Corps — have partnered on what represents the world's first commercial deployment of Kelpi's seaweed-derived coatings for home cleaning product refill sachets. The material addresses one of the most persistent challenges in sustainable packaging: flexible sachets, which are notoriously difficult to recycle due to their multi-layer structure.
+### Was ist anders an der Technik?
 
-### How It Works
+Kelpi extrahiert Biopolymere aus nachhaltig geernteten Algen und verarbeitet sie zu einer wasserlöslichen Beschichtung. Diese ersetzt die konventionellen Kunststofffolien in Beuteln. Das Material bietet vergleichbare Barriereeigenschaften und Produktschutz, ist aber nach Gebrauch vollständig biologisch abbaubar.
 
-Kelpi's proprietary technology extracts and refines biopolymers from sustainably sourced seaweed to create a high-performance, water-soluble coating. This coating replaces conventional plastic films in sachet applications, offering comparable barrier properties and product protection while being fully biodegradable after use.
+Flexible Beuteln sind in der Recyclingbranche berüchtigt — sie bestehen aus mehrschichtigen Materialien, die sich nur schwer trennen lassen. Kelpi's Ansatz könnte das Problem an der Packung lösen.
 
-### A Mission-Driven Partnership
+### Zwei B Corps, eine Mission
 
-Matthew Aubrey, founder of Homethings, commented: "Homethings is on a mission to clean up cleaning. We've been really impressed with the performance of the Kelpi material, and we love the story behind Kelpi's mission and products."
+Sowohl Kelpi als auch Homethings sind zertifizierte B Corps. Matthew Aubrey, Gründer von Homethings: "Homethings hat es sich zur Aufgabe gemacht, Reinigung sauberer zu machen. Wir waren wirklich beeindruckt von der Leistung des Kelpi-Materials."
 
-Kelpi CEO Hugo Adams added: "At Kelpi we're proving cutting-edge science can deliver real-world solutions to the plastic crisis. Partnering with Homethings shows what's possible when mission-aligned companies collaborate. Together, we're demonstrating that the future of home cleaning and packaging can be both high-performance and planet-positive."
+Kelpi-CEO Hugo Adams sagt: "Wir beweisen, dass Spitzenforschung echte Lösungen für die Plastikkrise liefern kann. Die Partnerschaft mit Homethings zeigt, was möglich ist, wenn gleichgesinnte Unternehmen zusammenarbeiten."
 
-**Source:** [Kelpi](https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch)
+**Quelle:** [Kelpi](https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch)

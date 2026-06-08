@@ -2,27 +2,25 @@
 title: "Copersucar Launches BioRota: Brazil's Largest Biomethane-Powered Logistics Fleet"
 date: 2026-05-13
 draft: false
-summary: "Copersucar has launched BioRota, Brazil's largest sustainable logistics operation powered by biomethane, with 70+ trucks already replacing 5 million liters of diesel."
+summary: "Copersucar launches BioRota with 70+ biomethane trucks, replacing 5 million liters of diesel and avoiding 8,000 tons of CO₂. Biomethane produced from sugarcane residues at Cocal's pioneering plants in São Paulo."
 tags: ["Biomethane", "Logistics", "Brazil", "Sugarcane", "Fleet", "CO₂ Reduction"]
 category: "Plant Announcement"
 company: "Copersucar"
 source: "https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m"
 ---
 
-Copersucar, one of the world's largest sugar and ethanol trading companies, has officially launched BioRota, Brazil's largest biomethane-powered sustainable logistics operation.
+Copersucar, einer der weltweit größten Zucker- und Ethanolhändler, hat BioRota vorgestellt — Brasiliens größte nachhaltige Logistikflotte, betrieben mit Biomethan.
 
-### Turning Sugarcane Waste into Clean Fuel
+### Wie funktioniert's?
 
-The BioRota fleet of over 70 biomethane-powered trucks transports sugar from Copersucar's associated mills to the Port of Santos. The biomethane is produced from sugarcane residues (vinasse and filter cake) at Cocal's pioneering biogas plants in western São Paulo — making it a true circular economy solution within the sugarcane value chain.
+Mehr als 70 Biomethan-LKW transportieren Zucker von Copersucar verbundenen Fabriken zum Hafen von Santos. Das Biomethan kommt aus Zuckerrohr-Reststoffen (Vinasse und Filtercake) — produziert in Cocal's Pionier-Anlagen in West-São Paulo. Es ist eine echte Kreislaufwirtschaft: Abfall aus der Zuckerproduktion wird zu Kraftstoff für die gleiche Lieferkette.
 
-### Environmental Impact
+### Die Zahlen sprechen für sich
 
-Biomethane reduces greenhouse gas emissions by up to 90% compared to diesel. The BioRota operation has already substituted approximately 5 million liters of diesel and avoided over 8,000 tons of CO₂ emissions — while also demonstrating economic advantages over fossil fuel.
+Biomethan reduziert den CO₂-Ausstoss um bis zu 90% im Vergleich zu Diesel. Die BioRota-Flotte hat bereits rund 5 Millionen Liter Diesel ersetzt und über 8.000 Tons CO₂ vermieden. Und es ist nicht nur klimafreundlich — es ist auch wirtschaftlich.
 
-### Scalable Solution
+### Skalierbar
 
-Copersucar emphasizes that the BioRota model is scalable and can be adopted by companies across various sectors with road logistics operations. The initiative is part of the company's broader energy transition strategy and demonstrates how agricultural residues can be converted into high-quality transportation fuel at industrial scale.
+Copersucar betont, dass das BioRota-Modell skalierbar ist. Unternehmen aus verschiedenen Branchen mit Straßenlogistik könnten den Ansatz kopieren. Cocal, der Biomethan-Lieferant, betreibt zwei Großanlagen und war Pionier für Biomethan im brasilianischen Zuckerrohrsektor.
 
-Cocal, the biomethane supplier, operates two large-scale plants and was the pioneer in biomane production in the Brazilian sugarcane sector.
-
-**Source:** [Copersucar](https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m)
+**Quelle:** [Copersucar](https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m)
