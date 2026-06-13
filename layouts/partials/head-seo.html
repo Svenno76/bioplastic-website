@@ -328,7 +328,7 @@
 
 
 {{/* === AboutPage for about section === */}}
-{{ if and .File (eq .File.Path "about.md") }}
+{{ if eq .Params.page_type "about" }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
