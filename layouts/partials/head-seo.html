@@ -13,7 +13,7 @@
 {{ else if .Params.image }}
   <meta property="og:image" content="{{ .Params.image | absURL }}">
   <meta property="og:image:alt" content="{{ .Title }}">
-  <meta property="og:type" content="{{ if or (eq .RelPermalink "/about/") (eq .RelPermalink "/about") }}profile{{ else }}article{{ end }}">
+  <meta property="og:type" content="article">
 {{ else }}
   <meta property="og:image" content="https://bioplasticsportal.com/images/bioplastics-banner.jpg">
   <meta property="og:image:alt" content="{{ .Title }}">
@@ -327,8 +327,8 @@
 {{ end }}
 
 
-{{/* === AboutPage for about section (v2) === */}}
-{{ if or (eq .Section "about") (eq .RelPermalink "/about/") (eq .RelPermalink "/about") (eq .File.Path "about.md") }}
+{{/* === AboutPage for about section === */}}
+{{ if and .File (eq .File.Path "about.md") }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
