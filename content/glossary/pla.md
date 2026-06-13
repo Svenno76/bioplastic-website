@@ -96,3 +96,33 @@ The PLA industry continues to evolve with several important developments:
 **Recycling Technologies:** Development of chemical recycling methods that can depolymerize PLA back to lactic acid or lactide, enabling true circular economy approaches.
 
 The global PLA market is projected to grow significantly, with estimates suggesting capacity could reach 1 million tonnes by 2030. As production scales, costs are expected to decrease, making PLA increasingly competitive with petroleum-based alternatives. Continued innovation in material properties, feedstock diversification, and end-of-life solutions will be critical to PLA's long-term success as a sustainable materials platform.
+
+## Frequently Asked Questions
+
+### Is PLA biodegradable?
+
+Yes, but only under specific conditions. PLA biodegrades under industrial composting conditions (temperatures above 55°C with controlled humidity and microbial activity) within 90-180 days. It does **not** readily biodegrade in home compost, marine environments, or landfills at ambient temperatures.
+
+### Is PLA home-compostable?
+
+No. PLA requires industrial composting facilities that operate at temperatures above 55°C. Most home compost bins do not reach these temperatures, so PLA will persist in home compost just like conventional plastic.
+
+### What temperature does PLA need to break down?
+
+PLA requires sustained temperatures above 55°C (131°F) for biodegradation to begin. Industrial composting facilities typically operate at 58-65°C, which enables PLA to break down within 90-180 days.
+
+### Is PLA made from food crops?
+
+Most commercial PLA is currently made from corn starch or sugarcane — both food crops. However, research is advancing into second-generation feedstocks like agricultural waste, algae, and cellulose that would not compete with food production.
+
+### Can PLA be recycled?
+
+Yes, but not in conventional plastic recycling streams. PLA has its own recycling stream and can be chemically recycled back to lactic acid. However, if PLA contaminates PET recycling, it can cause quality issues. Separate collection is required.
+
+### Is PLA safe for food contact?
+
+Yes. PLA is FDA-approved for food contact applications and is widely used for food packaging, disposable cutlery, and beverage cups. It is considered safe for cold and room-temperature food contact.
+
+### How does PLA compare to conventional plastic?
+
+PLA has similar mechanical properties to PET — good tensile strength and clarity. However, it has lower heat resistance (softens around 60°C), is more brittle, and costs 1.5-2x more than conventional plastics. Its main advantage is the lower carbon footprint and industrial compostability.
