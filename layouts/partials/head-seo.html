@@ -167,6 +167,30 @@
 </script>
 {{ end }}
 
+
+{{/* === FAQPage for pages with FAQ content === */}}
+{{ if .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := .Params.faq }}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
 {{/* === Article for blog posts === */}}
 {{ if eq .Section "blog" }}
 <script type="application/ld+json">
@@ -298,6 +322,42 @@
   ,
   "isBasedOn": "{{ .Params.source }}"
   {{ end }}
+}
+</script>
+{{ end }}
+
+
+{{/* === AboutPage for about section === */}}
+{{ if eq .Section "about" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.summary | default (.Summary | plainify) }}",
+  "url": "{{ .Permalink }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Bioplastics Portal",
+    "url": "https://bioplasticsportal.com",
+    "description": "Comprehensive information resource for the bioplastics industry",
+    "founder": {
+      "@type": "Person",
+      "name": "Sven Cammerer",
+      "url": "https://bioplasticsportal.com/about/",
+      "sameAs": [
+        "https://github.com/Svenno76",
+        "https://linkedin.com/in/svencammerer"
+      ]
+    },
+    "sameAs": [
+      "https://github.com/Svenno76/bioplastic-website"
+    ]
+  }
 }
 </script>
 {{ end }}

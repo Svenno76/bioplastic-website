@@ -1,12 +1,56 @@
 ---
-title: "PBAT (Polybutylene Adipate Terephthalate)"
-aka: ["Polybutylene Adipate Terephthalate", "Ecoflex", "Origo-Bi"]
-term_type: "material"
-related: ["PLA", "Biodegradable", "Compostable", "Starch-based Bioplastic", "Bioplastic Blends", "EN 13432"]
-summary: "PBAT is a biodegradable copolyester that combines flexibility with compostability. Primarily used blended with PLA or starch, PBAT improves mechanical properties and enables EN 13432 certified compostable films and packaging applications."
-major_producers: ["BASF (Ecoflex)", "Novamont (Origo-Bi)", "Eastman", "Kingfa", "Jinhui Zhaolong"]
-applications: ["Flexible films", "Compostable bags", "Agricultural mulch films", "Food packaging", "Coating for paper products"]
-standards: ["EN 13432 (Industrial Compostable)", "ASTM D6400", "OK Compost certification"]
+aka:
+- Polybutylene Adipate Terephthalate
+- Ecoflex
+- Origo-Bi
+applications:
+- Flexible films
+- Compostable bags
+- Agricultural mulch films
+- Food packaging
+- Coating for paper products
+faq:
+- answer: PBAT (Polybutylene Adipate Terephthalate) is a flexible, biodegradable copolyester.
+    It is primarily used as a blending component with PLA or starch to add flexibility
+    and tear resistance to compostable films, bags, and packaging.
+  question: What is PBAT?
+- answer: Yes. PBAT is certified compostable under EN 13432 and ASTM D6400. It biodegrades
+    within 90-180 days in industrial composting conditions.
+  question: Is PBAT biodegradable?
+- answer: PBAT is mainly used in compostable bags, flexible food packaging films,
+    agricultural mulch films, and paper coatings. Its primary role is to add flexibility
+    to stiff materials like PLA.
+  question: What is PBAT used for?
+- answer: PLA is stiff and brittle on its own. PBAT adds elongation (400-800% vs PLA's
+    3-8%), tear resistance, and processability. A typical blend is 70-80% PLA with
+    20-30% PBAT.
+  question: Why is PBAT blended with PLA?
+- answer: PBAT has similar flexibility and elongation to LDPE (the plastic used in
+    most bags) but is compostable. Its tensile strength is comparable, making it a
+    viable drop-in replacement for many flexible packaging applications.
+  question: How does PBAT compare to LDPE?
+major_producers:
+- BASF (Ecoflex)
+- Novamont (Origo-Bi)
+- Eastman
+- Kingfa
+- Jinhui Zhaolong
+related:
+- PLA
+- Biodegradable
+- Compostable
+- Starch-based Bioplastic
+- Bioplastic Blends
+- EN 13432
+standards:
+- EN 13432 (Industrial Compostable)
+- ASTM D6400
+- OK Compost certification
+summary: PBAT is a biodegradable copolyester that combines flexibility with compostability.
+  Primarily used blended with PLA or starch, PBAT improves mechanical properties and
+  enables EN 13432 certified compostable films and packaging applications.
+term_type: material
+title: PBAT (Polybutylene Adipate Terephthalate)
 ---
 
 ## What Is PBAT?

@@ -1,12 +1,60 @@
 ---
-title: "PHA (Polyhydroxyalkanoates)"
-aka: ["Polyhydroxyalkanoates", "PHB", "PHBV"]
-term_type: "material"
-related: ["PHB", "Biodegradable", "Compostable", "PLA"]
-summary: "PHA is a family of biodegradable polyesters naturally produced by bacteria through biotechnology. Fully biodegradable in soil, marine, and composting environments, PHAs offer versatile material properties and can be produced from renewable feedstocks including food waste."
-major_producers: ["Danimer Scientific", "Kaneka", "TianAn Biopolymer", "CJ CheilJedang", "Newlight Technologies"]
-applications: ["Food service items", "Flexible packaging", "Marine biodegradable products", "Medical implants", "Agricultural films", "Personal care products"]
-standards: ["EN 13432 (Industrial Compostable)", "ASTM D6400", "ASTM D6691 (Marine Biodegradable)", "OK Biodegradable Marine"]
+aka:
+- Polyhydroxyalkanoates
+- PHB
+- PHBV
+applications:
+- Food service items
+- Flexible packaging
+- Marine biodegradable products
+- Medical implants
+- Agricultural films
+- Personal care products
+faq:
+- answer: PHA (Polyhydroxyalkanoates) is a family of biodegradable polyesters naturally
+    produced by bacteria through bacterial fermentation. Unlike most plastics that
+    are chemically synthesized, PHAs are accumulated by bacteria as intracellular
+    carbon and energy storage compounds.
+  question: What is PHA?
+- answer: Yes. PHA is fully biodegradable in soil, freshwater, marine environments,
+    and industrial composting facilities. This is a key differentiator from most other
+    bioplastics — PHA does not require industrial composting conditions to break down.
+  question: Is PHA biodegradable?
+- answer: Yes. Certain PHA grades are certified marine biodegradable under ASTM D6691
+    and OK Biodegradable Marine. This makes PHA one of the few bioplastics suitable
+    for applications where ocean leakage is a concern.
+  question: Is PHA marine biodegradable?
+- answer: PHA is produced through bacterial fermentation. Bacteria are fed carbon-rich
+    substrates (glucose, vegetable oils, methane, food waste) and accumulate PHA granules
+    inside their cells. The PHA is then extracted and processed into pellets for manufacturing.
+  question: How is PHA produced?
+- answer: PLA requires industrial composting conditions (high heat) to biodegrade,
+    while PHA biodegrades in ambient conditions including marine environments. PHA
+    is also more flexible and has better barrier properties, but is currently more
+    expensive to produce.
+  question: How does PHA compare to PLA?
+major_producers:
+- Danimer Scientific
+- Kaneka
+- TianAn Biopolymer
+- CJ CheilJedang
+- Newlight Technologies
+related:
+- PHB
+- Biodegradable
+- Compostable
+- PLA
+standards:
+- EN 13432 (Industrial Compostable)
+- ASTM D6400
+- ASTM D6691 (Marine Biodegradable)
+- OK Biodegradable Marine
+summary: PHA is a family of biodegradable polyesters naturally produced by bacteria
+  through biotechnology. Fully biodegradable in soil, marine, and composting environments,
+  PHAs offer versatile material properties and can be produced from renewable feedstocks
+  including food waste.
+term_type: material
+title: PHA (Polyhydroxyalkanoates)
 ---
 
 ## Overview
@@ -169,3 +217,33 @@ The PHA industry is experiencing rapid innovation:
 The global PHA market is projected to grow significantly, with some estimates suggesting capacity could reach 500,000 tonnes by 2030 as production scales and costs decrease. Major investments from chemical companies, along with regulatory pressures to eliminate persistent plastics from marine environments, are driving rapid expansion.
 
 PHAs represent the closest achievement to a truly sustainable plastic: renewable, biodegradable in all environments, and producible from waste. As production technology matures and economies of scale are achieved, PHAs are positioned to capture significant market share in applications where complete biodegradability is essential.
+
+## Frequently Asked Questions
+
+**What is PHA?**
+PHA (Polyhydroxyalkanoates) is a family of biodegradable polyesters naturally produced by bacteria through bacterial fermentation. Unlike most plastics that are chemically synthesized, PHAs are accumulated by bacteria as intracellular carbon and energy storage compounds.
+
+**Is PHA biodegradable?**
+Yes. PHA is fully biodegradable in soil, freshwater, marine environments, and industrial composting facilities. This is a key differentiator from most other bioplastics — PHA does not require industrial composting conditions to break down.
+
+**Is PHA marine biodegradable?**
+Yes. Certain PHA grades are certified marine biodegradable under ASTM D6691 and OK Biodegradable Marine. This makes PHA one of the few bioplastics suitable for applications where ocean leakage is a concern.
+
+**How is PHA produced?**
+PHA is produced through bacterial fermentation. Bacteria such as Cupriavidus necator are fed carbon-rich substrates (glucose, vegetable oils, methane, food waste) and accumulate PHA granules inside their cells. The PHA is then extracted and processed into pellets for manufacturing.
+
+**What are the main applications of PHA?**
+PHA is used in food service items, flexible packaging, marine-biodegradable products, medical implants, agricultural films, and personal care products. Its versatility comes from the wide range of PHA types — from rigid PHB to elastic PHBH.
+
+**How does PHA compare to PLA?**
+PLA requires industrial composting conditions (high heat) to biodegrade, while PHA biodegrades in ambient conditions including marine environments. PHA is also more flexible and has better barrier properties, but is currently more expensive to produce.
+
+**What are the main types of PHA?**
+The PHA family includes PHB (rigid, brittle), PHBV (more flexible), and PHBH (rubber-like elasticity). Each type has distinct material properties suited to different applications.
+
+## Related Terms
+
+- [Biodegradable](/glossary/biodegradable/)
+- [Compostable](/glossary/compostable/)
+- [PLA](/glossary/pla/)
+- [Bioplastics](/glossary/bioplastics/)
