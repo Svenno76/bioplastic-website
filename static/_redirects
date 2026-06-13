@@ -1,0 +1,2 @@
+# Netlify redirect: www → apex
+https://www.bioplasticsportal.com/*  https://bioplasticsportal.com/:splat  301!

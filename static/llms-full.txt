@@ -1,0 +1,47 @@
+# Bioplastics Portal — Full Content Index
+
+Your comprehensive resource for bioplastics research, company profiles, industry news, market studies, and educational content.
+
+## About
+
+- [About Bioplastics Portal](/about/)
+
+## Sections
+
+### Glossary
+- [Bio-PE (Bio-based Polyethylene)](/glossary/bio-pe/) — Bio-PE is chemically identical to conventional polyethylene but produced from renewable feedstocks like sugarcane ethanol instead of fossil fuels. It's a drop-in replacement offering identical performance with a reduced carbon footprint — the world's most widely produced drop-in bioplastic.
+- [Bio-PET (Bio-based Polyethylene Terephthalate)](/glossary/bio-pet/) — Bio-PET is partially or fully bio-based polyethylene terephthalate produced from renewable feedstocks. Chemically identical to conventional PET, it's commonly used in beverage bottles with 30% bio-content from bio-ethylene glycol.
+- [Bio-PP (Bio-based Polypropylene)](/glossary/bio-pp/) — Bio-PP is polypropylene manufactured from renewable feedstocks like sugarcane ethanol instead of petroleum. Chemically identical to conventional PP, Bio-PP offers the same performance while reducing carbon footprint and fossil fuel dependency.
+- [Biodegradable](/glossary/biodegradable/) — Biodegradable materials can be broken down by microorganisms into natural substances like water, carbon dioxide, and biomass. Biodegradation rates and conditions vary significantly by material and environment — making standardized testing and proper end-of-life infrastructure essential.
+- [Bioplastic Blends](/glossary/bioplastic-blends/) — Bioplastic blends are mixtures of two or more biopolymers — or a bioplastic with a conventional biodegradable polymer — engineered to combine the best properties of each component. Common examples include PLA+PBAT (flexible compostable packaging) and starch+PBAT (low-cost compostable bags). Blending is the primary tool for tailoring bioplastics to specific application requirements.
+- [Bioplastics](/glossary/bioplastics/) — Bioplastics are plastics that are derived from renewable biological feedstocks, biodegradable, or both. They encompass a diverse family of materials including PLA, PHA, PBAT, starch blends, and others that offer alternatives to petroleum-based conventional plastics with reduced environmental impact.
+- [Circular Economy (Bioplastics)](/glossary/circular-economy/) — The circular economy is an industrial model that designs out waste, keeps materials in use at their highest value, and regenerates natural systems. For bioplastics, this means integrating renewable feedstock sourcing with end-of-life pathways — composting, recycling, and chemical recycling — to create closed-loop material flows.
+- [Compostable](/glossary/compostable/) — Compostable materials meet strict international standards requiring complete biodegradation and disintegration within 180 days in industrial composting facilities. Certification ensures environmental safety and compatibility with composting systems.
+- [Composting Infrastructure](/glossary/composting-infrastructure/) — Composting infrastructure refers to the facilities, systems, and processes that collect, process, and decompose compostable materials at scale. Adequate infrastructure is essential for biodegradable and compostable materials to achieve their environmental benefits.
+- [Drop-in Bioplastic](/glossary/drop-in-bioplastic/) — Drop-in bioplastics are bio-based versions of conventional plastics that are chemically identical to their fossil-based counterparts. Because they are molecularly the same, they can be processed on existing manufacturing equipment and recycled in existing streams — offering a seamless transition path to bio-based materials without infrastructure changes.
+- [Drop-in Replacement](/glossary/drop-in-replacement/) — A drop-in replacement is a material that can substitute for a conventional polymer in existing applications and manufacturing processes without requiring equipment or process modifications. Drop-in bioplastics are chemically identical to their fossil counterparts, enabling seamless industry transition.
+- [EN 13432](/glossary/en-13432/) — EN 13432 is the most stringent and widely recognized European standard for compostable plastics, establishing requirements for biodegradation, disintegration, and ecotoxicity. It is the benchmark standard globally for certifying compostable materials and is required for the Seedling compostability logo.
+- [Feedstock (Bioplastics)](/glossary/feedstock/) — Feedstock refers to the raw biological materials used to produce bioplastics. These range from food crops (1G) to agricultural waste (2G) and algae or CO₂ (3G). The choice of feedstock significantly impacts cost, sustainability credentials, and the carbon footprint of the resulting bioplastic.
+- [Life Cycle Assessment (LCA) — Bioplastics](/glossary/life-cycle-assessment/) — Life Cycle Assessment (LCA) is the internationally standardised methodology (ISO 14040/14044) used to quantify the environmental impacts of a product or material across its entire life cycle — from raw material extraction through production, use, and end-of-life. For bioplastics, LCA is the definitive tool for comparing sustainability performance against conventional plastics.
+- [Microbial Degradation](/glossary/microbial-degradation/) — Microbial degradation is the breakdown of polymers through enzymatic processes performed by microorganisms such as bacteria and fungi. This natural process is fundamental to biodegradation and composting of organic materials.
+- [PBAT (Polybutylene Adipate Terephthalate)](/glossary/pbat/) — PBAT is a biodegradable copolyester that combines flexibility with compostability.
+- [PBS (Polybutylene Succinate)](/glossary/pbs/) — PBS is a biodegradable polyester with excellent mechanical properties and heat resistance. Synthesized from renewable or petrochemical sources, PBS offers superior processability and performance compared to PLA for engineering and durable applications.
+- [PCL (Polycaprolactone)](/glossary/pcl/) — PCL is a synthetic biodegradable polyester with exceptional flexibility, low melting point (58–60°C), and excellent blending capabilities. Primarily used in medical devices and specialty applications requiring biocompatibility and controlled biodegradation.
+- [PHA (Polyhydroxyalkanoates)](/glossary/pha/) — PHA is a family of biodegradable polyesters naturally produced by bacteria
+- [PHB (Polyhydroxybutyrate)](/glossary/phb/) — PHB is the simplest member of the PHA family, produced through bacterial fermentation. Fully biodegradable in soil, marine, and composting environments, PHB offers true biological sustainability despite processing challenges from brittleness.
+- [PLA (Polylactic Acid)](/glossary/pla/) — PLA is a biodegradable thermoplastic polyester derived from renewable resources like corn starch or sugarcane. It's one of the most widely used bioplastics globally, offering similar processing to conventional plastics with a lower carbon footprint.
+- [Polypropylene](/glossary/polypropylene/) — Polypropylene (PP) is a thermoplastic polymer commonly used in packaging, automotive, and consumer products. Bio-PP is a renewable alternative with identical properties produced from plant-based feedstocks rather than petroleum.
+- [Starch-based Bioplastic](/glossary/starch-based-bioplastic/) — Starch-based bioplastics are created from renewable starch sources like corn, potato, or cassava. The most cost-effective bioplastic option, they're fully biodegradable and widely used in packaging and agricultural applications.
+
+### Bioplastics Guides
+- [](/bioplastics/index/) — 
+
+### Key Pages
+- [News](/news/) — Latest bioplastics industry news and company announcements
+- [Blog](/blog/) — In-depth articles and analysis on bioplastics innovation
+- [Company Profiles](/companies/) — Directory of bioplastics producers, converters, and innovators
+- [Events](/events/) — Conferences, trade shows, and workshops
+- [Studies](/studies/) — Market research, forecasts, and technical analysis
+
+## Content Summary
+This site covers bioplastics industry news, company profiles, market studies, conferences, educational content, and a comprehensive glossary of bioplastics terms. It aggregates publicly available information about bioplastics manufacturers, products, technologies, and market developments.
