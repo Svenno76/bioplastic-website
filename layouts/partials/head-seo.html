@@ -328,7 +328,7 @@
 
 
 {{/* === AboutPage for about section === */}}
-{{ if eq .Section "about" }}
+{{ if or (eq .Section "about") (eq .RelPermalink "/about/") (eq .RelPermalink "/about") }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
