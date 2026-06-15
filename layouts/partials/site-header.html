@@ -1,6 +1,6 @@
-<header class="site-header">
+<header class="site-header" style="background: linear-gradient(135deg, #faf9f7 0%, #f7f4f0 100%) !important; border-bottom: 1px solid #f0ede7 !important; box-shadow: 0 2px 12px rgba(29, 77, 69, 0.08) !important;">
   <div class="site-branding">
-    <a href="/" class="site-title">
+    <a href="/" class="site-title" style="color: #1e4d45 !important;">
       🌱 Bioplastics Portal
     </a>
     <button class="hamburger-menu" aria-label="Toggle navigation menu" onclick="toggleMobileMenu()">
@@ -10,7 +10,7 @@
     </button>
     <nav class="site-navigation" id="mobile-menu">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
+        <a href="{{ .URL }}" style="color: #1a2a28 !important;">{{ .Name }}</a>
       {{ end }}
     </nav>
   </div>
