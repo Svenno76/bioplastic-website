@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ block "description" . }}{{ .Summary | plainify }}{{ end }}">
+  {{ partial "head-seo.html" . }}
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+  </style>
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "site-footer.html" . }}
+</body>
+</html>

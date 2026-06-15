@@ -1,35 +1,26 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ .Title }} | {{ .Site.Title }}</title>
-  <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
-  {{ partial "head-seo.html" . }}
-  {{ range .Site.Params.custom_css }}
-  <link rel="stylesheet" href="/{{ . }}">
-  {{ end }}
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-  </style>
-</head>
-<body>
-  {{ partial "site-header.html" . }}
+{{ define "main" }}
+<main>
+  <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
+    <article>
+      <header style="margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid #e5e7eb;">
+        <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
+      </header>
 
-  <main>
-    <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
-      <article>
-        <header style="margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid #e5e7eb;">
-          <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
-        </header>
+      <div style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark);">
+        {{ .Content }}
+      </div>
 
-        <div style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark);">
-          {{ .Content }}
+      {{ if .Pages }}
+      <div style="margin-top: 3rem;">
+        {{ range .Pages }}
+        <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #e5e7eb;">
+          <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;"><a href="{{ .Permalink }}" style="color: var(--color-primary); text-decoration: none;">{{ .Title }}</a></h2>
+          <p style="color: var(--color-text-muted);">{{ .Summary | plainify | truncate 150 }}</p>
         </div>
-      </article>
-    </div>
-  </main>
-
-  {{ partial "site-footer.html" . }}
-</body>
-</html>
+        {{ end }}
+      </div>
+      {{ end }}
+    </article>
+  </div>
+</main>
+{{ end }}
