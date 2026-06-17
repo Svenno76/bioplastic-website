@@ -40,7 +40,7 @@
           </div>
         </header>
 
-        <div style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark);">
+        <div class="news-content" style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark);">
           {{ .Content | replaceRE "\\b(NatureWorks|Novamont|Total Corbion|BASF|Braskem)\\b" "<a href='/glossary/${1}' class='company-link'>$1</a>" | safeHTML }}
         </div>
 
