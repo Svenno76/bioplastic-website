@@ -172,16 +172,16 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {{ $faqPattern := `(?s)### (.+?)\n\n(.+?)(?=\n###|\n---|\z)` }}
+    {{ $faqPattern := `(?s)### ([^\n]+)\n\n(.+)` }}
     {{ $faqs := findRE $faqPattern .RawContent }}
     {{ range $i, $faq := $faqs }}
     {{ if $i }},{{ end }}
     {
       "@type": "Question",
-      "name": "{{ replaceRE `(?s)### (.+?)\n\n.*` "$1" $faq }}",
+      "name": "{{ replaceRE `(?s)### ([^\n]+)\n\n.*` "$1" $faq }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "{{ replaceRE `(?s)### .+?\n\n(.+)` "$1" $faq | plainify }}"
+        "text": "{{ replaceRE `(?s)### [^\n]+\n\n(.+)` "$1" $faq | plainify }}"
       }
     }
     {{ end }}
