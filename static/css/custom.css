@@ -492,7 +492,8 @@ a:hover {
 
 /* ===== NEWS ARTICLE IMAGES ===== */
 .news-content img,
-article .news-content img {
+article .news-content img,
+article img.news-featured-image {
   max-width: 100%;
   height: auto;
   display: block;
@@ -504,7 +505,8 @@ article .news-content img {
 /* Mobile: full-width images with no horizontal overflow */
 @media (max-width: 640px) {
   .news-content img,
-  article .news-content img {
+  article .news-content img,
+  article img.news-featured-image {
     width: 100%;
     margin: 1rem 0;
     border-radius: 6px;

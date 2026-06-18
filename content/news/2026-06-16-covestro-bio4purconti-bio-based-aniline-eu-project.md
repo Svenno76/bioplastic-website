@@ -9,7 +9,24 @@ company: "Covestro"
 source: "https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/"
 ---
 
-![Covestro Bio4PURConti - Bio-Based Aniline Production](/images/news/covestro-bio4purconti-aniline.jpg)
+<picture>
+  <source type="image/webp"
+    srcset="/images/news/covestro-bio4purconti-aniline-480.webp 480w,
+            /images/news/covestro-bio4purconti-aniline-768.webp 768w,
+            /images/news/covestro-bio4purconti-aniline-1024.webp 1024w,
+            /images/news/covestro-bio4purconti-aniline-1536.webp 1536w"
+    sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, 800px">
+  <source type="image/jpeg"
+    srcset="/images/news/covestro-bio4purconti-aniline-480.jpg 480w,
+            /images/news/covestro-bio4purconti-aniline-768.jpg 768w,
+            /images/news/covestro-bio4purconti-aniline-1024.jpg 1024w,
+            /images/news/covestro-bio4purconti-aniline-1536.jpg 1536w"
+    sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, 800px">
+  <img src="/images/news/covestro-bio4purconti-aniline-1024.jpg"
+    alt="Covestro Bio4PURConti — Bio-Based Aniline Production"
+    class="news-featured-image"
+    loading="lazy">
+</picture>
 
 Covestro has launched **Bio4PURConti** (Bio-Based Continuous Production for Sustainable Polyurethane Industry), a pioneering EU-funded project aiming to develop the world's first continuous production process for **bio-based aniline**.
 
