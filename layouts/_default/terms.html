@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Debug {{ .Title }}</title>
+  <meta name="debug-kind" content="{{ .Kind }}">
+  <meta name="debug-pages" content="{{ len .Pages }}">
+  <meta name="debug-type" content="{{ .Type }}">
+  {{ if eq .Kind "taxonomy" }}<meta name="debug-is-taxonomy" content="true">{{ end }}
+  {{ if eq .Kind "term" }}<meta name="debug-is-term" content="true">{{ end }}
+</head>
+<body>{{ .Title }} - Kind: {{ .Kind }}, Pages: {{ len .Pages }}</body>
+</html>

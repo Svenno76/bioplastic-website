@@ -5,6 +5,15 @@ theme = 'ananke'
 enableRobotsTXT = true
 ignoreFiles = ["^database/"]
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   featured_image = '/images/bioplastics-banner.jpg'
   recent_posts_number = 5

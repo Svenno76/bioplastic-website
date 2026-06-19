@@ -2,6 +2,9 @@
 title: "Kaneka Corporation Expands PHBH Biopolymer Production with ¥12.4 Billion Investment"
 date: 2022-02-07
 draft: false
+sitemap:
+  priority: 0.7
+noindex: true
 summary: "Kaneka Corporation has committed ¥12.4 billion in October 2025 to boost its PHBH biopolymer producti"
 tags: ["Kaneka Corporation"]
 category: "Investment & Funding"

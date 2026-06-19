@@ -1,6 +1,8 @@
 ---
 title: "News & Updates"
-description: "Stay updated with the latest news and developments in bioplastics research and industry"
+description: "Latest bioplastics news, industry updates, policy changes, and company developments. Stay informed about sustainable plastics innovations worldwide."
+sitemap:
+  priority: 0.8
 ---
 
 # Latest News & Updates

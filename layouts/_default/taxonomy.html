@@ -1,0 +1,35 @@
+{{/* Taxonomy term page template - used for /tags/{tag}/ pages */}}
+{{ define "main" }}
+<main>
+  <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
+    <article>
+      <header style="margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid #e5e7eb;">
+        <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
+        <p style="font-size: 1.1rem; color: var(--color-text-muted); line-height: 1.5;">Articles and news related to <strong>{{ .Title }}</strong> in the bioplastics industry.</p>
+      </header>
+
+      {{ if .Content }}
+      <div style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark); margin-bottom: 2rem;">
+        {{ .Content }}
+      </div>
+      {{ end }}
+
+      {{ if .Pages }}
+      <div style="margin-top: 2rem;">
+        <h2 style="font-size: 1.5rem; color: var(--color-primary-dark); margin-bottom: 1.5rem;">Related Articles</h2>
+        {{ range .Pages.ByDate.Reverse }}
+        <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #e5e7eb;">
+          <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem;"><a href="{{ .Permalink }}" style="color: var(--color-primary); text-decoration: none;">{{ .Title }}</a></h3>
+          <p style="color: var(--color-text-muted); font-size: 0.95rem;">{{ .Date.Format "January 2, 2006" }} — {{ .Summary | plainify | truncate 150 }}</p>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
+        <a href="/news/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to News</a>
+      </footer>
+    </article>
+  </div>
+</main>
+{{ end }}
