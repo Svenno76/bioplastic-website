@@ -4,6 +4,8 @@ aka: ["Polymer blends", "Biopolymer compounds", "Bioplastic compounds", "PLA ble
 term_type: "material category"
 related: ["PLA", "PBAT", "PHA", "Starch-based Bioplastic", "Compostable", "Mechanical Properties", "Feedstock"]
 summary: "Bioplastic blends are mixtures of two or more biopolymers — or a bioplastic with a conventional biodegradable polymer — engineered to combine the best properties of each component. Common examples include PLA+PBAT (flexible compostable packaging) and starch+PBAT (low-cost compostable bags). Blending is the primary tool for tailoring bioplastics to specific application requirements."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Are Bioplastic Blends?

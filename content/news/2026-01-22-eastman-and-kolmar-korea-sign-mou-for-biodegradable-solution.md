@@ -2,6 +2,8 @@
 title: "Eastman and Kolmar Korea Sign MOU for Biodegradable Solutions"
 date: 2026-01-22
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Eastman and Kolmar Korea have entered a strategic agreement to develop and expand the use of biodegradable cellulose-based materials in the global personal care market."
 tags: ["Eastman", "Kolmar Korea", "Cellulose", "Biodegradable Polymers", "Personal Care Packaging"]
 category: "Partnerships"

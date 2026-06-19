@@ -17,6 +17,8 @@ production_capacity:
     status: "Development and commercialization phase"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

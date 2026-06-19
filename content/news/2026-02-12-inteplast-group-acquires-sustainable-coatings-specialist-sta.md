@@ -2,6 +2,8 @@
 title: "Inteplast Group Acquires Sustainable Coatings Specialist STA"
 date: 2026-02-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Inteplast Group expands its sustainable packaging portfolio by acquiring STA to integrate high-performance, eco-friendly over-laminates and coatings into its film production lines."
 tags: ["Inteplast Group", "STA", "Over-laminates", "Coatings"]
 category: "M&A"

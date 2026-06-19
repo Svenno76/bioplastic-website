@@ -2,6 +2,8 @@
 title: "New Biodegradable Additive Wins Environmental Innovation Challenge"
 date: 2026-01-30
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Team ColdForm from the University of Washington secures essential startup funding for a novel additive designed to enhance the biodegradation of packaging materials."
 tags: ["Team ColdForm", "University of Washington", "Biodegradable Additives"]
 category: "Investment & Funding"

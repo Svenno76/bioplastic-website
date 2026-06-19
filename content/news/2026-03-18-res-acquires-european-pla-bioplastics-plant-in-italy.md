@@ -3,6 +3,8 @@
 title: "RES Acquires European PLA Bioplastics Plant in Italy"
 date: 2026-03-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Recupero Etico Sostenibile S.p.A. (RES) has acquired a unique European polylactic acid (PLA) production facility in Italy to strengthen its vertically integrated circular economy operations."
 tags: ["PLA", "RES", "Italy"]
 category: "M&A"

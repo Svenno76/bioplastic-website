@@ -3,6 +3,8 @@
 title: "Fibre Screw Caps on Track to Be Cost-Competitive with Fossil Plastics"
 date: 2025-11-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Blue Ocean Closures (BOC) has announced a significant breakthrough"
 tags: ['Blue Ocean Closures', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

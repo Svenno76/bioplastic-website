@@ -3,6 +3,8 @@
 title: "L'Oréal Partners with Dioxycle to Convert Carbon to Polyethylene"
 date: 2026-03-06
 draft: false
+sitemap:
+  priority: 0.7
 summary: "L'Oréal has entered a multi-year partnership with carbon utilization startup Dioxycle to develop sustainable polyethylene packaging sourced directly from captured industrial carbon emissions."
 tags: ["L'Oréal", "Dioxycle", "PE", "Carbon Capture", "CCU", "Ethylene"]
 category: "Partnerships"

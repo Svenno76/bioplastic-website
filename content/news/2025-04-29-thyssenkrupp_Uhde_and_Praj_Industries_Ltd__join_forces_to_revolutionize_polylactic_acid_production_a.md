@@ -3,6 +3,8 @@
 title: "thyssenkrupp Uhde and Praj Industries Ltd. join forces to revolutionize polylactic acid production and circular economy"
 date: 2025-04-29
 draft: false
+sitemap:
+  priority: 0.7
 summary: "thyssenkrupp Uhde and Praj Industries Ltd. have announced a strategic partnership to deliver an integrated, end-to-end technology for Polylactic Acid (PLA) production, aiming to transform the bioplastics sector and advance the circular bioeconomy."
 tags: ["thyssenkrupp Uhde", "Praj Industries", "PLA", "Bioplastics", "Circular Economy", "Lactic Acid", "Uhde Inventa-Fischer", "PLAneo process"]
 category: "Partnerships"

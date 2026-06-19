@@ -2,6 +2,8 @@
 title: "Mitsui Chemicals, Lawson Break New Ground in Convenience Store Industry With \"Bio & Circular\" Initiative"
 date: 2026-01-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Lawson adopts Mitsui Chemicals' mass-balance biomass plastics for store products in a major push toward circularity in the retail sector."
 tags: ["Mitsui Chemicals", "Lawson", "Bio-PP", "Mass Balance", "ISCC PLUS", "BePLAYER"]
 category: "Partnerships"

@@ -2,6 +2,8 @@
 title: "Scientists Engineer Microbe for Methanol-to-Bioplastic Conversion"
 date: 2026-02-24
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at KAIST have successfully engineered a novel microorganism capable of efficiently converting methanol into high-value bioplastics, decoupling production from agricultural feedstocks."
 tags: ["Methanol", "PHA", "Metabolic Engineering", "C1 Feedstocks"]
 category: "Product Launch"

@@ -2,6 +2,8 @@
 title: "R&D Breakthrough: Converting Prairie Fibers into Cleaning Product Bottles"
 date: 2026-02-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Saskatchewan Polytechnic and EnviroWay successfully demonstrate the use of flax and hemp agricultural residues to create biodegradable bottles for liquid cleaning products."
 tags: ["Flax", "Hemp", "EnviroWay", "Saskatchewan Polytechnic", "Biocomposites"]
 category: "Partnerships"

@@ -2,6 +2,8 @@
 title: "Lummus Technology Invests in RWDC Industries to Accelerate PHA Biopolymer Commercialization"
 date: 2024-06-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Lummus Technology has taken a lead investor position in RWDC Industries' convertible bond round, accelerating development of the first commercial-scale PHA production facility for biodegradable plastics."
 tags: ["Lummus Technology", "RWDC Industries", "PHA", "Biopolymers", "Commercialization", "Biodegradable Plastics", "Investment"]
 category: "Investment & Funding"

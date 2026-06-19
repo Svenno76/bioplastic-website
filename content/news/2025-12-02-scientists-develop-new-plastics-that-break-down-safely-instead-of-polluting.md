@@ -3,6 +3,8 @@
 title: "Scientists Develop New Plastics That Break Down Safely Instead of Polluting"
 date: 2025-12-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Rutgers University scientists have engineered novel plastics that naturally degrade under everyday c"
 tags: ['Rutgers University', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

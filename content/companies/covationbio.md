@@ -14,6 +14,8 @@ stock_ticker:
 parent_company: "Huafon Group (acquired DuPont Biomaterials)"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

@@ -2,6 +2,8 @@
 title: "Launch of Biomass-Balanced Polyurethane Foam Systems"
 date: 2026-02-26
 draft: false
+sitemap:
+  priority: 0.7
 summary: "BASF introduces new certified biomass-balanced polyurethane systems designed to reduce product carbon footprints while maintaining identical performance to fossil-based equivalents."
 tags: ["BASF", "Polyurethane", "Biomass Balance", "REDcert2"]
 category: "Product Launch"

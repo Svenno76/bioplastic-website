@@ -2,6 +2,8 @@
 title: "Teysha Technologies Wins $500k Hill Prize for BPA-Free Bioplastic Breakthrough"
 date: 2026-01-19
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Teysha Technologies has been awarded the prestigious $500,000 Hill Prize for its innovative AggiePol® technology, a sustainable, BPA-free alternative to traditional petroleum-based plastics."
 tags: ["Teysha Technologies"]
 category: "Certifications"

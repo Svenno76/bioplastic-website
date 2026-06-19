@@ -1,9 +1,12 @@
 ---
 title: "Feedstock (Bioplastics)"
+description: "Definition of bioplastics feedstock: renewable raw materials used to produce bioplastics. Learn about first-generation (sugarcane, corn) and second-generation (waste biomass) feedstocks."
 aka: ["Biogenic feedstock", "Renewable raw material", "Biomass feedstock"]
 term_type: "supply chain concept"
 related: ["PLA", "PHA", "Bio-based", "First-generation feedstock", "Second-generation feedstock", "Drop-in Bioplastic"]
 summary: "Feedstock refers to the raw biological materials used to produce bioplastics. These range from food crops (1G) to agricultural waste (2G) and algae or CO₂ (3G). The choice of feedstock significantly impacts cost, sustainability credentials, and the carbon footprint of the resulting bioplastic."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Is Bioplastics Feedstock?

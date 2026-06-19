@@ -2,6 +2,8 @@
 title: "Aduro Secures $20M for Bioplastic Demonstration Plant Construction"
 date: 2026-01-07
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Aduro Clean Technologies has raised $20 million in funding to accelerate the construction of a demonstration plant utilizing its patented technology to transform plastic waste into valuable resources."
 tags: ["Aduro Clean Technologies"]
 category: "Investment & Funding"

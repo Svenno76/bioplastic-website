@@ -1,9 +1,12 @@
 ---
 title: "Biodegradable"
+description: "Definition of biodegradable materials: substances that can be broken down by microorganisms into water, CO2, and biomass. Learn about biodegradation standards, conditions, and certification."
 aka: ["Biodegradable material", "Biological degradation"]
 term_type: "term"
 related: ["Compostable", "PLA", "PHA", "Microbial Degradation", "EN 13432", "Composting Infrastructure"]
 summary: "Biodegradable materials can be broken down by microorganisms into natural substances like water, carbon dioxide, and biomass. Biodegradation rates and conditions vary significantly by material and environment — making standardized testing and proper end-of-life infrastructure essential."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Does "Biodegradable" Mean?

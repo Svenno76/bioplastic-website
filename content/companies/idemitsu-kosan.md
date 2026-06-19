@@ -13,6 +13,8 @@ publicly_listed: true
 stock_ticker: "5019 (Tokyo Stock Exchange)"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

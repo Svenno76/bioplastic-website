@@ -2,6 +2,8 @@
 title: "From Air to Plastics: Norsk e-Fuel and Braskem Partner to Turn Captured Carbon into Long-Lasting Products"
 date: 2023-12-06
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Braskem and Norsk e-Fuel have formed a strategic partnership to explore integrating e-Naphtha"
 tags: ["Braskem", "Norsk e-Fuel"]
 category: "Partnerships"

@@ -4,6 +4,8 @@ aka: ["Drop-in biopolymer", "Bio-based drop-in", "Chemically identical bioplasti
 term_type: "material category"
 related: ["Bio-PE", "Bio-PET", "Bio-PP", "Drop-in Replacement", "Recycling", "Circular Economy"]
 summary: "Drop-in bioplastics are bio-based versions of conventional plastics that are chemically identical to their fossil-based counterparts. Because they are molecularly the same, they can be processed on existing manufacturing equipment and recycled in existing streams — offering a seamless transition path to bio-based materials without infrastructure changes."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Are Drop-in Bioplastics?

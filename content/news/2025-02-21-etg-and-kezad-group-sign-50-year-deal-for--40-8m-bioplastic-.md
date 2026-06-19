@@ -2,6 +2,8 @@
 title: "ETG and KEZAD Group Sign 50-Year Deal for $40.8M Bioplastic Facility"
 date: 2025-02-27
 draft: false
+sitemap:
+  priority: 0.7
 summary: "ETG Bio Green Polymer has secured a 50-year land lease with KEZAD Group to establish a AED 150 million bioplastic and recycling facility in Abu Dhabi."
 tags: ["ETG Bio Green Polymer", "KEZAD Group", "Export Trading Group", "rPET", "Recycling"]
 category: "Plant Announcement"

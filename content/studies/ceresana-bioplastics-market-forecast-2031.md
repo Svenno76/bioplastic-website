@@ -2,6 +2,8 @@
 title: "Bioplastics Market to Reach $18.7 Billion by 2031"
 date: 2026-06-09
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The global bioplastics market is projected to reach $18.7 billion by 2031, driven by rising demand for sustainable alternatives. The biodegradable plastics segment shows the strongest growth."
 study_type: "Market Analysis"
 publisher: "Ceresana"

@@ -3,6 +3,8 @@
 title: "Octarine Bio Secures €5M to Scale Bio-Based Pigments"
 date: 2026-01-27
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Octarine Bio raises €5 million to accelerate the industrial scaling of its precision-fermented, non-toxic pigment platform for sustainable material applications."
 tags: ["Octarine Bio", "Bio-Based Pigments", "Precision Fermentation"]
 category: "Investment & Funding"

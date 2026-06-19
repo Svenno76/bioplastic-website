@@ -4,6 +4,8 @@ aka: ["Green PP", "Bio-based Polypropylene", "Plant-based PP", "Renewable PP"]
 term_type: "material"
 related: ["Bio-PE", "Bio-PET", "Polypropylene", "Drop-in Bioplastic", "Drop-in Replacement"]
 summary: "Bio-PP is polypropylene manufactured from renewable feedstocks like sugarcane ethanol instead of petroleum. Chemically identical to conventional PP, Bio-PP offers the same performance while reducing carbon footprint and fossil fuel dependency."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Is Bio-PP?

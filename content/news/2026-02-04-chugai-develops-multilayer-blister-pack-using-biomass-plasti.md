@@ -2,6 +2,8 @@
 title: "Chugai Develops Multilayer Blister Pack Using Biomass Plastics"
 date: 2026-02-04
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Chugai Pharmaceutical has successfully developed a prototype multilayer press-through package incorporating biomass-derived plastics to reduce the carbon footprint of drug delivery systems."
 tags: ["Chugai Pharmaceutical", "Biomass Plastics", "Blister Packaging", "PTP"]
 category: "Product Launch"

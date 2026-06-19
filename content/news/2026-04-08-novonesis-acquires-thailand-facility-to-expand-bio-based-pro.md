@@ -3,6 +3,8 @@
 title: "Novonesis Acquires Thailand Facility to Expand Bio-Based Production"
 date: 2026-04-08
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Novonesis has acquired a manufacturing facility in Thailand to scale up its regional production of enzymes and biological solutions for the bio-based materials sector."
 tags: ["Novonesis", "Enzymes", "Fermentation", "Bio-Based Polymers"]
 category: "M&A"

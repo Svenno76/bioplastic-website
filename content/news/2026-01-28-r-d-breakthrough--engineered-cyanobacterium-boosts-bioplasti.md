@@ -2,6 +2,8 @@
 title: "R&D Breakthrough: Engineered Cyanobacterium Boosts Bioplastic Yield"
 date: 2026-01-28
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at the University of Tuebingen have successfully engineered cyanobacteria to significantly increase the intracellular accumulation of polyhydroxybutyrate (PHB) for industrial applications."
 tags: ["University of Tuebingen", "PHB", "Cyanobacteria", "Metabolic Engineering", "PHA"]
 category: "Product Launch"

@@ -13,6 +13,8 @@ publicly_listed: true
 stock_ticker: "ASX:AMC, NYSE:AMCR"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

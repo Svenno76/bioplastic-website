@@ -16,6 +16,8 @@ production_capacity:
     location: "Athens, Georgia, USA and Singapore operations"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

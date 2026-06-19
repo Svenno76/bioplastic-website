@@ -2,6 +2,8 @@
 title: "Bioplastics Market to Reach $18.7 Billion by 2031"
 date: 2026-06-09
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The global bioplastics market was valued at $6.3 billion in 2021 and is projected to reach $18.7 billion by 2031, growing at a CAGR of 11.7% from 2022 to 2031."
 study_type: "Commercial Report"
 publisher: "Allied Market Research"

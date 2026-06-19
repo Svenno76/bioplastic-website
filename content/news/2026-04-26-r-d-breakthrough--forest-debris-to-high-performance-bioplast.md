@@ -2,6 +2,8 @@
 title: "R&D Breakthrough: Forest Debris to High-Performance Bioplastics"
 date: 2026-04-26
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The National Institute of Forest Science has developed a low-energy catalytic process to transform discarded wood and forestry waste into high-performance, lignocellulose-derived bioplastics."
 tags: ["Lignocellulosic Biomass", "National Institute of Forest Science", "Low-Energy Catalysis"]
 category: "Product Launch"

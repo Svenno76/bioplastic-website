@@ -3,6 +3,8 @@
 title: "Arkema showcases innovative and sustainable Eyewear solutions at MIDO 2026"
 date: 2026-01-22
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Arkema is set to unveil its advanced portfolio of castor-based polymers for the eyewear industry at the MIDO 2026 exhibition in Milan."
 tags: ["Arkema", "PA11", "Rilsan", "Pebax", "Castor Oil", "MIDO 2026", "Eyewear"]
 category: "Product Launch"

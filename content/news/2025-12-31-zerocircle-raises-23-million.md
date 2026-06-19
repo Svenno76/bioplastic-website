@@ -2,6 +2,8 @@
 title: "Zerocircle raises $2.3 million"
 date: 2025-12-31
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Zerocircle raised $2.3 million for biopolymer technology advancements."
 tags: ["Zerocircle"]
 category: "Investment & Funding"

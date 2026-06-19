@@ -2,6 +2,8 @@
 title: "Westlake Announces Acquisition of ACI Compounding Solutions Business"
 date: 2025-08-27
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Westlake Corporation has strategically expanded its materials portfolio by acquiring ACI Compounding Solutions, a move aimed at bolstering its presence in sustainable and high-performance plastic compounding."
 tags: ["Westlake", "ACI Compounding Solutions"]
 category: "M&A"

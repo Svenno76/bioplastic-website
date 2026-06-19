@@ -2,6 +2,8 @@
 title: "Idemitsu and Mitsubishi Electric Partner on Biomass Plastics for Appliances"
 date: 2025-02-24
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Idemitsu Kosan and Mitsubishi Electric form an alliance to integrate mass-balance biomass plastics into household appliances, aiming to reduce industrial carbon footprints."
 tags: ["Idemitsu Kosan", "Mitsubishi Electric", "Mass Balance", "Polystyrene", "Polycarbonate"]
 category: "Partnerships"

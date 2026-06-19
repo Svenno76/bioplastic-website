@@ -3,6 +3,8 @@
 title: "Balrampur Chini Secures First Institutional Order for PLA Bioplastics"
 date: 2026-02-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Balrampur Chini Mills achieves a commercial milestone by securing its first institutional order for sugarcane-derived PLA products from the Lucknow Cantonment Board."
 tags: ["Balrampur Chini Mills Ltd.", "Lucknow Cantonment Board", "PLA"]
 category: "Partnerships"

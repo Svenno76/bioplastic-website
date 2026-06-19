@@ -21,6 +21,8 @@ production_capacity:
   status: Full production from 2024
 date: '2026-01-05'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

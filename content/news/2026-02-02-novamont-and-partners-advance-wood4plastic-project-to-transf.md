@@ -2,6 +2,8 @@
 title: "Novamont and Partners Advance WOOD4PLASTIC Project to Transform Hardwood Waste into Bioplastics"
 date: 2026-02-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Novamont and project partners report significant progress in the WOOD4PLASTIC initiative, successfully converting underutilized hardwood residues into biodegradable plastic applications."
 tags: ["Novamont", "WOOD4PLASTIC", "Lignocellulosic Biomass", "Hardwood"]
 category: "Partnerships"

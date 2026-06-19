@@ -14,6 +14,8 @@ stock_ticker:
 parent_organization: "DECHEMA (Gesellschaft für Chemische Technik und Biotechnologie)"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

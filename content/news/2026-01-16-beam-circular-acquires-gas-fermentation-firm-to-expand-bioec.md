@@ -2,6 +2,8 @@
 title: "BEAM Circular Acquires Gas Fermentation Firm to Expand Bioeconomy"
 date: 2026-01-16
 draft: false
+sitemap:
+  priority: 0.7
 summary: "BEAM Circular has announced the strategic acquisition of a gas fermentation firm to accelerate the production of bio-based materials from industrial and agricultural emissions."
 tags: ["BEAM Circular"]
 category: "M&A"

@@ -3,6 +3,8 @@
 title: "TotalEnergies Corbion and Benvic expand low-carbon compounds"
 date: 2026-01-06
 draft: false
+sitemap:
+  priority: 0.7
 summary: "TotalEnergies Corbion and Benvic teamed up to expand low-carbon biopolymer compounds for automotive and electronics."
 tags: ["TotalEnergies", "Benvic"]
 category: "Partnerships"

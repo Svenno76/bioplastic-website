@@ -2,6 +2,8 @@
 title: "SABIC Unveils Bio-Compatible Fluoropolymer Alternatives"
 date: 2026-02-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "SABIC debuts new LNP LUBRICOMP compounds at MD&M West, offering a biocompatible, PFAS-free alternative to fluoropolymers for medical tubing applications."
 tags: ["SABIC", "LNP LUBRICOMP", "Medical Tubing", "PFAS-free", "Fluoropolymers"]
 category: "Product Launch"

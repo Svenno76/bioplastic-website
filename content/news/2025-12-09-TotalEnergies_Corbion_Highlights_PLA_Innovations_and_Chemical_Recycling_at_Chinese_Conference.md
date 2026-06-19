@@ -3,6 +3,8 @@
 title: "TotalEnergies Corbion Highlights PLA Innovations and Chemical Recycling at Chinese Conference"
 date: 2025-12-09
 draft: false
+sitemap:
+  priority: 0.7
 summary: "TotalEnergies Corbion showcased its Luminy® PLA innovations, highlighting its 100% biobased, recyclable, and industrially compostable nature, alongside successful chemical recycling advancements at a major Chinese conference."
 tags: ["TotalEnergies", "PLA", "Chemical Recycling", "Biobased Materials", "Circular Economy", "China Conference"]
 category: "Market Analysis"

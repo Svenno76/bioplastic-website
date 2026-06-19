@@ -2,6 +2,9 @@
 title: "Concordia University Expands Sustainable Biomanufacturing Capacity with $5M Investment"
 date: 2025-12-11
 draft: false
+sitemap:
+  priority: 0.7
+noindex: true
 summary: "Concordia University has significantly upgraded its Genome Foundry and Bioprocessing facilities with a $5 million investment, enhancing its position as a leading Canadian hub for synthetic biology and sustainable biomanufacturing."
 tags: ["Concordia University", "Biomanufacturing", "Synthetic Biology", "CFI Investment", "Bioplastics"]
 category: "Investment & Funding"

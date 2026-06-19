@@ -17,6 +17,8 @@ production_capacity:
     status: "Under construction, operational target early 2028"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

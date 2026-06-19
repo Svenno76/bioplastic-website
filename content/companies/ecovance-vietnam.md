@@ -22,6 +22,8 @@ production_capacity:
     status: "Under construction, completion Q3 2025"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

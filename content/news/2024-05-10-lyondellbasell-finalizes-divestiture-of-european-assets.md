@@ -2,6 +2,8 @@
 title: "LyondellBasell Finalizes Divestiture of European Assets"
 date: 2026-05-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "LyondellBasell has completed the sale of select European assets to streamline its regional portfolio and redirect capital toward its circular and biopolymer manufacturing initiatives."
 tags: ["LyondellBasell", "Asset Divestiture", "CirculenRenew", "Polyolefins", "Mass Balance"]
 category: "M&A"

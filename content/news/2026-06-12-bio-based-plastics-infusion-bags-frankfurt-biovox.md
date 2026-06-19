@@ -2,6 +2,8 @@
 title: "Bio-based Plastics for Infusion Bags — Frankfurt Research Team Develops Sustainable Alternative to Medical Products From Crude Oil"
 date: 2026-06-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "A research team at Goethe-Universität Frankfurt, in cooperation with bioplastics start-up BIOVOX, is developing fully biodegradable bioplastics for medical applications including infusion bags, replacing petroleum-based materials."
 tags: ["Medical Bioplastics", "BIOVOX", "Healthcare", "Biodegradable", "Frankfurt", "Research"]
 category: "Research"

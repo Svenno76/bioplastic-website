@@ -2,6 +2,8 @@
 title: "Kemvera Completes Design for Commercial Bio-Acetic Acid Plant"
 date: 2026-01-21
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Kemvera has finalized the engineering design for its first commercial-scale facility dedicated to producing low-carbon bio-acetic acid and bio-ethyl acetate."
 tags: ["Kemvera", "Bio-Acetic Acid", "Bio-Ethyl Acetate", "Photocatalysis"]
 category: "Plant Announcement"

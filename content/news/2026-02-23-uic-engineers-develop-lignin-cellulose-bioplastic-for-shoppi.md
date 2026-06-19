@@ -2,6 +2,8 @@
 title: "UIC Engineers Develop Lignin-Cellulose Bioplastic for Shopping Bags"
 date: 2026-02-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at the University of Illinois Chicago have engineered a recyclable, film-like bioplastic derived from agricultural waste to replace petroleum-based shopping bags."
 tags: ["Lignin", "Cellulose", "University of Illinois Chicago", "Packaging", "LDPE Replacement"]
 category: "Product Launch"

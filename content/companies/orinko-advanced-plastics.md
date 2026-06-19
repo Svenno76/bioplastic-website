@@ -13,6 +13,8 @@ publicly_listed: true
 stock_ticker: "Listed 2021 (China)"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

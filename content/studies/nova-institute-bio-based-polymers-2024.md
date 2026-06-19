@@ -2,6 +2,8 @@
 title: "Bio-Based Polymers: Market Data and Forecasts"
 date: 2024-09-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Comprehensive market analysis by Nova Institute covering bio-based polymer production, consumption patterns, and growth forecasts through 2035"
 study_type: "Commercial Report"
 publisher: "Nova Institute"

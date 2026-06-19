@@ -2,6 +2,8 @@
 title: "Bloom Achieves 3-Ton Production Milestone for Wood-Derived Bioplastics"
 date: 2026-02-25
 draft: false
+sitemap:
+  priority: 0.7
 summary: "EPFL spin-off Bloom successfully scales up its proprietary fractionation technology to produce three tons of biomass-based polyesters, marking a critical step toward industrial commercialization."
 tags: ["Bloom", "EPFL", "Lignin", "Cellulose", "Polyesters", "Aldehyde-Assisted Fractionation"]
 category: "Product Launch"

@@ -2,6 +2,8 @@
 title: "Copersucar Launches BioRota: Brazil's Largest Biomethane-Powered Logistics Fleet"
 date: 2026-05-13
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Copersucar launches BioRota with 70+ biomethane trucks, replacing 5 million liters of diesel and avoiding 8,000 tons of CO₂. Biomethane produced from sugarcane residues at Cocal's pioneering plants in São Paulo."
 tags: ["Biomethane", "Logistics", "Brazil", "Sugarcane", "Fleet", "CO₂ Reduction"]
 category: "Plant Announcement"

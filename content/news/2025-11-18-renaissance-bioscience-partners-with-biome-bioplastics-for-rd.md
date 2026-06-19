@@ -4,6 +4,8 @@
 title: "Renaissance BioScience Partners with Biome Bioplastics for R&D"
 date: 2025-11-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Renaissance BioScience and Biome Bioplastics launched a two-year, $1.06 million R&D initiative to develop renewable plastic alternatives for packaging and personal care."
 tags: ["Renaissance BioScience and Biome Bioplastics", "Partnership", "Collaboration"]
 category: "Partnerships"

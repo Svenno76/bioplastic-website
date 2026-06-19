@@ -2,6 +2,8 @@
 title: "Japanese Researchers Develop Marine-Degradable Cellulose Plastic"
 date: 2026-01-14
 draft: false
+sitemap:
+  priority: 0.7
 summary: "A research team at Japan’s RIKEN Center for Emergent Matter Science has successfully developed a high-performance cellulose-based plastic that fully decomposes in marine environments, providing a sustainable alternative to traditional petroleum-based polymers."
 tags: ["RIKEN Center for Emergent Matter Science"]
 category: "Product Launch"

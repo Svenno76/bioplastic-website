@@ -2,6 +2,8 @@
 title: "Empire Diversified Energy Funds New US Chemical Recycling Plant"
 date: 2025-02-28
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Empire Diversified Energy secures $10 million in financing to complete the commissioning of its waste-to-energy chemical recycling facility in West Virginia."
 tags: ["Empire Diversified Energy", "Chemical Recycling", "Syngas", "Pyrolysis", "West Virginia", "Waste-to-Energy", "Hydrogen"]
 category: "Investment & Funding"

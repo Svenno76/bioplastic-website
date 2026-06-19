@@ -3,6 +3,8 @@
 title: "R&D Breakthrough: Genetically Engineered Algae Creates Bioplastics"
 date: 2026-02-01
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at the University of Missouri have utilized genetically modified algae strains to synthesize biodegradable polymers, offering a scalable, carbon-negative alternative to traditional plastics."
 tags: ["University of Missouri", "Algae", "PHA", "Genetic Engineering", "Bio-Based Polymers"]
 category: "Product Launch"

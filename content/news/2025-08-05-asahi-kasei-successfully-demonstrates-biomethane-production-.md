@@ -2,6 +2,8 @@
 title: "Asahi Kasei successfully demonstrates biomethane production with high yield and high purity using biogas from organic waste"
 date: 2025-08-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Asahi Kasei has successfully achieved high-yield, high-purity biomethane production from organic waste biogas, advancing sustainable feedstock availability for chemical and polymer manufacturing."
 tags: ["Asahi Kasei", "Biomethane", "Biogas", "Chemical Feedstock", "Gas Separation"]
 category: "Product Launch"

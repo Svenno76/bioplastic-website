@@ -14,6 +14,8 @@ parent_company: "Versalis (acquired April 2023)"
 production_facilities: "Terni, Bottrighe, Patrica (France), Dagö (Estonia), Porto Torres (Matrìca joint venture)"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

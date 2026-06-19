@@ -3,6 +3,8 @@
 title: "Covestro Opens New TPU Production Site in Zhuhai"
 date: 2026-01-22
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Covestro expands its Asian footprint with a new manufacturing facility in Zhuhai dedicated to high-performance and sustainable thermoplastic polyurethanes."
 tags: ["Covestro", "TPU"]
 category: "Plant Announcement"

@@ -4,6 +4,8 @@
 title: "Lubrizol Unveils 2025 Innovations, Featuring New Readily Biodegradable Polymers"
 date: 2025-04-08
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Lubrizol has launched new readily biodegradable polymers, Carbopol® BioSense Polymer and Sensomer™ Cassia 115 Polymer, reinforcing its commitment to sustainable chemistry in personal care and other industries."
 tags: ["Lubrizol", "Biodegradable Polymers", "Personal Care", "Sustainable Chemistry", "Product Launch"]
 category: "Product Launch"

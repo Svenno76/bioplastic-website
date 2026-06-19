@@ -16,6 +16,8 @@ production_capacity:
     location: "Blair, Nebraska, USA"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

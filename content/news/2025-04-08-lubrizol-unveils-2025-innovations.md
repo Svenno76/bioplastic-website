@@ -3,6 +3,8 @@
 title: "Lubrizol Unveils 2025 Innovations"
 date: 2025-04-08
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Lubrizol has launched new readily biodegradable polymers"
 tags: ['Lubrizol', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

@@ -2,6 +2,8 @@
 title: "Amcor Expands Italian Facility to Boost Sustainable Film Capacity"
 date: 2026-03-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Global packaging leader Amcor has expanded its manufacturing plant in Italy to significantly increase the production capacity of its recyclable, reusable, and compostable flexible films."
 tags: ["Amcor", "Flexible Packaging", "Compostable Films", "Mono-materials"]
 category: "Plant Announcement"

@@ -2,6 +2,8 @@
 title: "Cirplus is entering liquidation"
 date: 2026-03-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Digital B2B procurement platform Cirplus has officially entered liquidation, marking the end of its operations in the circular and bio-based plastics marketplace."
 tags: ["Cirplus", "Recycled Plastics", "Bioplastics", "Digital Platform"]
 category: "Financial Results"

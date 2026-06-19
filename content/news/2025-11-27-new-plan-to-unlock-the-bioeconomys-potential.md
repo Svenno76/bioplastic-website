@@ -3,6 +3,8 @@
 title: "New plan to unlock the bioeconomy's potential"
 date: 2025-11-27
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The European Commission has adopted a new Bioeconomy Strategy"
 tags: ['European Commission', 'Regulatory & Policy']
 category: "Regulatory & Policy"

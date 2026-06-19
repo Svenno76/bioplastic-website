@@ -3,6 +3,8 @@
 title: "BASF Expands Ultrason Portfolio with Biomass-Balanced PPSU Grade"
 date: 2026-04-09
 draft: false
+sitemap:
+  priority: 0.7
 summary: "BASF has introduced a new biomass-balanced polyphenylsulfone (PPSU) grade to its Ultrason portfolio, offering manufacturers a drop-in solution with a lower carbon footprint."
 tags: ["BASF", "PPSU", "Biomass Balance", "Ultrason"]
 category: "Product Launch"

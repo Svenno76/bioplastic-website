@@ -2,6 +2,8 @@
 title: "Covestro Signs Contract for Smart Pyrolysis Recycling Pilot Plant"
 date: 2026-03-16
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Covestro and Fraunhofer UMSICHT have finalized an agreement to construct a pioneering smart pyrolysis pilot plant aimed at advancing the chemical recycling of complex polymer waste streams."
 tags: ["Covestro", "Fraunhofer UMSICHT", "Smart Pyrolysis", "Chemical Recycling", "Polyurethanes", "Polycarbonates"]
 category: "Plant Announcement"

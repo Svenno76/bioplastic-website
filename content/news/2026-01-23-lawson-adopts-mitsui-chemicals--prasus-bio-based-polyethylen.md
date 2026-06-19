@@ -3,6 +3,8 @@
 title: "Lawson Adopts Mitsui Chemicals' Prasus Bio-based Polyethylene"
 date: 2026-01-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Lawson integrates Mitsui Chemicals' mass-balance bio-based polyethylene into its retail packaging to reduce carbon footprint without compromising material performance."
 tags: ["Mitsui Chemicals", "Lawson", "PE", "Prasus", "Mass Balance"]
 category: "Partnerships"

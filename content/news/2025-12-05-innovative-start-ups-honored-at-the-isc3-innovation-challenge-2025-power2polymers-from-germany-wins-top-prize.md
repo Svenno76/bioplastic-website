@@ -3,6 +3,8 @@
 title: "Innovative Start-Ups Honored at the ISC3 Innovation Challenge 2025 – Power2Polymers from Germany wins top prize"
 date: 2025-12-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Power2Polymers"
 tags: ['Power2Polymers', 'investment-&-funding', 'Investment', 'Funding']
 category: "Investment & Funding"

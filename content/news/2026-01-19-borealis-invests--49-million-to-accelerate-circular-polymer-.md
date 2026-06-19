@@ -2,6 +2,8 @@
 title: "Borealis Invests €49 Million to Accelerate Circular Polymer Design"
 date: 2026-01-19
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Borealis has announced a €49 million investment at its Burghausen site in Germany to upgrade facilities for the advanced design and production of circular polymers."
 tags: ["Borealis"]
 category: "Investment & Funding"

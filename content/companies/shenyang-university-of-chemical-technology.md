@@ -12,6 +12,8 @@ market_segments: Automotive, appliances, construction, packaging, engineering
 publicly_listed: false
 date: '2026-01-02'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 Shenyang University of Chemical Technology, located in Shenyang, China, is a leading academic institution focused on chemical and materials research. The university collaborates with Northeast Forestry University on developing innovative bamboo cellulose-based bioplastics using advanced non-toxic alcohol solvent processes.

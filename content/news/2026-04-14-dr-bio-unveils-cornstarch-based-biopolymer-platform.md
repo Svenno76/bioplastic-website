@@ -2,6 +2,8 @@
 title: "Dr Bio Unveils Cornstarch-Based Biopolymer Platform"
 date: 2026-04-14
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Dr Bio has launched a versatile new cornstarch-based biopolymer platform designed to offer highly tunable, compostable alternatives for the flexible packaging and consumer goods sectors."
 tags: ["Dr Bio", "Cornstarch", "Thermoplastic Starch", "Biopolymer"]
 category: "Product Launch"

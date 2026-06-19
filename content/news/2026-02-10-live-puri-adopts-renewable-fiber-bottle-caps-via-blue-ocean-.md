@@ -2,6 +2,8 @@
 title: "Live Puri Adopts Renewable Fiber Bottle Caps via Blue Ocean Closures"
 date: 2026-02-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Nutrition brand Live Puri transitions from metal closures to Blue Ocean Closures' fiber-based NutraCap to improve packaging recyclability and lower carbon footprint."
 tags: ["Live Puri", "Blue Ocean Closures", "NutraCap", "Cellulose", "Fiber Packaging"]
 category: "Product Launch"

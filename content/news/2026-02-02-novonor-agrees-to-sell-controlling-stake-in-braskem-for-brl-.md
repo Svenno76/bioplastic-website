@@ -3,6 +3,8 @@
 title: "Novonor Agrees to Sell Controlling Stake in Braskem for BRL 20 Billion"
 date: 2025-12-15
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Novonor concludes its divestment strategy by agreeing to sell its controlling interest in petrochemical giant Braskem to private equity firm IG4 Capital for BRL 20 billion."
 tags: ["Braskem", "Novonor", "IG4 Capital", "Petrobras", "Bio-PE", "PE", "Bio-PP"]
 category: "M&A"

@@ -3,6 +3,8 @@
 title: "Braskem Expands Renewable Innovation Center"
 date: 2025-11-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Braskem continues expansion of its $20 million Renewable Innovation Center in Massachusetts, targeting 1 million tons of annual bioproduct capacity by 2030 and advancing biopolymer R&D."
 tags: ['Braskem', 'Plant Announcement', 'Manufacturing', 'Capacity']
 category: "Plant Announcement"

@@ -2,6 +2,8 @@
 title: "EU-Funded UNICO2RN Project Launches to Transform CO2 into Bioplastics"
 date: 2026-02-25
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The EU-funded UNICO2RN consortium, led by Avantium, has launched a major initiative to scale electrochemical technologies that convert industrial CO2 emissions into sustainable polyester building blocks."
 tags: ["Avantium", "UNICO2RN", "Carbon Capture", "Electrochemical Conversion", "Polyesters"]
 category: "Investment & Funding"

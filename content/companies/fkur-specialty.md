@@ -16,6 +16,8 @@ production_capacity:
     location: "Willich, Germany; Cedar Park, Texas; Pune, India (SKYi FKuR JV)"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

@@ -8,6 +8,8 @@ fields_of_interest: Bioplastics policy, sustainability regulations, circular eco
   research and innovation funding
 date: 2026-01-02
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 The European Commission is the executive body of the European Union responsible for policy-making and enforcement. It plays a critical role in shaping bioplastics regulations, circular economy policies, and sustainability standards across the EU. The Commission sets policy priorities for sustainable materials and biodegradable polymers, influencing industry standards and market development.

@@ -2,6 +2,8 @@
 title: "Orinko Advanced Plastics Acquires 70% Stake in Omikron"
 date: 2026-01-09
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Orinko Advanced Plastics has strengthened its position in the sustainable materials market by acquiring a 70% controlling stake in Omikron to accelerate the development of high-performance polymers."
 tags: ["Orinko Advanced Plastics", "Omikron"]
 category: "M&A"

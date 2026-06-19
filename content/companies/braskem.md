@@ -17,6 +17,8 @@ production_capacity:
     location: "Brazil, USA, Europe"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

@@ -4,6 +4,8 @@ aka: ["Composting facilities", "Composting systems", "Organic waste processing"]
 term_type: "concept"
 related: ["Compostable", "Biodegradable", "EN 13432", "Circular Economy", "PLA"]
 summary: "Composting infrastructure refers to the facilities, systems, and processes that collect, process, and decompose compostable materials at scale. Adequate infrastructure is essential for biodegradable and compostable materials to achieve their environmental benefits."
+sitemap:
+  priority: 0.6
 ---
 
 ## Why Composting Infrastructure Matters

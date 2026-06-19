@@ -3,6 +3,8 @@
 title: "New bamboo bioplastic offers strong alternative to traditional plastics"
 date: 2025-11-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Scientists in China have developed a high-performance bamboo bioplastic that surpasses conventional "
 tags: ['Northeast Forestry University and Shenyang University of Chemical Technology', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

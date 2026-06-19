@@ -1,15 +1,14 @@
-```yaml
-title: FutureBio startup to make completely recyclable plastic cost-competitive
+---
+title: FutureBio startup to make completely recyclable plastic cost competitive
 company: FutureBio Inc.
 date: 2025-12-15
 link: https://www.futurebio.net/news
-classification:
-  - Bioplastic Producer
-  - Technology Company
 category:
   - Investment & Funding
   - Product Launch
-```
+sitemap:
+  priority: 0.7
+---
 ### Expert Analysis: FutureBio Inc. Advances Cost-Competitive, Recyclable Bioplastics
 
 FutureBio Inc., a biotech startup headquartered in Berkeley, California, is emerging as a significant player in the sustainable materials sector with its focus on developing completely recyclable and cost-competitive plastics. Founded in 2024, the company's core mission revolves around combating climate change, reducing carbon emissions, and promoting a circular economy through innovative biomanufacturing solutions.

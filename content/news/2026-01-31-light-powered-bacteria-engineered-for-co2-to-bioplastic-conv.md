@@ -2,6 +2,8 @@
 title: "Light-Powered Bacteria Engineered for CO2-to-Bioplastic Conversion"
 date: 2026-01-31
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers have engineered a bacterial strain capable of utilizing light energy to convert atmospheric carbon dioxide into biodegradable PHB plastics and biofuels."
 tags: ["Carbon Capture", "PHB", "Synthetic Biology", "Biofuels"]
 category: "Product Launch"

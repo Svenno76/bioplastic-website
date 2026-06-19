@@ -2,6 +2,8 @@
 title: "Asahi Kasei to unveil PFAS-free polyamide and CFRP recycling technology at K 2025"
 date: 2025-09-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Asahi Kasei will introduce its innovative PFAS-free polyamide compounds and an advanced carbon fiber reinforced plastic (CFRP) recycling technology at the upcoming K 2025 trade fair."
 tags: ["Asahi Kasei", "Polyamide", "PFAS-free", "CFRP", "Recycling"]
 category: "Product Launch"

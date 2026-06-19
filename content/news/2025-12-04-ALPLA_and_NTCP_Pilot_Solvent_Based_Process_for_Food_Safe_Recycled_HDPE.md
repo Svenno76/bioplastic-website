@@ -2,6 +2,8 @@
 title: "ALPLA and NTCP Pilot Solvent-Based Process for Food-Safe Recycled HDPE"
 date: 2025-12-04
 draft: false
+sitemap:
+  priority: 0.7
 summary: "ALPLA and NTCP are piloting a solvent-based process in the Netherlands to produce food-safe recycled HDPE, supported by a Dutch government grant, aiming for industrial scale by 2030."
 tags: ["ALPLA", "NTCP", "Recycling", "HDPE", "Food-Grade Plastics", "Circular Economy", "Netherlands"]
 category: "Plant Announcement"

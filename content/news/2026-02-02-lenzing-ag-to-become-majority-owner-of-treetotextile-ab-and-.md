@@ -2,6 +2,8 @@
 title: "Lenzing AG to become majority owner of TreeToTextile AB and accelerates industrialization of new fibers"
 date: 2026-02-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Lenzing AG acquires a majority stake in TreeToTextile AB to leverage its operational expertise and accelerate the commercial scale-up of novel cellulosic fiber technology."
 tags: ["Lenzing AG", "TreeToTextile AB", "Cellulose", "Textile Fibers", "H&M Group", "Inter IKEA Group"]
 category: "M&A"

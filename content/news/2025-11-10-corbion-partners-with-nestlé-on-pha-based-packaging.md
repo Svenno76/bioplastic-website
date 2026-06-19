@@ -3,6 +3,8 @@
 title: "Corbion Partners with Nestlé on PHA-Based Packaging"
 date: 2025-11-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Corbion partnered with Nestlé to co-develop PHA-based barrier materials for shelf-stable, compostable food packaging, advancing circular packaging systems and sustainability commitments."
 tags: ['Corbion', 'Partnership']
 category: "Partnerships"

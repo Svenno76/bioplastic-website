@@ -2,6 +2,8 @@
 title: "Grand Opening of Fully Integrated PLA Plant in Thailand"
 date: 2026-04-30
 draft: false
+sitemap:
+  priority: 0.7
 summary: "NatureWorks has officially inaugurated its fully integrated Ingeo PLA manufacturing facility in Thailand, significantly expanding its global biopolymer production capacity."
 tags: ["NatureWorks", "PLA", "Ingeo", "Lactide"]
 category: "Plant Announcement"

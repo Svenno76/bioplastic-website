@@ -3,6 +3,8 @@
 title: "CJ Biomaterials Wins 2025 Innovation in Bioplastics Award"
 date: 2025-11-14
 draft: false
+sitemap:
+  priority: 0.7
 summary: "CJ Biomaterials was recognized with the 2025 Innovation in Bioplastics Award for its advancements in biopolymer technology and sustainable materials, highlighting its leadership in the bioplastics industry."
 tags: ['CJ Biomaterials', 'Certification', 'Standards']
 category: "Certifications"

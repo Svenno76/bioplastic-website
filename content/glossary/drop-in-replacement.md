@@ -4,6 +4,8 @@ aka: ["Direct replacement", "Backward compatible material", "Chemically identica
 term_type: "concept"
 related: ["Bio-PE", "Bio-PP", "Bio-PET", "Drop-in Bioplastic", "Biodegradable"]
 summary: "A drop-in replacement is a material that can substitute for a conventional polymer in existing applications and manufacturing processes without requiring equipment or process modifications. Drop-in bioplastics are chemically identical to their fossil counterparts, enabling seamless industry transition."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Is a Drop-in Replacement?

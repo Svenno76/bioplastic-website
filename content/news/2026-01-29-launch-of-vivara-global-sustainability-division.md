@@ -2,6 +2,8 @@
 title: "Launch of Vivara Global Sustainability Division"
 date: 2026-01-29
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Tiderock Companies establishes a new subsidiary focused on sustainable infrastructure and the deployment of advanced bio-based construction materials."
 tags: ["Tiderock Companies", "Vivara Global", "Biocomposites", "Green Building"]
 category: "Product Launch"

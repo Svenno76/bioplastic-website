@@ -16,6 +16,8 @@ production_capacity:
     location: "Lestrem, France (headquarters); global facilities in Europe, North America, Asia"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

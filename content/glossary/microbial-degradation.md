@@ -4,6 +4,8 @@ aka: ["Enzymatic degradation", "Biodegradative metabolism", "Biological degradat
 term_type: "process"
 related: ["Biodegradable", "Compostable", "Composting Infrastructure", "PHA", "PLA"]
 summary: "Microbial degradation is the breakdown of polymers through enzymatic processes performed by microorganisms such as bacteria and fungi. This natural process is fundamental to biodegradation and composting of organic materials."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Is Microbial Degradation?

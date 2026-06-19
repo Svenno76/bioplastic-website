@@ -2,6 +2,8 @@
 title: "Poonawalla Group Invests in Regeno for Biodegradable Packaging"
 date: 2026-01-29
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The Poonawalla Group has strategically invested in Regeno to accelerate the production of biodegradable, non-toxic alternatives to single-use plastics."
 tags: ["Poonawalla Group", "Regeno", "Biodegradable Packaging", "Compostable Films"]
 category: "Investment & Funding"

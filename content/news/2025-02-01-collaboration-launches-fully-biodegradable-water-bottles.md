@@ -2,6 +2,8 @@
 title: "Collaboration Launches Fully Biodegradable Water Bottles"
 date: 2025-02-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Win Win Water partners with TotalEnergies Corbion to introduce a 100% plant-based, biodegradable water bottle utilizing Luminy® PLA technology."
 tags: ["PLA", "Luminy", "Win Win Water", "Biopolymers", "Packaging"]
 category: "Product Launch"

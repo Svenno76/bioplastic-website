@@ -1,9 +1,12 @@
 ---
 title: "Bioplastics"
+description: "Comprehensive definition of bioplastics: bio-based, biodegradable, and compostable polymers derived from renewable resources. Learn about types, applications, and standards."
 aka: ["Bioplastic", "Bio-based plastics", "Biopolymers", "Organic plastics"]
 term_type: "umbrella term"
 related: ["PLA", "PHA", "PBAT", "Starch-based Bioplastic", "Bio-based", "Biodegradable", "Compostable", "Drop-in Bioplastic"]
 summary: "Bioplastics are plastics that are derived from renewable biological feedstocks, biodegradable, or both. They encompass a diverse family of materials including PLA, PHA, PBAT, starch blends, and others that offer alternatives to petroleum-based conventional plastics with reduced environmental impact."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Are Bioplastics?

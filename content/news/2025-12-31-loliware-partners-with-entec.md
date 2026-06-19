@@ -2,6 +2,8 @@
 title: "Loliware partners with Entec"
 date: 2025-12-31
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Loliware partnered with Entec to develop seaweed biopolymer solutions."
 tags: ["Loliware", "Entec Polymers"]
 category: "Partnerships"

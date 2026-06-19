@@ -3,6 +3,8 @@
 title: "New bamboo bioplastic offers strong alternative to traditional plastics"
 date: 2025-11-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Scientists in China have developed a high-performance bamboo bioplastic that surpasses conventional plastics in strength and heat resistance, while being fully biodegradable within 50 days and recyclable. This innovative material offers a compelling sustainable alternative for various industrial applications."
 tags: ["Northeast Forestry University", "Shenyang University of Chemical Technology", "Bamboo Bioplastic", "Biodegradable Plastic", "Sustainable Materials"]
 category: "Product Launch"

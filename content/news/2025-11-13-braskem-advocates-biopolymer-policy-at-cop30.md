@@ -3,6 +3,8 @@
 title: "Braskem Advocates Biopolymer Policy at COP30"
 date: 2025-11-13
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Braskem’s Sustainable Development Director called for stronger public policies to support biopolymer demand and R&D at COP30, emphasizing the company’s leadership in renewable polyethylene."
 tags: ['Braskem', 'Partnership']
 category: "Partnerships"

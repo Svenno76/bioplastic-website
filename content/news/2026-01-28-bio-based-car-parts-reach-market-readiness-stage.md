@@ -2,6 +2,8 @@
 title: "Bio-based Car Parts Reach Market-Readiness Stage"
 date: 2026-02-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "New market intelligence indicates that high-strength automotive bioplastics have overcome critical durability and heat-resistance thresholds, signalling readiness for mass commercial adoption."
 tags: ["Bio-polyamide", "Bio-polypropylene", "High-performance Polymers", "Fiber-reinforced Bioplastics"]
 category: "Market Analysis"

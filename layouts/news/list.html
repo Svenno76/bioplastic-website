@@ -18,6 +18,14 @@
 <div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
   <section style="padding: 0;">
 
+    <!-- Page Header -->
+    <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+      <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">{{ .Title }}</h1>
+      {{ with .Params.description }}
+      <p style="font-size: 1.1rem; color: #6b7f7d; line-height: 1.5; max-width: 60rem;">{{ . }}</p>
+      {{ end }}
+    </header>
+
     <!-- Category Filter Section -->
     <div id="category-filter-section" style="margin-bottom: 2rem; padding: 2rem; background: #f7f9f8; border-radius: 12px; border: 1px solid #e0e8e6;">
       <h3 style="margin: 0 0 1.25rem 0; color: #2d5a4f; font-size: 1.1rem; font-weight: 700;">Filter by News Category:</h3>
@@ -86,9 +94,11 @@
       <span id="visible-count" style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> of <span style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> posts
     </div>
 
+    {{ $pag := .Paginate .Pages.ByDate.Reverse 12 }}
+
     <!-- News List Grid -->
     <div class="news-list" id="news-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2.5rem;">
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range $pag.Pages }}
       <article class="news-post" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}" data-companies="{{ jsonify .Params.company }}"
                style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.06); display: flex; flex-direction: column;">
 
@@ -137,6 +147,18 @@
       </article>
       {{ end }}
     </div>
+
+    {{ if or $pag.HasPrev $pag.HasNext }}
+    <nav class="pagination" style="display: flex; justify-content: center; gap: 1rem; margin-top: 2rem;">
+      {{ if $pag.HasPrev }}
+      <a href="{{ $pag.Prev.URL }}" style="padding: 0.5rem 1rem; background: var(--color-primary); color: white; border-radius: 4px; text-decoration: none;">← Previous</a>
+      {{ end }}
+      <span style="padding: 0.5rem 1rem;">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+      {{ if $pag.HasNext }}
+      <a href="{{ $pag.Next.URL }}" style="padding: 0.5rem 1rem; background: var(--color-primary); color: white; border-radius: 4px; text-decoration: none;">Next →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
 
     <!-- No Results Message -->
     <div id="no-results" style="display: none; text-align: center; padding: 3rem 0; color: #6b7f7d; font-style: italic;">

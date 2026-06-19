@@ -18,6 +18,8 @@ production_capacity:
     status: "Operational (at time of bankruptcy, December 2019)"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

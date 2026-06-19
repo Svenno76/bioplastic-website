@@ -3,6 +3,8 @@
 title: "BASF Expands ecovio Biodegradable Mulch Film Portfolio"
 date: 2025-11-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "BASF enhanced its ecovio biodegradable mulch film portfolio, targeting diverse climate zones in Asia and Latin America, supporting sustainable agriculture and high-growth markets."
 tags: ['BASF', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

@@ -2,6 +2,8 @@
 title: "Researchers Develop Sea Urchin-Inspired Biomimetic Materials"
 date: 2026-03-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers have successfully engineered 3D-printed biomimetic smart materials inspired by the structural architecture of sea urchins, unlocking rapid mechanoelectrical responses for advanced sensor applications."
 tags: ["Biomimetics", "3D Printing", "Smart Materials", "Mechanoelectrical Resins"]
 category: "Product Launch"

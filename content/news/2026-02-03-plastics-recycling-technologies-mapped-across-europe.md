@@ -3,6 +3,8 @@
 title: "Plastics recycling technologies mapped across Europe"
 date: 2026-02-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Plastics Recyclers Europe has released comprehensive data mapping the installed capacity and diverse technologies of recycling facilities across the continent to benchmark progress against 2030 targets."
 tags: ["Plastics Recyclers Europe", "Mechanical Recycling", "Chemical Recycling", "PE", "PET"]
 category: "Market Analysis"

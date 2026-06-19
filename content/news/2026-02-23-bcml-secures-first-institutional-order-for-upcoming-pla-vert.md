@@ -3,6 +3,8 @@
 title: "BCML Secures First Institutional Order for Upcoming PLA Vertical"
 date: 2026-02-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Balrampur Chini Mills Limited has finalized its first commercial institutional order for its new Polylactic Acid manufacturing division, marking a major milestone in its diversification strategy."
 tags: ["Balrampur Chini Mills Limited", "PLA", "Sugar"]
 category: "Partnerships"

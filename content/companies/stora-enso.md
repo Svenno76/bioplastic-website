@@ -22,6 +22,8 @@ production_capacity:
   status: Technology validation, commercialization planned 2026
 date: '2026-01-05'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

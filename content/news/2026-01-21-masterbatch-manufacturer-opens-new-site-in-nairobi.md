@@ -2,6 +2,8 @@
 title: "Masterbatch Manufacturer Opens New Site in Nairobi"
 date: 2026-01-21
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Austrian masterbatch specialist Gabriel-Chemie expands its presence in East Africa with the inauguration of a new sales subsidiary in Nairobi, Kenya."
 tags: ["Gabriel-Chemie", "Masterbatch"]
 category: "Plant Announcement"

@@ -2,6 +2,8 @@
 title: "Mechanical Completion of Commercial bioTHF and bioPTMEG Plant"
 date: 2026-04-21
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Covation Biomaterials has achieved mechanical completion of its first commercial plant producing non-food, second-generation bioTHF and bioPTMEG, unveiling its new Xatryx brand."
 tags: ["Covation Biomaterials", "bioTHF", "bioPTMEG", "Xatryx", "Spandex", "Polyurethanes"]
 category: "Plant Announcement"

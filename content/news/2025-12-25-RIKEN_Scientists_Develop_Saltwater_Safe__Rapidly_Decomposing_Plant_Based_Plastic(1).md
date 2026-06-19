@@ -2,6 +2,8 @@
 title: "RIKEN Scientists Develop Saltwater-Safe, Rapidly Decomposing Plant-Based Plastic"
 date: 2025-12-25
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at RIKEN's Center for Emergent Matter Science (CEMS), led by Takuzo Aida, have developed a robust, flexible, plant-based plastic that rapidly decomposes in natural environments, including saltwater, without forming microplastics. Utilizing inexpensive, FDA-approved ingredients, this material represents a significant advancement towards combating plastic pollution."
 tags: ["RIKEN Center for Emergent Matter Science (CEMS)", "Bioplastics", "Microplastic Pollution", "Cellulose", "Biodegradable Plastic"]
 category: "Product Launch"

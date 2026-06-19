@@ -11,6 +11,8 @@ publicly_listed: false
 stock_ticker:
 date: '2026-02-27'
 draft: true
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

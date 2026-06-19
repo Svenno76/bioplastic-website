@@ -2,6 +2,8 @@
 title: "Sway partners with Atlantic Packaging"
 date: 2025-12-31
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Sway partnered with Atlantic Packaging for biopolymer packaging initiatives."
 tags: ["Sway", "Atlantic Packaging"]
 category: "Partnerships"

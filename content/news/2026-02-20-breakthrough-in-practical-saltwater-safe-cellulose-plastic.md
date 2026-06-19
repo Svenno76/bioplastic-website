@@ -2,6 +2,8 @@
 title: "Breakthrough in Practical Saltwater-Safe Cellulose Plastic"
 date: 2026-02-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at the RIKEN Center have developed a supramolecular plastic based on carboxymethyl cellulose that remains stable during use but degrades rapidly in seawater."
 tags: ["RIKEN Center", "Cellulose", "CMCSP", "Marine Biodegradation"]
 category: "Product Launch"

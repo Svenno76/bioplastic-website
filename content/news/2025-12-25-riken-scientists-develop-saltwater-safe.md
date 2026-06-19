@@ -3,6 +3,8 @@
 title: "RIKEN Scientists Develop Saltwater-Safe"
 date: 2025-12-25
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at RIKEN's Center for Emergent Matter Science (CEMS)"
 tags: ['RIKEN Center for Emergent Matter Science (CEMS)', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

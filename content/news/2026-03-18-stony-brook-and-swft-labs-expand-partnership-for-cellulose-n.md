@@ -2,6 +2,8 @@
 title: "Stony Brook and SWFT Labs Expand Partnership for Cellulose Nanomaterials"
 date: 2026-03-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Stony Brook University and SWFT Labs have expanded their collaboration to industrialize sustainable cellulose nanomaterials using a novel Nitro-Oxidation Process."
 tags: ["SWFT Labs", "Stony Brook University", "Cellulose Nanomaterials", "Nitro-Oxidation Process"]
 category: "Partnerships"

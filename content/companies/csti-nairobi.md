@@ -14,6 +14,8 @@ stock_ticker:
 production_capacity: "Research and pilot scale (innovation and commercialization development)"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

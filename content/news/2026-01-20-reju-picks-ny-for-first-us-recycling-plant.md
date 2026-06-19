@@ -2,6 +2,8 @@
 title: "Reju picks NY for first US recycling plant"
 date: 2026-01-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Reju has selected New York as the location for its first U.S. facility dedicated to the chemical regeneration of polyester textile waste."
 tags: ["Reju", "Polyester", "Textile Recycling"]
 category: "Plant Announcement"

@@ -2,6 +2,8 @@
 title: "Idemitsu Completes Chemical Recycling Plant in Ichihara"
 date: 2026-01-19
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Idemitsu Kosan has finalized the construction of a commercial chemical recycling facility at its Chiba Complex designed to convert used plastics into raw feedstock."
 tags: ["Idemitsu Kosan", "Chemical Recycling", "Pyrolysis", "Ichihara"]
 category: "Plant Announcement"

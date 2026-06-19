@@ -1,9 +1,12 @@
 ---
 title: "PLA (Polylactic Acid)"
+description: "Definition of PLA (Polylactic Acid), the most widely used bioplastic. Learn about production from renewable resources, properties, compostability, and packaging applications."
 aka: ["Polylactic Acid", "Polylactide"]
 term_type: "material"
 related: ["Biodegradable", "Compostable", "PHA", "PBAT"]
 summary: "PLA is a biodegradable thermoplastic polyester derived from renewable resources like corn starch or sugarcane. It's one of the most widely used bioplastics globally, offering similar processing to conventional plastics with a lower carbon footprint."
+sitemap:
+  priority: 0.6
 major_producers: ["NatureWorks", "Total Corbion", "COFCO", "Futerro", "Hisun Biomaterials"]
 applications: ["Food packaging", "Disposable tableware", "3D printing filament", "Medical devices", "Textiles", "Films and bags"]
 standards: ["EN 13432 (Industrial Compostable)", "ASTM D6400", "ISO 14855"]

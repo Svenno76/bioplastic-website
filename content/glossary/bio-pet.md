@@ -4,6 +4,8 @@ aka: ["Plant-based PET", "Bio-based PET", "PlantBottle", "Partially bio-based PE
 term_type: "material"
 related: ["Bio-PE", "Bio-PP", "PLA", "Drop-in Bioplastic", "Circular Economy"]
 summary: "Bio-PET is partially or fully bio-based polyethylene terephthalate produced from renewable feedstocks. Chemically identical to conventional PET, it's commonly used in beverage bottles with 30% bio-content from bio-ethylene glycol."
+sitemap:
+  priority: 0.6
 major_producers: ["Coca-Cola (PlantBottle)", "Suntory", "Indorama Ventures", "Avantium", "Origin Materials"]
 applications: ["Beverage bottles", "Food containers", "Textile fibers", "Packaging films", "Consumer product containers"]
 standards: ["ASTM D6866 (Bio-based Content)", "ISO 16620 (Bio-based Content)", "OK Biobased"]

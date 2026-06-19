@@ -2,6 +2,8 @@
 title: "Shellworks Secures $15 Million Series A to Scale Vivomer Technology"
 date: 2026-04-14
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Shellworks has successfully raised $15 million in a Series A funding round to expand the commercial manufacturing of its microbially fermented, PHA-based bioplastic material, Vivomer."
 tags: ["Shellworks", "Vivomer", "PHA", "Microbial Fermentation", "Venture Capital"]
 category: "Investment & Funding"

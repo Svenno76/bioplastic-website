@@ -3,6 +3,8 @@
 title: "Expanded Capacity for Recyclable Bio-based PE"
 date: 2025-11-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Braskem America has announced expanded production capacity for its 'I'm green' bio-based polyethylen"
 tags: ['Braskem', 'Plant Announcement', 'Manufacturing', 'Capacity']
 category: "Plant Announcement"

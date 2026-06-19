@@ -4,6 +4,8 @@
 title: "P2 Science and Algenesis Partner to Develop Algae-Derived Chemicals and 100% Biobased"
 date: 2025-11-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "P2 Science and Algenesis Corporation have formed a strategic partnership to develop and commercializ"
 tags: ["P2 Science", "Partnership", "Collaboration"]
 category: "Partnerships"

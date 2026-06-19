@@ -2,6 +2,8 @@
 title: "Divestment of UCY Polymers CZ Completed"
 date: 2026-01-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Indorama Ventures has officially completed the sale of its indirect subsidiary UCY Polymers CZ as part of a strategic portfolio optimization."
 tags: ["Indorama Ventures", "UCY Polymers CZ", "rPET", "Recycling"]
 category: "M&A"

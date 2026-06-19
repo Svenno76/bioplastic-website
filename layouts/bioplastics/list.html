@@ -20,6 +20,14 @@
   <main>
 <div style="max-width: 64rem; margin: 0 auto; padding: 1rem;">
   <section style="padding: 0 1rem;">
+    <!-- Page Header -->
+    <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+      <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">{{ .Title }}</h1>
+      {{ with .Params.description }}
+      <p style="font-size: 1.1rem; color: #6b7f7d; line-height: 1.5; max-width: 60rem;">{{ . }}</p>
+      {{ end }}
+    </header>
+
     <div style="font-size: 1.125rem; line-height: 1.6; max-width: 48rem;">
       {{ .Content }}
     </div>

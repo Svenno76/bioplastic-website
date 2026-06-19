@@ -2,6 +2,8 @@
 title: "Colesco Launches New Impact Credit Fund for Circular Economy"
 date: 2026-01-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Colesco Capital has unveiled a new impact credit fund designed to finance European mid-market companies driving the transition to circular industrial models."
 tags: ["Colesco"]
 category: "Investment & Funding"

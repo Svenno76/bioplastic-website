@@ -1,9 +1,12 @@
 ---
 title: "PBS (Polybutylene Succinate)"
+description: "Definition of PBS, a biodegradable polyester used in packaging and agricultural applications. Learn about production, compostability, and comparison with PLA and PBAT."
 aka: ["Polybutylene Succinate", "BioPBS"]
 term_type: "material"
 related: ["Biodegradable", "Compostable", "PLA", "PBAT", "Bioplastic Blends"]
 summary: "PBS is a biodegradable polyester with excellent mechanical properties and heat resistance. Synthesized from renewable or petrochemical sources, PBS offers superior processability and performance compared to PLA for engineering and durable applications."
+sitemap:
+  priority: 0.6
 major_producers: ["PTT MCC Biochem", "Mitsubishi Chemical", "Showa Denko", "BASF", "Kingfa"]
 applications: ["Engineering plastics", "Textiles and fibers", "Bottles and containers", "Automotive components", "Agricultural films", "Injection-molded parts"]
 standards: ["EN 13432 (Industrial Compostable)", "ASTM D6400", "ISO 14855"]

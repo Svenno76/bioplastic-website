@@ -2,6 +2,8 @@
 title: "Bioplastics Market Outlook 2025"
 date: 2025-11-15
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Comprehensive analysis of the global bioplastics market including production capacity, regional demand, and emerging applications driving industry growth"
 study_type: "Market Analysis"
 publisher: "Bioplastics Portal Research"

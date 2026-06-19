@@ -12,6 +12,8 @@ market_segments: ["Cosmetics", "Personal Care", "Home Care", "Agriculture"]
 publicly_listed: false
 date: 2026-02-14
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

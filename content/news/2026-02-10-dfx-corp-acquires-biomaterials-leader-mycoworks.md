@@ -2,6 +2,8 @@
 title: "DFX Corp Acquires Biomaterials Leader MycoWorks"
 date: 2026-02-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "DFX Corp has acquired MycoWorks, the pioneer behind Fine Mycelium technology, to accelerate the global scaling of high-performance bio-based materials."
 tags: ["MycoWorks", "DFX Corp", "Mycelium", "Fine Mycelium", "Reishi"]
 category: "M&A"

@@ -2,6 +2,8 @@
 title: "PANGAIA Launches New Bio-Based Performance Material"
 date: 2026-05-04
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Materials science brand PANGAIA has unveiled a new line of high-performance bio-based activewear materials, significantly reducing the apparel industry's reliance on fossil fuel-derived synthetics."
 tags: ["PANGAIA", "Bio-Polyamide", "Bio-Based Textiles", "Activewear"]
 category: "Product Launch"

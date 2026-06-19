@@ -2,6 +2,8 @@
 title: "Pulpex Secures Funding to Build Commercial Fiber Bottle Factory"
 date: 2025-02-28
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The UK's National Wealth Fund has announced a strategic investment to support Pulpex in constructing its first commercial-scale manufacturing facility for renewable fiber bottles in Scotland."
 tags: ["Pulpex", "National Wealth Fund", "Fiber Packaging", "Cellulose"]
 category: "Investment & Funding"

@@ -3,6 +3,8 @@
 title: "TripleW Launches World's First Food Waste-Based PLA"
 date: 2025-11-07
 draft: false
+sitemap:
+  priority: 0.7
 summary: "TripleW, supported by Sulzer Chemtech, launched the world's first polylactic acid bioplastic made from food waste, marking significant innovation in sustainable bioplastics production from circular economy feedstocks."
 tags: ['TripleW', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

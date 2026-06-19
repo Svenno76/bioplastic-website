@@ -5,6 +5,8 @@ date: 2026-04-08
 categories: ["Plant Announcement"]
 tags: ["Avantium", "FDCA", "PEF", "Delfzijl", "Commissioning", "YXY Technology", "Releaf", "Bio-Based Plastics"]
 summary: "Avantium is in the final stretch of commissioning the world's first commercial-scale FDCA plant in Delfzijl. After resolving titanium weld issues that pushed the timeline to mid-2026, the Dutch company is on track to begin commercial PEF sales in H2 2026."
+sitemap:
+  priority: 0.7
 
 ---
 

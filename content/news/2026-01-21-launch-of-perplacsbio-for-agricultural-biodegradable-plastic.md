@@ -2,6 +2,8 @@
 title: "Launch of PerPlacsBio for Agricultural Biodegradable Plastics"
 date: 2026-01-21
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The University of Münster initiates the PerPlacsBio project to rigorously assess the in-soil degradation rates and ecological impact of biodegradable agricultural mulch films."
 tags: ["PerPlacsBio", "University of Münster", "Mulch Films", "PBAT", "Soil Degradation"]
 category: "Product Launch"

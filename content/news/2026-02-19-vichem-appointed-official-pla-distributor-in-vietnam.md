@@ -3,6 +3,8 @@
 title: "Vichem Appointed Official PLA Distributor in Vietnam"
 date: 2025-11-21
 draft: false
+sitemap:
+  priority: 0.7
 summary: "TotalEnergies Corbion has selected Vichem as the official distributor for its Luminy PLA resins in Vietnam to expand the reach of biobased materials in the region."
 tags: ["TotalEnergies", "Vichem", "Luminy", "PLA"]
 category: "Partnerships"

@@ -14,6 +14,8 @@ stock_ticker:
 parent_company: "International Chemical Investors Group (acquired 2022)"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

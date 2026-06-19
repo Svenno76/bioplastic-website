@@ -4,6 +4,8 @@ aka: ["Green PE", "Bio-based Polyethylene", "Plant-based PE", "I'm Green PE", "R
 term_type: "material"
 related: ["Bio-PET", "Bio-PP", "Drop-in Bioplastic", "Drop-in Replacement", "Circular Economy"]
 summary: "Bio-PE is chemically identical to conventional polyethylene but produced from renewable feedstocks like sugarcane ethanol instead of fossil fuels. It's a drop-in replacement offering identical performance with a reduced carbon footprint — the world's most widely produced drop-in bioplastic."
+sitemap:
+  priority: 0.6
 major_producers: ["Braskem", "Dow", "SABIC", "Neste", "TotalEnergies"]
 applications: ["Packaging films", "Bottles and containers", "Shopping bags", "Agricultural films", "Automotive components", "Consumer goods"]
 standards: ["ASTM D6866 (Bio-based Content)", "ISO 16620 (Bio-based Content)", "OK Biobased"]

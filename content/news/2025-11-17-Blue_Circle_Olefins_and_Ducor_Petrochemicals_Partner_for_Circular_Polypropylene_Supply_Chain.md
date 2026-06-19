@@ -4,6 +4,8 @@
 title: "Blue Circle Olefins and Ducor Petrochemicals Partner for Circular Polypropylene Supply Chain"
 date: 2025-11-17
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Blue Circle Olefins and Ducor Petrochemicals have announced a strategic partnership to establish a fully circular polypropylene value chain, targeting an 80% reduction in greenhouse gas emissions by supplying bio-based and carbon-recycled polypropylene."
 tags: ["Blue Circle Olefins", "Ducor Petrochemicals", "Circular Economy", "PP", "Bio-Based Plastics", "Recycled Plastics"]
 category: "Partnerships"

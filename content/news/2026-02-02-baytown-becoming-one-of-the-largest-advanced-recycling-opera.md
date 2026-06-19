@@ -2,6 +2,8 @@
 title: "Baytown becoming one of the largest advanced recycling operations in the world"
 date: 2026-02-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "ExxonMobil expands its Baytown facility to solidify its status as one of the world's largest advanced recycling hubs, utilizing proprietary technology to convert plastic waste into circular polymers."
 tags: ["ExxonMobil", "Advanced Recycling", "Chemical Recycling", "Exxtend", "Circular Polymers"]
 category: "Plant Announcement"

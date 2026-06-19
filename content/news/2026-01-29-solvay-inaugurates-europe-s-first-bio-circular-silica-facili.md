@@ -2,6 +2,8 @@
 title: "Solvay Inaugurates Europe's First Bio-Circular Silica Facility"
 date: 2026-01-29
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Solvay has officially opened its new facility in Italy dedicated to producing bio-circular silica derived from rice husk ash, marking a major step forward in sustainable tire reinforcement."
 tags: ["Solvay", "Bio-circular Silica", "Rice Husk Ash", "Tires"]
 category: "Plant Announcement"

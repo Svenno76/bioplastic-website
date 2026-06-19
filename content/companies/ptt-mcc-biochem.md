@@ -17,6 +17,8 @@ production_capacity:
     status: "Operational since 2017"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

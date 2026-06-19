@@ -2,6 +2,8 @@
 title: "Låkril Achieves Milestone with First Continuous Pilot Plant for Bio-Acrylic Acid"
 date: 2026-01-31
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Låkril Technologies has successfully commissioned its first continuous pilot plant for converting lactic acid into bio-acrylic acid, validating the scalability of its proprietary catalyst technology."
 tags: ["Låkril Technologies", "Bio-Acrylic Acid", "Lactic Acid", "Catalysts"]
 category: "Plant Announcement"

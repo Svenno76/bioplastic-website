@@ -2,6 +2,8 @@
 title: "Lego Opens Sustainable Factory in Vietnam for Bioplastic Production"
 date: 2026-02-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The Lego Group initiates operations at its $1 billion carbon-neutral facility in Vietnam, significantly scaling the molding of bio-polyethylene and mass-balance sustainable materials for the Asian market."
 tags: ["Lego Group", "Bio-PE", "Bio-attributed ABS"]
 category: "Plant Announcement"

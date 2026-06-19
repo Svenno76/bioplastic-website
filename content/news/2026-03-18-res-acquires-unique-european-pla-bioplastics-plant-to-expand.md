@@ -2,6 +2,8 @@
 title: "RES acquires unique European PLA bioplastics plant to expand circular economy chain"
 date: 2026-03-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Recupero Etico Sostenibile S.p.A (RES) has acquired a specialized European PLA bioplastics facility to integrate biopolymer production with its existing waste recovery operations."
 tags: ["RES", "Recupero Etico Sostenibile S.p.A", "PLA"]
 category: "M&A"

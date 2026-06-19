@@ -2,6 +2,8 @@
 title: "Ecopha Biotech Signals Global Expansion with Australia-India Pongamia Bioeconomy Strategy"
 date: 2026-04-09
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Ecopha Biotech has unveiled a bilateral strategy leveraging Pongamia tree cultivation in Australia and India to secure sustainable carbon feedstocks for scaling its PHA bioplastic production."
 tags: ["Ecopha Biotech", "Pongamia", "PHA", "Microbial Fermentation"]
 category: "Partnerships"

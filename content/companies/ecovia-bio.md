@@ -14,6 +14,8 @@ stock_ticker:
 funding: "Series B (led by Pointe Angels)"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

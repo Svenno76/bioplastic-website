@@ -3,6 +3,8 @@
 title: "Packamama to Trial World’s First PEF Wine Bottles"
 date: 2026-01-19
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Packamama secures a capacity reservation agreement with Avantium to utilize ReLeaf PEF for manufacturing the world's first 100% plant-based, high-barrier wine bottles."
 tags: ["Packamama", "Avantium", "PEF", "ReLeaf"]
 category: "Partnerships"

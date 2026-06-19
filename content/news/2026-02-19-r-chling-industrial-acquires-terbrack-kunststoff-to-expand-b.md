@@ -2,6 +2,8 @@
 title: "Röchling Industrial Acquires Terbrack Kunststoff to Expand Bioplastics Portfolio"
 date: 2026-02-19
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Röchling Industrial integrates the operating business of Terbrack Kunststoff to scale up production capabilities for its sustainable Röchling BioConnect product family."
 tags: ["Röchling Industrial", "Terbrack Kunststoff", "Röchling BioConnect", "Engineering Plastics"]
 category: "M&A"

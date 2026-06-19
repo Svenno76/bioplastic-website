@@ -2,6 +2,8 @@
 title: "Uluu raises $10.5 million in funding"
 date: 2025-12-31
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Uluu raised $10.5 million to expand seaweed biopolymer production and development."
 tags: ["Uluu"]
 category: "Investment & Funding"

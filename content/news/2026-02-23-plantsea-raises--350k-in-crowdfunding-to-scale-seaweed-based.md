@@ -3,6 +3,8 @@
 title: "Plantsea Raises £350k in Crowdfunding to Scale Seaweed-Based Polymer Film"
 date: 2026-02-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Welsh biotech firm Plantsea has successfully secured £350,000 via a community funding round to accelerate the production of its marine-safe, seaweed-derived flexible packaging."
 tags: ["PlantSea", "Seaweed Polymer", "Water-Soluble Film"]
 category: "Investment & Funding"

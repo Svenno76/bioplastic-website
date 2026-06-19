@@ -2,6 +2,8 @@
 title: "Microbe Engineered to Thrive in Toxic Methanol for Bioplastic Production"
 date: 2026-02-24
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers have successfully engineered a bacterial strain capable of converting toxic methanol into biopolymers, enabling cost-effective production from C1 gas feedstocks."
 tags: ["PHA", "Methanol", "Synthetic Biology", "Feedstock"]
 category: "Product Launch"

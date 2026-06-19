@@ -2,6 +2,8 @@
 title: "Tungsten Carbide Catalyst Breakthrough for Plastic Upcycling"
 date: 2026-01-26
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Researchers at the University of Rochester utilize tungsten carbide to create a cost-effective, platinum-mimicking catalyst for efficient plastic waste dehydrogenation."
 tags: ["Tungsten Carbide", "University of Rochester", "Chemical Recycling", "Dehydrogenation", "Polyolefins"]
 category: "Product Launch"

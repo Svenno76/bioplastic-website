@@ -2,6 +2,8 @@
 title: "BioBTX Secures Over €80 Million to Launch World's First Renewable Aromatics Plant"
 date: 2026-06-08
 draft: false
+sitemap:
+  priority: 0.7
 summary: "BioBTX has secured over €80 million to build the world's first commercial-scale renewable aromatics plant in Delfzijl, Netherlands, converting 20,000 tons of mixed plastic waste annually into BTX chemicals."
 tags: ["Renewable Aromatics", "BTX", "Circular Chemistry", "Plastic Waste", "€80M", "Netherlands"]
 category: "Investment & Funding"

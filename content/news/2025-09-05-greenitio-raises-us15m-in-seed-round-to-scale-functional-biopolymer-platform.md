@@ -2,6 +2,8 @@
 title: "Greenitio raises US$1.5M in Seed round to scale functional biopolymer platform"
 date: 2025-09-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Greenitio"
 tags: ["Greenitio"]
 category: "Investment & Funding"

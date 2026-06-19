@@ -2,6 +2,8 @@
 title: "AHOBAE Project Develops AI-Optimized Tech to Turn Food Waste into PHB"
 date: 2026-02-24
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The TECNALIA-led AHOBAE initiative utilizes artificial intelligence to optimize the bioconversion of urban organic waste into biodegradable polyhydroxybutyrate (PHB)."
 tags: ["TECNALIA", "PHB", "Artificial Intelligence", "Food Waste"]
 category: "Product Launch"

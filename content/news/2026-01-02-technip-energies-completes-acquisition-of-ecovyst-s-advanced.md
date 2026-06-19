@@ -2,6 +2,8 @@
 title: "Technip Energies completes acquisition of Ecovyst’s Advanced Materials & Catalysts business"
 date: 2026-01-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Technip Energies has finalized its acquisition of Ecovyst’s Advanced Materials & Catalysts division, a strategic move designed to bolster its sustainable technology portfolio and accelerate the development of bio-based materials."
 tags: ["Technip Energies", "Ecovyst"]
 category: "M&A"

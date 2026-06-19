@@ -2,6 +2,8 @@
 title: "Acquisition of AI Sorting Firm Recycleye"
 date: 2026-04-16
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Global recycling equipment manufacturer CP Group has acquired AI-powered sorting technology company Recycleye to enhance the precise recovery of complex packaging materials, including bioplastics."
 tags: ["CP Group", "Recycleye", "AI Sorting", "Robotics", "PLA", "PHA"]
 category: "M&A"

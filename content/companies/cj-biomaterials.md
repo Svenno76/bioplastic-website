@@ -25,6 +25,8 @@ production_capacity:
     status: "Planned, targeting 2025+"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

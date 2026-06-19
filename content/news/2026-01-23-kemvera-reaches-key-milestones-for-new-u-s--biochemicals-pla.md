@@ -2,6 +2,8 @@
 title: "Kemvera Reaches Key Milestones for New U.S. Biochemicals Plant"
 date: 2026-01-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Kemvera has advanced the commercialization of its proprietary photocatalytic platform by securing key engineering and site milestones for a new U.S. facility producing bio-acetic acid and bio-ethyl acetate."
 tags: ["Kemvera", "Bio-Acetic Acid", "Bio-Ethyl Acetate", "Photocatalysis"]
 category: "Plant Announcement"

@@ -2,6 +2,8 @@
 title: "Brazilian Regulator Clears IG4 Path to Braskem Control"
 date: 2026-03-06
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Brazil’s antitrust watchdog has approved IG4 Sol's acquisition strategy, clearing a major regulatory hurdle for the firm to assume control of biopolymer giant Braskem."
 tags: ["Braskem", "IG4 Sol", "Bio-PE", "Green Polyethylene"]
 category: "M&A"

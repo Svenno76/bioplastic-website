@@ -2,6 +2,8 @@
 title: "Bcomp: Sustainable Lightweighting – Decarbonising the World with Natural Fibre Biocomposites"
 date: 2026-06-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Bcomp is the leading solutions provider for natural fibre reinforcements in high-performance applications. Their ampliTex™ technical fabrics and powerRibs™ reinforcement grid enable natural fibre parts to match metal performance, decarbonising industries from automotive to aerospace."
 tags: ["Natural Fibre", "Biocomposites", "Lightweighting", "Decarbonisation", "Bcomp", "Automotive"]
 category: "Company News"

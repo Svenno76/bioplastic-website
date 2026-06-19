@@ -2,6 +2,8 @@
 title: "Plastipak and MSU Unveil New Processing Lab for Packaging Innovation"
 date: 2026-01-26
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Plastipak and Michigan State University have inaugurated a state-of-the-art processing lab designed to accelerate sustainable packaging research and student training."
 tags: ["Plastipak", "Michigan State University"]
 category: "Partnerships"

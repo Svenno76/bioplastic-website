@@ -2,6 +2,8 @@
 title: "Modern Meadow and HELLER-LEDER Form Joint Venture for Sustainable Leather"
 date: 2026-02-19
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Biotechnology pioneer Modern Meadow and German tannery HELLER-LEDER launch Innovera Europe to scale the production of bio-based automotive and luxury materials."
 tags: ["Modern Meadow", "HELLER-LEDER", "Innovera Europe", "Bio-VERA"]
 category: "Partnerships"

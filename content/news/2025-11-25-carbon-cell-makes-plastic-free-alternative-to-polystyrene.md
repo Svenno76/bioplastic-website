@@ -3,6 +3,8 @@
 title: "Carbon Cell makes plastic-free alternative to polystyrene"
 date: 2025-11-25
 draft: false
+sitemap:
+  priority: 0.7
 summary: "British company Carbon Cell has developed a carbon-negative"
 tags: ['Carbon Cell', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

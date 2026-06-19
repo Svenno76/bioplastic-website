@@ -2,6 +2,8 @@
 title: "Trevira Integrates Recycled Content into Flame-Retardant Yarns"
 date: 2026-01-27
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Indorama Ventures expands its Trevira CS portfolio by incorporating chemically recycled PET into flame-retardant yarns without compromising safety standards."
 tags: ["Trevira", "Indorama Ventures", "rPET", "Polyester", "Flame Retardants"]
 category: "Product Launch"

@@ -4,6 +4,8 @@
 title: "Expanded Capacity for Recyclable Bio-based PE"
 date: 2025-11-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Braskem America has announced expanded production capacity for its 'I'm green' bio-based polyethylene (PE), reinforcing its commitment to sustainable packaging solutions. This move significantly boosts the availability of a plant-based biopolymer for diverse applications."
 tags: ["Braskem", "I'm green PE", "Bio-Based Polyethylene", "capacity expansion", "Sustainability", "Packaging"]
 category: "Plant Announcement"

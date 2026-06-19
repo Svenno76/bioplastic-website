@@ -17,6 +17,8 @@ production_capacity:
     location: "Lenzing (Austria), Purwakarta (Indonesia), Nanjing (China), Heilongjiang (China), Shandung (China)"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

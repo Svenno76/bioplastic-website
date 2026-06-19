@@ -3,6 +3,8 @@
 title: "Nokian Launches New Tire Incorporating Bio-Based Materials"
 date: 2026-03-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Nokian Tyres has introduced an advanced studded winter tire that integrates thermo-adaptive bio-based materials to automatically adjust to fluctuating winter temperatures."
 tags: ["Nokian Tyres", "Bio-Based Elastomers", "Tire Compounding", "Bio-resins"]
 category: "Product Launch"

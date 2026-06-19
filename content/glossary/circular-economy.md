@@ -1,9 +1,12 @@
 ---
 title: "Circular Economy (Bioplastics)"
+description: "Definition of circular economy in the bioplastics context: designing plastics for reuse, recycling, and composting. Learn about bio-circular models, lifecycle thinking, and sustainability frameworks."
 aka: ["Circular bioeconomy", "Bio-circular economy", "Bioplastics circularity"]
 term_type: "framework"
 related: ["PLA", "PBAT", "PHA", "Compostable", "Biodegradable", "Mechanical Recycling", "Feedstock", "Life Cycle Assessment"]
 summary: "The circular economy is an industrial model that designs out waste, keeps materials in use at their highest value, and regenerates natural systems. For bioplastics, this means integrating renewable feedstock sourcing with end-of-life pathways — composting, recycling, and chemical recycling — to create closed-loop material flows."
+sitemap:
+  priority: 0.6
 ---
 
 ## Circular Economy: Concept and Principles

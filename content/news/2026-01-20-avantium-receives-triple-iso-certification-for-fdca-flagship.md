@@ -2,6 +2,8 @@
 title: "Avantium Receives Triple ISO Certification for FDCA Flagship Plant"
 date: 2026-01-20
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Avantium has reached a major operational milestone by securing ISO 9001, 14001, and 45001 certifications for its world-first commercial FDCA flagship plant in Delfzijl."
 tags: ["Avantium"]
 category: "Certifications"

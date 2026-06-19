@@ -2,6 +2,8 @@
 title: "Aduro Clean Technologies Files Amended LIFE Offering After Closing $15.54M Public Offering"
 date: 2026-06-15
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Aduro Clean Technologies has closed a $15.54 million underwritten public offering and filed an amended LIFE offering document, strengthening its financial position to scale its Hydrochemolytic chemical recycling technology."
 tags: ["Aduro Clean Technologies", "Chemical Recycling", "LIFE Offering", "Public Offering", "Hydrochemolytic", "Plastic Recycling", "Funding"]
 category: "Investment & Funding"

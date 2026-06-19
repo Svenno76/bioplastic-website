@@ -2,6 +2,8 @@
 title: "Researchers Achieve R&D Breakthrough in Chitin-Derived Bioplastics"
 date: 2026-02-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "A collaborative research team has developed a novel chitin-based material that gains structural strength when hydrated, offering a robust alternative to conventional rigid plastics."
 tags: ["IBEC", "SUTD", "Chitin", "Cellulose"]
 category: "Product Launch"

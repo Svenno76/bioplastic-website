@@ -1,9 +1,12 @@
 ---
 title: "Compostable"
+description: "Definition of compostable materials: biodegradable substances that break down in composting conditions within a specified timeframe. Learn about industrial vs home composting, EN 13432, and OK Compost certification."
 aka: ["Certified Compostable", "Industrially Compostable", "Home Compostable"]
 term_type: "term"
 related: ["Biodegradable", "PLA", "PBAT", "Starch-based Bioplastic", "EN 13432", "Composting Infrastructure"]
 summary: "Compostable materials meet strict international standards requiring complete biodegradation and disintegration within 180 days in industrial composting facilities. Certification ensures environmental safety and compatibility with composting systems."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Does "Compostable" Mean?

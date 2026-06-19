@@ -4,6 +4,8 @@ aka: ["Polyhydroxybutyrate", "Poly(3-hydroxybutyrate)", "P3HB"]
 term_type: "material"
 related: ["PHA", "Biodegradable", "Compostable", "PLA"]
 summary: "PHB is the simplest member of the PHA family, produced through bacterial fermentation. Fully biodegradable in soil, marine, and composting environments, PHB offers true biological sustainability despite processing challenges from brittleness."
+sitemap:
+  priority: 0.6
 major_producers: ["TianAn Biopolymer", "Danimer Scientific", "Kaneka", "Biomer", "PHB Industrial"]
 applications: ["Rigid packaging", "Agricultural films", "Marine applications", "Cosmetic packaging", "Single-use items requiring marine biodegradability"]
 standards: ["EN 13432 (Industrial Compostable)", "ASTM D6400", "ASTM D6691 (Marine Biodegradable)", "OK Biodegradable Marine"]

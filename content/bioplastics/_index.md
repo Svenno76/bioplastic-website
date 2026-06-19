@@ -1,6 +1,8 @@
 ---
 title: "Complete Bioplastics Guide"
-description: "Your comprehensive resource for understanding bioplastics, from materials science to market applications"
+description: "In-depth guide to bioplastics materials, properties, applications, and sustainability. Learn about PLA, PHA, bio-based plastics, and more."
+sitemap:
+  priority: 0.9
 ---
 
 # The Complete Guide to Bioplastics

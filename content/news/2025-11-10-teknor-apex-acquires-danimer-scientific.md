@@ -3,6 +3,8 @@
 title: "Teknor Apex Acquires Danimer Scientific"
 date: 2025-11-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Teknor Apex completed the acquisition of Danimer Scientific, consolidating its position in the biodegradable biopolymer market and strengthening its production scalability and competitive dynamics."
 tags: ['Teknor Apex', 'M&A']
 category: "M&A"

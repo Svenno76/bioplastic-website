@@ -14,6 +14,8 @@ stock_ticker: "Euronext:CRBN"
 joint_ventures: "Total Corbion PLA (50/50 partnership with TotalEnergies)"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

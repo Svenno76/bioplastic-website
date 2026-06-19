@@ -4,6 +4,8 @@ date: 2026-04-09
 categories: ["News"]
 tags: ["AIMPLAS", "BioSupPack", "PHA", "PHB", "Fermentation", "Enzymatic Recycling", "Packaging", "Circular Economy"]
 summary: "After five years and €7.6M in EU funding, the BioSupPack consortium has demonstrated a scalable biorefinery process converting brewery spent grains into high-purity polyhydroxybutyrate (PHB), reaching Technology Readiness Level 6 and opening a pathway for commercial licensing."
+sitemap:
+  priority: 0.7
 ---
 
 **VALENCIA, Spain** – The EU-funded BioSupPack project has concluded its five-year demonstration program with a significant milestone: a validated, scalable bioprocess that converts brewery waste into high-purity polyhydroxybutyrate (PHB) bioplastic at industrial readiness. The consortium's innovations — including 99% biobased PHA coatings and enzymatic recycling technology — are now available for industry uptake, marking a rare moment when lab-scale circular bioeconomy research has produced deployment-ready solutions.

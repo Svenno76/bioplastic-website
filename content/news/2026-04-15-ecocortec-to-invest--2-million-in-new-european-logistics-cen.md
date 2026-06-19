@@ -2,6 +2,8 @@
 title: "EcoCortec to Invest €2 Million in New European Logistics Centre"
 date: 2026-04-15
 draft: false
+sitemap:
+  priority: 0.7
 summary: "EcoCortec is investing €2 million in a new European logistics centre to streamline the distribution of its compostable anti-corrosion bioplastic packaging."
 tags: ["EcoCortec", "Cortec Corporation", "VCI Packaging", "PBAT", "PLA", "Compostable Films"]
 category: "Investment & Funding"

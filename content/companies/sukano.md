@@ -13,6 +13,8 @@ market_segments: Packaging, durable goods, building and construction, healthcare
 founded: '1988'
 date: '2026-01-05'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

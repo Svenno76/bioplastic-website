@@ -4,6 +4,8 @@ aka: ["Thermoplastic Starch", "TPS", "Starch Blends", "Starch Compounds"]
 term_type: "material"
 related: ["Biodegradable", "Compostable", "PBAT", "PLA", "Bioplastic Blends", "Feedstock"]
 summary: "Starch-based bioplastics are created from renewable starch sources like corn, potato, or cassava. The most cost-effective bioplastic option, they're fully biodegradable and widely used in packaging and agricultural applications."
+sitemap:
+  priority: 0.6
 major_producers: ["Cardia Bioplastics", "Novamont (Mater-Bi)", "BASF", "Rodenburg Biopolymers", "Biotec"]
 applications: ["Packaging films and bags", "Agricultural mulch films", "Loose-fill packaging", "Food service items", "Single-use cutlery", "Plant pots"]
 standards: ["EN 13432 (Industrial Compostable)", "ASTM D6400", "OK Compost certification"]

@@ -3,6 +3,8 @@
 title: "Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology for Manufacturing Synthetic Aviation Fuels and Critical Chemicals"
 date: 2025-11-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Erg Bio has successfully secured $6.5 million in a seed funding round to accelerate the scale-up of its Aspire™ Technology, which converts agricultural and forestry wastes into sustainable aviation fuels and vital bio-based chemicals."
 tags: ["Erg Bio", "Biomass Valorization", "Sustainable Aviation Fuels", "Bio-Based Chemicals", "Seed Funding", "Aspire Technology"]
 category: "Investment & Funding"

@@ -3,6 +3,8 @@
 title: "BASF Begins Commercial Production of Flame-Retardant TPU in Shanghai"
 date: 2026-03-02
 draft: false
+sitemap:
+  priority: 0.7
 summary: "BASF has officially inaugurated a new production line at its Shanghai facility to manufacture flame-retardant Elastollan® thermoplastic polyurethane for the Asia Pacific market."
 tags: ["BASF", "TPU", "Elastollan"]
 category: "Plant Announcement"

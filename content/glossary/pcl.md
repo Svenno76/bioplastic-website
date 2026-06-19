@@ -4,6 +4,8 @@ aka: ["Polycaprolactone", "Capa"]
 term_type: "material"
 related: ["Biodegradable", "PLA", "PHA", "Bioplastic Blends"]
 summary: "PCL is a synthetic biodegradable polyester with exceptional flexibility, low melting point (58–60°C), and excellent blending capabilities. Primarily used in medical devices and specialty applications requiring biocompatibility and controlled biodegradation."
+sitemap:
+  priority: 0.6
 major_producers: ["Solvay (Capa)", "Daicel Corporation", "BASF", "Perstorp", "Corbion"]
 applications: ["Medical sutures", "Drug delivery systems", "3D printing", "Adhesives", "Polymer blends", "Biomedical implants"]
 standards: ["ASTM D6400", "ISO 14855", "FDA approved for medical use"]

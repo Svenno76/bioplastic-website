@@ -2,6 +2,8 @@
 title: "Syngenta Opens £100M Agricultural Bioscience Research Centre"
 date: 2026-03-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Syngenta has unveiled a new £100 million state-of-the-art agricultural bioscience research center dedicated to advancing biologicals and sustainable crop technologies."
 tags: ["Syngenta", "Agricultural Bioscience", "Biologicals", "Biomass Feedstocks"]
 category: "Investment & Funding"

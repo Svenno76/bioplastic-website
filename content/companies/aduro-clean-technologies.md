@@ -13,6 +13,8 @@ publicly_listed: true
 stock_ticker: "CSE: ACT, NASDAQ: ADUR, Frankfurt: 4A0"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

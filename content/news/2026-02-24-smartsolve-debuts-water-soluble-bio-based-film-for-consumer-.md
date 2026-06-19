@@ -2,6 +2,8 @@
 title: "SmartSolve Debuts Water-Soluble Bio-Based Film for Consumer Packaging"
 date: 2026-02-24
 draft: false
+sitemap:
+  priority: 0.7
 summary: "SmartSolve launches PureNil, a proprietary bio-based and water-soluble film designed to eliminate packaging waste by dissolving completely in water."
 tags: ["SmartSolve", "PureNil", "Water-Soluble Film", "Cellulose"]
 category: "Product Launch"

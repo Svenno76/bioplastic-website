@@ -2,6 +2,8 @@
 title: "NEXTCHEM Awarded Licensing for Bioplastic Feedstock Facility in China"
 date: 2026-02-18
 draft: false
+sitemap:
+  priority: 0.7
 summary: "NEXTCHEM secures a licensing and process design contract in China utilizing its proprietary NX Conser technologies to produce essential intermediates for biodegradable plastics."
 tags: ["NEXTCHEM", "MAIRE Group", "Maleic Anhydride", "NX Conser", "PBAT", "PBS"]
 category: "Plant Announcement"

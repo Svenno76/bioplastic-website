@@ -13,6 +13,8 @@ publicly_listed: true
 stock_ticker: "PBR (NYSE), PETR3/PETR4 (B3)"
 date: '2026-02-27'
 draft: true
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

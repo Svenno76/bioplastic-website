@@ -2,6 +2,8 @@
 title: "Ingevity Sells CTO Refinery for $110M in High-Value Strategic Pivot"
 date: 2026-01-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Ingevity has completed the $110 million sale of its Crude Tall Oil refinery, signaling a major strategic transition toward high-margin specialty chemicals and bioplastic innovations."
 tags: ["Ingevity"]
 category: "M&A"

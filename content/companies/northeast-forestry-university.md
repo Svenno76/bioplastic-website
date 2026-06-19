@@ -13,6 +13,8 @@ market_segments: Automotive, appliances, construction, packaging, engineering
 publicly_listed: false
 date: '2026-01-02'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 Northeast Forestry University, located in Harbin, China, is actively involved in bioplastics research and development. The university collaborates with Shenyang University of Chemical Technology on developing high-strength, biodegradable plastics from bamboo cellulose using a non-toxic alcohol solvent process.

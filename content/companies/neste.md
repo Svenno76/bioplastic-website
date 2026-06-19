@@ -17,6 +17,8 @@ employees: 5,000+
 annual_turnover: "\u20AC20.6B"
 date: '2026-01-05'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

@@ -14,6 +14,8 @@ stock_ticker:
 production_capacity: "Laboratory and pilot scale (full-scale commercialization in progress)"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

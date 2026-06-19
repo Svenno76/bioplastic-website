@@ -3,6 +3,8 @@
 title: "NaturePlast Develops AI-Designed Biodegradable Fishing Nets"
 date: 2025-11-12
 draft: false
+sitemap:
+  priority: 0.7
 summary: "NaturePlast announced new-generation bioplastic formulations for technical filaments in fishing and construction nets, leveraging artificial intelligence to optimize performance characteristics for demanding applications."
 tags: ['NaturePlast', 'Product Launch', 'Innovation', 'Product']
 category: "Product Launch"

@@ -11,6 +11,8 @@ publicly_listed: yes
 stock_ticker: "TSE:7267"
 date: '2026-02-13'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

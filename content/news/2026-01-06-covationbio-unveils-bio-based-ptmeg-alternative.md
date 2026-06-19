@@ -2,6 +2,8 @@
 title: "CovationBio unveils bio-based PTMEG alternative"
 date: 2026-01-06
 draft: false
+sitemap:
+  priority: 0.7
 summary: "CovationBio unveiled bio-based alternative to PTMEG at Chinaplas 2025."
 tags: ["CovationBio"]
 category: "Product Launch"

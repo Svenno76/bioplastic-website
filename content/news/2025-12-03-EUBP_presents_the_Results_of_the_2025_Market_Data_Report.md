@@ -4,6 +4,8 @@
 title: "EUBP presents the Results of the 2025 Market Data Report"
 date: 2025-12-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "European Bioplastics' 2025 Market Data Report projects a doubling of global biobased plastics production capacity by 2030, driven by increased demand and innovation across key sectors."
 tags: ["European Bioplastics (EUBP)", "Bioplastics", "Market Data", "production capacity", "Circular Economy"]
 category: "Market Analysis"

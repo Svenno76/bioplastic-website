@@ -4,6 +4,8 @@
 title: "Blue Circle Olefins and Ducor Petrochemicals Partner for Circular Polypropylene Supply Chain"
 date: 2025-11-17
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Blue Circle Olefins and Ducor Petrochemicals have announced a strategic partnership to establish a f"
 tags: ["Blue Circle Olefins", "Partnership", "Collaboration"]
 category: "Partnerships"

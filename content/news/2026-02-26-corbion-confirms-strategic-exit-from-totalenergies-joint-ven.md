@@ -3,6 +3,8 @@
 title: "Corbion Confirms Strategic Exit from TotalEnergies Joint Venture"
 date: 2026-02-26
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Corbion has officially finalized the divestment of its stake in the TotalEnergies Corbion joint venture, redirecting its focus toward core fermentation and lactic acid capabilities."
 tags: ["Corbion", "TotalEnergies", "PLA", "Fermentation"]
 category: "M&A"

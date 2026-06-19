@@ -3,6 +3,8 @@
 title: "Henkel and Sekab Partner for Bio-Based Adhesive Raw Materials"
 date: 2026-02-10
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Henkel collaborates with Sekab to integrate sustainable, bio-based intermediates into its adhesive formulations to significantly reduce carbon footprints."
 tags: ["Henkel", "Sekab", "Adhesives", "Acrylates", "Bio-Based Chemicals"]
 category: "Partnerships"

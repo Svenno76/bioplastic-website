@@ -1,0 +1,133 @@
+{{/*
+  Auto-link-content partial
+  Takes content via .Content and auto-links company names and glossary terms.
+  Longer names are matched first to avoid partial matches.
+  Uses replaceRE with negative lookbehind/ahead to avoid double-linking
+  inside existing <a> tags (best-effort via regex).
+*/}}
+{{ $content := .Content }}
+
+{{/* ===== GLOSSARY TERMS (longest first) ===== */}}
+{{ $content = $content | replaceRE `(?i)\b(Life Cycle Assessment)\b` `<a href="/glossary/life-cycle-assessment/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Composting Infrastructure)\b` `<a href="/glossary/composting-infrastructure/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Drop-in Bioplastic)\b` `<a href="/glossary/drop-in-bioplastic/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Starch-based Bioplastic)\b` `<a href="/glossary/starch-based-bioplastic/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Bioplastic Blends)\b` `<a href="/glossary/bioplastic-blends/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Microbial Degradation)\b` `<a href="/glossary/microbial-degradation/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Circular Economy)\b` `<a href="/glossary/circular-economy/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Polypropylene)\b` `<a href="/glossary/polypropylene/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Biodegradable)\b` `<a href="/glossary/biodegradable/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Compostable)\b` `<a href="/glossary/compostable/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Bioplastics)\b` `<a href="/glossary/bioplastics/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Feedstock)\b` `<a href="/glossary/feedstock/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Bio-PET)\b` `<a href="/glossary/bio-pet/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Bio-PE)\b` `<a href="/glossary/bio-pe/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(Bio-PP)\b` `<a href="/glossary/bio-pp/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(PHA)\b` `<a href="/glossary/pha/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(PHB)\b` `<a href="/glossary/phb/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(PBS)\b` `<a href="/glossary/pbs/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(PBAT)\b` `<a href="/glossary/pbat/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(PCL)\b` `<a href="/glossary/pcl/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(PLA)\b` `<a href="/glossary/pla/" class="glossary-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)\b(EN 13432)\b` `<a href="/glossary/en-13432/" class="glossary-link">$1</a>` | safeHTML }}
+
+{{/* ===== COMPANIES (longest first, only existing ones) ===== */}}
+{{ $content = $content | replaceRE `(?i)(Blue Ocean Closures)` `<a href="/companies/blue-ocean-closures/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Mitsubishi Chemical Group)` `<a href="/companies/mitsubishi-chemical-group/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(PTT MCC Biochem)` `<a href="/companies/ptt-mcc-biochem/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(TotalEnergies Corbion)` `<a href="/companies/totalenergies-corbion/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Radici Group)` `<a href="/companies/radici-group/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(NatureWorks LLC)` `<a href="/companies/natureworks/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Blue Circle Olefins)` `<a href="/companies/blue-circle-olefins/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Braskem SA)` `<a href="/companies/braskem/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Danimer Scientific)` `<a href="/companies/danimer-scientific/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Covestro)` `<a href="/companies/covestro/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Arkema)` `<a href="/companies/arkema/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Borealis)` `<a href="/companies/borealis/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Trinseo)` `<a href="/companies/trinseo/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Eastman)` `<a href="/companies/eastman/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(DuPont)` `<a href="/companies/dupont/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(ExxonMobil)` `<a href="/companies/exxonmobil/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(LyondellBasell)` `<a href="/companies/lyondellbasell/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Lanxess)` `<a href="/companies/lanxess/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Wacker Chemie)` `<a href="/companies/wacker-chemie/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Clariant)` `<a href="/companies/clariant/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Solvay)` `<a href="/companies/solvay/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Teijin)` `<a href="/companies/teijin/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Toray)` `<a href="/companies/toray/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Asahi Kasei)` `<a href="/companies/asahi-kasei/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Bakelite)` `<a href="/companies/bakelite/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Sestec)` `<a href="/companies/sestec/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Nexam Chemical)` `<a href="/companies/nexam-chemical/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Verdofoam)` `<a href="/companies/verdofoam/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(AgroRenew)` `<a href="/companies/agrorenew/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Carbon Cell)` `<a href="/companies/carbon-cell/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(CJ Biomaterials)` `<a href="/companies/cj-biomaterials/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Biome Bioplastics)` `<a href="/companies/biome-bioplastics/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Renaissance BioScience)` `<a href="/companies/renaissance-bioscience/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(TripleW)` `<a href="/companies/triplew/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Uluu)` `<a href="/companies/uluu/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Susmata)` `<a href="/companies/susmata/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Notpla)` `<a href="/companies/notpla/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(TIPA)` `<a href="/companies/tipa/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Teysha Technologies)` `<a href="/companies/teysha-technologies/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Terra Sol Studio)` `<a href="/companies/terra-sol-studio/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Ecopha Biotech)` `<a href="/companies/ecopha-biotech/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Kemvera)` `<a href="/companies/kemvera/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(NaturePlast)` `<a href="/companies/natureplast/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Oceansafe)` `<a href="/companies/oceansafe/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Lenzing)` `<a href="/companies/lenzing-ag/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Forvia)` `<a href="/companies/forvia/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Sojitz)` `<a href="/companies/sojitz/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Ducor Petrochemicals)` `<a href="/companies/ducor-petrochemicals/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Teknor Apex)` `<a href="/companies/teknor-apex/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Danimer)` `<a href="/companies/danimer-scientific/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Total Corbion)` `<a href="/companies/totalenergies-corbion/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Genomatica)` `<a href="/companies/genomatica/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Avantium)` `<a href="/companies/avantium/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Mitsui Chemicals)` `<a href="/companies/mitsui-chemicals/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Idemitsu Kosan)` `<a href="/companies/idemitsu-kosan/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(SK Chemicals)` `<a href="/companies/sk-chemicals/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(LG Chem)` `<a href="/companies/lg-chem/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Hyosung)` `<a href="/companies/hyosung-tnc-vietnam/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Indorama Ventures)` `<a href="/companies/indorama-ventures/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Solvay)` `<a href="/companies/solvay/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Perstorp)` `<a href="/companies/perstorp/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Futamura)` `<a href="/companies/futamura/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Bio-on)` `<a href="/companies/bio-on/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Bio-Tec)` `<a href="/companies/biotec/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Billerud)` `<a href="/companies/billerud/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Essity)` `<a href="/companies/essity/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(UPM)` `<a href="/companies/upm/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Mondi)` `<a href="/companies/mondi/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Huhtamaki)` `<a href="/companies/huhtamaki/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Amcor)` `<a href="/companies/amcor/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Berry Global)` `<a href="/companies/berry-global/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Sealed Air)` `<a href="/companies/sealed-air/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Tetra Pak)` `<a href="/companies/tetra-pak/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(SIG Combibloc)` `<a href="/companies/sig-combibloc/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Ardagh Group)` `<a href="/companies/ardagh-group/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Verallia)` `<a href="/companies/verallia/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Vidrala)` `<a href="/companies/vidrala/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Gerresheimer)` `<a href="/companies/gerresheimer/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Ball Corporation)` `<a href="/companies/ball-corporation/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Toyo Seikan)` `<a href="/companies/toyo-seikan/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Daiwa Can)` `<a href="/companies/daiwa-can/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Baosteel Packaging)` `<a href="/companies/baosteel-packaging/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(CPM C)` `<a href="/companies/cpmc/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Samsung)` `<a href="/companies/samsung/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(LG)` `<a href="/companies/lg/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Panasonic)` `<a href="/companies/panasonic/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Sony)` `<a href="/companies/sony/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Hitachi)` `<a href="/companies/hitachi/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Toshiba)` `<a href="/companies/toshiba/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Mitsubishi Electric)` `<a href="/companies/mitsubishi-electric/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(Fujitsu)` `<a href="/companies/fujitsu/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(NEC)` `<a href="/companies/nec/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(NTT)` `<a href="/companies/ntt/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(SoftBank)` `<a href="/companies/softbank/" class="company-link">$1</a>` | safeHTML }}
+{{ $content = $content | replaceRE `(?i)(KDDI)` `<a href="/companies/kddi/" class="company-link">$1</a>` | safeHTML }}
+
+
+{{/* Output the processed content */}}
+{{ $content }}

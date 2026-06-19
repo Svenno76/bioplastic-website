@@ -2,6 +2,8 @@
 title: "Innovative Start-Ups Honored at the ISC3 Innovation Challenge 2025 – Power2Polymers from Germany wins top prize"
 date: 2025-12-05
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Power2Polymers, a German startup, secured the top prize at the ISC3 Innovation Challenge 2025 for its pioneering sustainable and high-performance polymer products, which significantly reduce carbon footprint and offer an alternative to harmful PFAS chemicals."
 tags: ["Power2Polymers", "ISC3", "Sustainable Chemistry", "Innovation Challenge", "Bioplastics", "Polymers"]
 category: "Investment & Funding"

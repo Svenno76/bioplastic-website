@@ -4,6 +4,8 @@ aka: ["LCA", "Environmental Life Cycle Assessment", "Cradle-to-grave analysis", 
 term_type: "methodology"
 related: ["PLA", "PHA", "bio-PE", "Feedstock", "Circular Economy", "Carbon footprint"]
 summary: "Life Cycle Assessment (LCA) is the internationally standardised methodology (ISO 14040/14044) used to quantify the environmental impacts of a product or material across its entire life cycle — from raw material extraction through production, use, and end-of-life. For bioplastics, LCA is the definitive tool for comparing sustainability performance against conventional plastics."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Is Life Cycle Assessment?

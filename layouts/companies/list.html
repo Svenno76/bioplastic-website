@@ -16,9 +16,11 @@
 
   <main>
 <div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
-  <div class="page-header">
-    <h1>{{ .Title }}</h1>
-    <p>{{ .Description }}</p>
+  <div class="page-header" style="margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+    <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p style="font-size: 1.1rem; color: #6b7f7d; line-height: 1.5; max-width: 60rem;">{{ . }}</p>
+    {{ end }}
   </div>
 
   <!-- Filter Controls -->
@@ -33,7 +35,8 @@
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem;" id="companies-grid">
-    {{ range .Pages.ByTitle }}
+    {{ $pag := .Paginate .Pages.ByTitle 12 }}
+    {{ range $pag.Pages }}
     {{ $types := .Params.company_type }}
     {{ $typeStr := "" }}
     {{ if reflect.IsSlice $types }}
@@ -131,6 +134,18 @@
     </article>
     {{ end }}
   </div>
+
+  {{ if or $pag.HasPrev $pag.HasNext }}
+  <nav class="pagination" style="display: flex; justify-content: center; gap: 1rem; margin-top: 2rem;">
+    {{ if $pag.HasPrev }}
+    <a href="{{ $pag.Prev.URL }}" style="padding: 0.5rem 1rem; background: var(--color-primary); color: white; border-radius: 4px; text-decoration: none;">← Previous</a>
+    {{ end }}
+    <span style="padding: 0.5rem 1rem;">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+    {{ if $pag.HasNext }}
+    <a href="{{ $pag.Next.URL }}" style="padding: 0.5rem 1rem; background: var(--color-primary); color: white; border-radius: 4px; text-decoration: none;">Next →</a>
+    {{ end }}
+  </nav>
+  {{ end }}
 </div>
 
   </main>

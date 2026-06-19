@@ -3,6 +3,8 @@
 title: "AS Watson Refreshes Virgin Plastic Reduction Target to 21% by 2030"
 date: 2026-01-29
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The world's largest international health and beauty retailer has updated its environmental roadmap, targeting a 21% reduction in virgin plastic intensity within its own-brand packaging by 2030."
 tags: ["AS Watson", "rPET", "Packaging", "Recycling"]
 category: "Regulatory & Policy"

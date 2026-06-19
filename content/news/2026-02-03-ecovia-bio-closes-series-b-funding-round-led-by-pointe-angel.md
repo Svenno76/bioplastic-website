@@ -2,6 +2,8 @@
 title: "Ecovia Bio Closes Series B Funding Round Led by Pointe Angels to Expand Manufacturing Capacity"
 date: 2026-02-03
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Ecovia Bio secures significant Series B capital to scale industrial production of its proprietary bio-based superabsorbent polymers and functional ingredients."
 tags: ["Ecovia Bio", "Pointe Angels", "Superabsorbent Polymers", "Biopolymers", "Fermentation"]
 category: "Investment & Funding"

@@ -2,6 +2,8 @@
 title: "Prairie Band Potawatomi Nation Produces First Hemp Bioplastics"
 date: 2026-01-22
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The Prairie Band Potawatomi Nation in Kansas has successfully manufactured its first line of bioplastic products using industrial hemp grown on tribal lands, marking a significant step in their vertically integrated agricultural strategy."
 tags: ["Prairie Band Ag", "Prairie Band Potawatomi Nation", "Industrial Hemp", "Hempcrete"]
 category: "Product Launch"

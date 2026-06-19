@@ -2,6 +2,8 @@
 title: "Celanese Opens Expanded Michigan Technology Center for Sustainable Materials"
 date: 2026-02-23
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Celanese Corporation has unveiled its newly expanded Auburn Hills technology center, significantly increasing its capacity for developing sustainable polymer formulations and electric vehicle applications."
 tags: ["Celanese Corporation", "Engineered Materials", "Thermoplastics", "Automotive"]
 category: "Plant Announcement"

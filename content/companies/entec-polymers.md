@@ -14,6 +14,8 @@ stock_ticker:
 parent_company: "Ravago Group"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

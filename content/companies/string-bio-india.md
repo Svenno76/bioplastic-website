@@ -18,6 +18,8 @@ production_capacity:
     status: "R&D and demonstration scale"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

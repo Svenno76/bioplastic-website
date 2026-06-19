@@ -22,6 +22,8 @@ production_capacity:
     status: "Under construction, commercial start H2 2025"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

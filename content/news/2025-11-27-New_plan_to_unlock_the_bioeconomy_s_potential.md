@@ -3,6 +3,8 @@
 title: "New plan to unlock the bioeconomy's potential"
 date: 2025-11-27
 draft: false
+sitemap:
+  priority: 0.7
 summary: "The European Commission has adopted a new Bioeconomy Strategy, explicitly integrating bio-based plastics into a coherent regulatory framework and preparing for legally binding targets, signaling a major shift in EU industrial policy."
 tags: ["European Commission", "Bioeconomy Strategy", "Bio-Based Plastics", "Regulatory Policy", "EU Green Deal"]
 category: "Regulatory & Policy"

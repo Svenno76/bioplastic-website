@@ -17,6 +17,8 @@ production_capacity:
     status: "NGIB development facility and 10 kt/annum plant operational; major expansion underway"
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

@@ -2,6 +2,8 @@
 title: "SABIC Divests European Plastics Units to Focus on Sustainable Portfolio"
 date: 2026-01-08
 draft: false
+sitemap:
+  priority: 0.7
 summary: "SABIC has announced a strategic divestment of its traditional European plastics units to accelerate its transition toward a high-growth, bio-based, and circular product portfolio."
 tags: ["SABIC"]
 category: "M&A"

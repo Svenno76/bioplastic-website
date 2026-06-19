@@ -2,6 +2,8 @@
 title: "Zeon and Visolis Sign Agreement for Bio-Isoprene Development"
 date: 2026-02-16
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Zeon Corporation and Visolis have entered a strategic partnership to accelerate the commercial development of bio-isoprene, a critical sustainable feedstock for synthetic rubber and elastomers."
 tags: ["Bio-Isoprene", "Synthetic Rubber", "Fermentation", "Sustainable Elastomers"]
 category: "Partnerships"

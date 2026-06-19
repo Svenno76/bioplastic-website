@@ -14,6 +14,8 @@ stock_ticker: "XOM (ExxonMobil)"
 parent_company: "ExxonMobil Corporation"
 date: '2026-02-27'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

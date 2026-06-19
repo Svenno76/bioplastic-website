@@ -12,6 +12,8 @@ market_segments: "Packaging, injection molding, 3D printing, flexible films, ind
 publicly_listed: no
 date: '2026-02-14'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview

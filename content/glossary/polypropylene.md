@@ -4,6 +4,8 @@ aka: ["PP", "Polyprop"]
 term_type: "material"
 related: ["Bio-PP", "Drop-in Bioplastic", "Drop-in Replacement", "Bioplastics", "Circular Economy"]
 summary: "Polypropylene (PP) is a thermoplastic polymer commonly used in packaging, automotive, and consumer products. Bio-PP is a renewable alternative with identical properties produced from plant-based feedstocks rather than petroleum."
+sitemap:
+  priority: 0.6
 ---
 
 ## What Is Polypropylene?

@@ -18,6 +18,8 @@ annual_turnover: $165B
 founded: '1865'
 date: '2026-01-05'
 draft: false
+sitemap:
+  priority: 0.8
 ---
 
 ## Overview
