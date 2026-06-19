@@ -1,16 +1,19 @@
-```yaml
 ---
 title: "Neste commissions the world's largest upgrading facility for liquefied waste plastic and scales up chemical recycling"
 date: 2026-03-16
 draft: false
+sitemap:
+  priority: 0.7
 summary: "Neste has successfully commissioned the world's largest upgrading facility for liquefied waste plastic at its Porvoo refinery, marking a major milestone in the commercial scale-up of chemical recycling."
 tags: ["Neste", "Chemical Recycling", "Liquefied Waste Plastic", "Pyrolysis Oil"]
 category: "Plant Announcement"
 company: ["Neste"]
 company_type: ["Recycler", "Technology Company"]
 source: "Neste"
+featured_image: "/images/news/neste-chemical-recycling-facility.jpg"
 ---
-```
+
+![Neste chemical recycling facility for liquefied waste plastic](/images/news/neste-chemical-recycling-facility.jpg)
 
 ## A Historic Milestone in Chemical Recycling
 
