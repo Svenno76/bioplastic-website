@@ -1,6 +1,7 @@
 ---
 title: "PBAT (Polybutylene Adipate Terephthalate)"
 description: "Definition of PBAT, a fossil-based biodegradable polyester used in compostable packaging. Learn about properties, applications in films and bags, and certification standards."
+tags:
 - Polybutylene Adipate Terephthalate
 - Ecoflex
 - Origo-Bi
@@ -48,9 +49,9 @@ standards:
 - ASTM D6400
 - OK Compost certification
 summary: PBAT is a biodegradable copolyester that combines flexibility with compostability.
-sitemap:\n  priority: 0.6
+sitemap:
+  priority: 0.6
 term_type: material
-title: PBAT (Polybutylene Adipate Terephthalate)
 ---
 
 ## What Is PBAT?

@@ -1,6 +1,7 @@
 ---
 title: "PHA (Polyhydroxyalkanoates)"
 description: "Definition of PHA (Polyhydroxyalkanoates), a family of bio-based polyesters produced by microbial fermentation. Learn about properties, marine biodegradability, and applications in packaging and medical devices."
+tags:
 - Polyhydroxyalkanoates
 - PHB
 - PHBV
@@ -51,9 +52,9 @@ standards:
 - ASTM D6691 (Marine Biodegradable)
 - OK Biodegradable Marine
 summary: PHA is a family of biodegradable polyesters naturally produced by bacteria
-sitemap:\n  priority: 0.6
+sitemap:
+  priority: 0.6
 term_type: material
-title: PHA (Polyhydroxyalkanoates)
 ---
 
 ## Overview
