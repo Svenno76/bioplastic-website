@@ -244,15 +244,55 @@
       {{ end }}
       
       <!-- Related News -->
+      {{ $companyName := .Title }}
+      {{ $relatedNews := slice }}
+      {{ range where .Site.RegularPages "Section" "news" }}
+        {{ $match := false }}
+        {{ if reflect.IsSlice .Params.company }}
+          {{ range .Params.company }}
+            {{ if eq . $companyName }}{{ $match = true }}{{ end }}
+          {{ end }}
+        {{ else }}
+          {{ if eq .Params.company $companyName }}{{ $match = true }}{{ end }}
+        {{ end }}
+        {{ if findRE (lower $companyName) (lower .Title) }}
+          {{ $match = true }}
+        {{ end }}
+        {{ if $match }}{{ $relatedNews = $relatedNews | append . }}{{ end }}
+      {{ end }}
+      {{ if lt (len $relatedNews) 5 }}
+        {{ $tagNews := where (where .Site.RegularPages "Section" "news") "Params.tags" "intersect" (slice $companyName) }}
+        {{ range $tagNews }}
+          {{ if not (in $relatedNews .Permalink) }}{{ $relatedNews = $relatedNews | append . }}{{ end }}
+        {{ end }}
+      {{ end }}
+      {{ $relatedNews = first 5 (sort $relatedNews "Date" "desc") }}
+      {{ if $relatedNews }}
       <div style="background: linear-gradient(135deg, #f3ede3 0%, #e8dcd0 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #e8dcd0; margin-bottom: 1.5rem;">
-        <h3 style="color: #6b5344; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📰 Latest News</h3>
-        <p style="color: #78716c; font-size: 0.9rem; margin: 0;">
-          Discover the latest news and updates about {{ .Title }}.
-        </p>
-        <a href="/news/?company={{ .Title }}" style="display: inline-block; margin-top: 1rem; color: white; background: #d4a574; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
-          View News →
+        <h3 style="color: #6b5344; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📰 Related News</h3>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          {{ range $relatedNews }}
+          <li style="padding: 0.6rem 0; border-bottom: 1px solid #e8dcd0;">
+            <a href="{{ .Permalink }}" style="color: #6b5344; text-decoration: none; font-size: 0.85rem; font-weight: 500; line-height: 1.4; display: block;">
+              {{ .Title }}
+            </a>
+            <span style="color: #a8a29e; font-size: 0.75rem;">{{ .Date.Format "Jan 2, 2006" }}</span>
+          </li>
+          {{ end }}
+        </ul>
+        <a href="/news/" style="display: inline-block; margin-top: 1rem; color: white; background: #d4a574; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
+          All News →
         </a>
       </div>
+      {{ else }}
+      <div style="background: linear-gradient(135deg, #f3ede3 0%, #e8dcd0 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #e8dcd0; margin-bottom: 1.5rem;">
+        <h3 style="color: #6b5344; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📰 Related News</h3>
+        <p style="color: #78716c; font-size: 0.85rem; margin: 0;">No recent news for this company.</p>
+        <a href="/news/" style="display: inline-block; margin-top: 1rem; color: white; background: #d4a574; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
+          Browse All News →
+        </a>
+      </div>
+      {{ end }}
     </aside>
   </div>
   
