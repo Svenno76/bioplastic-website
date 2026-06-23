@@ -117,14 +117,26 @@
     {{ if .Params.primary_materials }}
     <div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-left: 4px solid #3d7a6f; padding: 1.5rem; border-radius: 8px;">
       <h3 style="color: #2d5a4f; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🧬 Primary Materials</h3>
-      <p style="color: #475569; line-height: 1.6; margin: 0;">{{ partial "auto-link-content.html" (dict "Content" .Params.primary_materials) }}</p>
+      <p style="color: #475569; line-height: 1.6; margin: 0;">
+        {{ $pm := .Params.primary_materials }}
+        {{ if reflect.IsSlice $pm }}
+          {{ $pm = delimit $pm ", " }}
+        {{ end }}
+        {{ partial "auto-link-content.html" (dict "Content" $pm) }}
+      </p>
     </div>
     {{ end }}
 
     {{ if .Params.market_segments }}
     <div style="background: linear-gradient(135deg, #f3ede3 0%, #e8dcd0 100%); border-left: 4px solid #d4a574; padding: 1.5rem; border-radius: 8px;">
       <h3 style="color: #6b5344; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🎯 Market Segments</h3>
-      <p style="color: #475569; line-height: 1.6; margin: 0;">{{ partial "auto-link-content.html" (dict "Content" (delimit .Params.market_segments ", ")) }}</p>
+      <p style="color: #475569; line-height: 1.6; margin: 0;">
+        {{ $ms := .Params.market_segments }}
+        {{ if reflect.IsSlice $ms }}
+          {{ $ms = delimit $ms ", " }}
+        {{ end }}
+        {{ partial "auto-link-content.html" (dict "Content" $ms) }}
+      </p>
     </div>
     {{ end }}
 
