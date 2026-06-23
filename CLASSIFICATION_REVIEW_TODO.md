@@ -6,27 +6,15 @@
 
 ---
 
-## 🔴 HIGH PRIORITY (2 companies - Batch 4 uncertain cases)
+## 🔴 HIGH PRIORITY — COMPLETE
 
-### 1. Blue Circle Olefins
-- **Current Type:** Bioplastic Producer
-- **Business:** Produces ethylene and propylene (base chemicals for polymers)
-- **Question:** Should be Technology Company or keep as Producer?
+### 1. Blue Circle Olefins → **Technology Company** ✅
+- **Reason:** Develops circular methanol-to-olefins technology; produces ethylene/propylene building blocks, not finished bioplastics
 - **File:** `content/companies/blue-circle-olefins.md`
-- **Action Required:**
-  - [ ] Review description and business model
-  - [ ] Decide classification: Technology Company or Producer?
-  - [ ] Update if needed
 
-### 2. Asahi Kasei Corporation
-- **Current Type:** Bioplastic Producer
-- **Business:** Large diversified Japanese chemical company
-- **Issue:** Description is vague - "producing bio-based chemicals"
+### 2. Asahi Kasei Corporation → **Compounder** ✅
+- **Reason:** Large chemical company producing bio-based plastic resins (POM, PA, PPE) from bioethanol via Revolefin technology; makes the resin compounds, not end products
 - **File:** `content/companies/asahi-kasei.md`
-- **Action Required:**
-  - [ ] Research Asahi Kasei's specific bioplastics business
-  - [ ] Determine primary role: Producer, Compounder, or other?
-  - [ ] Update classification if needed
 
 ---
 
