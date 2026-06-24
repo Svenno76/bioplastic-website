@@ -151,6 +151,51 @@
 </script>
 {{ end }}
 
+{{/* === Product for company pages with products OR primary_materials === */}}
+{{ if and (eq .Section "companies") (or .Params.products .Params.primary_materials) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.description | default .Params.short_description | default (.Summary | plainify | truncate 200) }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Title }}"
+  },
+  "category": "{{ .Params.company_type | default "Bioplastic" }}",
+  {{ if or .Params.products .Params.primary_materials }}
+  "material": "{{ if .Params.primary_materials }}{{ if reflect.IsSlice .Params.primary_materials }}{{ delimit .Params.primary_materials ", " }}{{ else }}{{ .Params.primary_materials }}{{ end }}{{ else }}{{ if reflect.IsSlice .Params.products }}{{ delimit .Params.products ", " }}{{ else }}{{ .Params.products }}{{ end }}{{ end }}",
+  {{ end }}
+  {{ if .Params.website }}
+  "url": "{{ .Params.website }}",
+  {{ end }}
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "{{ .Title }}",
+    "url": "{{ .Params.website }}"
+    {{ if .Params.headquarters }},
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ .Params.headquarters }}"
+    }
+    {{ end }}
+  }
+  {{ if .Params.certifications }},
+  "hasCertification": [
+    {{ range $i, $cert := .Params.certifications }}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "Certification",
+      "name": "{{ $cert }}"
+    }
+    {{ end }}
+  ]
+  {{ end }}
+}
+</script>
+{{ end }}
+
 {{/* === DefinedTerm for glossary pages === */}}
 {{ if eq .Section "glossary" }}
 <script type="application/ld+json">
@@ -290,36 +335,24 @@
 </script>
 {{ end }}
 
-{{/* === Article for bioplastics guide pages === */}}
+{{/* === HowTo for bioplastics guide pages === */}}
 {{ if eq .Section "bioplastics" }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "{{ .Title }}",
-  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Params.author | default "Sven Cammerer" }}"
-  },
+  "@type": "HowTo",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.description | default (.Summary | plainify | truncate 200) }}",
+  {{ if or .Params.featured_image .Params.image }}
+  "image": "{{ or .Params.featured_image .Params.image | absURL }}",
+  {{ end }}
   "publisher": {
     "@type": "Organization",
     "name": "Bioplastics Portal",
-    "url": "https://bioplasticsportal.com",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://bioplasticsportal.com/images/bioplastics-banner.jpg"
-    }
-  },
-  "description": "{{ .Summary | plainify | truncate 200 }}",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ .Permalink }}"
+    "url": "https://bioplasticsportal.com"
   }
-  {{ if or .Params.featured_image .Params.image }}
-  ,
-  "image": ["{{ or .Params.featured_image .Params.image | absURL }}"]
+  {{ if .Params.total_time }},
+  "totalTime": "{{ .Params.total_time }}"
   {{ end }}
 }
 </script>
@@ -350,6 +383,21 @@
   {{ if .Params.source }}
   ,
   "isBasedOn": "{{ .Params.source }}"
+  {{ end }}
+  {{ if .Params.study_type }},
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Bioplastics Portal"
+    },
+    "reviewBody": "{{ .Summary | plainify | truncate 200 }}"
+  }
   {{ end }}
 }
 </script>
