@@ -48,4 +48,6 @@ Covestro coordinates a **10-partner consortium across 7 countries**, with pilot 
 
 If successful, this technology could fundamentally decarbonize the polyurethane industry. Bio-based aniline works as a direct drop-in replacement — meaning existing manufacturing processes wouldn't need to change. The project represents a major step toward making the entire polyurethanes value chain more sustainable.
 
+Learn more about this material in our [Bio-Based Aniline Glossary](/glossary/bio-based-aniline/).
+
 **Source:** [Covestro Press Release](https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/)
