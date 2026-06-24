@@ -1,0 +1,32 @@
+{{/* FAQPage Schema.org JSON-LD for FAQ pages */}}
+{{- if eq .Section "faq" -}}
+{{- $content := .RawContent -}}
+{{- $questions := findRE `### [^\n]+` $content -}}
+{{- if gt (len $questions) 0 -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $q := $questions }}
+    {{- $qClean := replaceRE `^### ` "" $q -}}
+    {{- $pattern := printf `(?s)%s\n\n(.+?)(?=\n### |\z)` $q -}}
+    {{- $match := findRE $pattern $content -}}
+    {{- if $match -}}
+    {{- $answer := replaceRE (printf `(?s)%s\n\n(.*)` $q) "$1" (index $match 0) | plainify -}}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $qClean | safeHTML }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $answer | safeHTML }}"
+      }
+    }
+    {{- end -}}
+    {{- end }}
+  ]
+}
+</script>
+{{- end }}
+{{- end }}

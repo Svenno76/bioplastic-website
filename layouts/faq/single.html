@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  {{ partial "meta-description.html" . }}
+  {{ partial "head-seo.html" . }}
+  {{ partial "faq-schema.html" . }}
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+  </style>
+</head>
+<body>
+  {{ partial "site-header.html" }}
+
+  <main>
+    <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
+      <article>
+        <header style="margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid #e5e7eb;">
+          <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
+          {{ if .Params.description }}
+          <p style="font-size: 1.1rem; color: #64748b; line-height: 1.6;">{{ .Params.description }}</p>
+          {{ end }}
+        </header>
+
+        <div style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark);">
+          {{ .Content }}
+        </div>
+      </article>
+    </div>
+  </main>
+
+  {{ partial "site-footer.html" }}
+</body>
+</html>
+

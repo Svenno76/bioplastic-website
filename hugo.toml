@@ -51,6 +51,11 @@ ignoreFiles = ["^database/"]
 #  weight = 40
 
 [[menu.main]]
+  name = "FAQ"
+  url = "/faq/"
+  weight = 45
+
+[[menu.main]]
   name = "Glossary"
   url = "/glossary/"
   weight = 50
