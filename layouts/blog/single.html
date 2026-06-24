@@ -29,10 +29,10 @@
 
         {{ if .Params.featured_image }}
           {{ if eq .Params.image_type "logo" }}
-            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;">
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;" loading="lazy" decoding="async">
           {{ else }}
             <div style="margin-bottom: 2rem;">
-              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px;">
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" decoding="async">
             </div>
           {{ end }}
         {{ end }}
