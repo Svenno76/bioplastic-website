@@ -26,5 +26,3 @@ Complementing this, Sensomer™ Cassia 115 Polymer is a naturally derived, biode
 ## Impact
 
 These new polymers underscore Lubrizol's strategic focus on sustainable solutions, responding to the growing market demand for environmentally responsible ingredients in consumer products. By providing high-performance, naturally derived, and biodegradable alternatives, Lubrizol is empowering industries to develop more sustainable formulations without compromising on product quality or consumer experience. The launch reflects Lubrizol's century-long legacy of innovation, driven by strategic research and market insights to address global challenges.
-
-**Source:** [Read more](https://www.lubrizol.com/company/news/2025/04/lubrizol-introduces-carbopol-biosense-polymer)

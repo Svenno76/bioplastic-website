@@ -27,5 +27,3 @@ For packaging converters and consumer brand owners, this expansion guarantees gr
 This production scale-up arrives at a critical juncture for the European packaging sector. With stringent EU frameworks, such as the Packaging and Packaging Waste Regulation (PPWR), mandating ambitious recycled content targets by 2030, a reliable supply of high-quality rPET is becoming essential. By doubling its output in Portugal, Selenis is positioning itself as a pivotal supply chain partner for the cosmetics, personal care, healthcare, and food and beverage industries.
 
 Furthermore, expanding localized production in Portugal enhances supply chain resilience for European markets. It minimizes the logistical carbon footprint associated with material transport and ensures a steady, sustainable flow of specialized resins to regional manufacturers.
-
-**Source:** [Read more](https://www.selenis.com/news/selenis-to-double-capacity-in-portugal-by-q3-2027)

@@ -29,4 +29,3 @@ Aduro is moving forward on a chemical recycling plant with 10,000 tonnes annual 
 
 Unlike pyrolysis-based processes, Aduro's HCU technology uses aqueous processes at lower temperatures. The result is a higher-value output with greater flexibility on feedstock. The company has operated a pilot plant for years and is now entering commercialization.
 
-**Source:** [Aduro Clean Technologies](https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx)

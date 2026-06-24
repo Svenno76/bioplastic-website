@@ -29,5 +29,3 @@ Kelpi’s innovation utilizes the unique molecular structure of seaweed to creat
 This trial comes as the packaging industry faces tightening regulations regarding single-use plastics in the EU and UK. "Combining Mondi's expertise in paper conversion with Kelpi's breakthrough barrier technology allows us to tackle applications previously thought unsuitable for fiber-based packaging," a spokesperson for the project noted.
 
 Successful trials will focus on "runability" on existing filling lines, ensuring that brands can switch to this marine-safe alternative without significant capital expenditure on new machinery. If the pilot meets performance metrics, the solution could be rolled out to personal care and cosmetic brands globally later this year.
-
-**Source:** [Read more](https://www.kelpi.net/news/kelpi-partners-with-guardpack-to-develop-sustainable-sachets)

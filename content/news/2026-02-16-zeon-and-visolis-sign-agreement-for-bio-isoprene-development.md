@@ -31,5 +31,3 @@ Zeon Corporation brings decades of experience in the commercialization of synthe
 This agreement aligns with Zeon’s medium-term management plan, which emphasizes the transition to a circular economy and the achievement of carbon neutrality by 2050. By securing a reliable technology for bio-isoprene production, Zeon aims to stabilize its supply chain against the volatility of fossil fuel markets while expanding its portfolio of eco-friendly "C5" chemical derivatives.
 
 The companies are expected to move from feasibility studies to pilot-scale production within the coming year.
-
-**Source:** [Read more](https://www.zeon.co.jp/en/news/assets/pdf/260216.pdf)

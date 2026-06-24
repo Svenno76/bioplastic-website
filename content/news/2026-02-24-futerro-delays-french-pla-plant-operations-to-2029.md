@@ -27,5 +27,3 @@ The Port-Jérôme project is designed to be a fully integrated site, managing th
 This rescheduling arrives as several European biochemical projects face similar stalling pressures. Industry analysts note that while demand for bioplastics continues to rise, the supply side in Europe is constrained by higher operational costs compared to competitors in Asia and the Americas.
 
 Despite the delay, the strategic importance of the Futerro plant remains high for the "Vallée de la Chimie" ecosystem in Normandy. Once operational, the plant will utilize Futerro’s proprietary loop capability, which allows for the chemical recycling of end-of-life PLA back into virgin-quality lactic acid, closing the material loop. The 2029 target sets a new horizon for the region's transition toward bio-based industrial clusters.
-
-**Source:** [Read more](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2792384-european-biochemicals-projects-stall)

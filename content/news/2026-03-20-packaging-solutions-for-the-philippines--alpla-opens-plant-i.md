@@ -27,5 +27,3 @@ As consumer goods brands increasingly pivot away from conventional fossil-based 
 This strategic investment fortifies ALPLA's commitment to a closed-loop circular economy while bringing vital economic growth to the Laguna province. The facility operates under stringent environmental standards, prioritizing energy-efficient manufacturing and zero-waste production principles. 
 
 By introducing advanced bioplastic processing capabilities directly to the local market, ALPLA is actively positioning the Philippines as a crucial hub for sustainable packaging. This localization enables local and multinational consumer brands to effectively meet newly implemented Extended Producer Responsibility (EPR) regulations and their own corporate environmental mandates. The Calamba City plant represents a critical step forward in reducing the region's reliance on virgin fossil plastics across the robust Southeast Asian consumer market.
-
-**Source:** [Read more](https://blog.alpla.com/en/press-release/newsroom/packaging-solutions-philippines-alpla-opens-plant-calamba-city)

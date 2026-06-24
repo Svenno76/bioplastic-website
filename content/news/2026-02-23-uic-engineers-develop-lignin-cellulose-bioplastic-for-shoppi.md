@@ -25,5 +25,3 @@ The UIC engineering team successfully overcame these processing challenges by co
 One of the distinct advantages of the UIC-developed material is its end-of-life profile. Traditional plastic bags are notoriously difficult to recycle and often end up as microplastics in the environment. In contrast, the lignin-cellulose bioplastic is designed to be chemically recyclable. The material can be broken down to its monomeric components and reformed, or, if leaked into the environment, degrade significantly faster than synthetic equivalents without releasing toxic additives.
 
 This development marks a significant step forward in the quest for commercially viable, plant-based films. By leveraging abundant waste streams, the UIC team aims to lower production costs, making sustainable alternatives competitive with conventional plastics in the high-volume packaging market.
-
-**Source:** [Read more](https://today.uic.edu/uic-engineers-develop-plant-based-plastic-alternative-for-use-in-shopping-bags/)

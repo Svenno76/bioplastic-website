@@ -30,5 +30,3 @@ The new investment will integrate cutting-edge extrusion and converting technolo
 Beyond the environmental benefits, the $20 million expansion is a major win for the Alberta economy. The project is expected to create dozens of high-skilled manufacturing jobs, adding to the company’s existing workforce in the region. By choosing Edmonton as the site for this expansion, Polykar is leveraging the city's strategic logistics network and its growing reputation as a hub for industrial innovation.
 
 As global regulations tighten around single-use plastics, Polykar’s investment ensures that North American businesses have access to locally produced, sustainable alternatives that do not compromise on quality or durability.
-
-**Source:** [Read more](https://www.polykar.com/en/news-events/polykar-to-invest-20-million-to-double-its-capacity-in-edmonton)

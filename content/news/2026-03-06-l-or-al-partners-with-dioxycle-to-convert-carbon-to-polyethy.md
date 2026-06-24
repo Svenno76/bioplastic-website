@@ -31,5 +31,3 @@ For L'Oréal, this partnership represents a major step forward in its ambitious 
 Integrating Dioxycle's carbon-to-ethylene technology allows the brand to explore a highly innovative circular approach to its supply chain. The initiative highlights the growing commercial viability of CCU technologies as a scalable complement to traditional mechanical recycling and bio-based resin alternatives.
 
 By scaling this technology, L'Oréal and Dioxycle aim to create a reliable commercial supply chain for low-carbon polyethylene, paving the way for a new generation of sustainable beauty packaging that actively mitigates industrial emissions.
-
-**Source:** [Read more](https://dioxycle.com/dioxycle-announces-multi-year-partnership-with-loreal-groupe/)

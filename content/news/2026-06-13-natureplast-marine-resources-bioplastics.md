@@ -57,5 +57,4 @@ The FILASTERID project brings together multiple partners: Agro Innovation Intern
 ### Why It Matters
 
 NaturePlast's marine resource strategy exemplifies how the bioplastics industry can move beyond conventional agricultural feedstocks to explore **underexploited biological resources** — particularly those that address environmental problems while creating economic value. With France's Year of the Sea putting ocean sustainability in the spotlight, NaturePlast's work offers a compelling model for circular bioeconomy innovation.
-
-**Source:** [NaturePlast](https://natureplast.eu/natureplast-2025-valorise-les-ressources-marines/) | [FILASTERID Project](https://natureplast.eu/filasterid-valorisation-des-etoiles-de-mer/)
+ | [FILASTERID Project](https://natureplast.eu/filasterid-valorisation-des-etoiles-de-mer/)

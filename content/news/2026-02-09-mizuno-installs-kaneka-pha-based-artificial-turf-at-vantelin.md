@@ -27,5 +27,3 @@ The material is designed to break down into carbon dioxide and water if released
 ## Setting a New Standard
 
 This project represents a commercial breakthrough for Kaneka in the sports facility sector. While maintaining the durability and shock absorption required for professional baseball, the new turf aligns with global sustainability goals. Kaneka continues to expand the applications of its PHA technology, viewing the sports industry as a vital sector for reducing the accumulation of non-degradable plastics in the environment.
-
-**Source:** [Read more](https://www.kaneka.co.jp/en/topics/news/2026/ennr2602091.html)

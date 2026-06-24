@@ -29,5 +29,3 @@ With global manufacturing steadily transitioning away from petrochemical-based p
 ## Strategic Asia-Pacific Expansion
 
 By establishing a robust manufacturing hub in the Asia-Pacific region, NatureWorks is strategically positioned to serve rapidly expanding local markets with faster response times. The plant’s localized supply chain will alleviate previous global constraints, providing manufacturers with a reliable, continuous stream of biomaterials. This launch underscores the maturation of the bioplastics sector, demonstrating the scalability of renewable polymers. 
-
-**Source:** [Read more](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2820850-natureworks-opens-75-000-t-yr-pla-site-in-thailand)

@@ -23,5 +23,3 @@ This enzymatic process breaks the complex polymer chains down into their fundame
 The T2T Alliance focuses on establishing viable pathways for textile circularity. By joining the coalition, Epoch Biodesign aims to validate its technology within the wider value chain, moving from pilot successes to industrial scale. The planned facility represents a crucial piece of infrastructure needed to process post-consumer textile waste that is currently incinerated or landfilled.
 
 "Epoch Biodesign joins T2T Alliance as it lays claim to Europe's first nylon biorecycling facility," the company noted regarding the expansion, signaling a shift toward a "new system of material recovery." This collaboration is expected to provide fashion brands and textile manufacturers with a scalable route to reduce Scope 3 emissions and achieve circularity targets for synthetic materials.
-
-**Source:** [Read more](https://retailtechinnovationhub.com/home/2026/2/25/epoch-biodesign-joins-t2t-alliance-as-it-lays-claim-to-europes-first-nylon-biorecycling-facility#:~:text=Epoch%20Biodesign%20joins%20T2T%20Alliance,new%20system%20of%20material%20recovery.%E2%80%9D)

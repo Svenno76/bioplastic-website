@@ -33,5 +33,3 @@ For winemakers, this is a critical development. The enhanced oxygen barrier prot
 The trial aims to validate both the consumer appeal and the technical performance of PEF bottles in real-world supply chains. Beyond its bio-based origins, PEF is designed to fit into existing recycling streams. Because it is chemically similar to PET, it can be recycled within current infrastructure, though it also holds the potential for closed-loop recycling as adoption scales.
 
 By combining Packamama’s efficient geometric design with Avantium’s advanced material science, the two companies are setting a new standard for sustainable beverage packaging.
-
-**Source:** [Read more](https://www.packamama.com/avantium-and-packamama-sign-capacity-reservation-agreement-for-releaf-to-drive-sustainable-wine-packaging/)

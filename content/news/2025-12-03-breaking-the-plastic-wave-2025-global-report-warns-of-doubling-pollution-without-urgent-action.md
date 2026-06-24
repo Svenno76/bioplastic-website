@@ -23,4 +23,3 @@ The report identifies four strategic pillars for transformation: reducing plasti
 For the bioplastics and sustainable materials sector, the report represents a pivotal market opportunity. The recommended transformation could unlock a **multi-trillion-dollar sustainable solutions market** while creating 8.6 million jobs globally. However, the findings emphasize that innovation alone is insufficient—systemic policy changes, including production reduction targets and subsidy elimination, are essential. The report warns that delaying action by five years would add 540 million metric tons of plastic to the environment and cost governments an additional US$27 billion annually.
 ---
 
-**Source:** [Read more](nan)

@@ -27,5 +27,3 @@ The site selection at Grangemouth is strategic, placing the facility within one 
 “This expansion is a testament to the viability of circular manufacturing,” a company spokesperson noted regarding the groundbreaking. “By scaling our fermentation process, we are proving that industrial co-products can serve as the foundation for high-value biological materials, reducing the carbon footprint of multiple supply chains simultaneously.”
 
 The facility is expected to reach full operational capacity by late 2026, positioning MiAlgae as a central player in the global shift toward fermentation-based material production.
-
-**Source:** [Read more](https://mialgae.com/news/mialgae-breaks-ground-on-major-sustainable-algal-omega-3-facility-at-grangemouth/)

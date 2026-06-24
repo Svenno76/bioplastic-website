@@ -25,5 +25,3 @@ Moving away from fossil-fuel-based ABS (Acrylonitrile Butadiene Styrene), the fa
 Beyond the materials produced, the factory’s operation sets a new industry standard for energy efficiency. The site is powered by a rooftop solar array and a neighboring solar farm, generating enough renewable energy to match 100% of the facility's annual consumption. The plant also employs smart grid technology to optimize energy use during the high-heat injection molding process.
 
 By locating production closer to key markets in China and Southeast Asia, the Lego Group anticipates a significant reduction in its scope 3 carbon emissions. This opening keeps the company on track for its pledge to use sustainable materials in all products by 2032.
-
-**Source:** [Read more](https://apnews.com/article/lego-vietnam-energy-climate-62c0710721fa383a65cd1f45f2bdb73d)

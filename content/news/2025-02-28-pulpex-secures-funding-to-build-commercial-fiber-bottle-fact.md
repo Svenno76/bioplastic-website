@@ -27,5 +27,3 @@ Pulpex’s technology utilizes sustainably sourced wood pulp to create single-mo
 The technology focuses on renewable feedstocks, specifically cellulose fibers, to create a container that offers a significantly lower carbon footprint—estimated at 90% less than glass and 30% less than PET. By scaling this technology, the new factory will allow major consumer packaged goods (CPG) companies to integrate fiber-based bottles into existing filling lines without compromising product integrity or shelf life.
 
 The facility represents a critical step in verifying the commercial viability of fiber molding at speeds comparable to plastic processing, potentially reshaping the global packaging market for liquid products.
-
-**Source:** [Read more](https://www.gov.uk/government/news/national-wealth-fund-makes-first-investment-in-scotland)

@@ -29,5 +29,3 @@ Historically, the agricultural sector has relied heavily on synthetic, non-degra
 The newly minted manufacturing plant officially transitions AgroSpheres from an R&D-heavy innovator into a commercial-scale producer capable of supplying top-tier global agricultural markets. This expanded manufacturing capacity will allow the company to significantly increase the volume of its biopolymer delivery platforms, directly addressing strict new regulatory pressures aiming to phase out intentionally added microplastics in agriculture.
 
 Governor Spanberger’s presence at the ribbon-cutting underscored both the economic and environmental importance of the facility. By successfully bridging cutting-edge biotechnology with sustainable biopolymer science, AgroSpheres is cementing its position at the forefront of the next-generation agricultural supply chain.
-
-**Source:** [Read more](https://www.agrospheres.com/news/gov-spanberger-and-homegrown-innovator-agrospheres-celebrate-launch-of-new-biomanufacturing-facility)

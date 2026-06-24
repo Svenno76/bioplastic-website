@@ -30,5 +30,4 @@ In the quarterly earnings call, NTIC leadership emphasized their commitment to f
 
 As the global regulatory landscape tightens around single-use plastics, NTIC’s early investments in bio-based technology are yielding significant dividends, setting a strong precedent for the remainder of fiscal 2026.
 
-**Source:** [Read more](https://ntic.gcs-web.com/news-releases/news-release-details/northern-technologies-international-corporation-reports-55)
 **Contact** [Matthew Wolsfeld, CFO](https://www.linkedin.com/in/matthew-wolsfeld-7a75895/)

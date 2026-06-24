@@ -29,5 +29,3 @@ By investing in Regeno, the Poonawalla Group is supporting technology that mitig
 ## A Commitment to Environmental Stewardship
 
 This investment aligns with a broader trend of industrial conglomerates diversifying portfolios to include clean technology and circular economy assets. For Regeno, the support facilitates immediate market penetration and the scaling of production lines to meet growing corporate and consumer demand for "green" packaging. The collaboration underscores a shared vision where industrial growth and environmental preservation are not mutually exclusive, but rather synergistic through material innovation.
-
-**Source:** [Read more](https://etedge-insights.com/trending/yohan-and-michelle-poonawalla-of-poonawalla-group-invest-in-regeno-a-100-biodegradable-packaging-solution-set-to-disrupt-the-market/#:~:text=In%20a%20powerful%20step%20towards,and%20non%2Dtoxic%20packaging%20solutions.)

@@ -23,5 +23,3 @@ Unlike mechanical recycling, which can degrade the quality of the polymer over t
 The selection of New York places Reju at the intersection of a major fashion hub and a region increasingly focused on circular economy legislation. The proximity to major apparel brands and a dense population ensures a steady supply of feedstock while minimizing the logistics required to transport waste.
 
 By establishing domestic infrastructure, Reju aims to reduce the industry's reliance on exported waste and virgin petrochemicals. The facility is expected to play a pivotal role in helping U.S. brands meet impending sustainability targets and regulatory requirements regarding recycled content in textiles.
-
-**Source:** [Read more](https://www.reju.com/news/press-releases/reju-announces-site-selection-first-us-industrial-sized-facility-regeneration)

@@ -25,5 +25,3 @@ PHB is highly valued in the bioplastics market due to its biodegradability and p
 Until now, high production costs have limited PHB to niche medical and pharmaceutical applications. The new photosynthetic approach eliminates the need for expensive organic carbon sources (like glucose or vegetable oils), potentially lowering the cost of goods sold (COGS) for PHB resins.
 
 "This engineered strain represents a paradigm shift from carbon-neutral to carbon-negative plastic production," the research team noted. The university is reportedly exploring partnerships with chemical engineering firms to pilot the cultivation of this strain in large-scale photobioreactors, aiming to validate the technology for commercial resin production.
-
-**Source:** [Read more](https://scycode.org/news/press-release-cyanobacteria-could-revolutionize-the-plastic-industry)

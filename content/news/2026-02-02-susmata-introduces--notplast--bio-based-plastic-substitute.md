@@ -29,5 +29,3 @@ The launch aligns with SUSMATA’s broader circular economy strategy, often refe
 The versatility of NOTPLAST allows for its application across various sectors, including food packaging, agricultural films, and consumer goods. By providing a material that processes similarly to standard plastics on existing machinery, SUSMATA aims to lower the barrier to entry for manufacturers looking to transition away from fossil-based inputs.
 
 Industry analysts suggest that 2026 will be a pivotal year for bio-based substitutes, as corporate sustainability targets face 2030 deadlines. SUSMATA’s introduction of a scalable, "no-plastic" plastic alternative offers a tangible pathway for brands to reduce their carbon footprint and achieve regulatory compliance.
-
-**Source:** [Read more](https://susmata.com/en/home-eng/#:~:text=NOTPLAST,CIRCMA)

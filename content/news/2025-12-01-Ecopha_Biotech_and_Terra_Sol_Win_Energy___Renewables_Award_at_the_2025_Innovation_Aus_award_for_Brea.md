@@ -23,5 +23,3 @@ The PHA bioplastics developed by Ecopha Biotech and Terra Sol Studio are designe
 ## Future Outlook
 
 Following their award win, Ecopha Biotech and Terra Sol Studio plan an ambitious global expansion strategy, with market entry into the United States, Europe, China, Singapore, and broader Asia-Pacific regions slated for 2026. Their innovation aligns with global sustainability goals, offering substantial economic and environmental benefits. Ecopha is also pioneering a world-first integrated process to produce both renewable biofuels and marine-biodegradable bioplastics from a single pongamia oil feedstock, further maximizing resource value and reducing waste.
-
-**Source:** [Read more](https://ecopha.bio/ecopha-terra-sol-win-2025-innovationaus-energy-renewables-award/)

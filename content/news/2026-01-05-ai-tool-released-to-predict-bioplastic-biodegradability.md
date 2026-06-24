@@ -27,5 +27,3 @@ Traditionally, determining the biodegradability of a new plastic formulation req
 As global regulations on single-use plastics tighten, the demand for high-performance bioplastics has never been higher. The ANIPH tool provides a critical resource for bioplastic producers, enabling them to optimize their formulations for specific end-of-life scenarios, such as industrial composting or home biodegradation. 
 
 By streamlining the R&D process, the ANIPH Project is empowering the industry to meet the ambitious sustainability goals set for 2030. This innovation ensures that the next generation of bioplastics will be as functional as they are fragile in the face of nature’s decomposers.
-
-**Source:** [Read more](https://aniph.eu/news/ai-predictive-tool-to-support-safer-biodegradable-plastic-design/)

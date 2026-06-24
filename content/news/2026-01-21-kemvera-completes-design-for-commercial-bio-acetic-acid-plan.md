@@ -25,5 +25,3 @@ The new plant design focuses on the production of bio-acetic acid, a ubiquitous 
 The commercialization of bio-acetic acid is particularly relevant for the bioplastics sector. Acetic acid is a key precursor for materials such as cellulose acetate and polyvinyl acetate (PVA). As global brands seek to reduce Scope 3 emissions, the availability of cost-competitive, drop-in bio-based alternatives for these foundational chemicals is essential.
 
 Kemvera’s advancement signals readiness to supply the market with materials that maintain the performance standards of fossil-based equivalents while offering verifiable carbon reductions. This design completion validates the scalability of the company's photocatalysis platform, positioning Kemvera to meet growing demand for sustainable chemical intermediates in 2026 and beyond.
-
-**Source:** [Read more](https://www.kemvera.com/post/kemvera-formerly-new-iridium-advances-commercialization-of-bio-acetic-acid-and-bio-ethyl-acetate)

@@ -27,5 +27,3 @@ Furthermore, ZymoChem’s proprietary fermentation-driven manufacturing platform
 ## Toward a Circular Economy in Personal Care
 
 Integrating bio-SAPs into diapers represents a pivotal shift for an industry historically challenged by end-of-life disposal. By substituting conventional polyacrylates with renewable alternatives like BAYSE™, diaper brands can significantly lower their Scope 3 greenhouse gas emissions while advancing broader corporate climate targets. ZymoChem's scalable production approach signals a maturing market for functional bio-materials, proving that next-generation green chemistry can successfully penetrate high-volume, highly cost-sensitive consumer sectors while paving the way for more sustainable hygiene waste management.
-
-**Source:** [Read more](https://static1.squarespace.com/static/5fbef41dbe9b693951ff61d7/t/69caf73e02b1ba13a4f1e836/1774909246631/2026+BAYSE+Performance+White+Paper_Final.pdf)

@@ -25,4 +25,3 @@ Biomethane reduces CO₂ emissions by up to 90% compared to diesel. The BioRota 
 
 Copersucar emphasizes that the BioRota model is scalable. Companies across different industries with road logistics operations could replicate the approach. Cocal, the biomethane supplier, operates two large-scale plants and was a pioneer in biomethane from sugarcane in Brazil.
 
-**Source:** [Copersucar](https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m)

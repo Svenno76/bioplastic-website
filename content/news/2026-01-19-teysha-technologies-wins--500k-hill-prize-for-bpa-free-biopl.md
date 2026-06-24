@@ -29,5 +29,3 @@ The "tunability" of AggiePol® is its most distinctive feature. Unlike many biop
 The $500,000 Hill Prize will be instrumental in bridging the gap between laboratory success and industrial-scale production. Teysha Technologies intends to use the funds to accelerate the commercialization of their materials, focusing on sectors such as food packaging, medical devices, and automotive components.
 
 As the global community moves toward a circular economy, the recognition of Teysha’s work signals a shift in the bioplastics industry. The focus is no longer just on making materials that are "less harmful," but on creating high-performance alternatives that are restorative by design.
-
-**Source:** [Read more](https://envirotecmagazine.com/2026/01/19/biodegradable-plastics-research-wins-500k-hill-prize-for-real-world-impact/)

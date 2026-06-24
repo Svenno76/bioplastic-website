@@ -21,5 +21,4 @@ The inspiration for this innovation struck Dr. Gu during a hike, where the sight
 Unlike conventional plastics that rely on strong, stable bonds, the newly engineered materials can be programmed to degrade at specific rates—from days to years—by controlling the spatial arrangement of these internal "trigger" points. This programmable degradation can also be activated or deactivated using environmental cues like ultraviolet light or metal ions, providing unprecedented control over the material's lifespan.
 
 This discovery holds significant promise for a variety of applications beyond tackling plastic waste, including timed drug-release capsules, self-erasing coatings, and more sustainable agricultural plastics. Early lab tests indicate that the liquid produced during the degradation process is non-toxic, though further research is underway to ensure environmental safety and to explore the adaptability of this method to existing manufacturing processes. The ultimate goal for Dr. Gu and his team is to create plastics that serve their purpose efficiently and then safely disappear, contributing to a more sustainable future.
-
-**Source:** [Read more](https://www.rutgers.edu/news/scientists-develop-plastics-can-break-down-tackling-pollution) [Study](https://www.nature.com/articles/s41557-025-02007-3)
+ [Study](https://www.nature.com/articles/s41557-025-02007-3)

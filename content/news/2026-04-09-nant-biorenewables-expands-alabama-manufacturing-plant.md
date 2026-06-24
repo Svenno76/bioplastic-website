@@ -25,5 +25,3 @@ These upgraded manufacturing systems will enable the formulation of high-perform
 By expanding its operational footprint in Alabama, Nant Biorenewables is directly addressing the surging demand for domestically produced bioplastic alternatives. The enhancement of the Gadsden facility fundamentally strengthens the localized supply chain, reducing reliance on imported biopolymers and shortening material lead times for North American plastic converters and consumer brands. 
 
 Furthermore, this capacity surge brings highly skilled advanced manufacturing and chemical processing jobs to the region, reinforcing Alabama's emerging status as a vital hub for the American bioeconomy. The upgraded plant is scheduled to reach full commercial production capacity by the end of the year, positioning the company to effectively support the packaging industry's accelerating transition away from legacy petrochemical plastics.
-
-**Source:** [Read more](https://www.businesswire.com/news/home/20260409005001/en/Nant-Biorenewables-Expands-U.S.-Manufacturing-Capacity-and-Multi-Material-Capabilities-in-Gadsden-Alabama)

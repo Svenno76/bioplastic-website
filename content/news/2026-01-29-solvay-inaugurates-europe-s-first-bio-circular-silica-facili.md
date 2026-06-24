@@ -29,5 +29,3 @@ By sourcing the silica from renewable bio-based feedstocks, Solvay enables tire 
 ## Advancing Carbon Neutrality
 
 This investment underscores Solvay’s broader sustainability roadmap, which aims to phase out fossil-based raw materials and reduce Scope 3 emissions. The Livorno plant serves as a scalable model for future bio-circular projects, demonstrating that industrial performance and environmental stewardship can coexist within the complex supply chains of the automotive and rubber industries.
-
-**Source:** [Read more](https://www.solvay.com/en/press-release/solvay-inaugurates-europes-first-bio-circular-silica-facility-italy)

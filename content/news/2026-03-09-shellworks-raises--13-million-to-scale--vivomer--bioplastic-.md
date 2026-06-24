@@ -27,5 +27,3 @@ The personal care and premium beauty industries have historically struggled to a
 ## Accelerating Commercial Scale-Up
 
 The newly injected €13 million capital will be explicitly directed toward expanding Shellworks' manufacturing footprint and optimizing its fermentation processes. By shifting from pilot-scale to full commercial-scale production, the company anticipates a massive increase in annual tonnage. This scale-up aims to reduce lead times and lower unit costs, making Vivomer a financially viable drop-in alternative for a broader range of global brand partners. Additionally, the funding will support specialized R&D efforts to engineer new grades of the biopolymer for wider packaging applications.
-
-**Source:** [Read more](https://spnews.com/shellworks-vivomer/)

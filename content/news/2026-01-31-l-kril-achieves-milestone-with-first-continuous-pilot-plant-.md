@@ -25,5 +25,3 @@ By utilizing lactic acid—a feedstock widely available from corn and sugar ferm
 The global acrylic acid market is a critical component of the chemical industry, underpinning the production of superabsorbent polymers (SAPs) used in diapers, as well as paints, coatings, and adhesives. Låkril’s bio-acrylic acid is chemically identical to its fossil-based counterpart, serving as a "drop-in" replacement that requires no retooling for downstream manufacturers.
 
 The successful pilot run validates the process economics required to compete with petrochemical incumbents. With the continuous plant now operational, Låkril is poised to provide larger sample quantities to strategic partners for application testing, moving closer to full-scale commercial deployment. This technology promises to significantly reduce the carbon footprint of everyday consumer goods by decoupling the acrylic supply chain from volatile fossil fuel markets.
-
-**Source:** [Read more](https://www.lakril.com/news-and-updates)

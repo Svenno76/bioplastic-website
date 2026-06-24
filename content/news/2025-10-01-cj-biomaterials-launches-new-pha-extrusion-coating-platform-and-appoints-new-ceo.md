@@ -33,4 +33,3 @@ Separately, CJ Biomaterials has partnered with BIQ Materials to produce PHACT PH
 
 CJ CheilJedang received the Grand Prize for Marine Conservation at the SDGs Award 2025 — recognition for the company's contributions to ocean protection through biodegradable products.
 
-**Source:** [CJ Biomaterials](https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin)

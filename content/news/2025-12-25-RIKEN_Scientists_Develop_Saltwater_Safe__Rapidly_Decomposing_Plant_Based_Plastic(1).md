@@ -22,5 +22,3 @@ A key innovation of CMCSP lies in its ability to rapidly decompose in various na
 ## Impact
 
 The development of CMCSP marks a substantial step forward in addressing the global crisis of plastic pollution, particularly microplastics that pervade ecosystems and human bodies. Unlike many existing "biodegradable" plastics that often fail to degrade sufficiently in marine environments or still produce microplastics, CMCSP offers a truly environmentally benign alternative. By utilizing common, inexpensive, and FDA-approved biodegradable ingredients, the researchers have ensured the material's suitability for practical, real-world applications, such as flexible packaging for items like fruits and vegetables. Furthermore, the material demonstrates closed-loop recyclability using electrolytes, offering a sustainable lifecycle beyond simple decomposition. Professor Aida highlighted that this study brings their work to a more practical stage, paving the way for future applications to protect the Earth from plastic pollution.
-
-**Source:** [Read more](https://www.riken.jp/en/news_pubs/research_news/pr/2025/20251203_2/index.html)

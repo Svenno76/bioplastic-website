@@ -28,4 +28,3 @@ Among the chosen innovators, several are specializing in "next-gen" biopolymers 
 
 While bioplastics are a cornerstone of this year’s program, the scope extends to wider environmental solutions, including regenerative agriculture and water-saving manufacturing processes. By fostering an ecosystem of green technology, L'Oréal is not only securing its own sustainable supply chain but also setting a new benchmark for the global beauty industry’s transition toward a nature-positive future. This collaborative model highlights how corporate venture programs can accelerate the commercial viability of bioplastic technologies.
 
-**Source:** [Read more](https://www.loreal.com/en/press-release/sustainable-development/-l-oreal-announces-the-first-13-change-makers-chosen-to-join-its-eur-100-million-sustainable-innovation-l-accelerator-program/)

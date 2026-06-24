@@ -24,4 +24,3 @@ The expansion builds on milestones from 2021-2023, including a 30% capacity boos
 This expansion positions Braskem to meet surging demand for sustainable materials, serving over 200 global brands in packaging, footwear, consumer goods, and more—such as Balsam Hill's plant-based Christmas trees. By 2025, Braskem aims for 300,000 tons of recycled content sales, accelerating the bioplastics shift toward renewables amid regulatory pressures for lower emissions. Partnerships like with FKuR for European distribution enhance accessibility, fostering innovation in low-carbon plastics and circular supply chains across the Americas, Europe, and Asia.
 ---
 
-**Source:** [Read more](nan)

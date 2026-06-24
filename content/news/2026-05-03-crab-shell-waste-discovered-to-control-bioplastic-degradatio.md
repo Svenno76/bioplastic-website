@@ -29,5 +29,3 @@ Beyond merely speeding up the breakdown process, the joint study highlights a cr
 ## A Circular Economy Breakthrough
 
 This discovery represents a dual-victory for the circular economy. By upcycling abundant and often discarded seafood industry waste, the partnership between Gunma University and JAMSTEC has formulated a low-cost, bio-based additive that solves one of the bioplastic industry's most persistent environmental hurdles. 
-
-**Source:** [Read more](https://www.gunma-u.ac.jp/english_news/224528)

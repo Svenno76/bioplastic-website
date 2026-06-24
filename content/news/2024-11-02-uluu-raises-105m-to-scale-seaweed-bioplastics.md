@@ -25,4 +25,3 @@ Uluu’s seaweed-based bioplastics offer a scalable, climate-positive alternativ
 
 ---
 
-**Source:** [Read more](https://www.greenqueen.com.hk/uluu-raises-10-5m-to-scale-seaweed-bioplastics-as-a-petroleum-plastic-alternative/)

@@ -27,5 +27,3 @@ Market analysts suggest that IG4’s expertise in corporate turnaround and gover
 Braskem is globally recognized for its leadership in the bio-based plastics sector, specifically its "I'm green™" portfolio, which utilizes sugarcane ethanol to produce carbon-negative Polyethylene (PE) and EVA. Industry observers are closely watching how the change in control will influence capital allocation toward these sustainable initiatives.
 
 Under the new ownership structure, Braskem is expected to double down on its circular economy commitments. IG4 Capital has previously indicated a strong focus on ESG criteria in its portfolio management. This alignment suggests that Braskem may accelerate its investment in expanding bio-based production capacity at the Triunfo complex and further developing proprietary technologies for bio-polypropylene (Bio-PP), aiming to meet the aggressive sustainability targets set by global CPG brands for 2030.
-
-**Source:** [Read more](https://www.reuters.com/business/energy/brazils-braskem-set-control-shake-up-novonor-sells-stake-ig4-2025-12-15/#:~:text=IG4%20has%20agreed%20to%20purchase,an%20IG4%2Dbacked%20investment%20fund.)

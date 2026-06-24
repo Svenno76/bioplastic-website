@@ -29,5 +29,3 @@ The initiative comes at a critical time for the agricultural sector. With tradit
 The winner of the challenge is expected to receive a significant investment from Radicle Growth’s venture fund, providing the necessary capital to scale production and navigate the complex regulatory landscape of material science. By focusing on scalability, the challenge ensures that the winning technologies can move quickly from the laboratory to large-scale commercial application.
 
 As the world moves toward a circular economy, the Radicle Corn Challenge stands as a testament to the power of venture capital in driving meaningful ecological and economic change.
-
-**Source:** [Read more](https://www.radicle.vc/radicle-corn-challenge)

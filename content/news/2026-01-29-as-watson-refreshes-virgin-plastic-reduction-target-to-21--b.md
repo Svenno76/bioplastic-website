@@ -28,5 +28,3 @@ Beyond material substitution, AS Watson is enhancing the end-of-life viability o
 Malina Ngai, Group CEO of AS Watson, emphasized that the refreshed target is part of a broader "Greener Stores Global Framework." This initiative not only governs material choices but also integrates retail-side interventions, such as customer recycling programs and the expansion of refill stations across their global network of stores, including Watsons, Superdrug, and Rossmann.
 
 The move signals a growing trend among major retailers to take direct responsibility for the technical lifecycle of their packaging, moving beyond simple compliance to proactively shaping market demand for recycled plastics.
-
-**Source:** [Read more](https://www.aswatson.com/as-watson-raises-the-bar-on-plastics-reduction-with-refreshed-21-virgin-plastic-reduction-target-by-2030/)

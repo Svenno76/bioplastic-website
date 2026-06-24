@@ -23,5 +23,3 @@ This feedstock is then re-integrated into the manufacturing process to create ce
 The expansion at Baytown represents a critical infrastructure shift required to meet the growing global demand for sustainable resins. By co-processing plastic waste alongside conventional feedstocks, ExxonMobil leverages mass balance attribution to certify the circular content of its products. This approach allows brand owners to meet aggressive recycled content targets without compromising material durability or safety.
 
 The operational scale at Baytown serves as a blueprint for the company's global strategy, which aims to increase advanced recycling capacity significantly by 2030. This development underscores the petrochemical industry's transition toward molecular recycling as a complementary solution to mechanical processing and bio-based alternatives in the fight against plastic waste.
-
-**Source:** [Read more](https://www.linkedin.com/posts/baytownproud-share-7424163621414322176-03cp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFG_vIBzFv5aF40lr4eTOh5-XYjgcxW4wc)

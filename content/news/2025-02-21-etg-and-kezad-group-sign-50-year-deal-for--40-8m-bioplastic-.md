@@ -27,5 +27,3 @@ A key differentiator for this facility is its planned vertical integration. Foll
 The facility is expected to utilize advanced compounding technologies to process recycled polyethylene terephthalate (rPET) and other biopolymers. This aligns with the UAE’s increasing regulatory pressure and industrial goals to divert waste from landfills and promote the use of renewable materials in packaging.
 
 Mohamed Al Khadar Al Ahmed, CEO of KEZAD Group, noted that the agreement underscores the economic zone's ability to attract leading global companies committed to environmental responsibility. For ETG, the facility represents a strategic pivot toward value-added industrial manufacturing, utilizing their existing global logistics network to distribute sustainable packaging solutions to international markets.
-
-**Source:** [Read more](https://www.kezadgroup.com/news/etg-to-establish-aed-150-million-facility-in-kezad/)

@@ -29,5 +29,3 @@ The upcoming demonstration plant will serve as a "living laboratory," proving th
 The path to this $20 million milestone was paved by Aduro’s collaboration with Shell. The GameChanger program provided not only financial support but also technical validation from some of the world’s leading chemical engineers. 
 
 "This funding marks the beginning of our industrial era," the company noted in its latest strategic update. With Cantor Fitzgerald acting as a financial advisor, the successful capital raise ensures that Aduro can meet the growing demand from consumer-packaged goods companies seeking sustainable alternatives to virgin plastics. As construction begins, the industry will be watching closely to see if Aduro can truly turn the tide on plastic waste.
-
-**Source:** [Read more](https://cleanenergy.ca/2026/01/06/shell-gamechanger-aduro-capital-scale-patented-cleantech/#:~:text=Following%20the%20GameChanger%20graduation%2C%20Aduro,Partners%20acted%20as%20financial%20advisor.)

@@ -26,5 +26,4 @@ By providing these "drop-in" solutions, UPM enables manufacturers to integrate r
 ## Commitment to Sustainability
 UPM’s investment in Leuna represents a core pillar of its "beyond fossils" strategy. The facility operates with a focus on local sourcing and high environmental standards, ensuring that the entire value chain—from the forest to the final chemical product—is transparent and sustainable. As the refinery scales up production, it stands as a testament to how industrial innovation can meet the urgent demands of climate change mitigation.
 
-**Source:** [Read more](https://www.upm.com/news-and-stories/releases/2025/12/upm-unlocks-new-bio-based-markets-as-leuna-biorefinery-produces-its-first-commercial-product/)
 **Contact** [Massimo Reynaudo, President and CEO of UPM](https://www.linkedin.com/in/massimo-reynaudo-81bb7a1b/)

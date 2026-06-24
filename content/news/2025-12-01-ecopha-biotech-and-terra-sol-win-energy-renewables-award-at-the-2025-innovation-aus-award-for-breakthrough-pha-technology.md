@@ -25,4 +25,3 @@ EcoPHA's patented PHA manufacturing process represents a significant advancement
 EcoPHA's dual-output system delivers both cleaner fuels and bioplastics, addressing critical sustainability challenges. The technology targets hard-to-abate sectors including aviation and freight through sustainable aviation fuel and renewable diesel production. Key industries—energy, mining, and large-scale manufacturing—increasingly demand carbon reduction solutions that EcoPHA's biodegradable alternatives provide. The Queensland-based project positions the partnership to supply sustainable products for the Brisbane 2032 Olympic Games, showcasing Australian innovation globally. This breakthrough demonstrates how integrated biotech solutions can simultaneously reduce plastic waste and fossil fuel dependency.
 ---
 
-**Source:** [Read more](nan)

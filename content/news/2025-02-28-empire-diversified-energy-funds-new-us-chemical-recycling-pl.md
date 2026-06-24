@@ -29,5 +29,3 @@ The resulting syngas serves as a versatile feedstock. According to the companyâ€
 ## Regional Economic Impact
 
 The commissioning of the Empire Green Generation plant is expected to revitalize the local industrial landscape in Fairmont. By repurposing the site into an "Eco-Industrial Park," Empire Diversified Energy is fostering a hub for circular economy activities. The project not only provides a sustainable outlet for municipal and industrial waste but also creates technical jobs in the burgeoning clean energy sector.
-
-**Source:** [Read more](https://empirediversifiedenergy.com/empire-diversified-energy-closes-10-million-financing-for-final-commissioning-of-recycling-plant-in-west-virginia/#:~:text=EMPIRE%20DIVERSIFIED%20ENERGY%20CLOSES%20$10,electricity%20from%20the%20plant's%20syngas.)

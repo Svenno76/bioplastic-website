@@ -25,5 +25,3 @@ These high-performance bioplastics deliver the exceptional durability, energy re
 ## Accelerating Innovation and Time-to-Market
 
 The new Shanghai-based center will enable Evonik to collaborate directly with regional footwear designers, injection molders, and equipment manufacturers. This hands-on, localized approach significantly reduces development cycles and fosters rapid co-innovation. By bridging the gap between advanced polymer science and commercial applications, Evonik is setting a new benchmark for how material suppliers can drive sustainable, high-performance product design. The PAthletic Center stands as a testament to the growing demand for localized supply chains and sustainable material engineering in the dynamic Asian sports industry.
-
-**Source:** [Read more](https://www.evonik.com/en/news/press-releases/2026/04/Evonik-opens-new-Asia-PAthletic-Center-for-advancing-polyamide-solutions-in-sports-and-consumer-goods.html#:~:text=Center%20to%20deliver%20innovation%20and,Shanghai.)

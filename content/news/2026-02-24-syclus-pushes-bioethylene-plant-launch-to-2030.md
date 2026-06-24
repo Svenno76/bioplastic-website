@@ -29,5 +29,3 @@ The delay of the Syclus plant forces compounders and brand owners seeking to mee
 ## Broader Industry Stagnation
 
 This announcement aligns with reports that multiple European biochemical projects are currently stalling. Factors complicating these developments likely include volatile energy costs, regulatory uncertainties regarding feedstock incentives, and the high CAPEX requirements for greenfield industrial sites. As the industry approaches 2030, the pressure to secure reliable, local sources of non-fossil monomers remains high, despite the slowing pace of infrastructure deployment.
-
-**Source:** [Read more](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2792384-european-biochemicals-projects-stall)

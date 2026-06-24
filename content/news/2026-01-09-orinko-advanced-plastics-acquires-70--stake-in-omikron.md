@@ -28,5 +28,3 @@ As regulatory pressure to reduce plastic waste and carbon footprints intensifies
 
 This acquisition underscores a growing trend of consolidation within the bioplastics and advanced materials industry. As major players seek to secure proprietary technology and market share, Orinko’s bold move sets a new benchmark for how companies can integrate specialized expertise to drive the future of green chemistry.
 
-
-**Source:** [Read more](https://www.scoutingadvisors.com/en/operations/scouting-capital-family-advisors-acted-as-advisor-to-the-shareholders-of-omnikron-in-the-sale-of-a-majority-stake-to-orinko/)

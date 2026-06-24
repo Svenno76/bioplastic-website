@@ -24,4 +24,3 @@ TripleW’s new PLA bioplastic is produced using their proprietary fermentation 
 The introduction of food waste-based PLA opens new avenues for sustainable materials in consumer goods, packaging, personal care, and homecare products. By valorizing underutilized waste streams, TripleW’s technology supports large-scale bioplastic adoption and circularity in the plastics industry. This advancement not only mitigates environmental impact but also offers a cost-effective alternative to fossil-based plastics, reinforcing TripleW’s leadership in closing the loop on food and plastic waste.
 ---
 
-**Source:** [Read more](https://www.triplew.co/press/triplew-launches-worlds-first-food-waste-based-pla-bioplastic-with-support-of-sulzer-chemtech)

@@ -24,4 +24,3 @@ The award specifically recognizes CJ Biomaterials’ PHACT™ PHA technology, a 
 CJ Biomaterials’ achievement underscores the growing importance of high-performance, truly biodegradable bioplastics in the global effort to replace fossil-based plastics. The company’s scalable production and strategic partnerships—such as with NatureWorks and BIQ Materials—demonstrate the viability of PHA-based solutions for mainstream markets. This recognition reinforces the industry’s shift toward materials that are not only sustainable but also designed for real-world end-of-life scenarios, accelerating the adoption of circular economy principles in the plastics sector.
 ---
 
-**Source:** [Read more](https://bioplasticsnews.com/2025/11/14/the-plastics-industry-association-names-cj-biomaterials-as-its-2025-innovation-in-bioplastics-award-winner/)

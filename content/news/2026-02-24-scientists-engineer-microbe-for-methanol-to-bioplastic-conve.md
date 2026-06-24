@@ -25,5 +25,3 @@ Through advanced metabolic engineering and synthetic biology, the scientists suc
 ## Commercial Implications and Next Steps
 
 This development represents a critical step forward in the commercialization of next-generation bioplastics. Utilizing methanol as a primary feedstock offers a dramatically lower cost profile compared to traditional sugars and enables true closed-loop carbon recycling. KAIST researchers are currently preparing to optimize the fermentation process, moving from laboratory bioreactors to a pilot-level demonstration. If successfully scaled, this engineered microbe could provide a vital commercial asset for polymer manufacturers looking to transition toward defossilized, biodegradable packaging solutions.
-
-**Source:** [Read more](https://www.kaist.ac.kr/)

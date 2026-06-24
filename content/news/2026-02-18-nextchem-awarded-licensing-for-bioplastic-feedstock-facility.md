@@ -29,5 +29,3 @@ The adoption of the NX Conser Duetto technology highlights a shift toward integr
 ## Strengthening Technological Leadership
 
 This award reinforces NEXTCHEM’s position as a key technology provider in the energy transition and circular economy sectors. By leveraging its portfolio of proprietary solutions, the company continues to support the chemical industry’s evolution toward lower-carbon and biodegradable alternatives. The project underscores the viability of converting traditional hydrocarbon feedstocks into environmentally friendly end-products through advanced catalytic processes.
-
-**Source:** [Read more](https://www.nextchem.com/en/newsroom/press-releases/detail/nextchem-awarded-a-licensing-and-process-design-package-in-china-based-on-its-proprietary-nx-conser-man-and-nx-conser-duetto-technologies/)

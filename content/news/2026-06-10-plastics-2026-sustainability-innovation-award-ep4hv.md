@@ -21,4 +21,3 @@ e-P4HV was recognized for expanding the capabilities of bioplastics by combining
 
 PLASTICS member companies interested in submitting innovations for consideration in the 2026 Innovation in Bioplastics Award competition can look forward to the opening of the submission window in June 2026.
 
-**Source:** [PLASTICS Industry Association](https://www.plasticsindustry.org/newsroom/plastics-announces-2026-plastic-sustainability-innovation-award-winners/)

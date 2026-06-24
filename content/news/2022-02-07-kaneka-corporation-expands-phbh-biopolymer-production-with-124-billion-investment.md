@@ -27,4 +27,3 @@ This expansion positions Kaneka as a PHA market leader, with the sector projecte
 
 ---
 
-**Source:** [Read more](nan)

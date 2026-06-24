@@ -27,5 +27,3 @@ PGA is highly prized in the packaging and medical sectors due to its exceptional
 ## Overcoming the Commercialization Hurdle
 
 Transitioning a bio-based chemical from pilot-scale to commercial availability is notoriously challenging. Avid Organics has successfully navigated these scaling hurdles, ensuring a stable, high-volume supply chain for industries eager to decarbonize. AviGa™ Bio HP70 acts as a seamless drop-in solution, meaning manufacturers can transition to a greener feedstock without altering their existing infrastructure or compromising on product efficacy. 
-
-**Source:** [Read more](https://www.prnewswire.com/in/news-releases/avid-organics-to-launch-the-worlds-first-commercial-scale-bio-based-glycolic-acid-aviga-bio-hp70-at-in-cosmetics-global-in-paris-302717219.html#:~:text=*%20AviGa%E2%84%A2%20Bio%20HP70%20is%20a%20bio%2Dbased%2C,a%20century%2Dold%20petroleum%2Dbased%20ingredient%20at%20commercial%20scale.)

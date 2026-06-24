@@ -27,5 +27,3 @@ By securing a firm commitment prior to full-scale commercial ramp-up, BCML has d
 BCML’s foray into PLA production represents a sophisticated integration of the sugar value chain. By utilizing sugar cane as a feedstock for fermentation to produce lactic acid—the monomer precursor to PLA—the company is effectively creating a circular bio-economy model within its operations. This vertical integration allows BCML to hedge against the cyclical nature of the sugar market while capturing higher value from its agricultural output.
 
 The upcoming PLA vertical is designed to produce high-grade biopolymers suitable for applications ranging from rigid packaging and disposables to textiles and 3D printing filaments. As global regulations tighten around single-use fossil plastics, BCML’s ability to supply locally produced, compostable alternatives positions it strategically within the evolving materials landscape.
-
-**Source:** [Read more](https://chini.com/wp-content/uploads/2026/02/SE_Intimation-_Press-Release.pdf)

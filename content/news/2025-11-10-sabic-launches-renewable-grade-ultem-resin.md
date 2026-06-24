@@ -24,4 +24,3 @@ The new renewable-grade ULTEM resin is a bio-based polyetherimide (PEI) engineer
 This innovation addresses growing industry demands for sustainable materials in sectors such as electronics, aerospace, and automotive. The resin’s high heat resistance and strength make it suitable for components like connectors, sensor housings, and interior aerospace panels. By introducing a renewable-grade option, SABIC supports the bioplastics market’s expansion, which is projected to reach USD 22.23 billion by 2032. This launch reinforces SABIC’s strategic focus on reducing environmental impact while meeting stringent performance requirements in advanced manufacturing.
 ---
 
-**Source:** [Read more](https://www.einpresswire.com/article/867894247/bioplastics-market-size-expected-to-hit-usd-22-23-billion-by-2032-key-trends-demand-share-analysis-forecast-report)

@@ -29,5 +29,3 @@ The grade is engineered to meet stringent regulatory requirements, ensuring high
 By introducing this grade at Pharmapack, Braskem is positioning itself as a key partner for healthcare companies striving to meet ambitious ESG (Environmental, Social, and Governance) goals. As the medical industry faces increasing pressure from both regulators and consumers to adopt greener practices, the availability of high-performance bioplastics is expected to accelerate the adoption of sustainable design in life sciences.
 
 This launch reinforces Braskem's position as a global leader in biopolymers, proving that even the most demanding sectors can transition toward a bio-based economy without sacrificing quality or patient safety.
-
-**Source:** [Read more](https://www.braskem.com.br/europe/news-detail/braskem-showcases-new-im-greensuptmsup-bio-based-grade-at-pharmapack-2026)

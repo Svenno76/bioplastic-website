@@ -21,4 +21,3 @@ While BIOVOX develops the recipe for the plastic granulate based on cellulose, s
 
 Medical products like infusion bags are currently almost exclusively made from petroleum-based plastics. A biodegradable alternative from renewable feedstocks would significantly reduce the healthcare sector's environmental footprint.
 
-**Source:** [ChemEurope](https://www.chemeurope.com/en/news/1187597/bio-based-plastics-for-infusion-bags.html)

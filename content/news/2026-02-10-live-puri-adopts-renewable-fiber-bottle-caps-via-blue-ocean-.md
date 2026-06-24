@@ -25,5 +25,3 @@ The NutraCap is manufactured using vacuum-pressed forming technology, utilizing 
 A primary driver for this adoption is the compatibility of the closure with existing recycling infrastructure. The fiber screw caps are designed to be recycled directly in standard paper streams, facilitating a smoother end-of-life process for consumers. This contrasts with metal closures, which often require separation from plastic or glass containers to be effectively recovered.
 
 Blue Ocean Closures has engineered the NutraCap to maintain critical barrier properties necessary for food safety and shelf stability, ensuring that the switch to fiber does not compromise product integrity. This collaboration demonstrates the scalability of vacuum-formed fiber technologies, moving them from prototype stages into active commercial retail environments.
-
-**Source:** [Read more](https://www.blueoceanclosures.com/live-puri-replaces-metal-closures-with-nutracap/)

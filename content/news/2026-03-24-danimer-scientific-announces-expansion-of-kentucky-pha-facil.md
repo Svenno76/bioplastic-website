@@ -27,5 +27,3 @@ Nodax® PHA is highly prized in the packaging industry for its exceptional end-o
 ## Economic and Environmental Impact
 
 This facility expansion represents a critical milestone in scaling PHA from a specialty alternative to a mainstream packaging staple. In addition to displacing thousands of tons of fossil-based plastics annually, the Kentucky project is expected to stimulate the local economy by creating numerous high-tech manufacturing, biochemistry, and engineering jobs in the Winchester region. Construction on the new units is scheduled to begin later this year, positioning Danimer Scientific to efficiently serve a rapidly evolving market that increasingly demands high-performance, marine-degradable polymer solutions.
-
-**Source:** [Read more](https://elevenflo.com/blog/danimer_scientific)

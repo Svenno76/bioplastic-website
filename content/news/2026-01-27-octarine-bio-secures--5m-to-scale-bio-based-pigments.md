@@ -29,5 +29,3 @@ While significant strides have been made in developing biopolymers like PLA and 
 Octarine Bio’s technology addresses this "additive gap" in the bio-economy. Their bio-based pigments are designed to be compatible with various substrates, including natural fibers and bioplastics, ensuring that the coloring process does not negate the sustainable credentials of the base material. The funding will support further R&D to optimize these pigments for broader material applications, ensuring stability and vibrancy in commercial packaging and textile products.
 
 With regulatory pressure mounting on chemical usage in consumer goods, Octarine Bio is positioning itself as a key supply chain partner for brands seeking a holistic approach to sustainable material design.
-
-**Source:** [Read more](https://www.octarinebio.com/)

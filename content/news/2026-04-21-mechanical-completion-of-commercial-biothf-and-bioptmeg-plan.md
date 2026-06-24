@@ -25,5 +25,3 @@ The industrial-scale production of bioTHF and bioPTMEG is crucial for decarboniz
 ## A Commercial Turning Point
 
 Achieving mechanical completion signifies that the physical construction of the commercial plant is entirely finished, paving the way for the critical commissioning and operational startup phases. For Covation Biomaterials, this transition from pilot production to commercial scale proves the economic and technical viability of their proprietary bio-chemical processes. As the plant gears up for full production, it is poised to offer global supply chains a robust, second-generation alternative.
-
-**Source:** [Read more](https://www.prnewswire.com/news-releases/covation-biomaterials-first-commercial-plant-for-biothf-and-bioptmeg-reaches-mechanical-completion-xatryxbrand-unveiled-for-new-non-food-bioptmeg-302747124.html#:~:text=As%20a%20second%2Dgeneration%20bio,as%20spandex%2C%20polyurethanes%2C%20and%20thermoplastic)

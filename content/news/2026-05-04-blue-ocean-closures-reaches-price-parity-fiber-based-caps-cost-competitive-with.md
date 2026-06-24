@@ -25,4 +25,3 @@ L'Oréal has selected Blue Ocean Closures for its €100 million L'Accelerator p
 
 BOC was named a Gold Startup on NyTeknik's prestigious 33-list — one of Sweden's most important technology startup rankings.
 
-**Source:** [Blue Ocean Closures](https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/)

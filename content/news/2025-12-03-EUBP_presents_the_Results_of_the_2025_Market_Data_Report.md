@@ -24,5 +24,3 @@ The EUBP report, compiled in cooperation with the nova-Institute, highlights tha
 ## Impact and Applications
 
 Bioplastics are increasingly integrated into diverse industries, notably packaging, textiles & fibres, consumer goods, automotive, and agriculture. Packaging remains the largest market segment, accounting for 41.3% (0.95 million tonnes) of global bioplastics production capacities in 2025. The automotive and transport sector also shows significant growth, now representing 10.3% of applications with 0.24 million tonnes. Hasso von Pogrell, Managing Director of EUBP, emphasized that the steady rise in biobased plastics production reinforces the industry's contribution to a more sustainable, circular economy, driven by consumer and regulatory focus on low-impact materials. The industry operated at an average global capacity utilization rate of 72% in 2025. Future market growth, according to the report, will hinge on clear and stable policies that encourage innovation and investment.
-
-**Source:** [Read more](https://docs.european-bioplastics.org/publications/market_data/2025/EUBP_Market_Data_Report_2025.pdf)

@@ -27,5 +27,3 @@ For the bioplastics and bio-chemicals sector, high-purity biomethane represents 
 ## Advancing Industrial Decarbonization
 
 This successful demonstration underscores Asahi Kasei’s commitment to transitioning the chemical industry away from fossil resources. By preparing to commercialize this high-yield biomethane technology, the company aims to support broader industrial decarbonization efforts. The capability to reliably harness chemical feedstocks directly from organic waste streams represents a pivotal step forward in closing the loop on carbon emissions and accelerating the global deployment of next-generation bioplastics.
-
-**Source:** [Read more](https://www.asahi-kasei.com/news/2025/e250805.html)

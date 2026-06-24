@@ -21,4 +21,3 @@ Their powerRibs™ reinforcement grid, inspired by leaf veins, enables natural f
 
 Every kilogram of weight saved in a vehicle translates to lower CO₂ emissions over its lifetime. By replacing metal and carbon fibre with natural fibre composites, Bcomp is helping industries decarbonise without sacrificing performance.
 
-**Source:** [Bcomp](https://www.bcomp.com/)

@@ -25,5 +25,4 @@ The Aspire™ Technology is a low-temperature pretreatment and catalytic platfor
 
 The funding will enable Erg Bio to strengthen technical validation and advance toward pilot-scale demonstrations, with plans to begin operating its first pilot facility, validate techno-economics, and produce multi-kilogram batches of fuel and material intermediates. This initiative is expected to bolster U.S. energy independence, support cleaner biomanufacturing, and contribute to domestic energy resilience. By converting residues that would otherwise be wasted into high-value fuels and chemicals, Erg Bio’s process enhances resource efficiency and supports rural economies. Investors like Amy Duffuor of Azolla Ventures highlight the platform's potential to reshape the supply chain for synthetic fuels and chemicals, driving growth in the emerging bioeconomy.
 
-**Source:** [Read more](https://ergbio.com/erg-bio-closes-6-5-million-seed-round-to-scale-flexible-feedstock-technology-for-manufacturing-synthetic-aviation-fuelsand-critical-chemicals/)
 **Contact:** [Vineet Rajgarhia, Co-Founder and CEO](https://www.linkedin.com/in/vineet-rajgarhia-13409213/)

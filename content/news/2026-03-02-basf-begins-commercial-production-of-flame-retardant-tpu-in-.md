@@ -29,5 +29,3 @@ Elastollan® TPU is renowned in the polymer industry for its exceptional mechani
 Crucially, the material utilizes non-halogenated flame retardants, which aligns with evolving regulatory standards regarding smoke toxicity and environmental safety. These properties make the material ideal for demanding applications such as cable sheathing for electric vehicles (EVs), charging infrastructure, and complex automation cables where durability and fire safety are non-negotiable.
 
 This expansion underscores BASF’s commitment to advancing polymer technologies that support the rapid electrification and industrial modernization trends currently driving the Asian market.
-
-**Source:** [Read more](https://www.basf.com/id/en/media/news-releases/asia-pacific/2026/03/apac-26-19)

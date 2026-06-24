@@ -29,5 +29,3 @@ ETB Global’s bio-based route provides a strategic buffer against these shortag
 ## Decarbonizing the Value Chain
 
 The commercial plant represents a major step forward for downstream industries, particularly automotive and consumer goods, which are under increasing regulatory pressure to reduce Scope 3 emissions. The integration of bio-butadiene allows tire manufacturers and plastic compounders to increase the renewable content of their products without compromising on performance or durability.
-
-**Source:** [Read more](https://www.etbcat.com/financialsupport#:~:text=The%20applicant%2C%20ETB%20Global%20B.V.%2C%20has%20developed,is%20mainly%20used%20for%20manufacturing%20of%20rubbers.)

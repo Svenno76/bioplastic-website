@@ -30,4 +30,3 @@ This regulatory stance creates a significant logistical hurdle for the bioplasti
 
 Consequently, this ruling could force food service providers to establish separate processing streams for compostable plastics and organic food scraps, undermining the primary environmental value proposition of compostable foodware. While industry advocates continue to petition for future policy updates, compostable polymers remain firmly excluded from the certified organic loop.
 
-**Source:** [Read more](https://www.ams.usda.gov/sites/default/files/media/CS_CompostablePolymersDD.pdf)

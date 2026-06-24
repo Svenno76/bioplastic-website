@@ -29,5 +29,3 @@ The integration allows for the yarns to be certified under various sustainabilit
 ## Strategic Alignment with Sustainability Goals
 
 This launch aligns with Indorama Ventures' broader "Vision 2030" strategy, which aims to increase the company's recycling capacity significantly. By bringing a circular solution to the niche but high-volume market of safety textiles, IVL creates a closed-loop opportunity where end-of-life flame-retardant fabrics can potentially be recycled back into new high-quality fibers, further reducing the carbon footprint of the textile industry.
-
-**Source:** [Read more](https://www.indoramaventures.com//)

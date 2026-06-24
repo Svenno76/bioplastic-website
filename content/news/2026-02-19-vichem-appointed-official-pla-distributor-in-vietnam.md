@@ -29,5 +29,3 @@ The agreement focuses on the distribution of Luminy® PLA, a biobased and biodeg
 Unlike traditional plastics, Luminy® PLA offers a significantly reduced carbon footprint. With Vichem now acting as the official conduit, Vietnamese manufacturers can more easily integrate these materials into their production lines. Vichem will provide essential technical guidance to ensure that local compounders and converters can process PLA efficiently, maintaining material performance while meeting sustainability targets.
 
 The partnership represents a significant step in establishing a reliable infrastructure for bioplastics in the region, supporting both domestic consumption and Vietnam's export-oriented manufacturing base.
-
-**Source:** [Read more](https://totalenergies-corbion.com/totalenergies-corbion-appoints-vichem-as-official-distributor-for-luminy-pla-in-vietnam/)

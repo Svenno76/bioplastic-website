@@ -27,5 +27,3 @@ Ecovia Bio utilizes a unique fermentation process to produce biopolymers that of
 ## Strategic Growth and Market Trajectory
 
 The backing by Pointe Angels underscores the financial sector's growing appetite for "hard tech" solutions in the circular economy. This investment round allows Ecovia Bio to not only expand physical infrastructure but also to grow its commercial team and accelerate R&D into new functional bioplastic formulations. As regulatory pressure regarding single-use plastics and non-degradable polymers mounts globally, Ecovia Bio is positioning itself as a critical supplier of drop-in sustainable solutions for the massive hygiene and agricultural sectors.
-
-**Source:** [Read more](https://www.prnewswire.com/news-releases/ecovia-bio-closes-series-b-funding-round-led-by-pointe-angels-to-expand-manufacturing-capacity-302677339.html)

@@ -29,5 +29,3 @@ The commissioning of the cracker represents a technical triumph in the industry'
 Beyond its energy profile, the Zhanjiang Verbund site utilizes a highly efficient "Verbund" system, where the by-products of one process serve as the raw materials for another. This closed-loop approach minimizes waste and maximizes resource efficiency. 
 
 As the site moves toward full operational capacity, the output from this renewable-powered cracker will feed into production lines for engineering plastics and bioplastic-adjacent materials, helping global customers meet their increasingly stringent ESG goals. This achievement solidifies BASF's role as a leader in the transition to a circular, climate-neutral economy.
-
-**Source:** [Read more](https://www.basf.com/global/en/media/news-releases/2026/01/p-26-103.html)

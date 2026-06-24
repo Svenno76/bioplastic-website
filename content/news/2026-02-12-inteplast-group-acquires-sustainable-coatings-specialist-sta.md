@@ -29,5 +29,3 @@ STA’s portfolio includes bio-based coating formulations compatible with PLA an
 ## Strategic Outlook
 
 Inteplast Group leadership emphasized that the acquisition is driven by a market shift toward functional sustainability. By owning the coating technology, Inteplast can now innovate faster, creating barrier films that are thinner yet more effective, reducing overall material usage while enhancing the shelf-life of perishable goods. The company plans to scale STA’s existing operations to meet the growing global demand for premium, eco-conscious flexible packaging.
-
-**Source:** [Read more](https://www.inteplast.com/news-media/inteplast-adds-sta-in-films-deal/)

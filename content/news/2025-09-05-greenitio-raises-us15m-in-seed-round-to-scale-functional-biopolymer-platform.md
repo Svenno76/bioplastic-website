@@ -24,4 +24,3 @@ This funding positions Greenitio to disrupt the bioplastics sector by slashing p
 
 ---
 
-**Source:** [Read more](nan)

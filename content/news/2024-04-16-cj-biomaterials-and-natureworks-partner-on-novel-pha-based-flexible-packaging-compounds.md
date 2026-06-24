@@ -26,4 +26,3 @@ The collaboration positions both companies to capture growing demand for sustain
 
 ---
 
-**Source:** [Read more](nan)

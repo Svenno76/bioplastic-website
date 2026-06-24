@@ -28,4 +28,3 @@ This collaboration represents a significant shift in bioplastics adoption beyond
 
 ---
 
-**Source:** [Read more](https://www.benvic.com/news-and-stories/TotalEnergies-Corbion-and-Benvic-team-up-to-expand-low-carbon-Luminy--PLA-compounds-for-automotive-and-electronics)

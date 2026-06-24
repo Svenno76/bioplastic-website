@@ -27,5 +27,3 @@ The synthesis process utilizes a waste-to-wealth methodology. By extracting gela
 Beyond mechanical improvements, the chemical composition of the composite film accelerates biodegradability. According to the research team, the material is designed to decompose naturally in soil environments, breaking down into harmless biomass significantly faster than synthetic polymer alternatives. This characteristic is vital for reducing the accumulation of microplastics in terrestrial and marine ecosystems.
 
 The innovation represents a stride toward a circular economy, utilizing local organic resources to replace petroleum-based single-use plastics. BRIN is currently optimizing the formulation for scalability, targeting the flexible packaging sector as the primary application for this novel material.
-
-**Source:** [Read more](https://rri.co.id/en/national/2205493/brin-develops-cassava-based-bioplastics-innovation)

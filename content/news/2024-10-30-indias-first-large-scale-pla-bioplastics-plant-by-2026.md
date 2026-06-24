@@ -25,4 +25,3 @@ Balrampur Chini’s PLA plant represents a transformative step for India’s bio
 
 ---
 
-**Source:** [Read more](https://fnbnews.com/Top-News/balrampur-chini-mills-to-set-up-indias-first-pla-bioplastics-plant-by-2026-83295)

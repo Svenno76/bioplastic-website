@@ -31,5 +31,3 @@ These highly adaptable cellulose derivatives are specifically engineered for sea
 This partnership is particularly timely for the European market, where stringent regulatory frameworks and the European Green Deal are pushing manufacturers to aggressively phase out hazardous substances. The Grolman Group’s technical sales expertise will play a crucial role in helping polymer compounders and chemical formulators transition from legacy synthetic additives to Seprify’s bio-based solutions.
 
 Ultimately, the collaboration represents a major step forward in scaling commercial biomaterials, ensuring that sustainable chemistry meets the high-volume demands of European manufacturing.
-
-**Source:** [Read more](https://seprify.com/insights-and-media/partnership-grolman)

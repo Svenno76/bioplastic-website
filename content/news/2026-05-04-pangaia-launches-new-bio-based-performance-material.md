@@ -27,5 +27,3 @@ A historical barrier to the adoption of bioplastics in high-movement apparel has
 ## Decoupling from Fossil Fuels
 
 This product launch is a strategic step in PANGAIA’s broader mission to drive material innovation and systematically replace polluting inputs. As the global activewear market continues to expand, the commercialization of advanced bio-based polymers represents a critical pathway toward decarbonizing fashion. By successfully scaling this bio-polyamide technology, PANGAIA demonstrates that the future of athletic apparel can thrive without extracting new fossil fuels.
-
-**Source:** [Read more](https://pangaia.com/pages/bio-based-activewear)

@@ -25,5 +25,3 @@ Unlike traditional polylactic acid (PLA) plastics, which typically require high-
 The $15 million funding round arrives at a critical inflection point for the broader bioplastics market. With the capital, Shellworks plans to transition from pilot-scale operations to commercial-scale manufacturing. The company is poised to deploy advanced fermentation infrastructure that will drastically increase its volumetric output over the coming year.
 
 Furthermore, Shellworks will expand its research and development division. The team is focused on fine-tuning Vivomer's mechanical properties for more demanding, rigid packaging applications. The personal care and cosmetics industries remain prime targets, where replacing single-use petroleum plastics without sacrificing brand aesthetics or product shelf life is a highly sought-after capability. By securing this vital funding, Shellworks takes a major step toward eliminating plastic pollution at its source.
-
-**Source:** [Read more](https://www.plasticpollutioncoalition.org/blog/2026/4/14/ppc-business-member-wins-april-2026)

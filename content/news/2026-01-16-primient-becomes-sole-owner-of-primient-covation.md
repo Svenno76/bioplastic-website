@@ -29,5 +29,3 @@ Primient’s decision to take full ownership allows for a more integrated approa
 Industry analysts view this acquisition as a clear indicator of the maturing bioplastics market. By bringing Primient Covation fully under its wing, Primient is not just expanding its portfolio but is also strengthening the infrastructure necessary for a circular economy. The move is expected to enhance supply chain transparency and provide customers with more robust technical support as they transition toward renewable materials.
 
 As Primient integrates the new assets, the company remains focused on its core mission: delivering plant-based ingredients that do not compromise on performance. With total control over its PDO production, the future of bio-based plastics looks increasingly bright.
-
-**Source:** [Read more](https://primient.com/news/article/2026/01/primient-to-acquire-full-ownership-of-primient-covation)

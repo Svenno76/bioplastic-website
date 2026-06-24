@@ -24,4 +24,3 @@ Uluu's seaweed-based materials are **home compostable, marine biodegradable, and
 
 ---
 
-**Source:** [Read more](https://phyconomy.substack.com/p/seaweed-in-2025-the-year-in-review)

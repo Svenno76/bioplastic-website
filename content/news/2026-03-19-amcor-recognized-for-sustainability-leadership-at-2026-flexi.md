@@ -31,5 +31,3 @@ By integrating next-generation bio-polymers and proprietary compatibilizers, Amc
 The FPA’s recognition of Amcor highlights the vital role that sophisticated material science plays in achieving global decarbonization targets. As fast-moving consumer goods (FMCG) companies face mounting regulatory pressure to adopt eco-friendly packaging, scalable bioplastic films like Earth Sense Pro offer a commercially viable pathway to sustainable supply chains. 
 
 Amcor’s continued strategic investment in bio-based material research demonstrates a clear, long-term commitment to replacing traditional petrochemical films, solidifying its position at the forefront of the circular economy transition.
-
-**Source:** [Read more](https://www.amcor.com/media/news/earth-sense-pro-flexible-packaging-association-achievement-sustainability)

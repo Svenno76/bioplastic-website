@@ -31,5 +31,3 @@ By establishing agricultural and processing partnerships across both countries, 
 ## Strengthening the APAC Bioeconomy
 
 This initiative signals Ecopha Biotech's ambition to become a dominant player in the Asia-Pacific (APAC) bioplastics market. By vertically integrating sustainable agriculture with cutting-edge polymer science, the company is demonstrating how cross-border bioeconomy strategies can drive the global transition away from fossil-based plastics.
-
-**Source:** [Read more](https://ecopha.bio/ecopha-biotech-global-expansion-australia-india-pongamia-bioeconomy-strategy/)

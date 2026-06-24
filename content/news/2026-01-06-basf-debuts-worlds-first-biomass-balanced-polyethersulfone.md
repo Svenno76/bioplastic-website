@@ -25,4 +25,3 @@ Ultrason E 2010 BMB enables manufacturers in diverse industries—from household
 
 ---
 
-**Source:** [Read more](https://www.basf.com/global/en/media/news-releases/2025/03/p-25-034)

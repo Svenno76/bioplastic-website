@@ -24,4 +24,3 @@ The expanded facilities enable researchers to develop **greener chemicals, biopl
 
 ---
 
-**Source:** [Read more](nan)

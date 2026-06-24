@@ -23,4 +23,3 @@ Notpla's expansion signals broader industry momentum toward marine-derived packa
 
 ---
 
-**Source:** [Read more](https://phyconomy.substack.com/p/seaweed-in-2025-the-year-in-review)

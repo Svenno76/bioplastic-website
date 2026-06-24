@@ -25,5 +25,3 @@ By leveraging HELLER-LEDER’s existing industrial infrastructure, Innovera Euro
 The formation of Innovera Europe comes at a critical time as regulatory pressures regarding sustainability and supply chain transparency tighten across the European Union. The venture allows for a "drop-in" solution where bio-based materials can be processed using modified traditional tanning equipment, ensuring a seamless transition for manufacturers.
 
 "Innovera Europe represents the missing link between material science innovation and industrial reality," the companies noted in a joint statement. By localizing production in Germany, the venture also reduces logistics-related emissions, offering a holistic sustainable solution from raw material creation to final finishing. The partnership signals a major step forward in the commercialization of bio-fabricated materials, moving them from niche pilot programs to mass-market availability.
-
-**Source:** [Read more](https://www.prnewswire.com/news-releases/modern-meadow-and-heller-leder-launch-innovera-europe-to-advance-sustainable-material-innovation-at-scale-302670438.html)

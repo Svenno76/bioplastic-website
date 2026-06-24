@@ -27,5 +27,3 @@ PerPlacsBio aims to quantify the "persistence of plastics" in the biosphere. The
 ## Regulatory and Industry Implications
 
 The findings from PerPlacsBio are expected to influence future regulatory frameworks regarding "soil-biodegradable" certifications in the European Union. By establishing clearer metrics for degradation under field conditions, the project will assist bioplastic compounders in developing next-generation materials that offer the necessary mechanical strength for crop support while ensuring rapid, toxic-free disintegration post-harvest.
-
-**Source:** [Read more](https://www.uni-muenster.de/OekologischePlanung/en/forschung/perplacsbio.html)

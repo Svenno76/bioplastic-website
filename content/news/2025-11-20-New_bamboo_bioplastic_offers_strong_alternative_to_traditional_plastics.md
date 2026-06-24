@@ -26,4 +26,3 @@ Beyond its superior strength and thermal resistance, the bamboo bioplastic is fu
 
 The material's versatility extends to its processability, being suitable for injection molding, machining, and other conventional shaping techniques, suggesting broad applicability across various industries. Its potential uses span from engineering plastics to automotive and infrastructure components. A techno-economic analysis has also confirmed its cost-competitiveness, positioning it as a viable pathway to mitigate plastic pollution and reduce reliance on fossil resources, leveraging bamboo as an abundant and renewable feedstock that doesn't compete with food sources.
 
-**Source:** [Read more](https://www.nature.com/articles/s41467-025-63904-2#Abs1)

@@ -27,5 +27,3 @@ This near-instantaneous reaction means the 3D-printed matrix can rapidly convert
 ## Next-Generation Smart Bioplastics
 
 The development of these sea urchin-inspired structures heralds a new era for functional smart materials. By integrating mechanoelectrical properties into 3D-printable resins, the material holds immense potential for next-generation applications, including wearable biomedical electronics, soft robotics, and eco-friendly structural health monitoring systems. As the industry increasingly pivots toward sustainable innovation, the ability to embed complex, sensor-like capabilities directly into biomimetic polymer architectures represents a significant leap forward for material engineering and bio-based manufacturing.
-
-**Source:** [Read more](https://www.cityu.edu.hk/en/media/news/2026/03/02/3d-printed-biomimetic-mechanoelectrical-smart-materials#:~:text=Through%20in%20situ%20observations%20of,occurs%20within%20tens%20of%20milliseconds.)

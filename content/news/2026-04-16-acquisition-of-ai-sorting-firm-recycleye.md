@@ -25,5 +25,3 @@ Recycleye’s proprietary computer vision systems provide a robust solution to t
 With CP Group’s extensive footprint in engineering, manufacturing, and installing advanced recovery systems globally, the acquisition guarantees a rapid commercial scaling of Recycleye’s AI innovations. The London-based tech firm's robotic picking stations and intelligent vision systems will become a core, fully integrated component of CP Group’s turnkey MRF offerings, available from initial plant design through to installation and ongoing customer support.
 
 By closing the loop on visually identical but chemically distinct packaging materials, this merger not only modernizes facility operations but directly supports the commercial viability of next-generation biopolymers by securing their critical end-of-life recovery pathways.
-
-**Source:** [Read more](https://recycleye.com/cp-group-acquires-recycleye/#:~:text=CP%20Group%20is%20a%20global,to%20installation%20and%20customer%20support.)

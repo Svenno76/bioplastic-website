@@ -27,5 +27,3 @@ While Cirplus successfully pushed forward vital industry standards—such as hel
 ## Legacy and Future Implications
 
 Although Cirplus is ceasing operations, its structural impact on the plastics industry remains significant. The company's concerted efforts to bring transparency, traceability, and digital efficiency to the trading of bioplastics and recycled polymers have set a strong benchmark for the sector. The void left by its liquidation underscores the critical need for robust, resilient business models capable of weathering volatile commodity markets. The technological groundwork laid by Cirplus will likely serve as a blueprint for future platforms in the circular economy space.
-
-**Source:** [Read more](https://www.linkedin.com/posts/cnschiller_cirplus-is-entering-liquidation-a-difficult-ugcPost-7437765307831607296-OpHa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFG_vIBzFv5aF40lr4eTOh5-XYjgcxW4wc)

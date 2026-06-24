@@ -21,5 +21,4 @@ The $5 million investment has been directed towards upgrading the university's i
 
 ## Impact
 The expanded facilities are poised to foster innovation by providing advanced infrastructure to small- and medium-sized enterprises, academic partners, and government collaborators. This access is expected to shorten the path from discovery to market and support the creation of high-skilled jobs. The university's biomanufacturing efforts specifically aim to reduce reliance on petrochemicals, minimize waste, and develop scalable technologies for sustainable food, therapeutics, and materials like bioplastics, contributing significantly to greenhouse gas emission reduction. Steve Shih, co-director of the Centre for Applied Synthetic Biology, emphasizes that these upgraded facilities will allow researchers and partners to move faster and scale promising technologies into real-world applications.
-
-**Source:** [Read more](https://www.concordia.ca/news/stories/2025/12/11/concordia-expands-its-sustainable-biomanufacturing-capacity-with-5m-cfi-investment.html#:~:text=Concordia%20has%20expanded%20its%20sustainable,of%20Higher%20Education%20(MES).)
+.)

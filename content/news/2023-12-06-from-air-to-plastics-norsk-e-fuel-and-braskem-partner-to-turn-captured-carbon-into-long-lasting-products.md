@@ -24,4 +24,3 @@ This initiative reinforces Braskem's "Keeping Carbon in the Loop" strategy, whic
 
 ---
 
-**Source:** [Read more](nan)

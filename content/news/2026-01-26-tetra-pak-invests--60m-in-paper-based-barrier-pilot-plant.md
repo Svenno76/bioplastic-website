@@ -29,5 +29,3 @@ The pilot plant will serve as the crucial link between laboratory-stage research
 ## A Step Toward Fully Renewable Packaging
 
 This investment aligns with Tetra Pak's broader "Go Nature" strategy, which aims to deliver the world's most sustainable food package. By increasing the paper content of their cartons, the company seeks to reduce reliance on fossil-fuel-based plastics and energy-intensive extraction processes associated with aluminum. The successful scaling of a paper-based barrier would not only lower the carbon impact of the packaging supply chain but also enhance the circularity of aseptic cartons by allowing them to be processed more easily in standard paper mills.
-
-**Source:** [Read more](https://www.tetrapak.com/about-tetra-pak/news-and-events/newsarchive/tetra-pak-invests-in-paper-based-barrier-plant)

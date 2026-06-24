@@ -27,5 +27,3 @@ By securing ISCC PLUS (International Sustainability and Carbon Certification) st
 As the global plastics industry faces mounting regulatory pressure to reduce carbon footprints and adopt circular economic models, verifiable chain-of-custody credentials have shifted from an optional bonus to a commercial necessity. The newly acquired ISCC PLUS certification for Roquette's bio-succinic acid directly empowers bioplastic producers and downstream consumer brands to confidently calculate lifecycle assessments and achieve ambitious Scope 3 greenhouse gas reduction targets.
 
 This strategic validation fortifies Roquette’s portfolio of sustainable solutions while equipping the broader bioplastics sector with the trusted, high-performance raw materials required to aggressively scale bio-based polymer production.
-
-**Source:** [Read more](https://www.roquette.com/news/three-products-sustainable-certification#:~:text=Published%20April%2030%2C%202026,BIOSUCCINIUM%C2%AE%20bio%2Dsuccinic%20acid.)

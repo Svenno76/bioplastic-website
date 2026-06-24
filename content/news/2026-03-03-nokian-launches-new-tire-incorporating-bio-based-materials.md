@@ -27,5 +27,3 @@ These renewable components grant the tire a unique thermodynamic property. The b
 ## Accelerating Green Automotive Solutions
 
 The commercialization of this thermo-adaptive tire marks a critical milestone for the broader materials sector. By successfully substituting synthetic polymers with high-performing renewable alternatives, Nokian Tyres highlights the growing commercial viability of bio-based elastomers in demanding, high-friction applications. This product launch not only reduces the tire's overall reliance on fossil resources but also sets a new benchmark for tire manufacturers seeking to lower their environmental impact without compromising driver safety.
-
-**Source:** [Read more](https://www.businesswire.com/news/home/20260302788486/en/A-New-Era-of-Winter-Driving-Begins-Nokian-Tyres-Launches-Entirely-New-Type-of-Studded-Winter-Tire-That-Automatically-Adapts-to-Changes-in-Temperature)

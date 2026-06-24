@@ -24,4 +24,3 @@ This plant marks the global debut of commercial-scale circular BTX, targeting a 
 
 ---
 
-**Source:** [Read more](nan)

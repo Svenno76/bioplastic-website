@@ -24,4 +24,3 @@ At COP30, Braskem advocated for integrated policies that incentivize renewable c
 Braskem’s push for policy action is expected to strengthen the bioplastics industry by creating a more favorable regulatory environment and encouraging broader adoption of renewable materials. The company’s efforts align with Brazil’s National Bioeconomy Strategy, which promotes biomass production and bioindustrialization. By formalizing pathways for sustainable development and scaling biopolymer supply, Braskem aims to help reduce carbon footprints across the chemical and packaging sectors, positioning biopolymers as a viable alternative to fossil-based plastics.
 ---
 
-**Source:** [Read more](https://www.packaginginsights.com/news/braskem-bioeconomy-policy-cop30.html)

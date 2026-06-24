@@ -27,5 +27,3 @@ This development holds particular promise for the treatment of polyolefins, such
 ## Commercial Implications
 
 While currently at the laboratory scale, the University of Rochester is exploring pathways to scale the technology for industrial application. By lowering the operational costs associated with catalyst regeneration and replacement, this innovation could make chemical recycling a more competitive alternative to the production of virgin plastics from fossil fuels. The research represents a pivotal step toward sustainable petrochemical processes that do not rely on scarce resources.
-
-**Source:** [Read more](https://www.rochester.edu/newscenter/tungsten-carbide-alternative-catalyst-petrochemicals-692152/)

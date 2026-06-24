@@ -25,5 +25,3 @@ By precisely controlling variables such as pH, temperature, and carbon-to-nitrog
 This technology addresses two critical environmental challenges simultaneously: the management of urban organic waste and the reduction of reliance on petrochemical plastics. PHB is a fully biodegradable and compostable member of the polyhydroxyalkanoate (PHA) family, possessing thermal and mechanical properties similar to polypropylene (PP).
 
 The material produced through the AHOBAE technology is suitable for various applications, including rigid packaging and agricultural films, which can biodegrade harmlessly at the end of their lifecycle. By valorizing food waste that would otherwise end up in landfills or incinerators, TECNALIA is establishing a scalable model for a true urban circular economy.
-
-**Source:** [Read more](https://www.tecnalia.com/en/news/turning-food-waste-into-bioplastics#:~:text=11%20February%202026,environmental%2C%20economic%20and%20social%20challenges.)

@@ -21,5 +21,3 @@ The supplied solutions highlight FORVIA's expertise in plastic injection molding
 
 ## Impact
 The production of these components is strategically located at FORVIA's Orhangazi plant in Turkey, in close proximity to Renault's manufacturing site. This localized production helps streamline logistics and reduce the overall carbon footprint associated with transportation. By combining technical know-how, significant use of recycled materials, and refined design features, FORVIA delivers high-quality and visually appealing interior solutions that meet demanding quality and safety standards while supporting the shift towards sustainable automotive practices. This collaboration underscores FORVIA's dedication to industrial excellence and enhanced user experience through innovative and sustainable technologies.
-
-**Source:** [Read more](https://www.forvia.com/press/forvia-provides-advanced-and-sustainable-interior-solutions-all-new-renault-clio-6)

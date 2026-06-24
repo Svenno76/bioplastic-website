@@ -31,4 +31,3 @@ By operating at this newly commissioned capacity, Neste is effectively bridging 
 
 This strategic scale-up underscores Neste’s long-term commitment to reducing fossil dependence in polymer production. As global regulatory pressures and consumer demand for high-quality recycled plastics surge, this upgrading facility establishes a robust, operational blueprint for advancing the circular economy.
 
-**Source:** [Read more](https://www.neste.com/news/neste-commissions-the-worlds-largest-upgrading-facility-for-liquefied-waste-plastic-and-scales-up-chemical-recycling)

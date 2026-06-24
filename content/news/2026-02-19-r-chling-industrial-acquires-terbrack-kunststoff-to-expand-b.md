@@ -25,5 +25,3 @@ Franz Lübbers, CEO of Röchling Industrial, emphasized that the acquisition is 
 A primary driver behind this acquisition is the expansion of the **Röchling BioConnect** product family. Röchling has been aggressively developing high-performance plastics that utilize bio-based feedstocks and recycled materials to reduce carbon footprints without compromising technical performance.
 
 Terbrack’s specialized machinery and expertise in complex plastic components will be pivoted to support these sustainable lines. This includes increasing the output of mass-balanced materials and bio-based engineering plastics used in sectors ranging from mechanical engineering to food processing. By vertically integrating Terbrack’s capabilities, Röchling ensures greater control over the processing chain for these sensitive materials, guaranteeing that the mechanical properties of their bioplastic offerings match those of their fossil-based counterparts.
-
-**Source:** [Read more](https://www.roechling.com/dk/newsroom/detail/roechling-industrial-acquires-operating-business-of-terbrack-kunststoff-gmbh-co-kg)

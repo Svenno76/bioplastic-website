@@ -27,5 +27,3 @@ By localizing production capacity, Covestro aims to shorten lead times and enhan
 A primary focus of the new Zhuhai facility is the production of Covestro’s sustainable product portfolio. The lines are equipped to manufacture the *Desmopan®* brand of TPUs, including bio-based and recycled-content variants. These materials are engineered to help downstream customers reduce their carbon footprint without sacrificing the material's essential mechanical properties, such as high abrasion resistance, flexibility, and durability.
 
 The plant operates under strict environmental standards, utilizing advanced process technologies to minimize energy consumption and waste. This investment aligns with Covestro’s global strategy to become fully circular, supporting the industry's transition from fossil-based resources to alternative raw materials including biomass and recycled feedstocks.
-
-**Source:** [Read more](https://www.covestro.com/press/covestro-launches-new-tpu-production-site-in-south-china/)

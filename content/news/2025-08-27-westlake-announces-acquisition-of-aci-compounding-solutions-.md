@@ -23,5 +23,3 @@ The acquisition comes at a time when the global manufacturing sector is under in
 Beyond immediate capacity increases, the acquisition is a strategic play for innovation. ACI’s facility and experienced workforce will complement Westlake’s existing research and development initiatives. The synergy between Westlake’s massive manufacturing footprint and ACI’s agile, solution-oriented compounding approach is expected to accelerate the launch of new bioplastic and hybrid resin products.
 
 This transaction reinforces Westlake’s commitment to its broader sustainability goals, which focus on operational excellence and environmental stewardship. As industries look for ways to reduce their carbon footprints without sacrificing material performance, Westlake’s expanded portfolio will offer the necessary tools to navigate the evolving regulatory and consumer landscape. This acquisition marks another step forward in Westlake’s journey to becoming a premier provider of the essential materials that power a more sustainable future.
-
-**Source:** [Read more](https://www.westlake.com/news/westlake-announces-acquisition-aci-compounding-solutions-business)

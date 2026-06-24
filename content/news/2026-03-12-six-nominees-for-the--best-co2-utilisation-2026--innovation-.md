@@ -27,5 +27,3 @@ To successfully convert CO2—a highly stable and thermodynamically inert molecu
 The six finalists were meticulously selected by an independent advisory board of industry experts, recognizing their potential to scale commercially and disrupt traditional supply chains. Attendees of the upcoming conference will have the opportunity to cast their votes for the ultimate winner, democratizing the recognition of the year's most impactful CCU technology.
 
 As global regulatory pressures mount and market demand for low-carbon materials grows, the commercialization of CO2-based polymers offers a vital strategy for the defossilisation of the plastics industry. 
-
-**Source:** [Read more](https://co2-chemistry.eu/award-application/)

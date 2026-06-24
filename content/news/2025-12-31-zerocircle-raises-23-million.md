@@ -25,4 +25,3 @@ Zerocircle's expansion addresses growing demand in regions with stringent anti-p
 
 ---
 
-**Source:** [Read more](https://phyconomy.substack.com/p/seaweed-in-2025-the-year-in-review)

@@ -25,5 +25,3 @@ Through the mass balance approach, the sustainable characteristics of the biolog
 Mitsubishi Electric plans to incorporate these high-performance biomass plastics into a variety of home appliances, likely focusing on housing materials where varied polymers such as polystyrene or polycarbonate are heavily utilized. By replacing conventional fossil-based plastics, the company aims to significantly lower its Scope 3 emissions—those occurring indirectly in the value chain.
 
 The initiative also highlights a growing trend in the electronics sector to adopt third-party certifications, ensuring the traceability of the biomass content. Both companies are working to ensure the materials meet rigorous international standards for sustainability. This agreement sets the stage for a wider adoption of green materials in the Asian electronics market, balancing high-tech performance with environmental responsibility.
-
-**Source:** [Read more](https://www.mitsubishielectric.com/en/pr/2025/pdf/0221.pdf)

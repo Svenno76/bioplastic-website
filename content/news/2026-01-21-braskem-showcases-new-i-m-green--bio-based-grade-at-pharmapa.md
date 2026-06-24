@@ -27,5 +27,3 @@ Critically, the new grade has undergone extensive testing to ensure compliance w
 The pharmaceutical industry is under increasing pressure to reduce Scope 3 emissions, which encompasses the carbon footprint of the supply chain including packaging materials. Braskem’s I'm green™ bio-based polyethylene captures CO2 from the atmosphere during the sugarcane cultivation process, resulting in a negative carbon footprint at the plant gate. 
 
 By integrating this material into packaging lines, pharmaceutical companies can significantly lower the Global Warming Potential (GWP) of their products. Braskem highlighted that this launch is part of their broader strategy to achieve carbon neutrality and to support the healthcare sector’s transition toward a circular economy without sacrificing material performance or patient safety.
-
-**Source:** [Read more](https://www.braskem.com.br/imgreen/details-news/braskem-showcases-new-im-greensuptmsup-bio-based-grade-at-pharmapack-2026)

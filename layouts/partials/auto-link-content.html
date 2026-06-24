@@ -5,11 +5,6 @@
 */}}
 {{ $content := .Content }}
 
-{{/* ===== PROTECT EXISTING LINKS ===== */}}
-{{/* Strip existing <a> tags to prevent regex from matching inside href attributes */}}
-{{/* The inner text is preserved — auto-links will wrap matched terms */}}
-{{ $content = $content | replaceRE `<a[^>]*>(.*?)</a>` `$1` | safeHTML }}
-
 {{/* ===== GLOSSARY TERMS (longest first) ===== */}}
 {{ $content = $content | replaceRE `(?i)\b(Requirements for packaging recoverable through composting and biodegradation)\b` `<a href="/glossary/en-13432/" class="glossary-link">$1</a>` | safeHTML }}
 {{ $content = $content | replaceRE `(?i)\b(Bio-PET \(Bio-based Polyethylene Terephthalate\))\b` `<a href="/glossary/bio-pet/" class="glossary-link">$1</a>` | safeHTML }}

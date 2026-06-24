@@ -29,5 +29,3 @@ This method allows for the conversion of bio-based feedstocks and carbon dioxide
 ## Strengthening the U.S. Bio-Economy
 
 The establishment of this U.S. plant represents a strategic move to domesticate the supply chain for green chemicals. By offering drop-in replacements for petrochemical incumbents, Kemvera aims to help downstream manufacturers reduce their Scope 3 emissions without altering their existing formulations or sacrificing performance.
-
-**Source:** [Read more](https://www.globenewswire.com/news-release/2026/01/21/3222644/0/en/Kemvera-formerly-New-Iridium-Advances-Commercialization-of-Bio-Acetic-Acid-and-Bio-Ethyl-Acetate-Manufacturing-Process.html)

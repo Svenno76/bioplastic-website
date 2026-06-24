@@ -27,5 +27,3 @@ Sekab will supply Henkel with bio-based intermediates, likely derived from their
 This initiative is part of a broader trend in the chemical industry to address Scope 3 emissions—those associated with the upstream production of raw materials. By incorporating renewable feedstocks, Henkel is positioning itself to offer customers quantifiable reductions in CO2 emissions.
 
 “Shaping the future with bio-based raw materials is not just about substitution; it is about proving that sustainability does not require a trade-off in performance,” the companies indicated regarding the venture. The move aligns with the European chemical sector’s aggressive 2030 and 2050 climate targets, validating the commercial viability of bio-based supply chains in complex chemical formulations.
-
-**Source:** [Read more](https://www.henkel.com/press-and-media/press-releases-and-kits/2026-02-05-henkel-and-sekab-are-shaping-the-future-with-bio-based-raw-materials-2121462)

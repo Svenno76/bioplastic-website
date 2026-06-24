@@ -24,5 +24,3 @@ By leveraging hemp, Precision Plants aims to produce materials that are not only
 
 ## Strategic Implications for the UK Bioeconomy
 This funding aligns with broader governmental objectives to reduce reliance on fossil-fuel-based plastics and enhance domestic manufacturing capabilities. By securing a localized supply chain grounded in UK agriculture, Precision Plants is positioning itself to mitigate volatility in the global raw material market while providing farmers with a lucrative rotation crop. The successful scaling of this technology could offer a blueprint for integrating agricultural waste streams into the high-value materials sector.
-
-**Source:** [Read more](https://www.precisionplants.co.uk/)

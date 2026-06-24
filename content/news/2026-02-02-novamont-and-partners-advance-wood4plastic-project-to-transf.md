@@ -27,5 +27,3 @@ This development represents a strategic shift toward second-generation feedstock
 The technical workflow demonstrated by the partners highlights the potential for creating a cascade utilization model. Lignin, a byproduct of the sugar extraction process, is also being evaluated for use in value-added applications, ensuring that the entirety of the biomass is valorized. The resulting bioplastics are designed for applications requiring biodegradability in soil and industrial composting environments, such as agricultural mulch films and food waste collection bags.
 
 Novamont continues to validate the scalability of these materials, proving that forestry waste streams can serve as a reliable, renewable foundation for the next generation of compostable packaging and agricultural solutions.
-
-**Source:** [Read more](https://www.linkedin.com/posts/within-the-wood4plastic-project-novamont-share-7424409169845235712-RwGn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFG_vIBzFv5aF40lr4eTOh5-XYjgcxW4wc)

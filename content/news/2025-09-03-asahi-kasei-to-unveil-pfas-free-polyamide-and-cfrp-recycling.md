@@ -25,5 +25,3 @@ In addition to regulatory-compliant polyamides, Asahi Kasei will showcase an adv
 ## Industry Impact 
 
 The dual introduction of PFAS-free polyamides and CFRP recycling capabilities highlights Asahi Kasei's strategic commitment to environmental stewardship. By providing industries with advanced materials that anticipate future regulatory frameworks and promote circular product lifecycles, the company is positioning itself as a vital partner for original equipment manufacturers (OEMs) striving to meet aggressive decarbonization targets.
-
-**Source:** [Read more](https://www.asahi-kasei.com/news/2025/e250903.html)

@@ -24,4 +24,3 @@ Carbon Cell's foam uses **biochar**—a carbon-rich residue from pyrolyzed crop 
 In the **bioplastics industry**, Carbon Cell disrupts polystyrene's dominance, projected to produce 2.5 million truckloads of EPS annually by 2024, by providing superior fire resistance, soundproofing, and compostability for insulation, acoustic panels, thermal packaging, automotive composites, and even film props. Construction emerges as the largest market, though certifications may delay scale-up. This scalable solution from waste reduces plastic pollution, regenerates soil post-use, and accelerates sustainable materials transition amid rising emissions pressures.
 ---
 
-**Source:** [Read more](nan)

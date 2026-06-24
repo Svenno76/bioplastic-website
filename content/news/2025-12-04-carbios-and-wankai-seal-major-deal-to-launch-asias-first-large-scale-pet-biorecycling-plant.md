@@ -25,4 +25,3 @@ The joint venture will construct a €115 million (US$134 million) PET biorecycl
 This partnership represents a transformative step for circular PET production in Asia, the world's leading PET manufacturing region. The agreement establishes a long-term commitment to develop multiple biorecycling facilities across Asia, targeting one million tonnes of annual capacity. CARBIOS has granted Wankai exclusive licensing rights in Asia for three years, extendable based on additional capacity commitments of at least 100,000 tonnes annually. The collaboration accelerates the transition toward sustainable, low-carbon PET production while positioning both companies as leaders in enzymatic recycling innovation.
 ---
 
-**Source:** [Read more](nan)

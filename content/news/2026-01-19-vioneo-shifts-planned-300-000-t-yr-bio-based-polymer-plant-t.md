@@ -27,5 +27,3 @@ Industry analysts suggest that the relocation will allow Vioneo to scale more ra
 ## Meeting Global Sustainability Goals
 
 The move aligns with broader global decarbonization trends. As China pursues its "dual carbon" goals—peaking emissions by 2030 and reaching carbon neutrality by 2060—the government has fostered a fertile environment for bio-based technologies. Vioneo’s massive capacity boost positions the company as a dominant player in the bioplastic space, ready to meet the global surge in demand for renewable plastic solutions as the industry pivots away from traditional hydrocarbons.
-
-**Source:** [Read more](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2777539-vioneo-to-shift-planned-mtp-plant-to-china)

@@ -24,4 +24,3 @@ This expansion bolsters the bioplastics industry's shift toward scalable, bio-ba
 
 ---
 
-**Source:** [Read more](nan)

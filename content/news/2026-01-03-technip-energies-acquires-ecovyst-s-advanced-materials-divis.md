@@ -29,5 +29,3 @@ By integrating Ecovyst’s advanced catalyst expertise, Technip Energies is now 
 The timing of the deal reflects the growing global demand for circularity. As brands face mounting pressure to move away from fossil-fuel-based packaging, the need for high-purity, high-performance bio-alternatives has never been higher. The Advanced Materials division will now operate as a core component of Technip’s "T.EN X" technology suite, focused on decarbonization and carbon-neutral plastic production.
 
 Industry analysts expect this move to trigger a ripple effect across the sector, potentially leading to more rapid commercialization of next-generation bio-resins. For Technip Energies, the deal represents a definitive step toward a future where sustainable chemistry is the standard, not the exception.
-
-**Source:** [Read more](https://www.ten.com/en/media/press-releases/technip-energies-completes-acquisition-ecovysts-advanced-materials-catalysts)

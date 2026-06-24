@@ -27,5 +27,3 @@ The initiative highlights the industry's pivot toward bioplastics in constructio
 ## Meeting 2026 Sustainability Goals
 
 The launch aligns with broader 2026 industry trends requiring stricter adherence to Environmental, Social, and Governance (ESG) criteria in real estate development. Tiderock Companies has positioned Vivara to not only develop properties but to serve as a testbed for scalable sustainable technologies. Management indicated that the division will seek to partner with bioplastic producers and material scientists to refine the durability and thermal properties of these green construction materials, ensuring they meet rigorous building codes while maintaining environmental integrity.
-
-**Source:** [Read more](https://finance.yahoo.com/news/tiderock-companies-announces-launch-vivara-135500324.html)

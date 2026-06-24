@@ -25,5 +25,3 @@ By enhancing its testing infrastructure, Celanese can now perform rigorous on-si
 Located in the heart of the American automotive industry, the Auburn Hills center is positioned to address the specific challenges of vehicle electrification. The expansion includes new resources for Computer-Aided Engineering (CAE) and mold flow analysis, essential for replacing heavy metal components with lightweight engineering plastics.
 
 The facility will support the rapid prototyping of complex parts such as high-voltage battery components, electrical connectors, and thermal management systems. By integrating material science with application design, Celanese aims to help manufacturers optimize EV range through weight reduction while simultaneously integrating circular materials into the automotive supply chain.
-
-**Source:** [Read more](https://www.celanese.com/news-and-media/2026/february/celanese-opens-expanded-michigan-technology-center)

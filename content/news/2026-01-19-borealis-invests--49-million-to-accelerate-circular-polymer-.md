@@ -27,5 +27,3 @@ This commitment aligns with Borealis’ broader "EverMinds" ambition, which seek
 ## A Benchmark for the Chemical Industry
 
 As the European chemical industry faces unprecedented challenges regarding decarbonization and resource efficiency, Borealis’ proactive approach sets a benchmark for innovation. By focusing on circular design and bio-based alternatives today, the company is securing its position as a leader in the next generation of polymer science. This investment ensures that Burghausen will remain at the forefront of the industry's green transition for years to come.
-
-**Source:** [Read more](https://www.borealisgroup.com/news/borealis-invests-eur-49-million-in-burghausen-germany-to-accelerate-design-for-circularity)

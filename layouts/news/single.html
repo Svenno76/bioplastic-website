@@ -44,6 +44,12 @@
           {{ partial "auto-link-content.html" (dict "Content" .Content) }}
         </div>
 
+        {{ if .Params.source }}
+        <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #e5e7eb; font-size: 0.95rem; color: #6b7280;">
+          <strong>Source:</strong> <a href="{{ .Params.source }}" target="_blank" rel="noopener" style="color: #3b82f6; text-decoration: none;">{{ .Params.source | replaceRE `^https?://(www\.)?` "" | truncate 60 "…" }}</a>
+        </div>
+        {{ end }}
+
         <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
           <a href="/news/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to News</a>
         </footer>

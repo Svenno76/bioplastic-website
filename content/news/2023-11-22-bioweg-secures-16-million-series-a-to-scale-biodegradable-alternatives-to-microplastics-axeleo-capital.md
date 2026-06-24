@@ -24,4 +24,3 @@ This capital enables BIOWEG to transition from pilot to industrial scale, co-loc
 
 ---
 
-**Source:** [Read more](nan)

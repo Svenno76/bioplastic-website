@@ -31,5 +31,3 @@ The data underscores the industry's response to the Packaging and Packaging Wast
 ## Closing the Loop
 
 "Transparency in recycling capacity is a prerequisite for a truly circular Europe," a PRE spokesperson stated regarding the release. The map serves not only as a market analysis tool but also as a strategic guide for investors and policymakers to identify infrastructure gaps. The report suggests that while Northern and Western Europe maintain high density in processing plants, Southern and Eastern regions are accelerating their investment in flexible plastic recycling lines to meet the EU’s harmonized collection mandates.
-
-**Source:** [Read more](https://www.plasticsrecyclers.eu/publications/)

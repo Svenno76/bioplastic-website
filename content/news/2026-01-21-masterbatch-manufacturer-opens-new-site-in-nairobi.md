@@ -25,5 +25,3 @@ The new site will focus on distributing the company's broad portfolio, ranging f
 A significant component of this expansion involves introducing Gabriel-Chemie’s sustainable product lines to the Kenyan market. The company is a recognized leader in developing masterbatches specifically designed for the bioplastics sector, including additives for PLA (Polylactic Acid) and other biodegradable polymers.
 
 With Kenya maintaining some of the world’s strictest regulations on single-use plastics, there is a growing appetite for alternative materials and recycling-friendly solutions. Gabriel-Chemie’s presence will facilitate the distribution of their sustainable portfolio, such as near-infrared (NIR) detectable colors for sorting and additives that enhance the performance of post-consumer recycled (PCR) plastics. This move ensures that local manufacturers have access to the necessary technical components to transition toward a circular economy.
-
-**Source:** [Read more](https://www.plastech.biz/en/news/Gabriel-Chemie-opens-new-sales-office-in-Nairobi-21695)

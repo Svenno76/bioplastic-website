@@ -33,5 +33,3 @@ Once the enzymes depolymerize the microplastics into their constituent monomers,
 The lab-scale results indicate that the engineered algae can remove up to 96% of microplastic contaminants from tested water samples within 48 hours. The harvested algae biomass, now rich in intracellular PHA, can be processed to extract the bioplastic for use in packaging and medical applications.
 
 The University of Missouri is currently exploring partnerships with municipal wastewater treatment facilities to pilot the technology in open-pond systems, marking a significant step toward scalable, biological plastic remediation.
-
-**Source:** [Read more](https://engineering.missouri.edu/2026/lab-grown-algae-removes-microplastics-from-water/)

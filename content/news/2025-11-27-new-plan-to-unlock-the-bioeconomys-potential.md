@@ -23,4 +23,3 @@ The strategy rests on **four pillars**: scaling innovation and investment, creat
 For the **bioplastics industry**, this strategy promises transformative impact by stimulating demand for bio-based chemicals and materials through potential content requirements and a European Bio-based Alliance for joint procurement. It accelerates scale-up of industrial biotechnology, reduces regulatory hurdles, and boosts funding via Horizon Europe and InvestEU, fostering cost-competitive alternatives to fossil plastics. With the bioeconomy already worth €2.7 trillion and employing 17 million, these measures enhance circularity, cut emissions, and strengthen EU leadership in sustainable polymers and textiles, aligning with 2030 climate goals.
 ---
 
-**Source:** [Read more](nan)

@@ -23,4 +23,3 @@ The program's emphasis on bioplastics and circular economy reflects industry tra
 
 ---
 
-**Source:** [Read more](https://www.aimplas.net/blog/aimplas-new-plastics-training-programme-professional-expert-title-legislation/)

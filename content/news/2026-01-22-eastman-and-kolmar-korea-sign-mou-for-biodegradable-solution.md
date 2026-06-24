@@ -25,5 +25,3 @@ By integrating these biopolymers, Kolmar Korea aims to reduce the environmental 
 Kolmar Korea serves as a key manufacturing hub for numerous major global beauty brands. This strategic alliance positions Eastman’s bioplastic solutions at the forefront of the influential "K-Beauty" sector, potentially accelerating the mass adoption of biodegradable alternatives across the industry.
 
 Both companies have expressed a commitment to regulatory compliance and sustainable stewardship. As governments worldwide implement stricter regulations regarding plastic waste and microplastic pollution, this partnership is designed to provide brand owners with immediate, scalable solutions that align with the circular economy. The companies expect to unveil prototypes utilizing the new material applications later this year.
-
-**Source:** [Read more](https://www.eastman.com/en/media-center/news-stories/2026/eastman-and-kolmar-sign-memorandum-of-understanding-to-advance-sustainable-innovation-in-personal-care)

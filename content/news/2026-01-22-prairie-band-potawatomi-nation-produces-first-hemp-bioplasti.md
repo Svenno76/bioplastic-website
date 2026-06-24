@@ -27,5 +27,3 @@ Simultaneously, the woody core of the plant, known as the hurd, is being diverte
 ## Building a Sustainable Future
 
 Tribal leadership views this development as a critical step toward environmental and economic self-sufficiency. By producing both bioplastics and sustainable housing materials, the Prairie Band Potawatomi Nation is addressing two global crises—plastic pollution and sustainable housing—using indigenous agricultural practices adapted for modern industrial applications. The launch positions Prairie Band Ag as a burgeoning leader in the Midwestern bioeconomy.
-
-**Source:** [Read more](https://www.kcur.org/environment-agriculture/2026-01-22/this-tribe-in-kansas-is-building-new-products-and-houses-with-its-hemp)

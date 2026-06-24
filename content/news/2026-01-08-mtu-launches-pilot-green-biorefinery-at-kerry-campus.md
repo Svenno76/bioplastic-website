@@ -32,5 +32,4 @@ As global demand for petroleum-based plastics declines due to environmental regu
 
 If successful, this model could be replicated across Europe, turning agricultural heartlands into engines of sustainable manufacturing. With this launch, MTU reaffirms its commitment to climate action, ensuring that the future of Irish industry is both ecologically resilient and economically competitive.
 
-**Source:** [Read more](https://www.mtu.ie/news/2026/mtu-launches-green-biorefinery/)
 **Contact** [James Gaffey, Co-Director](https://www.linkedin.com/in/jamesgaffey/)

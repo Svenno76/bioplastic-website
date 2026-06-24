@@ -27,5 +27,3 @@ By integrating Zeopore's highly accessible, mesoporized zeolite catalysts into t
 This breakthrough directly tackles critical bottlenecks in the plastics manufacturing industry: reducing reliance on virgin petrochemicals and establishing viable end-of-life pathways for complex, hard-to-recycle plastic waste streams. Because the resulting circular BTX molecules are chemically identical to their fossil-based counterparts, they serve as exact drop-in replacements for existing supply chains. 
 
 Manufacturers can seamlessly integrate these sustainable aromatics into the production of robust bioplastics and fully circular polymers without altering existing infrastructure. By lowering operational costs and increasing product yields, the Zeopore and BioBTX collaboration makes the large-scale commercialization of circular aromatics highly economically competitive.
-
-**Source:** [Read more](https://biobtx.com/zeopore-en-biobtx-verhogen-de-opbrengst-van-circulaire-aromaten-uit-afvalplastics-dankzij-doorbraak-in-katalysator-en-processynergie/)

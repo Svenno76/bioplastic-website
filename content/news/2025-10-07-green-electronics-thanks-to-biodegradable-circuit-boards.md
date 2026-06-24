@@ -27,5 +27,3 @@ This shift toward bioplastic substrates marks a significant departure from the "
 One of the primary hurdles in green electronics is ensuring that sustainable materials can withstand the rigors of industrial manufacturing, such as high-temperature soldering. Empa’s researchers have successfully refined their bioplastic composites to offer the thermal stability and mechanical strength required for modern hardware. 
 
 By integrating these biodegradable bases with recyclable conductive inks, the researchers are paving the way for a new generation of "green" gadgets. This technology is particularly promising for short-lived electronics, such as environmental sensors, medical patches, and consumer wearables, ensuring that the convenience of modern tech does not come at the cost of the planet’s health.
-
-**Source:** [Read more](https://www.news.admin.ch/en/newnsb/PNarXa4YOgU-dgyT9K_Og)

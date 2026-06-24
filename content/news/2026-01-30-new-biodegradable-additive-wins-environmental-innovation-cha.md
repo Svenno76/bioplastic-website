@@ -26,4 +26,3 @@ The victory at the pitch competition provides Team ColdForm with the capital nec
 
 As regulatory pressure mounts for packaging manufacturers to adopt circular economy principles, innovations like ColdForm’s additive represent a bridge between current material limitations and future sustainability goals. The university spin-out is now poised to seek partnerships with compounders to test the scalability of their solution in real-world manufacturing lines.
 
-**Source:** [BGA Editorial Team. (2026). Biodegradable Plastic Startup Wins Pitch Competition, Securing Startup Funding. Bizness Growth Association.](https://biznessgrowthassociation.com/resources/content/biodegradable-plastic-startup-wins-pitch-competition-securing-startup-funding)

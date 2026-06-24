@@ -27,5 +27,3 @@ Beyond its technical capabilities, the capacity expansion represents a strategic
 ## Looking Ahead
 
 As the facility advances toward completion, Acies Bio is actively engaging with industry partners to secure capacity reservations. Once fully operational, the plant is expected to serve as a vital scale-up hub, accelerating the time-to-market for novel, biodegradable plastics and reinforcing Europe's competitive edge in the global biomanufacturing landscape.
-
-**Source:** [Read more](https://www.aciesbio.com/acies-bio-progress-on-fermentation-capacity-expansion)

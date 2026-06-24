@@ -25,5 +25,3 @@ This methodology ensures that the new BMB polyurethane systems are chemically id
 To guarantee transparency and credibility, the allocation of renewable raw materials is audited and certified by independent third parties, specifically adhering to the REDcert2 standard. This certification provides verifiable proof to downstream customers that the required amount of fossil raw material has been replaced by renewable feedstock within the BASF production network.
 
 The new foam systems are targeted at high-performance applications. In the automotive sector, they offer a sustainable alternative for seating, headliners, and steering wheels. For the furniture industry, the systems provide high-resilience foams for mattresses and upholstery. By adopting these systems, companies can directly address their Scope 3 emissions targets, effectively decoupling their growth from fossil resource consumption while maintaining the durability and comfort associated with traditional polyurethanes.
-
-**Source:** [Read more](https://www.basf.com/us/en/media/news-releases/2026/02/P-US-26-07)

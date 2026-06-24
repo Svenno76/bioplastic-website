@@ -29,5 +29,3 @@ This method allows for the production of high-quality engineering plastics—suc
 This initiative aligns with Sony’s long-term "Road to Zero" environmental plan, which targets a zero environmental footprint throughout the life cycle of its products and business activities. By securing a stable, global supply of renewable polymers, Sony is addressing Scope 3 emissions—indirect emissions that occur in the value chain—which are notoriously difficult for hardware manufacturers to abate.
 
 The successful implementation of this supply chain sets a precedent for the wider electronics industry, demonstrating that renewable feedstocks can be scaled to meet the rigorous demands of global manufacturing logistics.
-
-**Source:** [Read more](https://www.neste.com/news/establishment-of-the-worlds-first-1-global-supply-chain-to-introduce-the-use-of-renewable-plastics-in-sonys-high-performance-products)

@@ -31,5 +31,3 @@ Lawson has begun the phased rollout of these materials in select beverage cups a
 Beyond material substitution, the "Bio & Circular" initiative lays the groundwork for future closed-loop recycling schemes. The companies are currently evaluating logistics for collecting used plastics at Lawson storefronts for chemical recycling, aiming to return waste plastic back into the raw material stream for Mitsui’s production facilities.
 
 This collaboration highlights the growing trend of chemical suppliers integrating directly with brand owners to accelerate the transition from linear to circular plastic economies.
-
-**Source:** [Read more](https://jp.mitsuichemicals.com/en/release/2026/2026_0123/index.htm)

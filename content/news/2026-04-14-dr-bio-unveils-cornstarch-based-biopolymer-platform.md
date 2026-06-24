@@ -27,5 +27,3 @@ A critical advantage of Dr Bio's new platform is its structural "drop-in" compat
 The platform is initially targeting the high-volume flexible packaging sector, with specialized commercial grades developed specifically for agricultural mulch films, food-contact wrappers, and retail carrier bags. The utilization of cornstarch—an abundant and highly renewable bio-feedstock—ensures a significantly lower carbon footprint compared to fossil-derived alternatives. 
 
 Furthermore, the material is certified to meet stringent industrial composting standards, guaranteeing it breaks down into harmless organic matter under controlled conditions. As regulatory pressures against single-use plastics continue to mount, Dr Bio’s scalable cornstarch platform positions the company to capture a substantial share of the accelerating bioplastics market.
-
-**Source:** [Read more](https://packagingeurope.com/news/avantium-reveals-start-up-and-sales-plans-for-fdca-flagship-plant/10842.article)

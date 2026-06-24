@@ -22,5 +22,3 @@ Under IG4 Sol’s anticipated strategic direction, market analysts expect Braske
 
 ## Future Outlook for Green Plastics
 While the regulatory green light clears the primary domestic obstacle, IG4 Sol must now meticulously execute the restructuring of outstanding shares and financial obligations. Once finalized, the corporate transition is expected to inject renewed confidence into the global bio-based materials market. Downstream partners relying on Braskem's bio-PE can anticipate robust, uninterrupted supply chains, further accelerating the plastics industry's broader transition toward commercially viable renewable alternatives.
-
-**Source:** [Read more](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2797970-brazil-watchdog-clears-ig4-path-to-braskem-control#:~:text=Market:%20Petrochemicals,Braskem%20shares%20securing%20those%20obligations.)

@@ -29,5 +29,3 @@ The integration of this specific manufacturing plant empowers RES to aggressivel
 ## Future Outlook for European Manufacturing
 
 This financial investment firmly positions RES as a formidable, vertically integrated player in the European bioplastics manufacturing sector. As regulatory frameworks across the European Union continue to favor bio-based packaging alternatives and implement stricter waste management protocols, domestic PLA production capabilities will become increasingly valuable. The newly acquired facility is expected to scale its compounding and synthesis operations to meet the rapidly surging continental demand for high-performance, lower-carbon-footprint materials.
-
-**Source:** [Read more](https://www.tipranks.com/news/company-announcements/res-acquires-unique-european-pla-bioplastics-plant-to-expand-circular-economy-chain)

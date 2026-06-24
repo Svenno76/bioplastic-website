@@ -29,5 +29,3 @@ By adopting biomass plastics, Chugai is addressing the "upstream" emissions in t
 ## Future Applications
 
 While the current announcement focuses on the successful development of the PTP technology, Chugai plans to conduct further verification tests to ensure mass producibility and long-term stability. The company intends to gradually implement this packaging solution across its product portfolio, potentially setting a new standard for eco-friendly packaging in the highly regulated pharmaceutical market.
-
-**Source:** [Read more](https://www.chugai-pharm.co.jp/english/sustainability/environment/resource/package.html)

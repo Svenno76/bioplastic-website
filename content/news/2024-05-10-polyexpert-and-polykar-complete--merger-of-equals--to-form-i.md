@@ -27,5 +27,3 @@ This synergy is expected to rapidly accelerate the development and commercializa
 ## Strategic Expansion and R&D Focus
 
 Beyond immediate production capabilities, the merger signals a strong operational commitment to sustainable research and development. The newly integrated company plans to leverage its combined technological assets to engineer the next generation of flexible films. By harmonizing Polykar's recycling operations with PolyExpert's film production, Invera Flexibles also enhances closed-loop manufacturing processes, reducing the overall carbon footprint of their product lines. Moving forward, the company aims to help consumer packaged goods (CPG) brands meet increasingly stringent environmental regulations through novel bioplastic formulations.
-
-**Source:** [Read more](https://www.inveraflexibles.com/)

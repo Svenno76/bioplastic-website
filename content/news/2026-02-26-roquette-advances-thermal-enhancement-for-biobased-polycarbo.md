@@ -31,5 +31,3 @@ The inclusion of isosorbide also improves the chemical resistance of the polymer
 ## A Scalable Path Forward
 
 This development marks a crucial step in the "plant-based chemistry" sector, moving beyond simple biodegradable packaging into durable, long-life applications. Roquette continues to refine the polymerization process to ensure that these high-Tg bio-polycarbonates can be processed on standard injection molding and extrusion equipment, facilitating easier adoption for manufacturers looking to reduce their carbon footprint without sacrificing performance.
-
-**Source:** [Read more](https://www.roquette.com/bioindustry/resources/improving-pet-performance-and-sustainability#:~:text=Conclusion,Download)

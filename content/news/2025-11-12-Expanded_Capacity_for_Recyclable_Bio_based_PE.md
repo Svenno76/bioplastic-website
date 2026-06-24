@@ -25,4 +25,3 @@ The company's green ethylene plant, located in the Petrochemical Complex of Triu
 
 The expanded capacity for 'I'm green' bio-based PE addresses the growing global demand for sustainable materials across various industries. This bio-based plastic is 100% recyclable within existing polyethylene recycling streams, making it a viable alternative for applications such as food and cosmetics packaging, reusable water bottles, footwear, toys, wires, and cables. Each ton of 'I'm green' bio-based polyethylene produced sequesters a substantial amount of CO2 from the atmosphere, with some grades offsetting the annual emissions equivalent to thousands of U.S. citizens. This commitment aligns with Braskem's broader goal to achieve carbon neutrality by 2050 and champion a circular economy.
 
-**Source:** [Read more](https://www.braskem.com.br/usa/news-detail/braskem-invests-in-capacity-expansion-and-partnerships-for-the-production-of-biobased-plastics)

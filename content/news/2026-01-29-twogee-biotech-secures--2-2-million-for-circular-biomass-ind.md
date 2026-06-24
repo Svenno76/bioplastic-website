@@ -31,5 +31,3 @@ The funds will also support the expansion of the company’s R&D team and the op
 ## A Step Toward Circular Chemistry
 
 As the European Union tightens regulations regarding carbon emissions and resource efficiency, the demand for bio-based building blocks is surging. Twogee Biotech aims to position itself as a key technology provider in this value chain, offering a scalable solution that turns waste into essential raw materials for the plastic and chemical industries.
-
-**Source:** [Read more](https://www.vestbee.com/insights/articles/german-biotech-firm-twogee-biotech-secures-2-2-m-seed-round)

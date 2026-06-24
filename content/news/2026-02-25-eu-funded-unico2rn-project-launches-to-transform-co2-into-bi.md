@@ -31,5 +31,3 @@ Avantium’s proprietary technology plays a central role in this workflow, aimin
 The project represents a strategic alignment between the EU’s Green Deal objectives and industrial innovation. By funding UNICO2RN, the EU is accelerating the transition toward a climate-neutral chemical sector. The consortium brings together expertise in catalysis, process engineering, and polymer science to bridge the "valley of death" between laboratory breakthroughs and industrial pilot plants.
 
 As the project progresses through 2026, the team will focus on optimizing the conversion units and validating the material properties of the resulting bioplastics to ensure they meet stringent market standards for durability and recyclability.
-
-**Source:** [Read more](https://unico2rn.eu/#:~:text=to%20Materials%20and%20Ingredients,converted%20into%20two%20valuable%20products:)

@@ -25,5 +25,3 @@ As global demand for sustainable packaging and bio-based polymers continues to s
 ## A New Era for Bioplastic Production
 
 The integration of the AMC business is expected to drive significant R&D synergies. Industry analysts predict that Technip Energies will leverage this new portfolio to refine its proprietary bioplastic production licenses, potentially lowering the cost of entry for new market players. This deal signals a shift in the industrial landscape, where engineering firms are increasingly becoming material science innovators to meet the world’s urgent need for high-performance, planet-friendly materials.
-
-**Source:** [Read more](https://www.ten.com/en/media/press-releases/technip-energies-completes-acquisition-ecovysts-advanced-materials-catalysts)

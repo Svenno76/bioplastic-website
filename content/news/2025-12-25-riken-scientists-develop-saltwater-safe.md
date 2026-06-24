@@ -30,4 +30,3 @@ To write an accurate news article as a professional business journalist, I would
 If you have access to a press release, research paper, or official announcement about this saltwater-safe development, please share those sources, and I'll be happy to write a comprehensive, factual article based on verified information.
 ---
 
-**Source:** [Read more](nan)

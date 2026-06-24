@@ -25,5 +25,3 @@ Industry analysts view this as a proactive measure to future-proof SABIC’s bus
 ## Looking Ahead to a Net-Zero Future
 
 This restructuring underscores SABIC’s commitment to reaching net-zero emissions by 2050. By shedding carbon-intensive assets and doubling down on chemical recycling and bio-polypropylene production, the company is setting a new standard for the industry. "We are transforming from a volume-driven chemicals company into a value-driven solutions provider," a spokesperson noted. As the European market continues to prioritize the circular economy, SABIC’s leaner, greener structure is designed to lead the charge in the next generation of plastic innovation.
-
-**Source:** [Read more](https://www.sabic.com/en/news/49279-sabic-optimizes-portfolio-long-term-sustainable-growth)

@@ -31,5 +31,3 @@ The updated facility is expected to improve energy efficiency in the polymerizat
 ## Meeting 2026 Regulatory Demands
 
 As European regulations regarding packaging waste and recyclability tighten in 2026, the demand for high-purity, bio-based, and chemically recycled polyolefins has surged. This investment positions Borealis to supply the automotive and packaging sectors with the necessary volumes of circular PP required to meet both regulatory compliance and voluntary corporate sustainability goals.
-
-**Source:** [Read more](https://www.borealisgroup.com/news/borealis-invests-eur-49-million-in-burghausen-germany-to-accelerate-design-for-circularity)

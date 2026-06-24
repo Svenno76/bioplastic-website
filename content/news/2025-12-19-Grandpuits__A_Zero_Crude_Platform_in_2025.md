@@ -24,5 +24,3 @@ The biorefinery at Grandpuits, with a processing capacity of 400,000 metric tons
 ## Impact
 
 The Grandpuits project is a cornerstone of TotalEnergies' strategy to become a multi-energy company and achieve carbon neutrality by 2050. By diversifying into biofuels, circular polymers, and renewable energies, the platform will significantly contribute to decarbonizing sectors such as aviation and packaging. The conversion also ensures the maintenance of 250 jobs at the site, reflecting the company's dedication to its commitments. The integration of a CO2 capture unit further enhances the platform's environmental benefits, reducing its carbon footprint by over 110,000 tons of CO2 per year. This comprehensive transformation positions Grandpuits as a leading example of industrial transition towards a sustainable, zero-crude future.
-
-**Source:** [Read more](https://totalenergies.com/company/projects/biomass-biogas/grandpuits-platform-biofuels-france)

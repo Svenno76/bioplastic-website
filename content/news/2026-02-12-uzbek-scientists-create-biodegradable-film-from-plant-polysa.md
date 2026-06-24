@@ -31,5 +31,3 @@ Furthermore, the film exhibits high water solubility. When immersed, it dissolve
 ## UV Protection and Market Potential
 
 In addition to its antimicrobial and biodegradable traits, the polysaccharide-based film effectively blocks ultraviolet (UV) radiation. This protective barrier is essential for preventing the photo-oxidation of light-sensitive foods and pharmaceuticals. By combining UV resistance with active pathogen protection, the Uzbek Academy of Sciences aims to provide a competitive, eco-friendly alternative to conventional polyethylene and polypropylene films currently dominating the Central Asian market.
-
-**Source:** [Read more](https://daryo.uz/en/zawgYHvDg/)

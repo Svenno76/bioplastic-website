@@ -29,5 +29,3 @@ These characteristics are essential for the food packaging sector, where moistur
 The launch of Biovalsa aligns with the European Green Deal and broader global efforts to transition to a circular economy. By creating a localized supply chain where agricultural "trash" becomes industrial "treasure," Aimplas is demonstrating that sustainability and economic viability can go hand-in-hand.
 
 As the industry moves toward the 2030 targets for plastic recyclability and bio-content, projects like Biovalsa provide the technological foundation necessary for manufacturers to pivot. This research marks a pivotal moment for Aimplas as it continues to lead the charge in bio-based material innovation.
-
-**Source:** [Read more](https://www.aimplas.net/blog/new-processes-manufacture-sustainable-bioplastics-agricultural-waste-pruning-residues/)

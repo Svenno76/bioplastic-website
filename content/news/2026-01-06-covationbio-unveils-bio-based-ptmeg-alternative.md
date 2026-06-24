@@ -23,4 +23,3 @@ BioPTMEG targets high-performance applications including spandex, polyurethanes,
 
 ---
 
-**Source:** [Read more](https://covationbio.com/fileadmin/user_upload/Editor/documents/CovationBio_PR_ENG_V2_04012025.pdf)

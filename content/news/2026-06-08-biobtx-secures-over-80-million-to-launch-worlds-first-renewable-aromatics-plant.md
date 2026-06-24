@@ -25,4 +25,3 @@ Plastic waste that would otherwise be incinerated or landfilled gets upgraded to
 
 BioBTX has been developing the technology since 2012, initially at pilot scale. With the €80 million, it's now heading into commercialization. If the full-scale plant works, the company plans to license the technology globally. The goal: systematically shift the chemical industry to renewable feedstocks.
 
-**Source:** [BioBTX](https://biobtx.com/biobtx_secures/)

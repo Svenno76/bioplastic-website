@@ -23,5 +23,4 @@ A key benefit of the MICROFAGO project is its ability to improve biodegradation 
 
 The MICROFAGO project is set to significantly improve the efficiency of bioplastics biodegradation, leading to more effective and sustainable waste treatment practices. By providing a safe and efficient method, the initiative offers practical advantages for waste management companies, enabling them to enhance bioplastics breakdown without substantial capital investment in new facilities. The technology will be rigorously tested across laboratory, pilot, and industrial scales, with results compared against established biodegradation standards. Ultimately, this project strongly supports the principles of a circular economy by facilitating the organic recovery of bioplastic waste.
 
-**Source:** [Read more](https://www.aimplas.net/blog/microorganisms-viruses-accelerate-biodegradation-bioplastics/)
 **Contact** [Giovanni Gadaleta, Researcher at AIMPLAS](https://www.linkedin.com/in/giovanni-gadaleta/)

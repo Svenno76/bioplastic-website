@@ -25,5 +25,3 @@ The FEED phase is a critical juncture in industrial development. During this sta
 The Texas project represents a significant investment in the burgeoning chemical recycling sector. As global demand for recycled content in packaging and industrial applications rises, technologies that can handle contaminated or multi-layered plastics are becoming essential. Abundia’s approach seeks to divert significant tonnage from landfills, transforming what is currently an environmental liability into a commercially viable resource.
 
 For Abundia, partnering with an established firm like Burns & McDonnell mitigates execution risk and accelerates the timeline for bringing these sustainable fuels and chemicals to market. The completion of the FEED package is expected later this year, paving the way for a final investment decision and subsequent construction.
-
-**Source:** [Read more](https://www.globenewswire.com/news-release/2026/02/03/3230935/0/en/Abundia-Global-Impact-Group-Appoints-Burns-McDonnell-as-Front-End-Engineer-for-Waste-Plastics-to-Fuels-Facility.html)

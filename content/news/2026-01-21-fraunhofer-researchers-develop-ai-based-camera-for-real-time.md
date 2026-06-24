@@ -25,5 +25,3 @@ This capability is particularly vital for the bioplastics sector. Distinguishing
 A defining feature of this innovation is its integration of "Edge AI." The system processes spectral data directly on the device rather than transmitting it to a cloud or remote server. This localized processing significantly reduces latency, allowing for instant decision-making on fast-moving conveyor belts or within handheld mobile analyzers.
 
 According to the research team, the compact design allows for easy integration into existing industrial setups. By combining a tuneable micro-electro-mechanical system (MEMS) scanner with advanced machine learning algorithms, the camera offers a cost-effective and energy-efficient alternative to bulky laboratory spectrometers. This development marks a significant step forward in automating the lifecycle management of complex polymer mixtures.
-
-**Source:** [Read more](https://www.ipms.fraunhofer.de/en/press-media/press/2026/Compact-AI-based-hyperspectral-camera.html)

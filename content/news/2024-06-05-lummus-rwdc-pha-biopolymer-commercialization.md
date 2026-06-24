@@ -35,4 +35,3 @@ PHA is a biodegradable and environmentally safe alternative to petroleum-based p
 
 PHA is one of the most promising biopolymers because it biodegrades in soil, freshwater, and marine environments — unlike most other bioplastics. Commercial-scale production has been the key bottleneck. With Lummus' process engineering expertise and financial backing, RWDC is positioned to bring PHA to global markets at scale.
 
-**Source:** [RWDC Industries](https://www.rwdc-industries.com/lummus-rwdc-reinforce-commitment)

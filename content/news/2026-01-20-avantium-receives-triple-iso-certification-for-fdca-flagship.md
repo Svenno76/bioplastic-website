@@ -29,5 +29,3 @@ FDCA is the essential building block for PEF (polyethylene furanoate), a 100% pl
 As global regulations on single-use plastics tighten, the Delfzijl facility serves as a blueprint for the future of the circular economy. The ISO 14001 certification specifically highlights Avantium’s success in integrating sustainable practices into its daily operations, ensuring that the production of bio-based materials does not come at the cost of environmental health.
 
 With these certifications in place, Avantium is well-positioned to accelerate the commercial roll-out of PEF, offering a viable, high-performance alternative to fossil-fuel-based plastics on the global stage.
-
-**Source:** [Read more](https://newsroom.avantium.com/avantium-receives-triple-iso-certification/)

@@ -24,4 +24,3 @@ BOC's proprietary vacuum press forming technology shapes renewable fibers from v
 This innovation accelerates the bioplastics shift by replacing plastic in nutraceuticals, cosmetics, and beverages, reducing ocean plastic pollution—where caps rank among top marine debris—and cutting carbon footprints. Great Earth, an early adopter, swapped all supplement jars to BOC's NutraCap 38-400, slashing plastic use by 2.6 tons annually while maintaining seal integrity and shelf appeal. With customizable designs enhancing brand differentiation, BOC's caps support 90% fiber recycling goals by 2030, aligning profitability with sustainability demands.
 ---
 
-**Source:** [Read more](nan)

@@ -31,5 +31,3 @@ The BMB grade retains the exceptional mechanical properties that the Ultrason li
 ## Target Industries and Applications
 
 The introduction of this bio-attributed PPSU is highly relevant for demanding and tightly regulated sectors. In the medical and food handling industries, the material's ability to withstand thousands of cycles of superheated steam sterilization makes it ideal for reusable surgical instruments, plumbing fittings, and consumer goods such as baby bottles. Furthermore, its lightweight and fire-resistant characteristics continue to drive efficiency and safety in aerospace and automotive manufacturing.
-
-**Source:** [Read more](https://www.basf.com/global/en/media/news-releases/2026/04/p-26-060.html)

@@ -29,5 +29,3 @@ This strategic collaboration provides SWFT Labs with continued access to Stony B
 ## Shaping the Circular Bioeconomy
 
 As global regulatory pressures and consumer demands mount against single-use petroleum plastics, the successful industrialization of cellulose nanomaterials represents a vital step toward a circular bioeconomy. These advanced bio-based materials offer exceptional barrier properties, mechanical strength, and biodegradability, making them ideal drop-in replacements for traditional polymers. By solidifying this partnership, Stony Brook and SWFT Labs aim to bring scalable, bio-based solutions to market, reducing global reliance on fossil fuels.
-
-**Source:** [Read more](https://news.stonybrook.edu/university/stony-brook-swft-labs-expand-partnership-to-industrialize-sustainable-cellulose-nanomaterials-as-alternatives-to-plastics-and-petroleum-based-materials/#:~:text=Through%20the%20Nitro%2DOxidation%20Process,world%20adoption%2C%E2%80%9D%20Clausen%20added.)

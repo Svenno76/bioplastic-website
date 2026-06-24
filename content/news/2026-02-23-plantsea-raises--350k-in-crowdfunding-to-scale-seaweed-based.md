@@ -31,5 +31,3 @@ Plantsea’s alternative offers a bio-benign solution. Their material is derived
 ## Next Steps for Plantsea
 
 With the £350,000 secured, Plantsea is set to expand its technical team and refine its supply chain logistics to ensure a steady intake of raw seaweed biomass. The company is reportedly entering advanced testing phases with several FMCG partners looking to integrate the seaweed film into their product lines before the end of the year.
-
-**Source:** [Read more](https://europe.republic.com/plantsea)

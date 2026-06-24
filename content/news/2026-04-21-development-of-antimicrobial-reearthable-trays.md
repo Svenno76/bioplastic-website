@@ -25,5 +25,3 @@ Unlike conventional passive packaging, which merely acts as a physical barrier b
 ## Combating the Global Food Waste Crisis
 
 The introduction of the REearthable Trays arrives at a critical time when agricultural spoilage and food waste are major global concerns. By prolonging shelf life, retailers can keep products on the shelves longer, and consumers have more time to safely consume their purchases. Furthermore, because the trays are "REearthable," they are formulated to be fully compostable. Metalchemy's design ensures that the silver additives do not compromise the bioplastic's ability to break down under commercial composting conditions, offering a truly circular lifecycle. As regulatory pressures mount against conventional single-use plastics, innovations like the REearthable Trays provide a viable, high-performance alternative.
-
-**Source:** [Read more](https://www.metalchemy.tech/blog/active-packaging-the-future-of-food-waste-reduction#:~:text=Silver%20is%20renowned%20for%20its,inhibit%20the%20growth%20of%20bacteria.)

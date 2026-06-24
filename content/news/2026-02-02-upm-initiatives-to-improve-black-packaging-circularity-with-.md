@@ -29,5 +29,3 @@ This functional filler is designed to integrate seamlessly into existing polymer
 The launch targets the premium packaging sector, where black is frequently used to denote luxury and quality in electronics, cosmetics, and food products. Previously, brands faced a dilemma: compromise on brand identity by abandoning black packaging or accept that their packaging would not be recycled.
 
 With this development, UPM enables manufacturers to maintain the high-end aesthetic of black packaging while closing the loop on material circularity. This aligns with impending regulatory frameworks across the EU and global markets requiring higher recyclability rates and recycled content in consumer packaging.
-
-**Source:** [Read more](https://www.upmbiochemicals.com/about-upm-biochemicals/news-and-stories/2025/12/upm-launches-upm-circular-renewable-black--the-first-bio-based-nir-detectable-carbon-negativepigment-for-premium-packaging/)

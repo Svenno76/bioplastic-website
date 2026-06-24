@@ -25,5 +25,3 @@ Central to the product's performance is the inclusion of Cortec’s proprietary 
 The transition to biobased acrylics addresses growing regulatory pressures regarding Volatile Organic Compounds (VOCs). This water-borne system significantly lowers VOC emissions compared to solvent-based counterparts, aligning with stricter environmental standards in the EU and North America.
 
 Targeted applications for the new coating include heavy equipment manufacturing, structural steel preservation, and OEM parts storage. The product is designed to serve as a permanent topcoat that withstands UV exposure and salt spray, effectively bridging the performance gap between traditional industrial paints and eco-friendly alternatives. This release underscores the industry's shift toward high-performance bio-materials that meet USDA BioPreferred® standards for renewable content.
-
-**Source:** [Read more](https://www.cortecvci.com/product-release-cortec-steps-into-the-future-with-biobased-acrylic-anticorrosion-coating/)

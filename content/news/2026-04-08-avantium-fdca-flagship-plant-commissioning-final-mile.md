@@ -84,4 +84,3 @@ Meanwhile, the broader bioplastics sector is navigating headwinds: Futerro has d
 
 ---
 
-**Source:** [Avantium Newsroom](https://newsroom.avantium.com/avantium-provides-an-update-on-the-start-up-of-its-fdca-flagship-plant/)

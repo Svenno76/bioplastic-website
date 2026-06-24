@@ -29,5 +29,3 @@ EnviroWay, a Saskatoon-based manufacturer of eco-friendly cleaning solutions, pr
 ## Advancing the Circular Economy
 
 This partnership highlights the potential of regional supply chains in the bioplastics sector. By sourcing feedstock from local agriculture and processing it within the province, the initiative minimizes the carbon footprint associated with raw material transportation. The success of this prototype phase sets the stage for scaling production, offering a blueprint for how agricultural hubs can transition into centers for sustainable materials manufacturing.
-
-**Source:** [Read more](https://saskpolytech.ca/news/posts/2026/turning-flax-and-hemp-crops-into-biodegradable-plastic.aspx)

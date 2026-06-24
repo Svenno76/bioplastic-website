@@ -33,5 +33,3 @@ Unlike traditional bioplastics that often compete with food sources (such as cor
 Scaling from gram-scale lab samples to multi-ton production is historically the "valley of death" for material science startups. By achieving this volume, Bloom can now provide substantial quantities of material to industrial partners for molding, extrusion, and film-blowing trials.
 
 The company aims to continue scaling its operations, with plans to integrate its technology into existing biorefineries, thereby creating a seamless supply chain for carbon-neutral packaging, textiles, and fragrances derived exclusively from plant matter.
-
-**Source:** [Read more](https://actu.epfl.ch/news/bloom-biorenewables-develops-biomass-based-plastic/#:~:text=Thanks%20to%20technology%20developed%20by,closer%20to%20the%20manufacturing%20stage.)

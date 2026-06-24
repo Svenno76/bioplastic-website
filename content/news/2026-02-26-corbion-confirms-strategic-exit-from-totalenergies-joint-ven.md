@@ -27,5 +27,3 @@ The Dutch biochemical company will continue to serve as a primary supplier of la
 The TotalEnergies Corbion venture established itself as a technology leader with its world-class PLA production facility in Rayong, Thailand, and the development of the Grandpuits plant in France. The Luminy® PLA portfolio, known for high-heat resistance and compostability, will transition fully under the TotalEnergies umbrella.
 
 For TotalEnergies, taking full ownership signals a reinforced commitment to its biopolymer ambitions and broader sustainability targets. The energy giant is now positioned to integrate the PLA business more tightly into its petrochemicals and refining division, leveraging its scale to manage the growing global demand for biobased alternatives to fossil-fuel plastics. The transition ensures that while the ownership structure changes, the supply of bioplastics to the packaging and durable goods sectors remains uninterrupted.
-
-**Source:** [Read more](https://www.corbion.com/-/media/corbion/files/quarterly/2025/2025-04-23_corbion_press-release_q1-2025.pdf)

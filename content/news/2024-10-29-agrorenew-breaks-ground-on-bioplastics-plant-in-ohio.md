@@ -24,4 +24,3 @@ AgroRenew’s entry into the Ohio market signals a notable expansion of domestic
 
 ---
 
-**Source:** [Read more](https://www.plasticsnews.com/news/agrorenew-breaks-ground-bioplastics-plant-converts-ag-waste)

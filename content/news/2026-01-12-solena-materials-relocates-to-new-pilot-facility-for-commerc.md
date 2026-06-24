@@ -23,5 +23,3 @@ The new pilot facility serves as a vital bridge between the lab and full-scale c
 The relocation is timed to support an ambitious roadmap leading to a 2028 commercial product launch. By scaling production now, Solena can provide substantial quantities of material for industrial wear-testing and certification. This phase is vital for proving that protein-based materials can meet the rigorous durability standards of the modern textile market while remaining commercially viable.
 
 As global regulations on synthetic waste and carbon emissions tighten, Solena’s expansion places them at the forefront of the burgeoning bio-economy. With the new facility now operational, the company is one step closer to making high-performance, planet-positive textiles a mainstream reality for consumers worldwide.
-
-**Source:** [Read more](https://www.solena-materials.com/news-articles/solena-materials-relocates-to-scale-production-of-ai-designed-protein-fibres-ahead-of-2028-product-launch)

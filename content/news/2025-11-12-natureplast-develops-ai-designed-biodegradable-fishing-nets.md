@@ -24,4 +24,3 @@ NaturePlast’s new bioplastic filaments are designed using AI-driven digital mo
 This advancement addresses the critical issue of plastic pollution in marine environments by offering biodegradable alternatives to conventional synthetic nets, which often persist for decades. NaturePlast’s AI-designed bioplastics support circular economy principles and contribute to reducing ghost fishing and microplastic contamination. Moreover, the company’s work strengthens regional industrial innovation in Normandy and aligns with France’s national priorities for reindustrialization, decarbonization, and digitalization, positioning NaturePlast as a key player in the sustainable materials industry.
 ---
 
-**Source:** [Read more](https://roboticsandautomationnews.com/2025/11/12/technology-company-natureplast-invents-biodegradable-plastic-fishing-nets/96528/)

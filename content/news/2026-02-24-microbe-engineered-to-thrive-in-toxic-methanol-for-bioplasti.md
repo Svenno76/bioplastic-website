@@ -29,5 +29,3 @@ The new strain demonstrates a robust tolerance level significantly higher than w
 This development opens the door for a new generation of "gas-to-plastic" technologies. By decoupling bioplastic production from agricultural land use (sugar and corn) and instead utilizing industrial byproducts, manufacturers can achieve a lower carbon footprint and reduced raw material costs.
 
 The research team is now focusing on optimizing the fermentation process for pilot-scale testing, aiming to transfer the technology to industrial partners for mass production.
-
-**Source:** [Read more](https://www.dongascience.com/en/news/76447)

@@ -31,5 +31,3 @@ Instead of treating this material as industrial waste, BCML’s new processing f
 This aggressive investment signals a major shift in India's materials market. Historically reliant on imported biopolymers to meet local demand, India’s domestic manufacturing capabilities are receiving a critical boost through BCML's initiative. The integrated production model—starting from raw sugarcane extraction to lactic acid fermentation and finally PLA polymerization—positions Balrampur Chini Mills Ltd as a formidable new player in the global bioplastic industry. 
 
 By closing the loop on agricultural feedstocks and effectively managing industrial byproducts, the company is setting a new benchmark for bio-based manufacturing in South Asia.
-
-**Source:** [Read more](https://www.thehindubusinessline.com/economy/agri-business/balrampur-chini-mills-to-invest-160-cr-in-lactogypsum-processing-plant/article70905281.ece/amp/)

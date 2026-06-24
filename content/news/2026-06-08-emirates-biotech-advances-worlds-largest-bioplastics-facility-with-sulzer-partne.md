@@ -29,4 +29,3 @@ The facility will produce PLA from food waste, sourced through the European CIRC
 
 The project fits squarely into the UAE's strategy to build domestic bioplastics production and reduce dependence on imported materials. It also aligns with the national sustainability and circular economy agenda.
 
-**Source:** [Emirates Biotech](https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip)

@@ -29,5 +29,3 @@ Unlike traditional petroleum-based nylons or polycarbonates, these advanced bio-
 Beyond raw material performance, Arkema’s presence at MIDO 2026 underscores a shifting paradigm in eyewear manufacturing. Industrial designers are increasingly searching for resins that enable complex aesthetic geometries while supporting circular economy principles. Arkema’s transparent and opaque bioplastic solutions boast high bio-based carbon content and integrate seamlessly into existing injection molding infrastructure. 
 
 By supplying easily processable, renewable alternatives, Arkema empowers global eyewear brands to transition smoothly away from fossil-based plastics. The MIDO exhibition serves as a critical platform for the company to connect with designers and compounders, reinforcing its technical leadership in driving material transitions across the consumer goods sector.
-
-**Source:** [Read more](https://www.arkema.com/global/en/media/newslist/news/global/products/2026/20260122-arkema-showcases-innovative-eyewear-solutions-at-mido/)

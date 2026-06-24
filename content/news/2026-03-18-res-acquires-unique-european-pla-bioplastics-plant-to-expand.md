@@ -27,5 +27,3 @@ By taking ownership of this specialized facility, RES is actively closing the lo
 The European bioplastics market continues to experience surging demand, driven by stringent EU regulations targeting single-use plastics and promoting packaging circularity. Operating a dedicated PLA facility directly on the continent uniquely positions RES to meet this localized industrial demand, drastically reducing the supply chain carbon footprint associated with importing biopolymers from traditional international hubs.
 
 This acquisition not only bolsters European self-sufficiency in bio-based manufacturing but also establishes RES as a formidable leader bridging the gap between bioplastic production and end-of-life recycling. As the facility fully integrates into RES's broader portfolio, the regional packaging and manufacturing sectors can anticipate a significantly more resilient, transparent, and circular supply chain for high-performance PLA materials.
-
-**Source:** [Read more](https://www.tipranks.com/news/company-announcements/res-acquires-unique-european-pla-bioplastics-plant-to-expand-circular-economy-chain)

@@ -29,5 +29,3 @@ The 2025 Polyurethane Innovation Award validates not only the environmental cred
 ## Looking Ahead
 
 This industry recognition serves as a strong catalyst for Algenesis Labs as the company seeks to scale its manufacturing capabilities and expand into new consumer and industrial markets. As global regulatory pressures mount against persistent plastics and major brands actively seek decarbonized material supply chains, Soleic® is positioned to play a crucial role in the broader transition toward a circular materials economy.
-
-**Source:** [Read more](https://www.linkedin.com/posts/algenesis-labs_sustainability-climatetech-innovation-activity-7440294745073152001-63Ki?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFG_vIBzFv5aF40lr4eTOh5-XYjgcxW4wc)

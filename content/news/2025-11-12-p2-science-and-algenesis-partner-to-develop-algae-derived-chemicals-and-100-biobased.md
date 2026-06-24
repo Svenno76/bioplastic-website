@@ -26,4 +26,3 @@ The partnership leverages P2 Science's proprietary **PIOz™ (Process Intensifie
 This partnership accelerates the transition toward sustainable materials by establishing a new chemical and polymer supply chain for biodegradable polyurethanes suitable for footwear, apparel, coatings, adhesives, and consumer products. The resulting materials deliver high performance without microplastic generation, supporting environmental remediation efforts. Both companies are committed to scaling production capacity to make plant-derived chemicals and bio-polyurethanes widely accessible to global markets. The collaboration represents a significant advancement in eliminating petroleum-based carbon from everyday products while maintaining performance standards.
 ---
 
-**Source:** [Read more](nan)

@@ -25,5 +25,3 @@ The material creates a synergy between chitin, the second most abundant organic 
 This breakthrough relies on the abundant availability of organic waste streams. Chitin can be extracted cheaply from the food industry, particularly from seafood waste and fungal fermentation byproducts. The resulting material is not only biodegradable but also exhibits mechanical properties comparable to rigid synthetic plastics.
 
 The unique "wet-strengthening" capability suggests immediate applications in sectors where moisture resistance is paramount, such as food packaging, agricultural films, and hygiene products. This development marks a pivotal step toward circular economy models, transforming low-value organic waste into high-performance, structurally sound alternatives to petrochemical plastics.
-
-**Source:** [Read more](https://www.pcb.ub.edu/en/ibec-develops-a-biological-material-that-becomes-stronger-when-wet-and-could-replace-plastics/#:~:text=A%20new%20study%20led%20by%20the%20Institute,actually%20becomes%20stronger%20in%20contact%20with%20water.)

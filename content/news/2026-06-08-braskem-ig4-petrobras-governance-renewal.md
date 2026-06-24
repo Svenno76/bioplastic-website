@@ -37,4 +37,3 @@ As part of this new stage, Braskem has assembled an executive leadership team wi
 
 Braskem is one of the world's largest producers of bio-based polyethylene (made from sugarcane ethanol) and a key player in the bioplastics industry. The governance renewal signals a commitment to financial stability and strategic focus — critical factors for the company's continued role in the sustainable plastics transition.
 
-**Source:** [Braskem Press Release](https://www.braskem.com/europe/news-detail/braskem-announces-new-stage-with-ig4-and-petrobras-together-to-strengthen-governance-and-renewal-of-executive-leadership)

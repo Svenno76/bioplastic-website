@@ -29,5 +29,3 @@ Under Waldrop’s guidance, Tiderock is expected to accelerate its investment in
 ## Future Outlook
 
 As CEO, Waldrop will oversee capital allocation and strategic partnerships aimed at fortifying Tiderock's position in the green economy. The company anticipates that this leadership consolidation will streamline decision-making, allowing Tiderock to react swiftly to emerging opportunities in the biopolymer and sustainable construction markets throughout the fiscal year.
-
-**Source:** [Read more](https://finance.yahoo.com/news/tiderock-companies-announces-promotion-william-133000345.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALx26EmhX_7kFVUXO-LC0PXeAYwKzMUeqO61eHDyarNfSb4SQl_B9yBGMOuEFzpYAlR4Izb1a46Bth8vCSJ7WcLC_yDXJtqR9KaIVbEzitqd_obvOnQXeVmmojiD5WsSuBXY1HNp7PcSOi3mH_5_kbPAIIdvt3BxSegcMyYbBp4_)

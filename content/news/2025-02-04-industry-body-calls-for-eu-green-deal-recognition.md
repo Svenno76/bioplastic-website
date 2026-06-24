@@ -29,5 +29,3 @@ The call to action also spotlights the specific utility of certified compostable
 ## Creating a Stable Investment Environment
 
 The association warns that without clear recognition and a supportive policy framework, Europe risks stalling innovation in the sector. EUBP calls for a consistent regulatory environment that provides planning security for investors and manufacturers. By officially recognizing the bioplastics industry as an enabler of the Green Deal, the EU can unlock necessary investments in local production capacities and research, ensuring Europe remains a leader in sustainable material science.
-
-**Source:** [Read more](https://www.european-bioplastics.org/european-bioplastics-call-to-recognise-the-role-of-the-bioplastics-industry-as-an-enabler-to-achieve-the-european-green-deal-transformation/)

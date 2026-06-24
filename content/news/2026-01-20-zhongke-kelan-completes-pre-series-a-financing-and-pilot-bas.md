@@ -29,5 +29,3 @@ By optimizing these processes in a pilot environment, Zhongke Kelan aims to lowe
 As carbon neutrality targets become more stringent worldwide, the demand for high-performance bioplastics is surging. Zhongke Kelan is positioning itself at the forefront of this shift by focusing on materials that do not compromise on durability or versatility while offering a significantly lower carbon footprint.
 
 With the fresh capital injection and a physical base nearing operational readiness, Beijing Zhongke Kelan is well-equipped to lead the charge in sustainable chemistry, providing the industrial sector with the tools needed to phase out traditional plastics and embrace a circular economy.
-
-**Source:** [Read more](https://eu.36kr.com/en/p/3647515509706372)

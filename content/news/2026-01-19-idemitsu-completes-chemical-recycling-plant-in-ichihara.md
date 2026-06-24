@@ -25,5 +25,3 @@ Idemitsu has positioned this facility as a cornerstone of its "CNX Center" (Carb
 The Ichihara plant addresses a critical gap in Japan’s waste management infrastructure. Historically, a significant portion of mixed plastic waste in the region has been subjected to thermal recovery (incineration) due to contamination or material complexity. Idemitsu’s chemical recycling process breaks down these polymer chains, allowing mixed and multi-layer plastics to be reclaimed as virgin-quality grade materials.
 
 This development aligns with the company's broader roadmap to achieve carbon neutrality by 2050. Idemitsu plans to progressively increase the processing capacity of the site and expand the procurement of waste plastic feedstock through municipal and industrial partnerships. Commercial operations are expected to ramp up immediately following the final commissioning phase, supplying the market with sustainable olefins and derivatives later this year.
-
-**Source:** [Read more](https://www.argusmedia.com/de/news-and-insights/latest-market-news/2777380-japan-s-idemitsu-builds-chemical-recycling-plant)

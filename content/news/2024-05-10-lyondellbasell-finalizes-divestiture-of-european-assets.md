@@ -28,4 +28,3 @@ For the broader European polymer market, this divestiture signals a continued in
 
 LyondellBasell’s strategic retreat from select traditional chemical production positions the firm to better supply the surging demand for bio-attributed plastics. Moving forward, the industry can expect the company to double down on renewable feedstock sourcing, advanced biopolymer compounding, and next-generation recycling capabilities across its remaining core European hubs.
 
-**Source:** [Read more](https://investors.lyondellbasell.com/news/news-details/2026/LyondellBasellcompletes-saleofselectEuropeanstrategic-assessmentassets/default.aspx#:~:text=ROTTERDAM%2C%20Netherlands%2C%20May%2001%2C,in%20the%20company's%20European%20strategic)

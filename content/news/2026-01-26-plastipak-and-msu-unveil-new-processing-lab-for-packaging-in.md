@@ -21,5 +21,3 @@ The Plastipak Processing Lab is designed to eliminate the gap between theoretica
 Beyond workforce development, the lab serves as a vital hub for research into next-generation materials. With the packaging sector moving aggressively toward circular models, the facility will facilitate advanced testing of post-consumer recycled (PCR) resins and emerging bio-based polymer formulations.
 
 The processing capabilities allow researchers to simulate high-volume production cycles, analyzing how alternative materials perform compared to virgin petrochemical resins. This data is essential for validating the commercial viability of bioplastics and high-content rPET containers, ensuring that sustainable alternatives maintain necessary structural integrity and barrier properties. This collaboration underscores Plastipak’s commitment to driving innovation through academic partnership, ensuring the next generation of packaging engineers is equipped to lead the transition to a lower-carbon economy.
-
-**Source:** [Read more](https://www.canr.msu.edu/news/plastipak-processing-lab-unveiled-at-the-msu-school-of-packaging)

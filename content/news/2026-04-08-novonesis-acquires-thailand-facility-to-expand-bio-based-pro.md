@@ -27,5 +27,3 @@ The newly acquired plant will undergo immediate modernization to integrate Novon
 ## Meeting Surging Market Demand
 
 Formed from the historic merger of Novozymes and Chr. Hansen, Novonesis is actively scaling its infrastructure to support the transition away from petroleum. As consumer brands and regulatory frameworks across Asia push for non-fossil material alternatives, the demand for high-performance bio-based inputs is surging. This new facility positions Novonesis to meet that localized demand head-on, delivering technical biological innovations directly to an Asian market transitioning heavily toward circular material economies. 
-
-**Source:** [Read more](https://worldbiomarketinsights.com/novonesis-acquires-thailand-facility-expansion/)

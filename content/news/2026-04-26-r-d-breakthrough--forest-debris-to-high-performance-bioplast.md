@@ -24,5 +24,3 @@ The resulting bioplastic exhibits exceptional mechanical properties, including h
 
 ## Paving the Way for Commercialization
 By utilizing non-arable biomass rather than food crops like corn or sugarcane, the institute's breakthrough strictly avoids the "food versus fuel" debate associated with earlier biopolymer generations. As the National Institute of Forest Science moves toward scaling this technology, the focus will shift toward optimizing continuous flow production and establishing pilot facilities. If successfully commercialized, this low-energy pathway could drastically lower the premium price of high-performance bioplastics, accelerating the global transition toward a circular bioeconomy.
-
-**Source:** [Read more](https://www.koreatimes.co.kr/southkorea/20260421/low-energy-path-to-bioplastics-emerges-from-discarded-wood)

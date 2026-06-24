@@ -25,5 +25,3 @@ The push for strategic recognition is heavily tied to supply chain resilience. C
 ## A Blueprint for Industrial Competitiveness
 
 Lenzing’s advocacy highlights a broader industry pivot: environmental targets must be coupled with robust industrial competitiveness. The company warns that without decisive policy intervention to protect and promote the European bio-economy, the continent risks falling behind global competitors in the rapidly expanding biomaterials sector. By championing local, wood-derived bioproducts, Lenzing envisions a resilient European market that successfully decouples economic growth from fossil resource depletion.
-
-**Source:** [Read more](https://worldbiomarketinsights.com/lenzing-positions-bio-based-materials-as-strategic-asset-for-europe/)

@@ -25,4 +25,3 @@ The partnership positions both companies to address the growing demand for plast
 
 ---
 
-**Source:** [Read more](https://phyconomy.substack.com/p/seaweed-in-2025-the-year-in-review)

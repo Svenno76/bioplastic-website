@@ -27,5 +27,3 @@ For the Ather 450 Apex, the implementation of these bio-composites serves a dual
 ## Scaling Bio-Economy Solutions
 
 This collaboration moves natural fiber composites beyond niche motorsports applications and into high-volume consumer goods. By adopting Bcomp’s flax-based solutions, Ather Energy reports a significant reduction in the CO2 footprint of the vehicle's bodywork compared to synthetic counterparts. The initiative demonstrates that bio-based materials can survive the rigors of daily urban commuting while supporting a circular economy, as the flax fibers are fully renewable and allow for energy recovery at the end of the product's life.
-
-**Source:** [Read more](https://newatlas.com/materials/ather-redux-concept-scooter-flax-composite-bcomp/)

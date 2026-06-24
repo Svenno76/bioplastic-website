@@ -29,5 +29,3 @@ Ensuring the reliable production of bio-based feedstocks relies heavily on robus
 ## Strategic Long-Term Impact
 
 By bridging the gap between cutting-edge bioscience and practical farming solutions, Syngenta is positioning itself at the forefront of the agricultural transition. The center will not only fast-track the commercialization of new biological products but also foster collaborative partnerships across the broader bio-manufacturing sector. Ultimately, this facility stands as a critical milestone in scaling the biological technologies required to support a fully realized, sustainable bioeconomy.
-
-**Source:** [Read more](https://www.soci.org/news/2026/3/syngenta-builds-100m-agricultural-bioscience-research-centre#:~:text=Image:%20Syngenta,Syngenta%20said%20in%20a%20statement.)

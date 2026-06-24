@@ -22,5 +22,3 @@ Central to this partnership is Blue Circle Olefins' development of a 200-kiloton
 
 ## Impact
 The partnership leverages the complementary expertise of both companies to serve a broad range of industries, including healthcare, life sciences, automotive, engineering, electrical appliances, packaging, and household goods, all seeking more environmentally responsible material options. Ralph Koekkoek, CEO of Blue Circle Olefins, highlighted the agreement as a pivotal step for their MTO project, enabling the joint offering of a diverse portfolio of polypropylene grades produced from recycled or 100% bio-based propylene. Hanno Schouten, CEO of Ducor Petrochemicals, reinforced the commitment to Europe's transition to circular materials, stating that the collaboration will enable customers to achieve a seamless shift towards 100% circular polypropylene by 2030. This strategic alliance underscores a significant move towards accelerating the industry's adoption of low-carbon, fully circular materials.
-
-**Source:** [Read more](https://ducorchem.com/news/2025/11/ducor-petrochemicals-and-blue-circle-olefins-partner-to-create-a-fully-circular-supply-chain-for-polypropylene/)

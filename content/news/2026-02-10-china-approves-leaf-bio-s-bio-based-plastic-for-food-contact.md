@@ -29,5 +29,3 @@ Leaf Bio’s PEF offers superior physical properties compared to traditional pla
 ## Implications for Global Supply Chains
 
 This approval in China complements Leaf Bio’s existing regulatory portfolio, likely encouraging multinational corporations to harmonize their sustainable packaging strategies across global supply chains. As brands look to meet 2030 sustainability targets, the availability of a certified, high-performance, bio-based material in the Chinese manufacturing hub is a critical enabler for mass adoption.
-
-**Source:** [Read more](https://www.linkedin.com/posts/leaf-bio_leafbio-pef-foodcontactmaterials-activity-7425143493699817472-k5WN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFG_vIBzFv5aF40lr4eTOh5-XYjgcxW4wc)

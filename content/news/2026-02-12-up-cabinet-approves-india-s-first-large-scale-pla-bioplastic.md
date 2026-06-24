@@ -28,5 +28,3 @@ This "farm-to-plastic" model not only ensures a consistent raw material supply b
 
 ## Strengthening the Bio-Economy
 The approval aligns with the state government's broader "Bio-Energy and Bio-Plastics" policies. By facilitating the construction of this plant, the UP government is incentivizing the adoption of eco-friendly alternatives to petrochemical plastics. Industry experts anticipate that this facility will catalyze further investment in the biopolymer sector, creating technical jobs and fostering downstream industries focused on compounding and converting PLA into finished goods.
-
-**Source:** [Read more](https://www.thestatesman.com/india/up-govt-nod-to-chitrakoot-link-expressway-bioplastic-industry-1503555798.html)

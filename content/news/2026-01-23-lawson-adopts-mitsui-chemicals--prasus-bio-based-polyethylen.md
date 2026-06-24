@@ -27,5 +27,3 @@ For a retailer like Lawson, the primary advantage of Mitsui Chemicals' Prasus po
 This partnership addresses the urgent need to reduce Scope 3 emissions within the retail supply chain. By integrating plant-derived materials, Lawson aims to significantly lower the Green House Gas (GHG) emissions associated with the life cycle of its packaging.
 
 Mitsui Chemicals has been aggressively expanding its lineup of bio-based hydrocarbons under the Prasus brand. The company views this collaboration as a model for how material suppliers and consumer-facing brands can work together to establish a circular economy. As the rollout begins, consumers can expect to see the bio-based packaging applied to various store-brand items, contributing to a reduction in the use of virgin fossil plastics across Lawson’s extensive network of stores.
-
-**Source:** [Read more](https://jp.mitsuichemicals.com/en/release/2026/2026_0123/index.htm)

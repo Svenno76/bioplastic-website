@@ -25,5 +25,3 @@ By focusing on direct lending, Colesco intends to support companies that are oft
 The fund’s investment mandate focuses on the Benelux region and Northern Europe, areas currently serving as global hubs for bio-economy innovation. Colesco seeks to partner with companies demonstrating proven technologies ready for market expansion. This approach aligns with the European Union’s broader regulatory push under the Green Deal, which mandates higher recycling rates and the integration of bio-based content in packaging and industrial products.
 
 The launch underscores the evolving role of private credit in the industrial biotech landscape. As regulatory pressure mounts on fossil-based plastics, the availability of specialized debt financing is expected to accelerate the adoption of compostable polymers and drop-in bio-based chemicals, providing the necessary liquidity for infrastructure development and supply chain optimization.
-
-**Source:** [Read more](https://colescocapital.com/article/colesco-capital-expands-its-responsible-investment-capabilities-impact-credit-fund)

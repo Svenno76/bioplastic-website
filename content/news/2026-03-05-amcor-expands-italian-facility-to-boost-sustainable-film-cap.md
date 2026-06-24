@@ -27,5 +27,3 @@ This capacity boost directly supports Amcor’s broader corporate sustainability
 ## Driving the Circular Economy in Europe
 
 Amcor's strategic expansion in Italy arrives at a crucial juncture for the European packaging sector, which is navigating the strict mandates of the impending Packaging and Packaging Waste Regulation (PPWR). By localizing the production of these advanced bioplastics and circular materials, Amcor is strongly positioning itself to help European fast-moving consumer goods (FMCG) brands meet aggressive regulatory targets and fulfill consumer expectations for environmental responsibility.
-
-**Source:** [Read more](https://finance.yahoo.com/news/amcor-expands-italian-plant-recyclable-110559198.html#:~:text=Vidhya%20Edwards%20Munnangi,be%20recyclable%2C%20reusable%20or%20compostable.)

@@ -24,5 +24,3 @@ By re-engineering the molecular structure of cellulose, the researchers produced
 The environmental implications of this development are vast. Laboratory and field tests indicate that the material leaves behind no toxic microplastics, making it an ideal candidate for single-use packaging, straws, and fishing gear—items that frequently end up in the world’s waterways.
 
 As global regulations on single-use plastics tighten, the demand for truly marine-degradable materials is at an all-time high. RIKEN’s discovery not only demonstrates a sustainable path forward for the chemical industry but also highlights Japan’s leadership in green technology. The center is now looking toward industrial partnerships to optimize production costs, aiming to make this cellulose-based alternative a viable competitor to petroleum-based polymers on a global scale.
-
-**Source:** [Read more](https://www.riken.jp/en/news_pubs/research_news/pr/2025/20251203_2/index.html)

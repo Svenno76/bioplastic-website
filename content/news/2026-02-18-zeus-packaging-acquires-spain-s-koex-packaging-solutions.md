@@ -29,5 +29,3 @@ Zeus has indicated that the Spanish facility will become a hub for developing ec
 ## Continued Global Growth
 
 This transaction marks another milestone in Zeus Packaging's growth trajectory, following a series of strategic acquisitions over the past five years designed to consolidate its position as a global packaging powerhouse. By acquiring manufacturing assets like Koex, rather than solely distribution networks, Zeus is signaling a shift toward becoming a primary producer of technical packaging solutions.
-
-**Source:** [Read more](https://www.irishexaminer.com/business/companies/arid-41796029.html)

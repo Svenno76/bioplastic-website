@@ -31,5 +31,3 @@ Key technical features include:
 *   **Processability:** Unlike some high-performance fluoropolymers which require specialized processing equipment, these thermoplastic compounds can be processed using standard injection molding and extrusion machinery, potentially lowering manufacturing costs.
 
 This launch reinforces SABIC's commitment to the "Chemistry that Matters™" ethos, providing the healthcare sector with sustainable, high-performance alternatives that ensure patient safety and regulatory compliance.
-
-**Source:** [Read more](https://www.sabic.com/en/news/49387-at-mdm-west-sabic-debuts-biocompatible-materials#:~:text=SABIC%20is%20unveiling%20a%20new,replace%20fluoropolymers%20in%20medical%20tubing.)

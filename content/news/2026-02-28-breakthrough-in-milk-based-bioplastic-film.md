@@ -29,5 +29,3 @@ The material is edible, though intended for packaging, and dissolves in hot wate
 ## Future Implications
 
 This development represents a stride toward a circular bio-economy. As global regulations on single-use plastics tighten, alternative materials that do not rely on fossil fuels are in high demand. The university is reportedly exploring partnerships to scale the extraction process and test the film on commercial packaging lines.
-
-**Source:** [Read more](https://www.sciencedaily.com/releases/2026/02/260227071922.htm#:~:text=02/260227071922.htm-,Scientists%20racing%20to%20tackle%20plastic%20pollution%20have%20created%20a%20surprising,for%20single%2Duse%20food%20packaging.)

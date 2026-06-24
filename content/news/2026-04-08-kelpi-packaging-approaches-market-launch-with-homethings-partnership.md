@@ -27,4 +27,3 @@ Both Kelpi and Homethings are certified B Corps. Matthew Aubrey, founder of Home
 
 Kelpi CEO Hugo Adams: "We're proving that cutting-edge research can deliver real solutions to the plastic crisis. The partnership with Homethings shows what's possible when like-minded companies work together."
 
-**Source:** [Kelpi](https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch)

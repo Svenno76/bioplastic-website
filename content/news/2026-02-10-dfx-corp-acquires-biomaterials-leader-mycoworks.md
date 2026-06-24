@@ -29,5 +29,3 @@ Unlike standard mushroom leathers, which often compress mycelium foam into a mat
 ## Market Consolidation in 2026
 
 The deal reflects a broader trend in 2026, where specialized biotechnology firms are merging with larger industrial conglomerates to overcome the "valley of death" between pilot production and commercial viability. As regulatory pressure on synthetic, petrochemical-based textiles increases, the integration of scalable, bio-based solutions like Reishi™ has become a critical competitive advantage for material holding companies.
-
-**Source:** [Read more](https://www.mycostories.com/post/mycoworks-acquired-by-investment-firm-as-mycelium-materials-sector-consolidates)

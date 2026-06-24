@@ -31,4 +31,3 @@ Chemical recycling is increasingly seen as a critical complement to mechanical r
 
 With $15.54 million in fresh funding, Aduro is well-positioned to complete engineering and begin construction of its commercial facility — a significant milestone for the chemical recycling industry.
 
-**Source:** [Aduro Clean Technologies](https://www.adurocleantech.com/news)

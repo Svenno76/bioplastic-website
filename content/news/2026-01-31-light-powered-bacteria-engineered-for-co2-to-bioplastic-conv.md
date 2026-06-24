@@ -29,5 +29,3 @@ According to the technical data released, the conversion efficiency has reached 
 The scalability of this technology could address two critical environmental challenges simultaneously: the reduction of greenhouse gas emissions and the accumulation of persistent plastic waste. As the material produced is a naturally occurring polyester, it offers material properties similar to polypropylene but decomposes rapidly in natural environments.
 
 This development marks a pivot point for the industry, moving away from "carbon-neutral" materials toward "carbon-negative" manufacturing, where the production process itself acts as a carbon sink.
-
-**Source:** [Read more](https://www.geneonline.com/researchers-engineer-light-powered-bacteria-to-produce-bioplastics-and-biofuels/)

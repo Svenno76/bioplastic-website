@@ -29,5 +29,3 @@ The commercial release of this technology comes as the shipping industry faces t
 Unlike early experimental bioplastics that degraded too quickly in harsh marine environments, this mature technology provides a stable, long-lasting barrier. The formulation is designed to minimize drag, thereby improving fuel efficiency, while ensuring the biopolymer matrix remains intact over extended dry-docking intervals.
 
 Executives from both companies highlighted that this launch moves beyond pilot phases, offering a scalable supply chain capable of servicing global fleets immediately. This development signals a shift where renewable feedstocks are no longer niche additives but central components in heavy-duty industrial applications.
-
-**Source:** [Read more](https://worldbiomarketinsights.com/plant-based-coatings-conquer-the-seas/)

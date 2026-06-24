@@ -29,5 +29,3 @@ The technology allows local manufacturers in the Dominican Republic to produce b
 ## Regulatory Compliance and Market Growth
 
 The Dominican Republic has been actively reviewing its environmental policies regarding single-use plastics. By establishing a dedicated presence on the ground, Symphony aims to demonstrate how d2w technology can serve as a compliance tool for local industry. The agreement ensures that Symphony is well-placed to assist government bodies and private enterprises in transitioning toward controlled-life plastics that align with both environmental goals and economic realities.
-
-**Source:** [Read more](https://www.londonstockexchange.com/news-article/SYM/new-consultancy-agreement-and-grant-of-options/17466329)

@@ -25,5 +25,3 @@ The infrastructure expansion comes in direct response to surging industrial dema
 ## Alignment with European Circular Economy Goals
 
 As the European Union continuously tightens regulations surrounding industrial packaging waste, heavy-duty manufacturers are rapidly transitioning toward fully biodegradable solutions. EcoCortec’s localized European expansion mitigates reliance on transcontinental shipping while ensuring industrial manufacturers have reliable access to high-performance, bio-based alternatives. This multi-million euro investment cements the company’s commitment to driving the circular economy forward within the technically demanding anti-corrosion packaging sector.
-
-**Source:** [Read more](https://ecocortec.hr/eng/news.html)

@@ -50,4 +50,3 @@ If successful, this technology could fundamentally decarbonize the polyurethane 
 
 Learn more about this material in our [Bio-Based Aniline Glossary](/glossary/bio-based-aniline/).
 
-**Source:** [Covestro Press Release](https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/)

@@ -25,4 +25,3 @@ The partnership positions both companies to capitalize on the rapidly expanding 
 
 ---
 
-**Source:** [Read more](https://phyconomy.substack.com/p/seaweed-in-2025-the-year-in-review)

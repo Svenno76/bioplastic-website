@@ -24,4 +24,3 @@ The acquisition integrates Sealpap's Netherlands-based operations, producing rec
 This merger bolsters the bioplastics sector by offering brands dual pathways—recyclable and compostable—amid tightening EU packaging laws and rising consumer demand for circular solutions. TIPA's growth strategy, including prior partnerships with Coveris and Presto for compostable zippers, positions it as a frontrunner, enabling scalable, regulation-compliant innovations that decompose like organic waste or recycle efficiently. Industry observers see it accelerating the shift from single-use plastics, fostering sustainability in food, pharma, and beyond.
 ---
 
-**Source:** [Read more](nan)

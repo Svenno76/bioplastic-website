@@ -27,5 +27,3 @@ NovaPoly™ is designed to degrade under specific environmental conditions, addr
 ## A Commitment to Sustainable Luxury
 
 This launch is a core component of Hugo Boss’s broader "Claim 5" strategy, which emphasizes a commitment to a sustainable future. As the fashion industry faces increasing regulatory and consumer pressure to eliminate waste, the debut of NovaPoly™ positions Hugo Boss as a leader in the bioplastic and textile innovation space. The project doesn't just represent a single collection; it serves as a blueprint for how the industry can transition from a linear "take-make-waste" model to a truly circular economy.
-
-**Source:** [Read more](https://group.hugoboss.com/en/newsroom/news/news-detail/boss-jiaren-chemical-recycling-and-nbc-llc-introduce-novapolytm-yarn-on-the-courts-in-melbourne)

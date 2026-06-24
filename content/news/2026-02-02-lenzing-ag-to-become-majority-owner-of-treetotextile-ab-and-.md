@@ -29,5 +29,3 @@ The core asset of TreeToTextile is a novel technology that produces bio-based fi
 ## Future Commercialization
 
 Following the transaction, TreeToTextile will operate with Lenzing as the controlling shareholder, while founding partners H&M Group, Inter IKEA Group, and LSCS Invest remain invested as minority partners. The collaboration ensures that the development of the fiber remains closely linked to downstream market needs, facilitating a smoother entry into commercial supply chains by 2027.
-
-**Source:** [Read more](https://www.lenzing.com/newsroom/news-events/lenzing-ag-to-become-majority-owner-of-treetotextile-ab-and-accelerates-industrialization-of-new-fibers/)

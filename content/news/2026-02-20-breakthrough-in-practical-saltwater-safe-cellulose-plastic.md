@@ -25,5 +25,3 @@ Unlike traditional covalent bonding, this material utilizes non-covalent interac
 Current biodegradable plastics, such as PLA (Polylactic Acid), often require industrial composting facilities with high temperatures to degrade and can persist in marine environments for years, behaving similarly to petroleum-based plastics.
 
 In contrast, RIKEN’s testing demonstrates that bags and films made from CMCSP begin to break down almost immediately in seawater, mitigating the risk of entanglement for marine life and preventing the formation of persistent microplastics. The material is fully plant-based, derived from renewable biomass, and the degradation byproducts are safe for marine ecosystems. RIKEN is now focusing on scaling the synthesis process to make CMCSP a viable commercial alternative for single-use packaging and agricultural films.
-
-**Source:** [Read more](https://www.earth.com/news/breakthrough-plant-based-plastic-cmcsp-dissolves-in-seawater-within-hours/)

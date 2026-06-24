@@ -30,4 +30,3 @@ Fraunhofer UMSICHT brings extensive applied research in energy-efficient process
 
 Once operational, the pilot plant will generate the empirical data necessary to design full-scale commercial chemical recycling facilities. This development accelerates Covestro’s strategic transition toward a fully circular economy, providing the broader plastics sector with a viable, scalable blueprint for recovering previously unrecyclable end-of-life materials.
 
-**Source:** [Read more](https://www.covestro.com/press/covestro-and-fraunhofer-umsicht-sign-contract-for-groundbreaking-smart-pyrolysis-recycling-pilot-plant/)

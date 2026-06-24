@@ -37,4 +37,3 @@ Designed to be **washed and reused multiple times**, the new kitchen towel repre
 
 The collaboration demonstrates that biobased materials can meet the performance requirements of everyday consumer products while dramatically reducing environmental impact. The product is fully plant-based, reusable, and designed for circularity — a tangible example of how the bioplastics industry is moving beyond single-use applications.
 
-**Source:** [TotalEnergies Corbion](https://totalenergies-corbion.com/totalenergies-corbion-and-yuhan%e2%80%91kimberly-announce-long%e2%80%91standing-partnership-driving-innovation-in-biobased-washable-wipe-applications/)
