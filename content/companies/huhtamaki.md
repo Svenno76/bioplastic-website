@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/huhtamaki.png
 title: Huhtamaki Oyj
 company_type: Converter
 headquarters: "Espoo, Finland"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/sukano.png
 title: Sukano AG
 company_type: Additive Producer
 headquarters: Schindellegi, Switzerland

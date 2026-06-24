@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/forvia.jpg
 title: "FORVIA"
 company_type: Technology Company
 headquarters: "Nanterre, France"

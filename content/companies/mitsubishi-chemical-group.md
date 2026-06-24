@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/mitsubishi-chemical-group.png
 title: Mitsubishi Chemical
 company_type: Bioplastic Producer
 headquarters: "Tokyo, Japan"

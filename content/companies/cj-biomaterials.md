@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/cj-biomaterials.png
 title: "CJ Biomaterials"
 company_type: Bioplastic Producer
 headquarters: "Seoul, South Korea"

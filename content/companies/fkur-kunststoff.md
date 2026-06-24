@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/fkur-kunststoff.png
 title: FKuR Kunststoff
 company_type: Compounder
 headquarters: "Willich, Germany"

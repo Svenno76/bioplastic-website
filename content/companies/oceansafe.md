@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/oceansafe.png
 title: OceanSafe
 company_type: Textile Materials (Not Bioplastics)
 headquarters: "Bern, Switzerland"

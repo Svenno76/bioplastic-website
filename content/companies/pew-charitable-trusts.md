@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/pew-charitable-trusts
 title: Pew Charitable Trusts
 company_type: Nonprofit Organization (Not a Company/Manufacturer)
 headquarters: "Philadelphia, USA"

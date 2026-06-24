@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/blue-ocean-closures-boc.png
 title: Blue Ocean Closures (BOC)
 company_type: Converter
 headquarters: "Karlstad, Sweden"

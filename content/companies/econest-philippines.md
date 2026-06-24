@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/econest-philippines.png
 title: "EcoNest Philippines"
 company_type: Converter
 headquarters: "Philippines"

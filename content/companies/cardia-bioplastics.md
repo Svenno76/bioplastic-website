@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/cardia-bioplastics.png
 title: "Cardia Bioplastics"
 company_type: Bioplastic Producer
 headquarters: "Melbourne, Victoria, Australia"

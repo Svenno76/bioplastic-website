@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ecovia-bio.png
 title: Ecovia Bio
 company_type: Bioplastic Producer
 headquarters: "Livonia, Michigan, USA"

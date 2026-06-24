@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/hyosung-tnc-vietnam.jpg
 title: "Hyosung TNC Vietnam"
 company_type: Technology Company
 headquarters: "Vietnam"

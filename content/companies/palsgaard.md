@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/palsgaard.jpg
 title: Palsgaard
 company_type: Additive Producer
 headquarters: Denmark

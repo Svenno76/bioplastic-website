@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/triplew.png
 title: "TripleW"
 company_type: Technology Company
 headquarters: "Netanya, Israel"

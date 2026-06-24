@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/natureplast.png
 title: "NaturePlast"
 company_type: Bioplastic Producer
 headquarters: "Caen, Normandy, France"

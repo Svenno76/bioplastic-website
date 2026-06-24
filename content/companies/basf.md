@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/basf.svg
 title: BASF
 company_type: Bioplastic Producer
 headquarters: "Ludwigshafen, Germany"

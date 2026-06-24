@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/dupont.png
 title: DuPont
 company_type: Bioplastic Producer
 headquarters: "Wilmington, Delaware, USA"

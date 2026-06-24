@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/kemvera.png
 title: Kemvera
 company_type: Technology Company
 headquarters: "United States"

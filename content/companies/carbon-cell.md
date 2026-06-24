@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/carbon-cell.png
 title: "Carbon Cell"
 company_type: Bioplastic Producer
 headquarters: "London, United Kingdom"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/neste.png
 title: Neste Corporation
 company_type: Bioplastic Producer
 headquarters: Espoo, Finland

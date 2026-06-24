@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ningbo-tianan-biologic-materials.png
 title: Ningbo Tianan Biologic Materials
 company_type: Bioplastic Producer
 headquarters: "Ningbo, Zhejiang Province, China"

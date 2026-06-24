@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/zerocircle.png
 title: Zerocircle
 company_type: Bioplastic Producer
 headquarters: "India"

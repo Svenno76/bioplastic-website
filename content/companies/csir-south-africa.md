@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/csir-south-africa.png
 title: CSIR - Council for Scientific and Industrial Research
 company_type: Research Institute
 headquarters: "Pretoria, South Africa"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/avantium.png
 title: Avantium
 company_type: Technology Company
 headquarters: "Amsterdam, Netherlands"

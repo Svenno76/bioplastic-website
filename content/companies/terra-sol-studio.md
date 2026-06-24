@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/terra-sol-studio.png
 title: Terra Sol Studio
 company_type: Consulting
 headquarters: Australia

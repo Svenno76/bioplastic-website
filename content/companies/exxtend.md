@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/exxtend.png
 title: Exxtend (ExxonMobil Advanced Recycling Technology)
 company_type: Technology Company
 headquarters: "Baytown, Texas, USA (ExxonMobil)"

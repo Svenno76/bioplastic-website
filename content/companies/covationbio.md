@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/covationbio.png
 title: Covation Biomaterials
 company_type: Bioplastic Producer
 headquarters: "Newark, Delaware, USA"

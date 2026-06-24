@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/stellenbosch-university-polymer-science.jpg
 title: Stellenbosch University - Department of Chemistry and Polymer Science
 company_type: University
 headquarters: "Stellenbosch, Western Cape, South Africa"

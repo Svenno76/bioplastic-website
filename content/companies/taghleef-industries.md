@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/taghleef-industries.jpg
 title: Taghleef Industries
 company_type: Converter
 headquarters: United Arab Emirates

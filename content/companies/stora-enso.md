@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/stora-enso.png
 title: Stora Enso
 company_type: Bioplastic Producer
 headquarters: Helsinki, Finland & Stockholm, Sweden

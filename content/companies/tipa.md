@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/tipa.jpg
 title: TIPA
 company_type: Converter
 headquarters: "Israel (formerly Austria connection)"

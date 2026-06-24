@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/enviplast.png
 title: "ENVIPLAST Biopolymer"
 company_type: Compounder
 headquarters: "Indonesia"

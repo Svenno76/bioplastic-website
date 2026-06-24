@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/packamama.webp
 title: Packamama
 company_type: Converter
 headquarters: "Australia, UK, Belgium, South Africa (multi-national)"

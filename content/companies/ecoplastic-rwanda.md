@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ecoplastic-rwanda.png
 title: EcoPlastic Rwanda
 company_type: Recycler
 headquarters: "Kigali, Rwanda"

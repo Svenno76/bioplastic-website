@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/westlake.png
 title: Westlake Corporation
 company_type: Bioplastic Producer
 headquarters: "Houston, Texas, USA"

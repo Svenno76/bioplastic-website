@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/sabic.jpg
 title: SABIC
 company_type: Bioplastic Producer
 headquarters: "Riyadh, Saudi Arabia"

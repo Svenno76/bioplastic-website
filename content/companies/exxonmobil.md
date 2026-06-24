@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/exxonmobil.png
 title: "ExxonMobil"
 company_type: Technology Company
 headquarters: "Texas, United States"

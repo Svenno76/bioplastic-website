@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/bioweg.png
 title: "BIOWEG"
 company_type: Technology Company
 headquarters: "Monheim, Germany"

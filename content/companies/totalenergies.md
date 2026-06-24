@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/totalenergies.png
 title: "TotalEnergies"
 company_type: Technology Company
 headquarters: "Paris, France"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/braskem-siam.png
 title: "Braskem Siam Company Limited"
 company_type: Bioplastic Producer
 headquarters: "Map Ta Phut, Rayong Province, Thailand"

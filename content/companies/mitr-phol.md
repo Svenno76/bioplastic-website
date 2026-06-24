@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/mitr-phol.jpg
 title: Mitr Phol
 company_type: Bioplastic Producer
 headquarters: "Bangkok, Thailand"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/arkema.png
 title: Arkema S.A.
 company_type: Bioplastic Producer
 headquarters: "La Défense, Paris, France"

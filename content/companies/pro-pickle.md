@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/pro-pickle.jpg
 title: Pro-Pickle
 company_type: Bioplastic Producer
 headquarters: United States

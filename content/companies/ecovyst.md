@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ecovyst.png
 title: Ecovyst
 company_type: Technology Company
 headquarters: "Philadelphia, Pennsylvania, USA"

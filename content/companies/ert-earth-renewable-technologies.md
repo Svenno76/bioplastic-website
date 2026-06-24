@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ert-earth-renewable-technologies.png
 title: "ERT Bioplastics (Earth Renewable Technologies)"
 company_type: Converter
 headquarters: "São Paulo, Brazil"

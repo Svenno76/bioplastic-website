@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/dow.png
 title: Dow Inc.
 company_type: Bioplastic Producer
 headquarters: "Midland, Michigan, USA"

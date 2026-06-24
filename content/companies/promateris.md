@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/promateris.png
 title: Promateris
 company_type: Converter
 headquarters: "Buftea, Romania"

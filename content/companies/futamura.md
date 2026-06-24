@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/futamura.png
 title: Futamura Chemical Company
 company_type: Bioplastic Producer
 headquarters: Nagoya, Japan

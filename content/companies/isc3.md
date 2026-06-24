@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/isc3.png
 title: ISC3 (International Sustainable Chemistry Collaborative Centre)
 company_type: Research Institute
 headquarters: "Frankfurt am Main, Germany"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/nbc-llc.svg
 title: NBC LLC
 company_type: Packaging (Not Bioplastics)
 headquarters: "Pittsburg, California, USA"

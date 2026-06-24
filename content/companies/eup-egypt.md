@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/eup-egypt.png
 title: EuP Egypt
 company_type: Compounder
 headquarters: "Egypt"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/octarine-bio.jpg
 title: Octarine Bio
 company_type: Synthetic Biology (Not Bioplastics)
 headquarters: "Copenhagen, Denmark"

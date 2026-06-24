@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/copersucar-international.png
 title: "Copersucar International"
 company_type: Technology Company
 headquarters: "São Paulo, Brazil"

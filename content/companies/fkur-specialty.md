@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/fkur-specialty.png
 title: FKuR
 company_type: Bioplastic Producer
 headquarters: "Willich, Germany"

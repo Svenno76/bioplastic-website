@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/loliware.png
 title: Loliware
 company_type: Converter
 headquarters: "New York, United States"

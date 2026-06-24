@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/northeast-forestry-university.png
 title: Northeast Forestry University
 company_type: University
 headquarters: Harbin, China

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/angstrom-group.png
 title: Angstrom Group
 company_type: Technology Company
 headquarters: "Ottawa, Ontario, Canada"

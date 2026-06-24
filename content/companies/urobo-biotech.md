@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/urobo-biotech.png
 title: Urobo Biotech
 company_type: Technology Company
 headquarters: "Stellenbosch, South Africa"

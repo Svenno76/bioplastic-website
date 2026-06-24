@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/csti-nairobi.png
 title: Centre for Science & Technology Innovations (CSTI)
 company_type: Research Institute
 headquarters: "Nairobi, Kenya"

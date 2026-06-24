@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/honda.png
 title: Honda
 company_type: Technology Company
 headquarters: Japan

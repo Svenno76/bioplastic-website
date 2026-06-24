@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/solvay.gif
 title: Solvay
 company_type: Bioplastic Producer
 headquarters: "Brussels, Belgium"

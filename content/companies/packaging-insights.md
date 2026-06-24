@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/packaging-insights.png
 title: Packaging Insights
 company_type: Technology Company
 headquarters: United Kingdom

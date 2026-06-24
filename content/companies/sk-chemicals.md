@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/sk-chemicals.png
 title: SK Chemicals
 company_type: Bioplastic Producer
 headquarters: "Seoul, South Korea"

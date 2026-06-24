@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/renaissance-bioscience.png
 title: "Renaissance BioScience"
 company_type: Technology Company
 headquarters: "Canada"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/granulous.png
 title: Granulous
 company_type: Compounder
 headquarters: "United Kingdom"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/plastipak.png
 title: Plastipak
 company_type: Converter / Recycler (Not Bioplastics)
 headquarters: "Plymouth, Michigan, USA"

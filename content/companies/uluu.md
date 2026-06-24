@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/uluu.jpg
 title: Uluu
 company_type: Bioplastic Producer
 headquarters: "Melbourne, Australia (Operations: Indonesia)"

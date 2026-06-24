@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/indorama-ventures.webp
 title: Indorama Ventures
 company_type: Bioplastic Producer
 headquarters: "Bangkok, Thailand"

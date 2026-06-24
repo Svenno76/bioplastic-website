@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ducor-petrochemicals.png
 title: Ducor Petrochemicals
 company_type: Bioplastic Producer
 headquarters: "Rozenburg, the Netherlands"

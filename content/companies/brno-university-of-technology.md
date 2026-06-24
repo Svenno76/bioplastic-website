@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/brno-university-of-technology.png
 title: Brno University of Technology
 company_type: University
 headquarters: "Brno, Czech Republic"

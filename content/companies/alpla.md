@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/alpla.png
 title: ALPLA
 company_type: Converter
 headquarters: "Hard, Austria"

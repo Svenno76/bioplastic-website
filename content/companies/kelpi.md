@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/kelpi.png
 title: Kelpi
 company_type: Bioplastic Producer
 headquarters: "Bath, United Kingdom"

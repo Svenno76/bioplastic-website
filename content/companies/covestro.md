@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/covestro.png
 title: Covestro
 company_type: Bioplastic Producer
 headquarters: "Leverkusen, Germany"

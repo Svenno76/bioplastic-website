@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/danimer-scientific.png
 title: Danimer Scientific
 company_type: Bioplastic Producer
 headquarters: "Georgia, United States"

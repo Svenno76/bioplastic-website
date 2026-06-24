@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/wankai-new-materials.jpg
 title: Wankai New Materials
 company_type: Bioplastic Producer
 headquarters: "Haining, Zhejiang Province, China"

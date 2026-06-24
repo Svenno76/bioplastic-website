@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/string-bio-india.png
 title: "String Bio"
 company_type: Technology Company
 headquarters: "Bangalore, Karnataka, India"

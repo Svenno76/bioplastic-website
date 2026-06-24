@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/shenyang-university-of-chemical-technology.png
 title: Shenyang University of Chemical Technology
 company_type: University
 headquarters: Shenyang, China

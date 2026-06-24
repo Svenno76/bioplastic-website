@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/renaissance-bioscience-and-biome-bioplastics.png
 title: Renaissance BioScience and Biome Bioplastics
 company_type: Technology Company
 headquarters: United Kingdom

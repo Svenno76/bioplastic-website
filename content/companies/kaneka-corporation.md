@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/kaneka-corporation.png
 title: Kaneka Corporation
 company_type: Bioplastic Producer
 headquarters: "Tokyo, Japan"

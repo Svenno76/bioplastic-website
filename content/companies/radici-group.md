@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/radici-group.png
 title: Radici Group
 company_type: Compounder
 headquarters: Italy

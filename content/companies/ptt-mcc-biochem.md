@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ptt-mcc-biochem.png
 title: "PTT MCC Biochem"
 company_type: Bioplastic Producer
 headquarters: "Bangkok, Thailand"

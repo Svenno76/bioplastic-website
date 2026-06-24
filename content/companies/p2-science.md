@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/p2-science.png
 title: P2 Science
 company_type: Technology Company
 headquarters: United States

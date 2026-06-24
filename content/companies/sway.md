@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/sway.jpg
 title: Sway
 company_type: Converter
 headquarters: "United States"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/power2polymers.png
 title: Power2Polymers
 company_type: Technology Company
 headquarters: Germany

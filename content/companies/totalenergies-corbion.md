@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/totalenergies-corbion.png
 title: TotalEnergies Corbion
 company_type: Bioplastic Producer
 headquarters: Netherlands

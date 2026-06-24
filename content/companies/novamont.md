@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/novamont.png
 title: Novamont
 company_type: Bioplastic Producer
 headquarters: "Novara, Italy"

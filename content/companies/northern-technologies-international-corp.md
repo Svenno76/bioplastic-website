@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/northern-technologies-international-corp.png
 title: Northern Technologies International Corp
 company_type: Bioplastic Producer
 headquarters: "Bloomington, Minnesota, USA"

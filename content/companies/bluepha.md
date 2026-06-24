@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/bluepha.jpg
 title: Bluepha
 company_type: Bioplastic Producer
 headquarters: "Yancheng, Jiangsu Province, China"

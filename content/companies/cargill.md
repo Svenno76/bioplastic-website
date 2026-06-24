@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/cargill.png
 title: Cargill
 company_type: Bioplastic Producer
 headquarters: Minnetonka, Minnesota, USA

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/biobtx.png
 title: "BioBTX"
 company_type: Technology Company
 headquarters: "Groningen, Netherlands"

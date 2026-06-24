@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/empa.png
 title: Empa (Swiss Federal Laboratories for Materials Science and Technology)
 company_type: Research Institute
 headquarters: "Dübendorf, Switzerland"

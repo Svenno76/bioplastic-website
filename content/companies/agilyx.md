@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/agilyx.png
 title: Agilyx
 company_type: Technology Company
 headquarters: "Tigard, Oregon, USA"

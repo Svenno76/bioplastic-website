@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/idemitsu-kosan.png
 title: Idemitsu Kosan
 company_type: Bioplastic Producer
 headquarters: "Tokyo, Japan"

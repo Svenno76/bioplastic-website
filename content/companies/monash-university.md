@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/monash-university.png
 title: Monash University
 company_type: University
 headquarters: Australia

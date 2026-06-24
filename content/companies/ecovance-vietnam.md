@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ecovance-vietnam.png
 title: "Ecovance Vietnam"
 company_type: Bioplastic Producer
 headquarters: "Hai Phong, Vietnam"

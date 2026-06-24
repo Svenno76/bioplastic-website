@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/notpla.png
 title: Notpla
 company_type: Converter
 headquarters: "London, United Kingdom"

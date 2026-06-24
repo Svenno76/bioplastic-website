@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/bioelements.webp
 title: Bioelements
 company_type: Converter
 headquarters: "Santiago, Chile"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/concordia-university.jpg
 title: Concordia University
 company_type: University
 headquarters: Canada

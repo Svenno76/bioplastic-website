@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/husky-injection-molding.jpg
 title: Husky Technologies
 company_type: Technology Company
 headquarters: "Bolton, Ontario, Canada"

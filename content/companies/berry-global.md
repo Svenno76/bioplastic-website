@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/berry-global.png
 title: Berry Global
 company_type: Converter
 headquarters: "Evansville, Indiana, USA"

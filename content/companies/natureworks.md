@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/natureworks.png
 title: NatureWorks
 company_type: Bioplastic Producer
 headquarters: "Plymouth, Minnesota, USA"

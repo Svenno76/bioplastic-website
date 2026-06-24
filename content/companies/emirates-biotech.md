@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/emirates-biotech.png
 title: Emirates Biotech
 company_type: Bioplastic Producer
 headquarters: "Abu Dhabi, United Arab Emirates"

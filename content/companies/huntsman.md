@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/huntsman.jpg
 title: Huntsman Corporation
 company_type: Bioplastic Producer
 headquarters: "The Woodlands, Texas, USA"

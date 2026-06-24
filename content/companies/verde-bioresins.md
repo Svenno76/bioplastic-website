@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/verde-bioresins.jpg
 title: Verde Bioresins
 company_type: Bioplastic Producer
 headquarters: "Fullerton, California, USA"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/roquette-frères.png
 title: "Roquette Frères"
 company_type: Bioplastic Producer
 headquarters: "Lestrem, France"

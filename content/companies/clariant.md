@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/clariant.png
 title: Clariant
 company_type: Bioplastic Producer
 headquarters: "Muttenz, Basel, Switzerland"

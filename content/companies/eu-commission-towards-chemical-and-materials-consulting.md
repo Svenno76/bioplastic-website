@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/eu-commission-towards-chemical-and-materials-consulting.svg
 title: Towards Chemical and Materials Consulting
 company_type: Consulting
 headquarters: Brussels, Belgium

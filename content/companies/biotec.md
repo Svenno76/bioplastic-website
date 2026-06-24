@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/biotec.jpg
 title: Biotec
 company_type: Compounder
 headquarters: "Emmerting, Germany"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/raizen-sugarcane-company.webp
 title: "Raizen Sugarcane Company"
 company_type: Technology Company
 headquarters: "Piracicaba, São Paulo, Brazil"

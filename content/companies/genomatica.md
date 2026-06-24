@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/genomatica.jpg
 title: Genomatica
 company_type: Technology Company
 headquarters: "San Diego, California, USA"

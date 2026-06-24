@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/shine-bridge-global.jpg
 title: Shine Bridge Global Inc.
 company_type: Technology Company
 headquarters: "United States (Principal Office); Nigeria (Operating Base)"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/trinseo.png
 title: Trinseo
 company_type: Bioplastic Producer
 headquarters: "Berwyn, Pennsylvania, USA"

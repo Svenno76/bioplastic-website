@@ -1,0 +1,94 @@
+{{/* Meta Description Partial — unique, keyword-rich description per page type */}}
+{{- $title := .Title -}}
+{{- $siteTitle := .Site.Title -}}
+{{- $section := .Section -}}
+{{- $summary := "" -}}
+{{- $desc := "" -}}
+
+{{/* Get summary from front matter or auto-generated */}}
+{{- if .Params.summary -}}
+  {{- $summary = .Params.summary | plainify -}}
+{{- else -}}
+  {{- $summary = .Summary | plainify -}}
+{{- end -}}
+
+{{/* Truncate summary to ~140 chars for clean display */}}
+{{- if gt (len $summary) 140 -}}
+  {{- $summary = $summary | truncate 140 -}}
+{{- end -}}
+
+{{/* Helper: convert any value to string safely */}}
+{{- $categoryStr := "" -}}
+{{- if .Params.category -}}
+  {{- if reflect.IsSlice .Params.category -}}
+    {{- $categoryStr = delimit .Params.category ", " -}}
+  {{- else -}}
+    {{- $categoryStr = .Params.category -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $companyTypeStr := "" -}}
+{{- if .Params.company_type -}}
+  {{- if reflect.IsSlice .Params.company_type -}}
+    {{- $companyTypeStr = delimit .Params.company_type ", " -}}
+  {{- else -}}
+    {{- $companyTypeStr = .Params.company_type -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Build description based on section */}}
+{{- if eq $section "news" -}}
+  {{- $parts := slice $title -}}
+  {{- if $categoryStr }}{{ $parts = $parts | append ($categoryStr | title) }}{{ end -}}
+  {{- if .Params.tags -}}
+    {{- $tagSlice := first 3 .Params.tags -}}
+    {{- $parts = $parts | append (delimit $tagSlice ", ") -}}
+  {{- end -}}
+  {{- if $summary }}{{ $parts = $parts | append $summary }}{{ end -}}
+  {{- $desc = delimit $parts " — " -}}
+
+{{- else if eq $section "companies" -}}
+  {{- $parts := slice $title -}}
+  {{- if $companyTypeStr }}{{ $parts = $parts | append $companyTypeStr }}{{ end -}}
+  {{- if .Params.headquarters }}{{ $parts = $parts | append .Params.headquarters }}{{ end -}}
+  {{- if $summary }}{{ $parts = $parts | append $summary }}{{ end -}}
+  {{- $desc = delimit $parts " — " -}}
+
+{{- else if eq $section "glossary" -}}
+  {{- $parts := slice $title -}}
+  {{- if .Params.term_type -}}
+    {{- if reflect.IsSlice .Params.term_type -}}
+      {{- $parts = $parts | append (delimit .Params.term_type ", ") -}}
+    {{- else -}}
+      {{- $parts = $parts | append .Params.term_type -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $summary }}{{ $parts = $parts | append $summary }}{{ end -}}
+  {{- $desc = delimit $parts " — " -}}
+
+{{- else if eq $section "blog" -}}
+  {{- $parts := slice $title -}}
+  {{- if .Params.tags -}}
+    {{- $tagSlice := first 2 .Params.tags -}}
+    {{- $parts = $parts | append (delimit $tagSlice ", ") -}}
+  {{- end -}}
+  {{- if $summary }}{{ $parts = $parts | append $summary }}{{ end -}}
+  {{- $desc = delimit $parts " — " -}}
+
+{{- else if eq $section "studies" -}}
+  {{- $parts := slice $title -}}
+  {{- if .Params.author }}{{ $parts = $parts | append .Params.author }}{{ end -}}
+  {{- if $summary }}{{ $parts = $parts | append $summary }}{{ end -}}
+  {{- $desc = delimit $parts " — " -}}
+
+{{- else if eq $section "events" -}}
+  {{- $parts := slice $title -}}
+  {{- if .Params.location }}{{ $parts = $parts | append .Params.location }}{{ end -}}
+  {{- if $summary }}{{ $parts = $parts | append $summary }}{{ end -}}
+  {{- $desc = delimit $parts " — " -}}
+
+{{- else -}}
+  {{- $desc = printf "%s — %s" $title .Site.Params.description -}}
+{{- end -}}
+
+<meta name="description" content="{{ $desc | safeHTMLAttr }}">

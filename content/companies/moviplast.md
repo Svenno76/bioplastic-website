@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/moviplast.png
 title: Moviplast
 company_type: Compounder
 headquarters: "Bucharest, Romania"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/ecopha-biotech.png
 title: Ecopha Biotech
 company_type: Bioplastic Producer
 headquarters: "Melbourne, Australia (originally Malaysia, 2008)"

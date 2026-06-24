@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/aduro-clean-technologies.png
 title: Aduro Clean Technologies
 company_type: Technology Company
 headquarters: "Sarnia, Ontario, Canada"

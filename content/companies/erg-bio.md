@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/erg-bio.jpg
 title: Erg Bio
 company_type: Technology Company
 headquarters: United States

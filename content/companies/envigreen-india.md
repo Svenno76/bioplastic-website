@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/envigreen-india.png
 title: "Envigreen Biotech India"
 company_type: Bioplastic Producer
 headquarters: "Bengaluru, Karnataka, India"

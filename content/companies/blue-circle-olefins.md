@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/blue-circle-olefins.png
 title: "Blue Circle Olefins"
 company_type: Technology Company
 headquarters: "Rotterdam, Netherlands"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/lanxess.gif
 title: LANXESS
 company_type: Bioplastic Producer
 headquarters: "Cologne, Germany"

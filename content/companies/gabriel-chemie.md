@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/gabriel-chemie.png
 title: Gabriel-Chemie Group
 company_type: Additive Producer
 headquarters: "Gumpoldskirchen, Austria"

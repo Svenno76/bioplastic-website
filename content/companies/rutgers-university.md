@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/rutgers-university.png
 title: Rutgers University
 company_type: University
 headquarters: United States

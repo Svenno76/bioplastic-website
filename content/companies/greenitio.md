@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/greenitio.png
 title: Greenitio
 company_type: Additive Producer
 headquarters: "Singapore"

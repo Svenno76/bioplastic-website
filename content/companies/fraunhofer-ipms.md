@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/fraunhofer-ipms.jpg
 title: Fraunhofer IPMS (Institute for Photonic Microsystems)
 company_type: Research Institute
 headquarters: "Dresden, Germany"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/orinko-advanced-plastics.png
 title: Orinko Advanced Plastics
 company_type: Bioplastic Producer
 headquarters: "Hefei, Anhui, China"

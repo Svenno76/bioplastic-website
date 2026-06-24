@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/biome-bioplastics.png
 title: Biome Bioplastics
 company_type: Bioplastic Producer
 headquarters: "Southampton, United Kingdom"

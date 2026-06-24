@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/riken-center-for-emergent-matter-science-cems.png
 title: "RIKEN Center for Emergent Matter Science (CEMS)"
 company_type: Research Institute
 headquarters: "Saitama, Japan"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/benvic.png
 title: Benvic
 company_type: Compounder
 headquarters: "Chevigny-Saint-Sauveur, France"

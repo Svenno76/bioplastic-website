@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/petrobras.jpg
 title: Petrobras
 company_type: Parent Company / Investor (Not a Bioplastics Producer)
 headquarters: "São Paulo, Brazil"

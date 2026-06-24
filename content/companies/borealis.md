@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/borealis.png
 title: Borealis
 company_type: Bioplastic Producer
 headquarters: "Vienna, Austria"

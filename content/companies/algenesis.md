@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/algenesis.png
 title: Algenesis
 company_type: Bioplastic Producer
 headquarters: "San Diego, California, United States"

@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/wacker-chemie.png
 title: Wacker Chemie AG
 company_type: Additive Producer
 headquarters: Munich, Germany

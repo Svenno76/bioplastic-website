@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/norsk-e-fuel.png
 title: Norsk e-Fuel
 company_type: Technology Company
 headquarters: "Norway"

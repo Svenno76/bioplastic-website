@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/lyondellbasell.png
 title: LyondellBasell Industries
 company_type: Bioplastic Producer
 headquarters: "Houston, Texas, USA"

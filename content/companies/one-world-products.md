@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/one-world-products.png
 title: One World Products
 company_type: Bioplastic Producer
 headquarters: "Midland, Michigan, USA"

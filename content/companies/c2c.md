@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/c2c.jpg
 title: C2C
 company_type: Converter
 headquarters: "Lublin, Poland"

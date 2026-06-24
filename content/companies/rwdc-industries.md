@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/rwdc-industries.png
 title: RWDC Industries
 company_type: Bioplastic Producer
 headquarters: "Athens, Georgia, United States (Singapore headquarters)"

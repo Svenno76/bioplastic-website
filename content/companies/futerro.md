@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/futerro.png
 title: Futerro
 company_type: Bioplastic Producer
 headquarters: "Battice, Belgium"

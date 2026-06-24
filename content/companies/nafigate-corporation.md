@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/nafigate-corporation.png
 title: NAFIGATE Corporation
 company_type: Technology Company
 headquarters: "Prague, Czech Republic"

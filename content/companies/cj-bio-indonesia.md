@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/cj-bio-indonesia.png
 title: "CJ Bio Indonesia"
 company_type: Bioplastic Producer
 headquarters: "Pasuruan, East Java, Indonesia"

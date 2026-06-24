@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/carbios.png
 title: "CARBIOS"
 company_type: Technology Company
 headquarters: "Clermont-Ferrand, France"

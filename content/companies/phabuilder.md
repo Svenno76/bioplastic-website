@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/phabuilder.png
 title: PhaBuilder
 company_type: Technology Company
 headquarters: "Beijing, China"

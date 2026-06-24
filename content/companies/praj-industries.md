@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/praj-industries.jpg
 title: Praj Industries
 company_type: Technology Company
 headquarters: "Pune, India"

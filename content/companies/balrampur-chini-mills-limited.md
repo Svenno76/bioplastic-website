@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/balrampur-chini-mills-limited.png
 title: Balrampur Chini Mills Limited
 company_type: Bioplastic Producer
 headquarters: "Kumbhi, Uttar Pradesh, India"

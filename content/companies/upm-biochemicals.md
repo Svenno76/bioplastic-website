@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/upm-biochemicals.jpg
 title: "UPM Biochemicals"
 company_type: Bioplastic Producer
 headquarters: "Lappeenranta, Finland"

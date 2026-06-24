@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/corbion.png
 title: Corbion
 company_type: Bioplastic Producer
 headquarters: "Amsterdam, Netherlands"

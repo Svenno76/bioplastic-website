@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/celanese.png
 title: Celanese Corporation
 company_type: Bioplastic Producer
 headquarters: Dallas, Texas, USA

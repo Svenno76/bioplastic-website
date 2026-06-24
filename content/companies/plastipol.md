@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/plastipol.png
 title: Plastipol
 company_type: Compounder
 headquarters: "Szczecin, Poland"

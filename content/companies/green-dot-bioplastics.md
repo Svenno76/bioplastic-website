@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/green-dot-bioplastics.png
 title: "Green Dot Bioplastics"
 company_type: Bioplastic Producer
 headquarters: "Emporia, Kansas, USA"

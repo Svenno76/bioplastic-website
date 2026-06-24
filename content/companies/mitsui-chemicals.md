@@ -1,4 +1,5 @@
 ---
+logo: /images/logos/mitsui-chemicals.png
 title: Mitsui Chemicals
 company_type: Bioplastic Producer
 headquarters: "Tokyo, Japan"
