@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   {{ partial "meta-description.html" . }}
+  {{ block "head-extra" . }}{{ end }}
   {{ partial "head-seo.html" . }}
   {{ range .Site.Params.custom_css }}
   <link rel="stylesheet" href="/{{ . }}">

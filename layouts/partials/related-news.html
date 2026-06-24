@@ -1,0 +1,71 @@
+{{/* Related News for Glossary pages — shows news articles mentioning this term */}}
+{{ if eq .Section "glossary" }}
+  {{ $term := .Title }}
+  {{ $relatedNews := slice }}
+  {{ $termPattern := printf `(?i)%s` $term }}
+  
+  {{ range where .Site.RegularPages "Section" "news" }}
+    {{ $match := false }}
+    
+    {{ if findRE $termPattern .Title }}
+      {{ $match = true }}
+    {{ else if .Params.company }}
+      {{ if reflect.IsSlice .Params.company }}
+        {{ range .Params.company }}
+          {{ if findRE $termPattern . }}
+            {{ $match = true }}
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{ if findRE $termPattern .Params.company }}
+          {{ $match = true }}
+        {{ end }}
+      {{ end }}
+    {{ else if .Params.category }}
+      {{ $catStr := .Params.category }}
+      {{ if reflect.IsSlice $catStr }}
+        {{ $catStr = delimit $catStr " " }}
+      {{ end }}
+      {{ if findRE $termPattern $catStr }}
+        {{ $match = true }}
+      {{ end }}
+    {{ end }}
+    
+    {{ if .Params.tags }}
+      {{ range .Params.tags }}
+        {{ if findRE $termPattern . }}
+          {{ $match = true }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    
+    {{ if .Params.source }}
+      {{ if findRE $termPattern .Params.source }}
+        {{ $match = true }}
+      {{ end }}
+    {{ end }}
+    
+    {{ if $match }}
+      {{ if not (in $relatedNews .Permalink) }}
+        {{ $relatedNews = $relatedNews | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{ if $relatedNews }}
+  {{ $relatedNews = first 5 (sort $relatedNews "Date" "desc") }}
+  <div style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+    <h2 style="color: #1e3a8a; margin-bottom: 1.5rem; font-size: 1.3rem; font-weight: 600;">📰 Related News</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      {{ range $relatedNews }}
+      <li style="padding: 0.75rem 0; border-bottom: 1px solid #e5e7eb;">
+        <a href="{{ .Permalink }}" style="color: #1d4ed8; text-decoration: none; font-weight: 500; font-size: 0.95rem; line-height: 1.4; display: block;">
+          {{ .Title }}
+        </a>
+        <span style="color: #9ca3af; font-size: 0.8rem;">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+{{ end }}
