@@ -290,7 +290,7 @@ a:hover {
   }
 
   .site-navigation.active {
-    max-height: 300px;
+    max-height: 500px;
     box-shadow: 0 4px 6px rgba(26, 42, 40, 0.1);
   }
 

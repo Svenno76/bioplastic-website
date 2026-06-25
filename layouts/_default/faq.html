@@ -28,9 +28,37 @@
 
     <!-- FAQ Content -->
     <div style="max-width: 55rem; margin: 0 auto; padding: 3rem 2rem;">
-      <div id="faq-accordion" style="font-size: 1.1rem; line-height: 1.8; color: var(--color-text-dark);">
-        {{ .Content }}
-      </div>
+      {{ $raw := .RawContent }}
+      {{ $raw = replaceRE "\\\\n" "\n" $raw }}
+      {{ $sections := split $raw "\n---\n" }}
+      {{ range $sections }}
+        {{ $lines := split . "\n" }}
+        {{ $inQuestion := false }}
+        {{ $questionTitle := "" }}
+        {{ range $lines }}
+          {{ if hasPrefix . "## " }}
+            <div style="margin-bottom: 1.5rem;">
+              <h2 style="color: #1e4d45; font-size: 1.6rem; font-weight: 700; font-family: var(--font-display); padding-bottom: 0.75rem; border-bottom: 2px solid #e0e8e6;">{{ trim (replaceRE "## " "" .) " " }}</h2>
+            </div>
+          {{ else if hasPrefix . "### " }}
+            {{ $questionTitle = trim (replaceRE "### " "" .) " " }}
+            <div class="accordion-item" style="border: 1px solid #e0e8e6; margin-bottom: 1rem; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.05); transition: box-shadow 0.2s;">
+              <button class="accordion-header" onclick="toggleFaq(this)" style="width: 100%; text-align: left; background: #f7f9f8; padding: 1.4rem 1.75rem; border: none; font-size: 1.1rem; color: #1e4d45; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.2s; font-family: var(--font-body);">
+                <span style="padding-right: 1rem;">{{ $questionTitle }}</span>
+                <span class="accordion-icon" style="font-size: 1.4rem; color: #3d7a6f; transition: transform 0.3s; flex-shrink: 0; font-weight: 300;">+</span>
+              </button>
+              <div class="accordion-content" style="padding: 0 1.75rem; background: white; max-height: 0; overflow: hidden; transition: max-height 0.35s ease-out; font-size: 1rem; color: #475569; line-height: 1.75;">
+                <div style="padding: 1rem 0 1.75rem 0;">
+          {{ else if and (ne . "") (ne $questionTitle "") (not (hasPrefix . "## ")) (not (hasPrefix . "### ")) }}
+            {{ $markdown := . }}
+            {{ $html := $markdown | markdownify }}
+            {{ $html }}
+          {{ end }}
+        {{ end }}
+                </div>
+              </div>
+            </div>
+      {{ end }}
     </div>
 
     <!-- Quick Facts Box -->
@@ -59,98 +87,24 @@
     </div>
   </main>
 
+
+
   <script>
-    // Transform FAQ content into accordion
-    (function() {
-      const container = document.getElementById('faq-accordion');
-      if (!container) return;
-
-      const elements = Array.from(container.children);
-      let currentSection = null;
-      let currentQuestion = null;
-
-      // Create a wrapper for non-accordion content
-      const wrapper = document.createElement('div');
-      container.appendChild(wrapper);
-
-      elements.forEach(el => {
-        if (el.tagName === 'H2') {
-          // Section title
-          currentSection = document.createElement('div');
-          currentSection.style.marginBottom = '1.5rem';
-          const h2 = document.createElement('h2');
-          h2.textContent = el.textContent;
-          h2.style.cssText = 'color: #1e4d45; font-size: 1.6rem; font-weight: 700; font-family: var(--font-display); padding-bottom: 0.75rem; border-bottom: 2px solid #e0e8e6;';
-          currentSection.appendChild(h2);
-          wrapper.appendChild(currentSection);
-          currentQuestion = null;
-        } else if (el.tagName === 'H3') {
-          // Start new accordion item
-          currentQuestion = document.createElement('div');
-          currentQuestion.className = 'accordion-item';
-          currentQuestion.style.cssText = 'border: 1px solid #e0e8e6; margin-bottom: 1rem; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.05); transition: box-shadow 0.2s;';
-
-          const button = document.createElement('button');
-          button.className = 'accordion-header';
-          button.style.cssText = 'width: 100%; text-align: left; background: #f7f9f8; padding: 1.4rem 1.75rem; border: none; font-size: 1.1rem; color: #1e4d45; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.2s; font-family: var(--font-body);';
-
-          const spanText = document.createElement('span');
-          spanText.textContent = el.textContent;
-          spanText.style.paddingRight = '1rem';
-
-          const spanIcon = document.createElement('span');
-          spanIcon.className = 'accordion-icon';
-          spanIcon.textContent = '+';
-          spanIcon.style.cssText = 'font-size: 1.4rem; color: #3d7a6f; transition: transform 0.3s; flex-shrink: 0; font-weight: 300;';
-
-          button.appendChild(spanText);
-          button.appendChild(spanIcon);
-
-          const content = document.createElement('div');
-          content.className = 'accordion-content';
-          content.style.cssText = 'padding: 0 1.75rem; background: white; max-height: 0; overflow: hidden; transition: max-height 0.35s ease-out; font-size: 1rem; color: #475569; line-height: 1.75;';
-          content.innerHTML = '<div style="padding: 1rem 0 1.75rem 0;"></div>';
-
-          currentQuestion.appendChild(button);
-          currentQuestion.appendChild(content);
-          wrapper.appendChild(currentQuestion);
-        } else {
-          // Content element — add to current question or as standalone
-          if (currentQuestion) {
-            const contentDiv = currentQuestion.querySelector('.accordion-content div');
-            contentDiv.appendChild(el.cloneNode(true));
-          } else {
-            wrapper.appendChild(el.cloneNode(true));
-          }
-        }
+    function toggleFaq(button) {
+      const content = button.nextElementSibling;
+      const icon = button.querySelector('.accordion-icon');
+      const isOpen = button.classList.contains('active');
+      document.querySelectorAll('.accordion-header').forEach(btn => {
+        btn.classList.remove('active');
+        btn.nextElementSibling.style.maxHeight = 0;
+        btn.querySelector('.accordion-icon').style.transform = 'rotate(0deg)';
       });
-
-      // Remove original elements (they've been moved to wrapper)
-      elements.forEach(el => el.remove());
-
-      // Attach accordion click handlers
-      document.querySelectorAll('.accordion-header').forEach(button => {
-        button.addEventListener('click', () => {
-          const accordionContent = button.nextElementSibling;
-          const icon = button.querySelector('.accordion-icon');
-          const isOpen = button.classList.contains('active');
-
-          // Close all
-          document.querySelectorAll('.accordion-header').forEach(btn => {
-            btn.classList.remove('active');
-            btn.nextElementSibling.style.maxHeight = 0;
-            btn.querySelector('.accordion-icon').style.transform = 'rotate(0deg)';
-          });
-
-          // Open current
-          if (!isOpen) {
-            button.classList.add('active');
-            accordionContent.style.maxHeight = accordionContent.scrollHeight + 'px';
-            icon.style.transform = 'rotate(45deg)';
-          }
-        });
-      });
-    })();
+      if (!isOpen) {
+        button.classList.add('active');
+        content.style.maxHeight = content.scrollHeight + 'px';
+        icon.style.transform = 'rotate(45deg)';
+      }
+    }
   </script>
 
   {{ partial "site-footer.html" }}
