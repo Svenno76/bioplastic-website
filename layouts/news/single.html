@@ -47,7 +47,10 @@
         {{ end }}
 
         <div class="news-content" style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark);">
-          {{ partial "auto-link-content.html" (dict "Content" .Content) }}
+          {{ $content := .Content }}
+          {{ $content = $content | replaceRE `(?i)<picture>[\s\S]*?</picture>\s*` "" | safeHTML }}
+          {{ $content = $content | replaceRE `(?i)<img[^>]*>\s*` "" | safeHTML }}
+          {{ partial "auto-link-content.html" (dict "Content" $content) }}
         </div>
 
         {{ if .Params.source }}
