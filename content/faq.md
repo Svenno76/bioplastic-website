@@ -92,7 +92,6 @@ Major global producers include:
 - **Novamont** (Italy) — starch-based bioplastics
 - **BASF** (Germany) — PBAT (ecoflex)
 - **Kaneka** (Japan) — PHA
-- **Futerro** (Belgium) — PLA
 - **CJ BIO** (South Korea) — PHA and PLA
 
 ### Is the bioplastics industry growing?
