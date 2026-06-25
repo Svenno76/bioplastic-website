@@ -4,6 +4,7 @@ date: 2026-05-04
 draft: false
 sitemap:
   priority: 0.7
+featured_image: "/images/news/blue-ocean-fiber-screw-caps.jpg"
 summary: "Blue Ocean Closures reaches price parity: fiber-based screw caps now cost-competitive with fossil plastic. L'Oréal selected BOC for its €100M L'Accelerator program. Live Puri also adopts BOC's NutraCap fiber closures."
 tags: ["Fiber Closures", "Price Parity", "L'Oréal", "L'Accelerator", "Screw Caps", "Sweden"]
 category: "Product Launch"

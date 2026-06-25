@@ -13,6 +13,7 @@ date: '2026-02-13'
 draft: true
 sitemap:
   priority: 0.8
+logo: /images/logos/upm-biochemicals.jpg
 ---
 
 ## Overview

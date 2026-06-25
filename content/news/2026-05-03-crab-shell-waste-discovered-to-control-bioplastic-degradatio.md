@@ -4,6 +4,7 @@ date: 2026-05-03
 draft: false
 sitemap:
   priority: 0.7
+featured_image: "/images/news/crab-shell-biodegradation.jpg"
 summary: "Researchers from Gunma University and JAMSTEC have discovered that incorporating chitin-rich crab shell waste into bioplastics significantly accelerates and controls their degradation rates in marine environments."
 tags: ["Chitin", "Marine Biodegradation", "Aliphatic Polyesters", "Biofilm Formulation"]
 category: "Partnerships"

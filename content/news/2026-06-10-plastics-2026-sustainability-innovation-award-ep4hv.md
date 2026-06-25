@@ -4,6 +4,7 @@ date: 2026-06-10
 draft: false
 sitemap:
   priority: 0.7
+featured_image: "/images/news/plastics-award-ep4hv.jpg"
 summary: "The PLASTICS Industry Association has announced the winners of its 2026 Innovation in Bioplastics Award competition. e-P4HV was recognized for combining high performance with designed biodegradability and a new electricity-driven pathway from biomass."
 tags: ["Innovation Award", "PLASTICS", "e-P4HV", "Biodegradable", "High-Performance", "Biomass"]
 category: "Industry Event"

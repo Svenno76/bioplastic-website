@@ -4,7 +4,8 @@ date: 2026-06-08
 draft: false
 sitemap:
   priority: 0.7
-summary: "Emirates Biotech selects Samsung E&A as contractor and advances Sulzer partnership for equipment supply. The UAE facility aims to be the world's largest bioplastics plant, producing PLA from food waste via the European CIRCLE Consortium."
+featured_image: "/images/news/emirates-biotech-facility.jpg"
+summary: "Emirates Biotech is pushing forward on its mega-project — and lining up serious partners to do it, selecting Samsung E&A as contractor and advancing Sulzer partnership."
 tags: ["UAE", "PLA", "Sulzer", "Samsung", "CIRCLE Consortium", "Food Waste"]
 category: "Plant Announcement"
 company: "Emirates Biotech"

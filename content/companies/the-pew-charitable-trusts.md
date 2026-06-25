@@ -9,6 +9,7 @@ date: 2026-01-02
 draft: false
 sitemap:
   priority: 0.8
+logo: /images/logos/pew-charitable-trusts
 ---
 
 The Pew Charitable Trusts is a non-profit, non-governmental organization focused on addressing major societal challenges through data-driven solutions. With significant interests in environmental conservation and ocean health, Pew actively works on issues related to plastic pollution and sustainable materials as part of its broader environmental advocacy and research initiatives.

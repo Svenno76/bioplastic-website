@@ -4,7 +4,8 @@ date: 2026-06-03
 draft: false
 sitemap:
   priority: 0.7
-summary: "Aduro joins Chemical Recycling Europe, appoints senior industrial leader for FOAK facility at Chemelot, Netherlands, and advances plans for a 10,000-tonne chemical recycling plant."
+featured_image: "/images/news/aduro-chemical-recycling.jpg"
+summary: "Aduro Clean Technologies from Canada is getting serious about Europe. The company, which has developed its own technology for chemical recycling of waste plastics, has taken three significant steps."
 tags: ["Chemical Recycling", "FOAK", "Netherlands", "10,000t", "Chemelot", "Canada"]
 category: "Investment & Funding"
 company: "Aduro Clean Technologies"

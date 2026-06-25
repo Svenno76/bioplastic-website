@@ -4,6 +4,7 @@ date: 2026-05-08
 draft: false
 sitemap:
   priority: 0.7
+featured_image: "/images/news/totalenergies-corbion-yuhan-kimberly-wipes.jpg"
 summary: "TotalEnergies Corbion and Yuhan-Kimberly have commercialized a new generation of washable, biobased kitchen towels made from Luminy® PLA, PHA, and FSC-certified pulp — a reusable alternative to disposable wipes."
 tags: ["PLA", "PHA", "TotalEnergies Corbion", "Yuhan-Kimberly", "Washable Wipes", "Circular Economy", "Biobased Materials", "Luminy"]
 category: "Product Launch"
