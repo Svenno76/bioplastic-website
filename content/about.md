@@ -1,6 +1,7 @@
 ---
 title: "About Bioplastics Portal"
 date: 2024-01-01
+layout: "about"
 page_type: "about"
 summary: "Learn about Bioplastics Portal and its founder Sven Cammerer — a comprehensive resource for bioplastics research, company profiles, industry news, and educational content."
 image: "/images/sven-cammerer.jpg"

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  {{ partial "meta-description.html" . }}
+  {{ partial "head-seo.html" . }}
+  {{ partial "faq-schema.html" . }}
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+  </style>
+</head>
+<body>
+  {{ partial "site-header.html" }}
+
+  <main>
+    <!-- Hero Section -->
+    <div style="background: linear-gradient(135deg, #faf9f7 0%, #eef5f3 100%); border-bottom: 1px solid #e0e8e6; padding: 3rem 2rem; text-align: center;">
+      <div style="max-width: 50rem; margin: 0 auto;">
+        <h1 style="font-size: 2.8rem; font-weight: 800; color: #1e4d45; letter-spacing: -1px; font-family: var(--font-display); margin-bottom: 0.75rem;">Frequently Asked Questions</h1>
+        <p style="font-size: 1.15rem; color: #6b7f7d; line-height: 1.6;">Everything you need to know about bioplastics — from basics to technical details.</p>
+      </div>
+    </div>
+
+    <!-- FAQ Content -->
+    <div style="max-width: 55rem; margin: 0 auto; padding: 3rem 2rem;">
+      <div id="faq-accordion" style="font-size: 1.1rem; line-height: 1.8; color: var(--color-text-dark);">
+        {{ .Content }}
+      </div>
+    </div>
+
+    <!-- Quick Facts Box -->
+    <div style="max-width: 55rem; margin: 0 auto; padding: 0 2rem 3rem 2rem;">
+      <div style="background: linear-gradient(135deg, #1e4d45 0%, #2d5a4f 100%); border-radius: 16px; padding: 2.5rem; color: white;">
+        <h3 style="font-size: 1.4rem; font-weight: 700; font-family: var(--font-display); margin-bottom: 1.5rem;">Quick Facts</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;">
+          <div>
+            <div style="font-size: 2rem; font-weight: 800; font-family: var(--font-display);">$10-12B</div>
+            <div style="font-size: 0.9rem; opacity: 0.85; margin-top: 0.25rem;">Market Size (2025)</div>
+          </div>
+          <div>
+            <div style="font-size: 2rem; font-weight: 800; font-family: var(--font-display);">$25-30B</div>
+            <div style="font-size: 0.9rem; opacity: 0.85; margin-top: 0.25rem;">Projected by 2030</div>
+          </div>
+          <div>
+            <div style="font-size: 2rem; font-weight: 800; font-family: var(--font-display);">15-18%</div>
+            <div style="font-size: 0.9rem; opacity: 0.85; margin-top: 0.25rem;">CAGR Growth Rate</div>
+          </div>
+          <div>
+            <div style="font-size: 2rem; font-weight: 800; font-family: var(--font-display);">2M+</div>
+            <div style="font-size: 0.9rem; opacity: 0.85; margin-top: 0.25rem;">Tonnes/Year Capacity</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // Transform FAQ content into accordion
+    (function() {
+      const container = document.getElementById('faq-accordion');
+      if (!container) return;
+
+      const elements = Array.from(container.children);
+      let currentSection = null;
+      let currentQuestion = null;
+
+      // Create a wrapper for non-accordion content
+      const wrapper = document.createElement('div');
+      container.appendChild(wrapper);
+
+      elements.forEach(el => {
+        if (el.tagName === 'H2') {
+          // Section title
+          currentSection = document.createElement('div');
+          currentSection.style.marginBottom = '1.5rem';
+          const h2 = document.createElement('h2');
+          h2.textContent = el.textContent;
+          h2.style.cssText = 'color: #1e4d45; font-size: 1.6rem; font-weight: 700; font-family: var(--font-display); padding-bottom: 0.75rem; border-bottom: 2px solid #e0e8e6;';
+          currentSection.appendChild(h2);
+          wrapper.appendChild(currentSection);
+          currentQuestion = null;
+        } else if (el.tagName === 'H3') {
+          // Start new accordion item
+          currentQuestion = document.createElement('div');
+          currentQuestion.className = 'accordion-item';
+          currentQuestion.style.cssText = 'border: 1px solid #e0e8e6; margin-bottom: 1rem; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.05); transition: box-shadow 0.2s;';
+
+          const button = document.createElement('button');
+          button.className = 'accordion-header';
+          button.style.cssText = 'width: 100%; text-align: left; background: #f7f9f8; padding: 1.4rem 1.75rem; border: none; font-size: 1.1rem; color: #1e4d45; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.2s; font-family: var(--font-body);';
+
+          const spanText = document.createElement('span');
+          spanText.textContent = el.textContent;
+          spanText.style.paddingRight = '1rem';
+
+          const spanIcon = document.createElement('span');
+          spanIcon.className = 'accordion-icon';
+          spanIcon.textContent = '+';
+          spanIcon.style.cssText = 'font-size: 1.4rem; color: #3d7a6f; transition: transform 0.3s; flex-shrink: 0; font-weight: 300;';
+
+          button.appendChild(spanText);
+          button.appendChild(spanIcon);
+
+          const content = document.createElement('div');
+          content.className = 'accordion-content';
+          content.style.cssText = 'padding: 0 1.75rem; background: white; max-height: 0; overflow: hidden; transition: max-height 0.35s ease-out; font-size: 1rem; color: #475569; line-height: 1.75;';
+          content.innerHTML = '<div style="padding: 1rem 0 1.75rem 0;"></div>';
+
+          currentQuestion.appendChild(button);
+          currentQuestion.appendChild(content);
+          wrapper.appendChild(currentQuestion);
+        } else {
+          // Content element — add to current question or as standalone
+          if (currentQuestion) {
+            const contentDiv = currentQuestion.querySelector('.accordion-content div');
+            contentDiv.appendChild(el.cloneNode(true));
+          } else {
+            wrapper.appendChild(el.cloneNode(true));
+          }
+        }
+      });
+
+      // Remove original elements (they've been moved to wrapper)
+      elements.forEach(el => el.remove());
+
+      // Attach accordion click handlers
+      document.querySelectorAll('.accordion-header').forEach(button => {
+        button.addEventListener('click', () => {
+          const accordionContent = button.nextElementSibling;
+          const icon = button.querySelector('.accordion-icon');
+          const isOpen = button.classList.contains('active');
+
+          // Close all
+          document.querySelectorAll('.accordion-header').forEach(btn => {
+            btn.classList.remove('active');
+            btn.nextElementSibling.style.maxHeight = 0;
+            btn.querySelector('.accordion-icon').style.transform = 'rotate(0deg)';
+          });
+
+          // Open current
+          if (!isOpen) {
+            button.classList.add('active');
+            accordionContent.style.maxHeight = accordionContent.scrollHeight + 'px';
+            icon.style.transform = 'rotate(45deg)';
+          }
+        });
+      });
+    })();
+  </script>
+
+  {{ partial "site-footer.html" }}
+</body>
+</html>

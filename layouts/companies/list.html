@@ -31,7 +31,7 @@
         All Companies
       </button>
     </div>
-    <p id="company-count" style="font-size: 0.85rem; color: #64748b; margin-top: 1rem;"></p>
+    <p id="company-count" style="font-size: 0.85rem; color: #64748b; margin-top: 1rem;">Showing {{ len .Pages }} companies</p>
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem;" id="companies-grid">
@@ -154,30 +154,24 @@
     let currentFilter = 'all';
     let uniqueTypes = new Set();
 
-    // Initialize on page load
     window.addEventListener('load', function() {
-      // Collect all unique company types from cards (handling both single and multiple types)
+      // Update initial count and filter buttons (after all companies are loaded)
+      updateCount();
+
+      // Generate filter buttons dynamically
+      const buttonContainer = document.getElementById('filter-buttons');
+      const allTypes = new Set();
       document.querySelectorAll('.company-card').forEach(card => {
         const typesStr = card.getAttribute('data-company-types');
         if (typesStr && typesStr !== 'null') {
-          // Split comma-separated types
-          const types = typesStr.split(',').map(t => t.trim());
-          types.forEach(type => {
-            if (type) {
-              uniqueTypes.add(type);
-            }
-          });
+          typesStr.split(',').map(t => t.trim()).forEach(type => allTypes.add(type));
         }
       });
-
-      // Sort types for consistent ordering
-      const sortedTypes = Array.from(uniqueTypes).sort();
+      const sortedTypes = Array.from(allTypes).sort();
 
       // Filter out "Biotechnology Company" from the list
       const filteredTypes = sortedTypes.filter(type => type !== 'Biotechnology Company');
 
-      // Create filter buttons dynamically
-      const buttonContainer = document.getElementById('filter-buttons');
       filteredTypes.forEach(type => {
         const button = document.createElement('button');
         button.className = 'filter-btn';
@@ -197,12 +191,23 @@
         buttonContainer.appendChild(button);
       });
 
-      // Update initial count
-      updateCount();
+      // Initial filter application if URL parameter exists
+      const urlParams = new URLSearchParams(window.location.search);
+      const initialFilter = urlParams.get('type') || 'all';
+      filterByType(initialFilter);
     });
 
     function filterByType(type) {
       currentFilter = type;
+
+      // Update URL parameter
+      const url = new URL(window.location);
+      if (type === 'all') {
+        url.searchParams.delete('type');
+      } else {
+        url.searchParams.set('type', type);
+      }
+      window.history.replaceState({}, '', url);
 
       // Update button styles
       document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -230,7 +235,6 @@
         if (type === 'all') {
           card.style.display = 'flex';
         } else {
-          // Show card if it has the selected type (handles both single and multiple types)
           card.style.display = companyTypes.includes(type) ? 'flex' : 'none';
         }
       });
@@ -242,11 +246,15 @@
       const cards = document.querySelectorAll('.company-card');
       const visibleCards = Array.from(cards).filter(card => card.style.display !== 'none');
       const countEl = document.getElementById('company-count');
+      const totalCompanies = {{ len .Pages }};
 
       if (countEl) {
-        const total = cards.length;
         const visible = visibleCards.length;
-        countEl.textContent = `Showing ${visible} of ${total} companies`;
+        if (visible === totalCompanies) {
+          countEl.textContent = `Showing ${totalCompanies} companies`;
+        } else {
+          countEl.textContent = `Showing ${visible} of ${totalCompanies} companies`;
+        }
       }
     }
   </script>

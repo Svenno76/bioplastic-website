@@ -38,8 +38,9 @@
 
         {{ $allCategories := slice }}
         {{ range .Pages }}
-          {{ if .Params.category }}
-            {{ $allCategories = $allCategories | append .Params.category }}
+          {{ $cat := .Params.category }}
+          {{ if and $cat (ne $cat "Company News") (ne $cat "Corporate") (ne $cat "company_news") (ne $cat "M&A") }}
+            {{ $allCategories = $allCategories | append $cat }}
           {{ end }}
         {{ end }}
         {{ $uniqueCategories := $allCategories | uniq | sort }}

@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions — Bioplastics"
 description: "Common questions about bioplastics: what they are, how they differ from conventional plastics, biodegradability, market outlook, and more."
+layout: "faq"
 page_type: "faq"
 sitemap:
   priority: 0.8
