@@ -5,7 +5,7 @@ draft: false
 categories: ["Guide", "Materials"]
 tags: ["PLA", "Polylactic Acid", "Bio-based", "Compostable", "Packaging", "NatureWorks", "TotalEnergies Corbion", "Ingeo", "Luminy", "3D Printing", "Industrial Composting"]
 summary: "PLA (polylactic acid) is the world's most widely used bioplastic — found in packaging, 3D printing filament, textiles, and disposable cutlery. This comprehensive guide covers how PLA is made, its properties, applications, limitations, and why it's central to the bioplastics revolution."
-featured_image: "/images/blog/pla-guide-hero.jpg"
+featured_image: "/images/blog/pla-hero.jpg"
 image_type: "photo"
 ---
 
