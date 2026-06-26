@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ partial "head-seo.html" . }}
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+  <main>
+    <div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
+      <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+        <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">News by Company</h1>
+        <p style="font-size: 1.1rem; color: #6b7f7d;">Browse all bioplastics news articles grouped by company.</p>
+      </header>
+
+      {{ $companyPages := slice }}
+      {{ range .Site.RegularPages }}
+        {{ if eq .Section "news" }}
+          {{ if reflect.IsSlice .Params.company }}
+            {{ range $c := .Params.company }}
+              {{ $companyPages = $companyPages | append (dict "name" $c "page" $) }}
+            {{ end }}
+          {{ else if .Params.company }}
+            {{ $companyPages = $companyPages | append (dict "name" .Params.company "page" $) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ $groups := dict }}
+      {{ range $companyPages }}
+        {{ $name := .name }}
+        {{ $existing := index $groups $name | default (slice) }}
+        {{ $groups = merge $groups (dict $name ($existing | append .page)) }}
+      {{ end }}
+
+      {{ $companyNames := slice }}
+      {{ range $name, $_ := $groups }}
+        {{ $companyNames = $companyNames | append $name }}
+      {{ end }}
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
+        {{ range $companyNames | sort }}
+          {{ $pages := index $groups . }}
+          <div style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; padding: 1.5rem;">
+            <h3 style="font-size: 1.1rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 700;">{{ . }}</h3>
+            <p style="font-size: 0.85rem; color: #6b7f7d; margin-bottom: 1rem;">{{ len $pages }} article{{ if ne (len $pages) 1 }}s{{ end }}</p>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              {{ range first 3 $pages.ByDate.Reverse }}
+              <li style="padding: 0.4rem 0; border-bottom: 1px solid #f0f4f3;">
+                <a href="{{ .Permalink }}" style="color: #3d7a6f; text-decoration: none; font-size: 0.85rem; font-weight: 500;">{{ .Title | truncate 50 }}</a>
+                <span style="color: #999; font-size: 0.75rem; display: block;">{{ .Date.Format "Jan 2, 2006" }}</span>
+              </li>
+              {{ end }}
+            </ul>
+            {{ if gt (len $pages) 3 }}
+            <p style="margin-top: 0.75rem; font-size: 0.8rem; color: #6b7f7d;">+ {{ sub (len $pages) 3 }} more...</p>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+
+      <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e0e8e6;">
+        <a href="/news/" style="color: #3d7a6f; text-decoration: none; font-weight: 600;">← Back to News</a>
+      </footer>
+    </div>
+  </main>
+  {{ partial "site-footer.html" . }}
+</body>
+</html>

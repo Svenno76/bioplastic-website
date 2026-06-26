@@ -1,12 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
-  <title>Debug {{ .Title }}</title>
-  <meta name="debug-kind" content="{{ .Kind }}">
-  <meta name="debug-pages" content="{{ len .Pages }}">
-  <meta name="debug-type" content="{{ .Type }}">
-  {{ if eq .Kind "taxonomy" }}<meta name="debug-is-taxonomy" content="true">{{ end }}
-  {{ if eq .Kind "term" }}<meta name="debug-is-term" content="true">{{ end }}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} — Bioplastics Portal</title>
+  <meta name="description" content="{{ .Title }} — Bioplastics Portal taxonomy index.">
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
 </head>
-<body>{{ .Title }} - Kind: {{ .Kind }}, Pages: {{ len .Pages }}</body>
+<body>
+  {{ partial "site-header.html" . }}
+  <main>
+    <div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
+      <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+        <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800;">{{ .Title }}</h1>
+        <p style="font-size: 1.1rem; color: #6b7f7d;">Browse all {{ .Title | lower }} with news articles on Bioplastics Portal.</p>
+      </header>
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+        {{ range .Pages.ByTitle }}
+        <a href="{{ .Permalink }}" style="display: block; padding: 1.25rem; background: white; border: 1px solid #e0e8e6; border-radius: 10px; text-decoration: none; transition: all 0.2s;">
+          <h3 style="font-size: 1.1rem; color: #2d5a4f; margin-bottom: 0.25rem; font-weight: 600;">{{ .Title }}</h3>
+          <p style="font-size: 0.85rem; color: #6b7f7d;">{{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }}</p>
+        </a>
+        {{ end }}
+      </div>
+      <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e0e8e6;">
+        <a href="/news/" style="color: #3d7a6f; text-decoration: none; font-weight: 600;">← Back to News</a>
+      </footer>
+    </div>
+  </main>
+  {{ partial "site-footer.html" . }}
+</body>
 </html>

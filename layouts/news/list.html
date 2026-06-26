@@ -9,6 +9,23 @@
   {{ end }}
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
+    .news-post { transition: all 0.3s ease; }
+    .news-post:hover { transform: translateY(-6px); box-shadow: 0 12px 24px rgba(26, 42, 40, 0.12) !important; border-color: #3d7a6f !important; }
+    .news-post:hover img { transform: scale(1.05); }
+    .filter-select { padding: 0.5rem 2rem 0.5rem 0.75rem; border: 1px solid #c0d0cc; border-radius: 8px; font-size: 0.9rem; color: #2d5a4f; background: white url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%233d7a6f' d='M6 8L1 3h10z'/%3E%3C/svg%3E") no-repeat right 0.75rem center; appearance: none; cursor: pointer; min-width: 160px; }
+    .filter-select:focus { outline: none; border-color: #3d7a6f; box-shadow: 0 0 0 3px rgba(61, 122, 111, 0.15); }
+    .search-input { padding: 0.5rem 0.75rem 0.5rem 2.25rem; border: 1px solid #c0d0cc; border-radius: 8px; font-size: 0.9rem; color: #2d5a4f; background: white url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%236b7f7d' d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'/%3E%3C/svg%3E") no-repeat left 0.75rem center; width: 100%; max-width: 280px; }
+    .search-input:focus { outline: none; border-color: #3d7a6f; box-shadow: 0 0 0 3px rgba(61, 122, 111, 0.15); }
+    .filter-pill { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.35rem 0.75rem; background: #e8f2f0; color: #2d5a4f; border-radius: 16px; font-size: 0.8rem; font-weight: 500; }
+    .filter-pill button { background: none; border: none; color: #3d7a6f; cursor: pointer; font-size: 1rem; line-height: 1; padding: 0; }
+    .filter-pill button:hover { color: #1a3a33; }
+    .clear-all-btn { padding: 0.5rem 1rem; border: 1px solid #c0d0cc; background: white; color: #6b7f7d; border-radius: 8px; cursor: pointer; font-size: 0.85rem; font-weight: 500; transition: all 0.2s; }
+    .clear-all-btn:hover { border-color: #3d7a6f; color: #3d7a6f; }
+    @media (max-width: 768px) {
+      #news-list { grid-template-columns: 1fr !important; }
+      .filter-row { flex-direction: column !important; align-items: stretch !important; }
+      .search-input { max-width: 100% !important; }
+    }
   </style>
 </head>
 <body>
@@ -26,81 +43,85 @@
       {{ end }}
     </header>
 
-    <!-- Category Filter Section -->
-    <div id="category-filter-section" style="margin-bottom: 2rem; padding: 2rem; background: #f7f9f8; border-radius: 12px; border: 1px solid #e0e8e6;">
-      <h3 style="margin: 0 0 1.25rem 0; color: #2d5a4f; font-size: 1.1rem; font-weight: 700;">Filter by News Category:</h3>
+    <!-- Unified Filter Bar -->
+    <div id="filter-bar" style="margin-bottom: 2rem; padding: 1.5rem; background: #f7f9f8; border-radius: 12px; border: 1px solid #e0e8e6;">
+      <div class="filter-row" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">
 
-      <div id="category-buttons" style="display: flex; flex-wrap: wrap; gap: 0.75rem;">
-        <button onclick="filterPosts('all', 'category')" class="category-filter active" data-category="all"
-                style="padding: 0.6rem 1.2rem; border: 1px solid #3d7a6f; background: #3d7a6f; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
-          All Categories
-        </button>
+        <!-- Search -->
+        <div style="flex: 1; min-width: 200px; max-width: 280px;">
+          <input type="text" id="search-input" class="search-input" placeholder="Search titles..." oninput="applyFilters()">
+        </div>
 
-        {{ $allCategories := slice }}
-        {{ range .Pages }}
-          {{ $cat := .Params.category }}
-          {{ if and $cat (ne $cat "Company News") (ne $cat "Corporate") (ne $cat "company_news") (ne $cat "M&A") }}
-            {{ $allCategories = $allCategories | append $cat }}
+        <!-- Category Dropdown -->
+        <select id="category-select" class="filter-select" onchange="applyFilters()">
+          <option value="all">All Categories</option>
+          {{ $allCategories := slice }}
+          {{ range .Pages }}
+            {{ $cat := .Params.category }}
+            {{ if and $cat (ne $cat "Company News") (ne $cat "Corporate") (ne $cat "company_news") (ne $cat "M&A") }}
+              {{ $allCategories = $allCategories | append $cat }}
+            {{ end }}
           {{ end }}
-        {{ end }}
-        {{ $uniqueCategories := $allCategories | uniq | sort }}
+          {{ range $allCategories | uniq | sort }}
+          <option value="{{ . }}">{{ . }}</option>
+          {{ end }}
+        </select>
 
-        {{ range $uniqueCategories }}
-        <button onclick="filterPosts('{{ . }}', 'category')" class="category-filter" data-category="{{ . }}"
-                style="padding: 0.6rem 1.2rem; border: 1px solid #3d7a6f; background: white; color: #3d7a6f; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
-          {{ . }}
-        </button>
-        {{ end }}
-      </div>
-    </div>
-
-    <!-- Company Type Filter Section -->
-    <div id="company-type-filter-section" style="margin-bottom: 2.5rem; padding: 2rem; background: #f7f9f8; border-radius: 12px; border: 1px solid #e0e8e6;">
-      <h3 style="margin: 0 0 1.25rem 0; color: #2d5a4f; font-size: 1.1rem; font-weight: 700;">Filter by Company Type:</h3>
-
-      <div id="company-type-buttons" style="display: flex; flex-wrap: wrap; gap: 0.75rem;">
-        <button onclick="filterPosts('all', 'company_type')" class="company-type-filter active" data-company_type="all"
-                style="padding: 0.6rem 1.2rem; border: 1px solid #d4a574; background: #d4a574; color: white; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
-          All Types
-        </button>
-
-        {{ $allCompanyTypes := slice }}
-        {{ range .Pages }}
-          {{ if .Params.company_type }}
-            {{ $companyType := .Params.company_type }}
-            {{ if eq (printf "%T" $companyType) "string" }}
-              {{ if ne $companyType "Bioplastic Producer, Technology Company" }}
-                {{ $allCompanyTypes = $allCompanyTypes | append $companyType }}
+        <!-- Company Dropdown -->
+        <select id="company-select" class="filter-select" onchange="applyFilters()">
+          <option value="all">All Companies</option>
+          {{ $allCompanies := slice }}
+          {{ range .Pages }}
+            {{ if .Params.company }}
+              {{ if reflect.IsSlice .Params.company }}
+                {{ range $c := .Params.company }}
+                  {{ $allCompanies = $allCompanies | append $c }}
+                {{ end }}
+              {{ else }}
+                {{ $allCompanies = $allCompanies | append .Params.company }}
               {{ end }}
             {{ end }}
           {{ end }}
-        {{ end }}
-        {{ $uniqueCompanyTypes := $allCompanyTypes | uniq | sort }}
+          {{ range $allCompanies | uniq | sort }}
+          <option value="{{ . }}">{{ . }}</option>
+          {{ end }}
+        </select>
 
-        {{ range $uniqueCompanyTypes }}
-        <button onclick="filterPosts('{{ . }}', 'company_type')" class="company-type-filter" data-company_type="{{ . }}"
-                style="padding: 0.6rem 1.2rem; border: 1px solid #d4a574; background: white; color: #d4a574; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: all 0.3s; font-weight: 500;">
-          {{ . }}
-        </button>
-        {{ end }}
+        <!-- Date Range Dropdown -->
+        <select id="date-select" class="filter-select" onchange="applyFilters()">
+          <option value="all">All Time</option>
+          <option value="7">Last 7 Days</option>
+          <option value="30">Last 30 Days</option>
+          <option value="90">Last 3 Months</option>
+          <option value="365">Last Year</option>
+        </select>
+
+        <!-- Clear All -->
+        <button class="clear-all-btn" onclick="clearAllFilters()">Clear All</button>
+
+        <!-- Browse by Company link -->
+        <a href="/news/companies/" style="padding: 0.5rem 1rem; color: #3d7a6f; text-decoration: none; font-size: 0.85rem; font-weight: 600; white-space: nowrap;">Browse by Company →</a>
       </div>
 
-      <div id="active-filters" style="font-size: 0.9rem; color: #6b7f7d; margin-top: 1.25rem; font-weight: 500;">
-        Showing: <span id="filter-status" style="color: #2d5a4f;">All posts</span>
+      <!-- Active Filter Pills -->
+      <div id="active-pills" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; min-height: 0;"></div>
+
+      <!-- Results Counter -->
+      <div id="results-counter" style="margin-top: 1rem; font-size: 0.9rem; color: #6b7f7d; font-weight: 500;">
+        Showing <span id="visible-count" style="font-weight: 700; color: #2d5a4f;">{{ len .Pages }}</span> of <span style="font-weight: 700; color: #2d5a4f;">{{ len .Pages }}</span> articles
       </div>
     </div>
-
-    <!-- Posts Counter -->
-    <div id="posts-counter" style="margin-bottom: 2rem; padding: 0.75rem 0; color: #6b7f7d; font-size: 0.95rem; border-bottom: 1px solid #e0e8e6;">
-      <span id="visible-count" style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> of <span style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> posts
-    </div>
-
-    {{ $pag := .Paginate .Pages.ByDate.Reverse 12 }}
 
     <!-- News List Grid -->
     <div class="news-list" id="news-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2.5rem;">
-      {{ range $pag.Pages }}
-      <article class="news-post" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}" data-companies="{{ jsonify .Params.company }}"
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="news-post"
+               data-title="{{ .Title | lower }}"
+               data-summary="{{ .Summary | lower }}"
+               data-date="{{ .Date.Format "2006-01-02" }}"
+               data-category="{{ .Params.category }}"
+               data-companies="{{ jsonify .Params.company }}"
+               data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}"
                style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.06); display: flex; flex-direction: column;">
 
         {{ if .Params.featured_image }}
@@ -149,242 +170,182 @@
       {{ end }}
     </div>
 
-    {{ if or $pag.HasPrev $pag.HasNext }}
-    <nav class="pagination" style="display: flex; justify-content: center; gap: 1rem; margin-top: 2rem;">
-      {{ if $pag.HasPrev }}
-      <a href="{{ $pag.Prev.URL }}" style="padding: 0.5rem 1rem; background: var(--color-primary); color: white; border-radius: 4px; text-decoration: none;">← Previous</a>
-      {{ end }}
-      <span style="padding: 0.5rem 1rem;">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
-      {{ if $pag.HasNext }}
-      <a href="{{ $pag.Next.URL }}" style="padding: 0.5rem 1rem; background: var(--color-primary); color: white; border-radius: 4px; text-decoration: none;">Next →</a>
-      {{ end }}
-    </nav>
-    {{ end }}
-
-    <!-- No Results Message -->
-    <div id="no-results" style="display: none; text-align: center; padding: 3rem 0; color: #6b7f7d; font-style: italic;">
-      <h3 style="margin-bottom: 1rem; color: #2d5a4f; font-weight: 600;">No posts found</h3>
-      <p>Try selecting different filters or view all posts.</p>
+    <!-- No Results -->
+    <div id="no-results" style="display: none; text-align: center; padding: 4rem 2rem; color: #6b7f7d;">
+      <p style="font-size: 1.2rem; margin-bottom: 1rem;">No articles match your filters.</p>
+      <button class="clear-all-btn" onclick="clearAllFilters()" style="margin-top: 0.5rem;">Clear all filters</button>
     </div>
 
   </section>
 </div>
 
 <script>
-let currentCategoryFilter = 'all';
-let currentCompanyTypeFilter = 'all';
-let currentCompanyFilter = 'all';
+// Filter state
+let currentSearch = '';
+let currentCategory = 'all';
+let currentCompany = 'all';
+let currentDateRange = 'all';
 
-// Get query parameter from URL on page load
-function getQueryParam(param) {
-  const urlParams = new URLSearchParams(window.location.search);
-  return urlParams.get(param);
-}
-
-// Apply company filter from URL parameter on page load
-// Merged with other DOMContentLoaded handlers below
-
-function filterPosts(value, filterType) {
-  // Update filter state
-  if (filterType === 'category') {
-    currentCategoryFilter = value;
-  } else if (filterType === 'company_type') {
-    currentCompanyTypeFilter = value;
-  } else if (filterType === 'company') {
-    currentCompanyFilter = value;
+// Initialize on page load
+document.addEventListener('DOMContentLoaded', function() {
+  // Read URL params and apply
+  const params = new URLSearchParams(window.location.search);
+  if (params.has('search')) {
+    currentSearch = params.get('search');
+    document.getElementById('search-input').value = currentSearch;
   }
+  if (params.has('category')) {
+    currentCategory = params.get('category');
+    document.getElementById('category-select').value = currentCategory;
+  }
+  if (params.has('company')) {
+    currentCompany = params.get('company');
+    document.getElementById('company-select').value = currentCompany;
+  }
+  if (params.has('date')) {
+    currentDateRange = params.get('date');
+    document.getElementById('date-select').value = currentDateRange;
+  }
+
+  applyFilters(false); // don't push state on init
+});
+
+function applyFilters(pushState) {
+  if (pushState === undefined) pushState = true;
+
+  // Read from DOM
+  currentSearch = document.getElementById('search-input').value.toLowerCase().trim();
+  currentCategory = document.getElementById('category-select').value;
+  currentCompany = document.getElementById('company-select').value;
+  currentDateRange = document.getElementById('date-select').value;
 
   const posts = document.querySelectorAll('.news-post');
   const noResults = document.getElementById('no-results');
-  const filterStatus = document.getElementById('filter-status');
   const visibleCount = document.getElementById('visible-count');
-  let visiblePosts = 0;
+  let visible = 0;
 
-  // Update active buttons for categories
-  document.querySelectorAll('.category-filter').forEach(btn => {
-    btn.classList.remove('active');
-    btn.style.background = 'white';
-    btn.style.color = '#3d7a6f';
-  });
+  const now = Date.now();
 
-  const activeCategoryBtn = document.querySelector(`[data-category="${currentCategoryFilter}"]`);
-  if (activeCategoryBtn) {
-    activeCategoryBtn.classList.add('active');
-    activeCategoryBtn.style.background = '#3d7a6f';
-    activeCategoryBtn.style.color = 'white';
-  }
-
-  // Update active buttons for company types
-  document.querySelectorAll('.company-type-filter').forEach(btn => {
-    btn.classList.remove('active');
-    btn.style.background = 'white';
-    btn.style.color = '#d4a574';
-  });
-
-  const activeCompanyTypeBtn = document.querySelector(`[data-company_type="${currentCompanyTypeFilter}"]`);
-  if (activeCompanyTypeBtn) {
-    activeCompanyTypeBtn.classList.add('active');
-    activeCompanyTypeBtn.style.background = '#d4a574';
-    activeCompanyTypeBtn.style.color = 'white';
-  }
-
-  // Filter posts with AND logic - must match category, company_type, AND company
   posts.forEach(post => {
-    const postCategory = post.getAttribute('data-category');
-    const postCompanyType = post.getAttribute('data-company_type');
-    const postCompaniesJson = post.getAttribute('data-companies');
+    const title = post.getAttribute('data-title') || '';
+    const summary = post.getAttribute('data-summary') || '';
+    const dateStr = post.getAttribute('data-date') || '';
+    const category = post.getAttribute('data-category') || '';
+    const companiesJson = post.getAttribute('data-companies') || '[]';
 
-    // Parse company data - it's in JSON format from Hugo's jsonify
-    let postCompanies = [];
+    // Parse companies
+    let companies = [];
     try {
-      const parsed = JSON.parse(postCompaniesJson);
-      if (Array.isArray(parsed)) {
-        postCompanies = parsed;
-      } else if (parsed) {
-        postCompanies = [String(parsed)];
-      }
-    } catch (e) {
-      // If not valid JSON, treat as empty
-      postCompanies = [];
+      const parsed = JSON.parse(companiesJson);
+      if (Array.isArray(parsed)) companies = parsed;
+      else if (parsed) companies = [String(parsed)];
+    } catch(e) {}
+
+    // Search filter
+    const searchMatch = currentSearch === '' || title.includes(currentSearch) || summary.includes(currentSearch);
+
+    // Category filter
+    const categoryMatch = currentCategory === 'all' || category === currentCategory;
+
+    // Company filter
+    const companyMatch = currentCompany === 'all' || companies.includes(currentCompany);
+
+    // Date filter
+    let dateMatch = true;
+    if (currentDateRange !== 'all' && dateStr) {
+      const postDate = new Date(dateStr).getTime();
+      const daysMs = parseInt(currentDateRange) * 24 * 60 * 60 * 1000;
+      dateMatch = (now - postDate) <= daysMs;
     }
 
-    const categoryMatches = currentCategoryFilter === 'all' || postCategory === currentCategoryFilter;
-    const companyTypeMatches = currentCompanyTypeFilter === 'all' || postCompanyType === currentCompanyTypeFilter;
-    const companyMatches = currentCompanyFilter === 'all' || postCompanies.includes(currentCompanyFilter);
-
-    const shouldShow = categoryMatches && companyTypeMatches && companyMatches;
+    const shouldShow = searchMatch && categoryMatch && companyMatch && dateMatch;
 
     if (shouldShow) {
       post.style.display = 'flex';
       post.style.opacity = '1';
-      visiblePosts++;
+      visible++;
     } else {
       post.style.display = 'none';
       post.style.opacity = '0';
     }
   });
 
-  // Update counter and status
-  visibleCount.textContent = visiblePosts;
+  // Update counter
+  visibleCount.textContent = visible;
 
-  let statusText = [];
-  if (currentCompanyFilter !== 'all') {
-    statusText.push(`Company: "${currentCompanyFilter}"`);
-  }
-  if (currentCategoryFilter !== 'all') {
-    statusText.push(`"${currentCategoryFilter}"`);
-  }
-  if (currentCompanyTypeFilter !== 'all') {
-    statusText.push(`"${currentCompanyTypeFilter}"`);
-  }
+  // No results
+  noResults.style.display = visible === 0 ? 'block' : 'none';
 
-  if (statusText.length === 0) {
-    filterStatus.textContent = 'All posts';
-  } else {
-    filterStatus.textContent = statusText.join(' + ');
-  }
+  // Update pills
+  updatePills();
 
-  // Show/hide no results message
-  if (visiblePosts === 0) {
-    noResults.style.display = 'block';
-  } else {
-    noResults.style.display = 'none';
+  // Update URL
+  if (pushState) {
+    updateURL();
   }
 }
 
-// Add hover effects to buttons and initialize filters
-document.addEventListener('DOMContentLoaded', function() {
-  // Apply company filter from URL parameter if present
-  const companyParam = getQueryParam('company');
-  if (companyParam) {
-    currentCompanyFilter = companyParam;
-    filterPosts(companyParam, 'company');
+function updatePills() {
+  const container = document.getElementById('active-pills');
+  container.innerHTML = '';
+
+  const filters = [];
+  if (currentSearch) filters.push({ type: 'search', label: `Search: "${currentSearch}"` });
+  if (currentCategory !== 'all') filters.push({ type: 'category', label: currentCategory });
+  if (currentCompany !== 'all') filters.push({ type: 'company', label: currentCompany });
+  if (currentDateRange !== 'all') {
+    const labels = { '7': 'Last 7 days', '30': 'Last 30 days', '90': 'Last 3 months', '365': 'Last year' };
+    filters.push({ type: 'date', label: labels[currentDateRange] || currentDateRange });
   }
 
-  const categoryButtons = document.querySelectorAll('.category-filter');
-  const companyTypeButtons = document.querySelectorAll('.company-type-filter');
-
-  [categoryButtons, companyTypeButtons].forEach(buttonGroup => {
-    buttonGroup.forEach(btn => {
-      btn.addEventListener('mouseenter', function() {
-        if (!this.classList.contains('active')) {
-          this.style.opacity = '0.8';
-        }
-      });
-
-      btn.addEventListener('mouseleave', function() {
-        if (!this.classList.contains('active')) {
-          this.style.opacity = '1';
-        }
-      });
-    });
+  filters.forEach(f => {
+    const pill = document.createElement('span');
+    pill.className = 'filter-pill';
+    pill.innerHTML = `${f.label} <button onclick="removeFilter('${f.type}')" title="Remove filter">&times;</button>`;
+    container.appendChild(pill);
   });
+}
 
-  // Add hover effects to news cards
-  document.querySelectorAll('.news-post').forEach(card => {
-    card.addEventListener('mouseenter', function() {
-      this.style.transform = 'translateY(-6px)';
-      this.style.boxShadow = '0 12px 24px rgba(26, 42, 40, 0.12)';
-      this.style.borderColor = '#3d7a6f';
-    });
-    card.addEventListener('mouseleave', function() {
-      this.style.transform = 'translateY(0)';
-      this.style.boxShadow = '0 2px 8px rgba(26, 42, 40, 0.06)';
-      this.style.borderColor = '#e0e8e6';
-    });
-  });
-});
+function removeFilter(type) {
+  if (type === 'search') {
+    currentSearch = '';
+    document.getElementById('search-input').value = '';
+  } else if (type === 'category') {
+    currentCategory = 'all';
+    document.getElementById('category-select').value = 'all';
+  } else if (type === 'company') {
+    currentCompany = 'all';
+    document.getElementById('company-select').value = 'all';
+  } else if (type === 'date') {
+    currentDateRange = 'all';
+    document.getElementById('date-select').value = 'all';
+  }
+  applyFilters();
+}
+
+function clearAllFilters() {
+  currentSearch = '';
+  currentCategory = 'all';
+  currentCompany = 'all';
+  currentDateRange = 'all';
+  document.getElementById('search-input').value = '';
+  document.getElementById('category-select').value = 'all';
+  document.getElementById('company-select').value = 'all';
+  document.getElementById('date-select').value = 'all';
+  applyFilters();
+}
+
+function updateURL() {
+  const params = new URLSearchParams();
+  if (currentSearch) params.set('search', currentSearch);
+  if (currentCategory !== 'all') params.set('category', currentCategory);
+  if (currentCompany !== 'all') params.set('company', currentCompany);
+  if (currentDateRange !== 'all') params.set('date', currentDateRange);
+
+  const newURL = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+  window.history.replaceState({}, '', newURL);
+}
 </script>
-
-<style>
-.category-filter, .company-type-filter {
-  transition: all 0.2s ease;
-}
-
-.category-filter:hover, .company-type-filter:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(26, 42, 40, 0.1);
-}
-
-.category-filter.active {
-  background: #3d7a6f !important;
-  color: white !important;
-}
-
-.company-type-filter.active {
-  background: #d4a574 !important;
-  color: white !important;
-}
-
-.news-post {
-  transition: all 0.3s ease;
-}
-
-.news-post:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 12px 24px rgba(26, 42, 40, 0.12) !important;
-  border-color: #3d7a6f !important;
-}
-
-.news-post:hover img {
-  transform: scale(1.05);
-}
-
-.post-tag {
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.post-tag:hover {
-  background: #d4e8e5 !important;
-}
-
-@media (max-width: 768px) {
-  #news-list {
-    grid-template-columns: 1fr !important;
-  }
-}
-</style>
 
   </main>
 

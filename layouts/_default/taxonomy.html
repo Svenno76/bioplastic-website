@@ -1,35 +1,52 @@
-{{/* Taxonomy term page template - used for /tags/{tag}/ pages */}}
-{{ define "main" }}
-<main>
-  <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
-    <article>
-      <header style="margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid #e5e7eb;">
-        <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
-        <p style="font-size: 1.1rem; color: var(--color-text-muted); line-height: 1.5;">Articles and news related to <strong>{{ .Title }}</strong> in the bioplastics industry.</p>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ partial "head-seo.html" . }}
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="/{{ . }}">
+  {{ end }}
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+  <main>
+    <div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
+      <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+        <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">{{ .Title }}</h1>
+        <p style="font-size: 1.1rem; color: #6b7f7d;">All news articles tagged with <strong>{{ .Title }}</strong> ({{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }}).</p>
       </header>
 
-      {{ if .Content }}
-      <div style="font-size: 1.125rem; line-height: 1.8; color: var(--color-text-dark); margin-bottom: 2rem;">
-        {{ .Content }}
-      </div>
-      {{ end }}
-
-      {{ if .Pages }}
-      <div style="margin-top: 2rem;">
-        <h2 style="font-size: 1.5rem; color: var(--color-primary-dark); margin-bottom: 1.5rem;">Related Articles</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem;">
         {{ range .Pages.ByDate.Reverse }}
-        <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #e5e7eb;">
-          <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem;"><a href="{{ .Permalink }}" style="color: var(--color-primary); text-decoration: none;">{{ .Title }}</a></h3>
-          <p style="color: var(--color-text-muted); font-size: 0.95rem;">{{ .Date.Format "January 2, 2006" }} — {{ .Summary | plainify | truncate 150 }}</p>
-        </div>
+        <article style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.06); display: flex; flex-direction: column;">
+          {{ if .Params.featured_image }}
+          <div style="width: 100%; height: 180px; overflow: hidden; background: #f7f9f8;">
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async">
+          </div>
+          {{ end }}
+          <div style="padding: 1.5rem; flex-grow: 1; display: flex; flex-direction: column;">
+            <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem; font-size: 0.8rem;">
+              <time style="color: #6b7f7d; font-weight: 500;">{{ .Date.Format "Jan 2, 2006" }}</time>
+              {{ if .Params.category }}
+              <span style="background: #e8f2f0; color: #2d5a4f; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.7rem; font-weight: 600; text-transform: uppercase;">{{ .Params.category }}</span>
+              {{ end }}
+            </div>
+            <h2 style="font-size: 1.15rem; color: #2d5a4f; line-height: 1.3; margin-bottom: 0.5rem; font-weight: 700;">
+              <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
+            </h2>
+            <p style="color: #6b7f7d; font-size: 0.9rem; line-height: 1.6; flex-grow: 1; margin-bottom: 1rem;">{{ .Summary | truncate 150 }}</p>
+            <a href="{{ .Permalink }}" style="color: #3d7a6f; font-weight: 600; text-decoration: none; font-size: 0.9rem;">Read more →</a>
+          </div>
+        </article>
         {{ end }}
       </div>
-      {{ end }}
 
-      <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
-        <a href="/news/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to News</a>
+      <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e0e8e6;">
+        <a href="/news/" style="color: #3d7a6f; text-decoration: none; font-weight: 600;">← Back to News</a>
       </footer>
-    </article>
-  </div>
-</main>
-{{ end }}
+    </div>
+  </main>
+  {{ partial "site-footer.html" . }}
+</body>
+</html>
