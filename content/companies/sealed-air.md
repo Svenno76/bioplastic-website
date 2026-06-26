@@ -15,6 +15,7 @@ date: '2026-02-13'
 draft: false
 sitemap:
   priority: 0.8
+logo: /images/logos/sealed-air.png
 ---
 
 ## Overview

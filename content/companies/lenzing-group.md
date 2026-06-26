@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/lenzing-group.ico
+logo: /images/logos/lenzing-group.png
 title: Lenzing Group
 company_type: Bioplastic Producer
 headquarters: "Lenzing, Austria"

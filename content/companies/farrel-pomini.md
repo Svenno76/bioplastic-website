@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/farrel-pomini.svg
+logo: /images/logos/farrel-pomini.png
 title: Farrel Pomini
 company_type: Technology Company
 headquarters: United States

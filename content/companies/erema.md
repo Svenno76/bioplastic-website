@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/erema.webp
+logo: /images/logos/erema.png
 title: EREMA
 company_type: Technology Company
 headquarters: "Ansfelden, Austria"

@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/ingevity.svg
+logo: /images/logos/ingevity.png
 title: Ingevity Corporation
 company_type: Bioplastic Producer
 headquarters: "North Charleston, South Carolina, USA"

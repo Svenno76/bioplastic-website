@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/coperion
+logo: /images/logos/coperion.png
 title: Coperion
 company_type: Technology Company
 headquarters: Germany

@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/nexam-chemical.svg
+logo: /images/logos/nexam-chemical.png
 title: Nexam Chemical
 company_type: Additive Producer
 headquarters: "Lund, Sweden"

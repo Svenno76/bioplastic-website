@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/lubrizol.svg
+logo: /images/logos/lubrizol.png
 title: Lubrizol
 company_type: Additive Producer
 headquarters: United States

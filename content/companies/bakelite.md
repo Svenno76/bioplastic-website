@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/bakelite.webp
+logo: /images/logos/bakelite.png
 title: "Bakelite"
 company_type: Historical (Not Current Bioplastics)
 headquarters: "Germany / Europe (distributed)"

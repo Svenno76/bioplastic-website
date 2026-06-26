@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/teknor-apex.svg
+logo: /images/logos/teknor-apex.png
 title: Teknor Apex
 company_type: Compounder
 headquarters: United States

@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/sanisure.svg
+logo: /images/logos/sanisure.png
 title: "SaniSure"
 company_type: Technology Company
 headquarters: "United States"

@@ -13,6 +13,7 @@ date: '2026-02-27'
 draft: true
 sitemap:
   priority: 0.8
+logo: /images/logos/novonor.png
 ---
 
 ## Overview

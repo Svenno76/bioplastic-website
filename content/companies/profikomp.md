@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/profikomp.webp
+logo: /images/logos/profikomp.png
 title: ProfiKomp Environmental Technologies
 company_type: Testing / Certification Company
 headquarters: "Gödöllő, Hungary"

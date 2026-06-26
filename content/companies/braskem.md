@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/braskem.webp
+logo: /images/logos/braskem.png
 title: Braskem
 company_type: Bioplastic Producer
 headquarters: "São Paulo, Brazil"
