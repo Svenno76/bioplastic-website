@@ -4,7 +4,7 @@ date: 2026-06-13
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/natureplast-marine-resources-2025.png"
+featured_image: "/images/news/natureplast-marine-resources-2025.webp"
 summary: "French bioplastics specialist NaturePlast is transforming marine by-products — oyster shells, mussel shells, seaweed, and starfish — into high-value bioplastic compounds, aligning with France's 2025 Year of the Sea initiative."
 tags: ['NaturePlast', 'Marine Resources', 'Seaweed', 'Algae', 'Circular Economy', 'Biocomposites', 'Starfish', 'France', 'FILASTERID']
 category: "Company News"

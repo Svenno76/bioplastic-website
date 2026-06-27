@@ -24,3 +24,7 @@ token.txt
 *.xlsx
 *.xls
 *.csv
+
+# Dependencies
+node_modules/
+package-lock.json

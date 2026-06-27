@@ -3,7 +3,7 @@ title: "From Bankruptcy to Expansion: Danimer Scientific's Kentucky Facility Is 
 date: 2026-03-24
 draft: false
 summary: "Just twelve months after filing for Chapter 11 bankruptcy, Danimer Scientific's Winchester, Kentucky PHA facility is expanding under new owner Teknor Apex. Here's why this is more than a corporate comeback — it's a confidence signal for the entire PHA sector."
-featured_image: "/images/blog/2026-03-24_Danimer_comeback.png"
+featured_image: "/images/blog/2026-03-24_Danimer_comeback.webp"
 image_type: "hero"
 tags:
   - bioplastics

@@ -1,71 +1,77 @@
-# CLAUDE.md
+# CLAUDE.md — Bioplastics Portal
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+> **Agent:** Hermes (Nous Research)  
+> **Last updated:** 2026-06-27  
+> **Purpose:** Project conventions, structure, and verification for bioplasticsportal.com
 
 ## Project Overview
 
-This is a Hugo static site generator project for a bioplastics information portal. It aggregates news, company profiles, studies, books, and a glossary related to the bioplastics industry. The site is deployed to Netlify.
+Hugo static site for bioplastics industry news, company profiles, and educational content. Deployed to Netlify.
 
-**Tech Stack:**
-- Hugo 0.138.0+ (static site generator)
-- Ananke theme (base theme with custom overrides)
-- Custom HTML/CSS layouts in `layouts/` directory
-- Markdown content in `content/` directory
+- **Tech:** Hugo v0.123+ / Ananke theme
+- **Repo:** `/home/pi/bioplastic-website` (GitHub: svenno76/bioplastic-website)
+- **Live:** https://bioplasticsportal.com
+- **Deploy:** Auto on git push → Netlify
+
+## Verification
+
+Canonical test command:
+
+```bash
+cd /home/pi/bioplastic-website && make verify
+```
+
+This runs 3 targets:
+1. `verify-build` — Hugo build + output existence
+2. `verify-news-filter` — News filter JS functions present
+3. `verify-no-stale` — Confirms no old dropdown/legacy filter code
+
+**Do NOT check for:** `dropdown selects`, `filterPosts()`, `filterNews()`, `unified filter bar` — these were intentionally removed (Sven prefers compact button groups).
 
 ## Common Commands
 
-### Build and Development
-- **Local preview:** `hugo server` - Runs development server at `http://localhost:1313`
-- **Production build:** `hugo --gc --minify` - Generates optimized static site in `public/` directory
-- **Netlify deployment:** Automatically triggered on git push (configured in `netlify.toml`)
-
-### Content Management
-- **Add news article:** Create `.md` file in `content/news/` with front matter: `title`, `date`, `summary`, `tags`, `category`, `company`, `source`
-- **Add company profile:** Create `.md` file in `content/companies/` with front matter: `title`, `headquarters`, `founded`, `website`, `products`, `revenue`, `employees`, `ceo`, `overview`
-- **Check for draft status:** Posts with `draft: true` in front matter won't be published
-- **Add new content section:** Create directory in `content/`, add `_index.md`, and corresponding layout in `layouts/[section]/`
+| Task | Command |
+|------|---------|
+| Dev server | `hugo server` |
+| Production build | `hugo --gc --minify` |
+| Full verification | `make verify` |
+| Git deploy | `git add -A && git commit -m "..." && git push` |
 
 ## Codebase Structure
 
-### Key Directories
-- **`content/`** - Markdown files for all pages (news, companies, studies, books, glossary, bioplastics guide)
-- **`layouts/`** - Hugo template files (`.html`) for rendering different content types
-- **`static/`** - Static assets (CSS, images) served as-is
-- **`themes/ananke/`** - Base theme (git submodule)
-- **`public/`** - Generated static website (git-ignored, recreated on build)
-- **`archetypes/`** - Content templates for scaffolding new posts
-- **`data/`** - Static data files
+```
+content/          — Markdown content (news, companies, blog, glossary)
+  news/           — YYYY-MM-DD-slug.md
+  companies/      — slug.md
+  blog/           — YYYY-MM-DD-slug.md
+  glossary/       — slug.md
+layouts/          — Hugo templates (.html)
+  partials/       — Reusable partials (header, footer, auto-link)
+  news/           — News list + single templates
+  companies/      — Company single template
+static/           — Assets (CSS, images)
+  css/            — custom.css, homepage.css
+  images/         — logos/, blog/, news/
+themes/ananke/    — Base theme (git submodule)
+public/           — Generated output (git-ignored)
+```
 
-### Layout Templates
-Hugo template hierarchy automatically applied. Custom overrides in `layouts/`:
-- `layouts/partials/site-header.html` - Navigation and header
-- `layouts/partials/site-footer.html` - Footer
-- `layouts/news/single.html` - Individual news article template (includes regex-based company name linking)
-- `layouts/companies/single.html` - Individual company profile template
-- `layouts/glossary/list.html` - Glossary list view
-- `layouts/bioplastics/list.html` - Bioplastics guide list view
-- `layouts/list.html` - Default list template
-
-### Styling
-- `static/css/custom.css` - Global custom styles
-- `static/css/homepage.css` - Homepage-specific styles
-- Inline styles used extensively in layout templates for rapid styling
-
-## Important Patterns
-
-### Front Matter Examples
+## Front Matter Reference
 
 **News article** (`content/news/YYYY-MM-DD-slug.md`):
 ```yaml
 ---
 title: "Article Title"
-date: 2024-10-25
+date: 2026-06-27
 draft: false
-summary: "Brief summary for listing pages"
-tags: ['Company', 'tag1', 'tag2']
+summary: "Brief summary"
+tags: ["Company", "tag1"]
 category: "Product Launch"
-company: "Company Name"
-source: "Information source"
+company: ["Company Name"]    # Always array, even for single company
+source: "Source Name"
+featured_image: "/images/news/slug-1024.jpg"
+sitemap:
+  priority: 0.7
 ---
 ```
 
@@ -76,47 +82,78 @@ title: "Company Name"
 headquarters: "City, Country"
 founded: "1997"
 website: "https://example.com"
-products: ["Product1", "Product2"]
-revenue: "$500M"
-employees: "500+"
-ceo: "Name"
-overview: "Brief company description"
+primary_materials: "PBAT, ecoflex"
+market_segments: "Packaging, agriculture"
+overview: "Brief description"
+sitemap:
+  priority: 0.8
 ---
 ```
 
-### Company Name Linking
-News articles automatically link company names mentioned in content. The regex pattern in `layouts/news/single.html` (line 24) handles this. Company names must exactly match the pattern defined in that regex.
+**Blog post** (`content/blog/YYYY-MM-DD-slug.md`):
+```yaml
+---
+title: "Article Title"
+date: 2026-06-27
+draft: false
+categories: ["Guide", "Materials"]
+tags: ["PLA", "Bio-based"]
+summary: "Brief description"
+featured_image: "/images/blog/slug-hero.jpg"
+image_type: "photo"
+---
+```
 
-### Content Organization
-- News articles use date-based filenames (`YYYY-MM-DD-slug.md`)
-- News index page lists all articles with tag filtering
-- Company profiles are individual pages, referenced in news articles
-- Homepage redirects to `/news/` section
+## Critical Conventions
 
-## Site Configuration
-- **Base URL:** `https://bioplasticsportal.com`
-- **Hugo config:** `hugo.toml` - Contains menu structure, custom CSS includes, and site metadata
-- **Theme:** Ananke theme with extensive layout overrides
-- **Deployment:** Netlify (configured in `netlify.toml`)
+### File Editing
+- **NEVER** use `write_file` or `execute_code` for HTML/templates — they mangle `=` signs
+- **ALWAYS** use terminal heredoc for files containing `=` (Hugo templates, HTML, CSS)
+- Use `patch` for targeted edits in markdown/content files
 
-## Git Workflow Notes
-- Theme (Ananke) is a git submodule
-- News content files are frequently added/updated
-- `public/` directory is generated and not committed
-- Main branch is used for production deployments
+### Company Field Handling
+News articles use TWO formats for `company`: string (`"BASF"`) and array (`["BASF"]`). **Always use `reflect.IsSlice` before iterating.**
 
-## 📋 ACTIVE TASKS
+### Auto-Linking
+- Partial: `layouts/partials/auto-link-content.html`
+- Applied to: news content, company primary_materials, market_segments, content
+- Regex uses `\b` word boundaries (single backslash in file)
+- Strip existing `<a>` tags BEFORE applying auto-link (prevents nested links)
+- **Do NOT use inline `<picture>`/`<img>` in Markdown** — use `featured_image` frontmatter
 
-### Company Classification Audit (In Progress)
-**Status:** Phase 2 of 3 Complete
-**Files:**
-- `CLASSIFICATION_REVIEW_TODO.md` - **📌 START HERE** for pending work
-- `COMPANY_CLASSIFICATION_AUDIT.md` - Detailed audit report
+### Image Sourcing
+- **Unsplash** works reliably for blog/news hero images
+- **Wikimedia Commons** page URLs often return HTML stubs — use `upload.wikimedia.org` direct links
+- Always verify with `file` command after download
+- OpenAI image generation hits billing limits — use Unsplash as fallback
 
-**Recent Progress:**
-- ✅ Reclassified 18 companies to "Converter" (Batches 1-2, early fix)
-- ✅ Reclassified 3 companies to "Compounder" (Batch 3)
-- ✅ Verified 10 companies as correctly classified (Batch 4)
-- ⏳ **2 companies pending manual review:** Blue Circle Olefins, Asahi Kasei
+### Hugo Gotchas (v0.123)
+1. `.Kind` for taxonomy term pages is `"term"`, not `"taxonomy"`
+2. `[sitemap.priority]` map NOT supported — use per-page frontmatter
+3. `replaceRE` can't handle arrays — `delimit` first
+4. `delimit` on a string outputs ASCII codes — always `reflect.IsSlice` first
+5. `.bak` files in `layouts/` break Hugo builds — store backups in `/tmp/`
+6. Goldmark `unsafe = true` needed for inline HTML in Markdown
 
-**Next Step:** Open `CLASSIFICATION_REVIEW_TODO.md` to see high-priority items
+## User Preferences
+
+- **Language:** German preferred, English for code/technical
+- **Communication:** Direct, no nicknames, structured progress tracking
+- **Quality:** Perfectionist — clean code, thorough verification, no shortcuts
+- **Images:** Keep original text 1:1 when illustrating — only add images, never rewrite
+- **Filtering:** Compact button groups, NOT dropdowns
+- **Feedback style:** Wants options with tradeoffs (A/B/C), not single prescriptive answers
+
+## Active Tasks
+
+See `CLASSIFICATION_REVIEW_TODO.md` for company classification audit status.
+
+## References
+
+- `references/news-filtering.md` — Client-side filter implementation
+- `references/manual-article-publish.md` — Full article publishing workflow
+- `references/newsletter-workflow.md` — Newsletter template, quality checks, cron
+- `references/auto-link-regex-debugging.md` — Regex escaping pitfalls
+- `references/image-optimization.md` — Sizing, lazy loading, logo detection
+- `references/supabase-schema.md` — DB schema, column types, constraints
+- `references/batch-script-output-format.md` — How to interpret batch log stats

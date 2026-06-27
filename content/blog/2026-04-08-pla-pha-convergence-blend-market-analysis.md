@@ -5,7 +5,7 @@ draft: false
 categories: ["Market Analysis"]
 tags: ["PLA", "PHA", "Polylactic Acid", "Polyhydroxyalkanoates", "TotalEnergies Corbion", "Luminy", "Bluepha", "Danimer Scientific", "PPWR", "Compostability", "Home Compostable"]
 summary: "For a decade, PLA and PHA were cast as rival biopolymers. In 2026, the market has moved on — industry partnerships, blending data, and EU regulatory pressure are converging to make PLA/PHA combinations the pragmatic path forward for compostable packaging. Here is what the evidence actually shows."
-featured_image: "/images/blog/2026-04-08_pla-pha-convergence-hero.png"
+featured_image: "/images/blog/2026-04-08_pla-pha-convergence-hero.webp"
 image_type: "photo"
 ---
 

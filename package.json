@@ -1,0 +1,23 @@
+{
+  "name": "bioplastic-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hugo --gc --minify && test -f public/index.html && grep -q 'function applyFilters' public/news/index.html && grep -q 'function setFilter' public/news/index.html && ! grep -q 'filterPosts(' public/news/index.html && ! grep -q 'filterNews(' public/news/index.html && echo '✅ All verification passed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svenno76/bioplastic-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svenno76/bioplastic-website/issues"
+  },
+  "homepage": "https://github.com/Svenno76/bioplastic-website#readme",
+  "devDependencies": {
+    "broken-link-checker": "^0.7.8"
+  }
+}
