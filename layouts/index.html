@@ -52,7 +52,7 @@
           <article class="news-card">
             {{ if .Params.featured_image }}
             <div class="news-card-image">
-              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; max-width: 100%; display: block; border-radius: 8px;">
             </div>
             {{ end }}
             <div class="news-card-content">
@@ -96,7 +96,7 @@
           <article class="news-card">
             {{ if .Params.featured_image }}
             <div class="news-card-image">
-              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; max-width: 100%; display: block; border-radius: 8px;">
             </div>
             {{ end }}
             <div class="news-card-content">
