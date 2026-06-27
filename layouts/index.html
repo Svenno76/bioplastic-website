@@ -39,77 +39,7 @@
         </div>
       </section>
 
-      <!-- ===== 2. SECTION SHOWCASE (5 CARDS) ===== -->
-      <section>
-        <div class="section-heading">
-          <h2>Explore All Sections</h2>
-        </div>
-
-        <div class="features-grid">
-          <!-- News -->
-          <a href="/news/" class="feature-card" style="text-decoration: none; color: inherit;">
-            <div style="padding: 2rem 2rem 0 2rem;">
-              <div class="feature-icon">📰</div>
-              <h3>Latest News</h3>
-              <p>Stay current with industry developments, company announcements, and market trends shaping the bioplastics landscape.</p>
-            </div>
-            <div class="feature-link">
-              Explore News →
-            </div>
-          </a>
-
-          <!-- Blog -->
-          <a href="/blog/" class="feature-card" style="text-decoration: none; color: inherit;">
-            <div style="padding: 2rem 2rem 0 2rem;">
-              <div class="feature-icon">✍️</div>
-              <h3>Blog</h3>
-              <p>Deep-dive articles, research insights, and expert perspectives on bioplastics innovation and sustainability.</p>
-            </div>
-            <div class="feature-link">
-              Read Blog →
-            </div>
-          </a>
-
-          <!-- Companies -->
-          <a href="/companies/" class="feature-card" style="text-decoration: none; color: inherit;">
-            <div style="padding: 2rem 2rem 0 2rem;">
-              <div class="feature-icon">🏢</div>
-              <h3>Company Profiles</h3>
-              <p>Discover {{ len $companiesSection.Pages }} organizations across the bioplastics value chain—producers, innovators, and industry leaders.</p>
-            </div>
-            <div class="feature-link">
-              Browse Companies →
-            </div>
-          </a>
-
-
-          <!-- Studies -->
-          <a href="/studies/" class="feature-card" style="text-decoration: none; color: inherit;">
-            <div style="padding: 2rem 2rem 0 2rem;">
-              <div class="feature-icon">📊</div>
-              <h3>Market Studies</h3>
-              <p>In-depth research, market analysis, and forecasts on bioplastics production, consumption, and growth trends.</p>
-            </div>
-            <div class="feature-link">
-              Read Studies →
-            </div>
-          </a>
-
-          <!-- Glossary -->
-          <a href="/glossary/" class="feature-card" style="text-decoration: none; color: inherit;">
-            <div style="padding: 2rem 2rem 0 2rem;">
-              <div class="feature-icon">📖</div>
-              <h3>Glossary</h3>
-              <p>Comprehensive definitions of bioplastics terminology, materials, technologies, and industry-specific concepts.</p>
-            </div>
-            <div class="feature-link">
-              Explore Glossary →
-            </div>
-          </a>
-        </div>
-      </section>
-
-      <!-- ===== 3. LATEST NEWS (3 CARDS) ===== -->
+      <!-- ===== 2. LATEST NEWS (3 CARDS) ===== -->
       {{ $newsSection := .Site.GetPage "section" "news" }}
       <section>
         <div class="section-heading">
@@ -152,7 +82,7 @@
         </div>
       </section>
 
-      <!-- ===== 4. LATEST FROM THE BLOG (3 CARDS) ===== -->
+      <!-- ===== 3. LATEST FROM THE BLOG (3 CARDS) ===== -->
       {{ $blogSection := .Site.GetPage "section" "blog" }}
       {{ if $blogSection.Pages }}
       <section>
@@ -190,7 +120,7 @@
       </section>
       {{ end }}
 
-      <!-- ===== 5. CTA / GO DEEPER ===== -->
+      <!-- ===== 4. CTA / GO DEEPER ===== -->
       <section class="cta-section">
         <h2>Go Deeper</h2>
 
