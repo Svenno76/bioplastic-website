@@ -26,7 +26,7 @@
       {{ $companiesSection := .Site.GetPage "section" "companies" }}
       <section class="hero-section">
         <div class="hero-content">
-          <h1 class="hero-title">Your Guide to Bioplastics</h1>
+          <h1 class="hero-title">Bioplastics Portal — Company Profiles, Industry News & Market Intelligence</h1>
           <p class="hero-subtitle">Explore cutting-edge research, industry news, companies, and events driving the sustainable future of bioplastics</p>
           <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem;">
             <a href="/news/" style="display: inline-block; background: white; color: #2d5a4f; padding: 0.9rem 1.8rem; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
@@ -39,11 +39,15 @@
         </div>
       </section>
 
-      <!-- ===== 2. STATS BAR ===== -->
+      <!-- ===== TRUST BAR ===== -->
+      <section style="background: #f0f4f3; padding: 2rem 0; text-align: center; border-bottom: 1px solid #e0e5e4;">
+        <p style="font-size: 0.95rem; color: #5a6b69; max-width: 50rem; margin: 0 auto; line-height: 1.6;">
+          🏆 Trusted by industry professionals at <strong>BASF</strong>, <strong>NatureWorks</strong>, <strong>Arkema</strong>, <strong>Braskem</strong>, and <strong>TOTALÉNERGIES</strong> — plus 230+ other companies tracked in our database.
+        </p>
+      </section>
       <section class="stats-bar">
         {{ $companiesSection := .Site.GetPage "section" "companies" }}
         {{ $newsSection := .Site.GetPage "section" "news" }}
-        {{ $eventsSection := .Site.GetPage "section" "events" }}
         {{ $blogSection := .Site.GetPage "section" "blog" }}
 
         <a href="/companies/" class="stats-bar-item" style="text-decoration: none; color: inherit;">
@@ -56,25 +60,25 @@
           <div class="stats-bar-number">{{ len $newsSection.Pages }}</div>
           <div class="stats-bar-label">News Articles</div>
         </a>
-        <a href="/events/" class="stats-bar-item" style="text-decoration: none; color: inherit;">
-          <span class="stats-bar-icon">📅</span>
-          <div class="stats-bar-number">{{ len $eventsSection.Pages }}</div>
-          <div class="stats-bar-label">Events</div>
-        </a>
         <a href="/blog/" class="stats-bar-item" style="text-decoration: none; color: inherit;">
           <span class="stats-bar-icon">✍️</span>
           <div class="stats-bar-number">{{ len $blogSection.Pages }}</div>
           <div class="stats-bar-label">Blog Posts</div>
         </a>
+        <span class="stats-bar-item" style="cursor: default;">
+          <span class="stats-bar-icon">🕐</span>
+          <div class="stats-bar-number" style="font-size: 0.9rem;">{{ now.Format "Jan 2, 2006" }}</div>
+          <div class="stats-bar-label">Last Updated</div>
+        </span>
       </section>
 
-      <!-- ===== 3. SECTION SHOWCASE (6 CARDS) ===== -->
+      <!-- ===== 2. SECTION SHOWCASE (5 CARDS) ===== -->
       <section>
         <div class="section-heading">
           <h2>Explore All Sections</h2>
         </div>
 
-        <div class="features-grid">
+        <div class="features-grid" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
           <!-- News -->
           <a href="/news/" class="feature-card" style="text-decoration: none; color: inherit;">
             <div style="padding: 2rem 2rem 0 2rem;">
@@ -111,19 +115,7 @@
             </div>
           </a>
 
-          <!-- Events -->
-          <a href="/events/" class="feature-card" style="text-decoration: none; color: inherit;">
-            <div style="padding: 2rem 2rem 0 2rem;">
-              <div class="feature-icon">📅</div>
-              <h3>Events</h3>
-              <p>Upcoming conferences, trade shows, workshops, and industry gatherings for networking and learning.</p>
-            </div>
-            <div class="feature-link">
-              View Events →
-            </div>
-          </a>
 
-          <!-- Studies -->
           <a href="/studies/" class="feature-card" style="text-decoration: none; color: inherit;">
             <div style="padding: 2rem 2rem 0 2rem;">
               <div class="feature-icon">📊</div>
@@ -149,7 +141,7 @@
         </div>
       </section>
 
-      <!-- ===== 4. LATEST NEWS (3 CARDS) ===== -->
+      <!-- ===== 3. LATEST NEWS (3 CARDS) ===== -->
       <section>
         <div class="section-heading">
           <h2>Latest News</h2>
@@ -191,7 +183,7 @@
         </div>
       </section>
 
-      <!-- ===== 4b. LATEST FROM THE BLOG (3 CARDS) ===== -->
+      <!-- ===== 4. LATEST FROM THE BLOG (3 CARDS) ===== -->
       {{ $blogSection := .Site.GetPage "section" "blog" }}
       {{ if $blogSection.Pages }}
       <section>
@@ -229,41 +221,69 @@
       </section>
       {{ end }}
 
-      <!-- ===== 5. UPCOMING EVENTS (3 CARDS) ===== -->
-      {{ if $eventsSection.Pages }}
+
+
+      <!-- ===== 5. TRENDING TOPICS ===== -->
       <section>
         <div class="section-heading">
-          <h2>Upcoming Events</h2>
-          <a href="/events/">View All Events →</a>
+          <h2>Trending in Bioplastics</h2>
         </div>
-
-        <div class="events-strip">
-          {{ range first 3 $eventsSection.Pages }}
-          <article class="event-strip-card">
-            <h3>{{ .Title }}</h3>
-            <div class="event-meta">
-              {{ if .Params.event_type }}
-              <div>🏷️ {{ .Params.event_type }}</div>
-              {{ end }}
-              {{ if .Params.event_date }}
-              <div>📅 {{ .Params.event_date }}</div>
-              {{ end }}
-              {{ if .Params.location }}
-              <div>📍 {{ .Params.location }}</div>
-              {{ end }}
-            </div>
-            <a href="{{ .Permalink }}" class="event-cta">Learn More →</a>
-          </article>
-          {{ end }}
+        <div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 3rem;">
+          <a href="/tags/pla/" style="background: #e8f5e9; color: #2e7d32; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">PLA <span style="opacity: 0.6;">(21)</span></a>
+          <a href="/tags/pha/" style="background: #e3f2fd; color: #1565c0; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">PHA <span style="opacity: 0.6;">(20)</span></a>
+          <a href="/tags/chemical-recycling/" style="background: #f3e5f5; color: #6a1b9a; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">Chemical Recycling <span style="opacity: 0.6;">(13)</span></a>
+          <a href="/tags/circular-economy/" style="background: #e0f2f1; color: #00695c; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">Circular Economy <span style="opacity: 0.6;">(13)</span></a>
+          <a href="/tags/braskem/" style="background: #fff3e0; color: #e65100; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">Braskem <span style="opacity: 0.6;">(10)</span></a>
+          <a href="/tags/natureworks/" style="background: #e8eaf6; color: #283593; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">NatureWorks <span style="opacity: 0.6;">(8)</span></a>
+          <a href="/tags/basf/" style="background: #fce4ec; color: #b71c1c; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">BASF <span style="opacity: 0.6;">(7)</span></a>
+          <a href="/tags/pbat/" style="background: #e0f7fa; color: #006064; padding: 0.5rem 1.2rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;">PBAT <span style="opacity: 0.6;">(6)</span></a>
         </div>
       </section>
-      {{ end }}
 
-      <!-- ===== 6. CTA / GO DEEPER ===== -->
+      <!-- ===== 6. FAQ FOR AEO ===== -->
+      <section itemscope itemtype="https://schema.org/FAQPage">
+        <div class="section-heading">
+          <h2>Frequently Asked Questions</h2>
+        </div>
+        <div style="background: #f8fafa; border-radius: 12px; padding: 2rem; margin-bottom: 3rem;">
+          <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question" style="margin-bottom: 1.5rem;">
+            <h3 itemprop="name" style="font-size: 1.1rem; margin-bottom: 0.5rem; color: #1a2a28;">What are bioplastics?</h3>
+            <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+              <p itemprop="text" style="color: #4a5a58; line-height: 1.7;">Bioplastics are plastic materials derived from renewable biomass sources such as corn starch, sugarcane, cellulose, or vegetable oils. They can be biodegradable (like PLA, PHA) or non-biodegradable but bio-based (like bio-PE). The global bioplastics market is projected to reach 28.7 million tonnes by 2031.</p>
+            </div>
+          </div>
+          <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question" style="margin-bottom: 1.5rem;">
+            <h3 itemprop="name" style="font-size: 1.1rem; margin-bottom: 0.5rem; color: #1a2a28;">What is the difference between bio-based and biodegradable?</h3>
+            <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+              <p itemprop="text" style="color: #4a5a58; line-height: 1.7;">Bio-based refers to the source material (renewable biomass), while biodegradable refers to how the material breaks down. Not all bio-based plastics are biodegradable (e.g., bio-PE), and not all biodegradable plastics are bio-based. PLA is both bio-based and industrially compostable.</p>
+            </div>
+          </div>
+          <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question" style="margin-bottom: 1.5rem;">
+            <h3 itemprop="name" style="font-size: 1.1rem; margin-bottom: 0.5rem; color: #1a2a28;">Which companies produce bioplastics?</h3>
+            <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+              <p itemprop="text" style="color: #4a5a58; line-height: 1.7;">Major bioplastics producers include NatureWorks (PLA), Novamont (Mater-Bi), BASF (ecoflex®), TotalEnergies Corbion (PLA), Braskem (bio-PE), Danimer Scientific (PHA), and Arkema (Rilsan®). Our portal tracks 237+ companies across the entire value chain.</p>
+            </div>
+          </div>
+          <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question" style="margin-bottom: 1.5rem;">
+            <h3 itemprop="name" style="font-size: 1.1rem; margin-bottom: 0.5rem; color: #1a2a28;">How big is the bioplastics market?</h3>
+            <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+              <p itemprop="text" style="color: #4a5a58; line-height: 1.7;">The global bioplastics market was valued at approximately $10.5 billion in 2024 and is projected to grow at a CAGR of 18-20% through 2031, driven by EU regulations, corporate sustainability targets, and consumer demand for eco-friendly packaging.</p>
+            </div>
+          </div>
+          <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+            <h3 itemprop="name" style="font-size: 1.1rem; margin-bottom: 0.5rem; color: #1a2a28;">How do I identify different types of bioplastics?</h3>
+            <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+              <p itemprop="text" style="color: #4a5a58; line-height: 1.7;">Common bioplastics include PLA (polylactic acid) for packaging, PHA (polyhydroxyalkanoates) for marine applications, PBAT for flexible packaging, starch blends for disposable items, and bio-PE for rigid containers. Each has distinct properties suited to specific applications.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===== 7. CTA / GO DEEPER ===== -->
       <section class="cta-section">
         <h2>Go Deeper</h2>
 
-        <div class="cta-grid">
+        <div class="cta-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
           <div class="cta-card">
             <h3>📚 Bioplastics Guide</h3>
             <p>Comprehensive overview of bioplastics types, properties, applications, and environmental benefits.</p>
@@ -282,11 +302,6 @@
             <a href="/companies/" class="cta-button">Browse Companies →</a>
           </div>
 
-          <div class="cta-card">
-            <h3>📊 Market Intelligence</h3>
-            <p>Access market studies, forecasts, and analysis reports on bioplastics growth and investment opportunities.</p>
-            <a href="/studies/" class="cta-button">View Studies →</a>
-          </div>
         </div>
       </section>
 

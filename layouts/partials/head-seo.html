@@ -404,6 +404,34 @@
 {{ end }}
 
 
+{{/* === WebSite + Organization for homepage === */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Bioplastics Portal",
+  "url": "https://bioplasticsportal.com",
+  "description": "Comprehensive resource for bioplastics research, company profiles, industry news, and market intelligence",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bioplastics Portal",
+    "url": "https://bioplasticsportal.com",
+    "sameAs": [
+      "https://github.com/Svenno76/bioplastic-website",
+      "https://www.linkedin.com/in/sven-cammerer-digital-marketing",
+      "https://x.com/bioplasticsp?s=11&t=4DXQRh2WehuOWNmO_Z6wuA"
+    ]
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://bioplasticsportal.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}
+
 {{/* === AboutPage for about section === */}}
 {{ if eq .Params.page_type "about" }}
 <script type="application/ld+json">

@@ -15,9 +15,9 @@ Since its launch, the portal has grown to cover **1,235 pages** including **188 
 
 ## About the Author
 
-**Sven Cammerer** is the creator, editor, and maintainer of Bioplastics Portal. Based in Hamburg, Germany, he is **Head of Digital Marketing & CRM at Sulzer Chemtech** with a background in chemical engineering and 20+ years of experience in plant construction and the polymer industry.
+**Sven Cammerer** is the creator, editor, and maintainer of Bioplastics Portal. Based in Zurich, Switzerland, he is **Head of Digital Marketing & CRM at Sulzer Chemtech** with a background in chemical engineering and 20+ years of experience in plant construction and the polymer industry.
 
-Sven holds a **Dipl.-Ing. in Verfahrenstechnik** (Chemical Engineering) from TU Hamburg-Harburg and an **MBA from the University of St. Gallen**. He previously led the **Polymer Business division at Sulzer Chemtech AG** and worked in the **M&A department of Sulzer AG** — giving him deep insight into the industrial and commercial dimensions of the bioplastics value chain.
+Sven holds a **Dipl.-Ing. in Verfahrenstechnik** (Chemical Engineering) from TU Hamburg-Harburg and an **MBA from the University of St. Gallen**. He previously led the **Polymer Business at Sulzer Chemtech AG** and worked in the **M&A department of Sulzer AG** — giving him deep insight into the industrial and commercial dimensions of the bioplastics value chain.
 
 Sven is the author of *Get Cited or Get Left Behind*, a practical guide to Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) — helping content creators and businesses ensure their expertise is visible in AI-powered search results. His work bridges the gap between technical bioplastics knowledge and modern digital visibility strategies.
 

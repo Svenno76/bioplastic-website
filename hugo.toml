@@ -27,7 +27,7 @@ ignoreFiles = ["^database/"]
   featured_image = '/images/bioplastics-banner.jpg'
   recent_posts_number = 5
   custom_css = ["css/custom.css", "css/homepage.css"]
-  description = "Your comprehensive resource for bioplastics research, news, and industry insights"
+  description = "Bioplastics Portal: 237+ company profiles, daily industry news, market studies, and expert analysis. Your complete resource for PLA, PHA, PBAT, and sustainable plastics."
 
 [[menu.main]]
   name = "News"
