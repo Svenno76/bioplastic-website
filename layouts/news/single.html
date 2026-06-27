@@ -42,7 +42,7 @@
 
         {{ if .Params.featured_image }}
         <div style="margin-bottom: 2rem; border-radius: 12px; overflow: hidden;">
-          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; max-height: 480px; object-fit: cover;" loading="lazy" decoding="async">
+          {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 1200 "height" 480) }}
         </div>
         {{ end }}
 

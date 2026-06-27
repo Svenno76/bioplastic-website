@@ -33,7 +33,7 @@
       <article class="news-card">
         {{ if .Params.featured_image }}
         <div class="news-card-image">
-          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+          {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 300 "height" 200) }}
         </div>
         {{ end }}
 

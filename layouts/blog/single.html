@@ -29,11 +29,11 @@
 
         {{ if .Params.featured_image }}
           {{ if eq .Params.image_type "logo" }}
-            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;" loading="lazy" decoding="async">
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;" loading="eager">
           {{ else }}
-            <div style="margin-bottom: 2rem;">
-              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" decoding="async">
-            </div>
+          <div style="margin-bottom: 2rem; border-radius: 12px; overflow: hidden;">
+            {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 1200 "height" 480) }}
+          </div>
           {{ end }}
         {{ end }}
 

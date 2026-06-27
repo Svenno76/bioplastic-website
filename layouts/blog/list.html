@@ -43,10 +43,10 @@
 
             {{ if .Params.featured_image }}
               {{ if eq .Params.image_type "logo" }}
-                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 140px; height: auto; border-radius: 8px; float: left; margin-right: 1.5rem; margin-bottom: 1rem;" loading="lazy" decoding="async">
+                {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 300 "height" 200) }}
               {{ else }}
                 <div style="margin-bottom: 1rem;">
-                  <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 8px; max-height: 300px; object-fit: cover;" loading="lazy" decoding="async">
+                  {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 600 "height" 300) }}
                 </div>
               {{ end }}
             {{ end }}

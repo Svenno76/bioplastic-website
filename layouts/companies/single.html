@@ -29,7 +29,7 @@
   <div style="background: linear-gradient(135deg, #2d5a4f 0%, #3d7a6f 100%); color: white; padding: 3rem 2rem; border-radius: 16px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); position: relative;">
     {{ if .Params.logo }}
     <div style="position: absolute; top: 2rem; right: 2rem; background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 180px; height: 180px; display: flex; align-items: center; justify-content: center;">
-      <img src="{{ .Params.logo }}" alt="{{ .Title }} logo" style="max-width: 150px; max-height: 150px; object-fit: contain;" loading="eager" fetchpriority="high">
+      {{ partial "picture.html" (dict "src" .Params.logo "alt" (printf "%s logo" .Title) "width" 150 "height" 150) }}
     </div>
     {{ end }}
     <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 2rem; {{ if .Params.logo }}padding-right: 220px;{{ end }}">
