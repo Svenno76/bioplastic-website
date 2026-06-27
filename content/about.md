@@ -1,7 +1,7 @@
 ---
 title: "About Bioplastics Portal"
 date: 2024-01-01
-draft: true
+draft: false
 page_type: "about"
 summary: "Learn about Bioplastics Portal and its founder Sven Cammerer — a comprehensive resource for bioplastics research, company profiles, industry news, and educational content."
 image: "/images/sven-cammerer.jpg"
@@ -15,7 +15,9 @@ Since its launch, the portal has grown to cover **1,235 pages** including **188 
 
 ## About the Author
 
-**Sven Cammerer** is the creator, editor, and maintainer of Bioplastics Portal. Based in Switzerland, he is a software engineer and bioplastics industry analyst with years of experience tracking developments across the bioplastics value chain — from feedstock and polymer production to end-of-life solutions and market dynamics.
+**Sven Cammerer** is the creator, editor, and maintainer of Bioplastics Portal. Based in Hamburg, Germany, he is **Head of Digital Marketing & CRM at Sulzer Chemtech** with a background in chemical engineering and 20+ years of experience in plant construction and the polymer industry.
+
+Sven holds a **Dipl.-Ing. in Verfahrenstechnik** (Chemical Engineering) from TU Hamburg-Harburg and an **MBA from the University of St. Gallen**. He previously led the **Polymer Business division at Sulzer Chemtech AG** and worked in the **M&A department of Sulzer AG** — giving him deep insight into the industrial and commercial dimensions of the bioplastics value chain.
 
 Sven is the author of *Get Cited or Get Left Behind*, a practical guide to Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) — helping content creators and businesses ensure their expertise is visible in AI-powered search results. His work bridges the gap between technical bioplastics knowledge and modern digital visibility strategies.
 
@@ -24,6 +26,7 @@ Sven is the author of *Get Cited or Get Left Behind*, a practical guide to Answe
 - **Bioplastics industry analysis** — Tracking 188+ companies across PLA, PHA, PBAT, bio-PE, and other material categories
 - **AEO/GEO optimization** — Structured data, JSON-LD, and AI-search citation strategies
 - **Technical writing** — Translating complex material science into accessible, accurate content
+- **Marketing & CRM** — Digital marketing strategy for industrial B2B companies
 - **Open-source development** — Building and maintaining the portal as an open-source Hugo project on GitHub
 
 ## What We Cover
@@ -44,8 +47,8 @@ Content is reviewed for accuracy and updated regularly as new information become
 ## Connect
 
 - **GitHub**: [Svenno76](https://github.com/Svenno76) — Source code and issue tracking
-- **LinkedIn**: [Sven Cammerer](https://linkedin.com/in/svencammerer) — Professional updates and industry commentary
-- **X/Twitter**: [@SvenCammerer](https://x.com/SvenCammerer) — Bioplastics news and insights
+- **LinkedIn**: [Sven Cammerer](https://www.linkedin.com/in/sven-cammerer-digital-marketing) — Head of Digital Marketing & CRM at Sulzer Chemtech
+- **X/Twitter**: [@bioplasticsp](https://x.com/bioplasticsp?s=11&t=4DXQRh2WehuOWNmO_Z6wuA) — Bioplastics news and insights
 
 ## Technical
 
