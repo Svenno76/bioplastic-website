@@ -24,6 +24,8 @@
           <h1 style="font-size: 2.5rem; color: var(--color-primary-dark); margin-bottom: 1rem; line-height: 1.2;">{{ .Title }}</h1>
           <div style="display: flex; gap: 1rem; align-items: center; color: #64748b; margin-bottom: 1rem;">
             <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            <span>·</span>
+            <span>{{ math.Round (div (float (countwords .Content)) 200) }} min read</span>
           </div>
         </header>
 
@@ -40,6 +42,21 @@
         <div style="font-size: 1.125rem; line-height: 1.8; color: #1f2937;">
           {{ .Content }}
         </div>
+
+        {{ $related := .Site.RegularPages.Related . | first 3 }}
+        {{ if $related }}
+        <section style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
+          <h3 style="color: var(--color-primary-dark); margin-bottom: 1rem; font-size: 1.25rem;">Related Articles</h3>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+            {{ range $related }}
+            <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit; background: #f9fafb; padding: 1rem; border-radius: 8px; border: 1px solid #e5e7eb;">
+              <h4 style="font-size: 1rem; color: #1f2937; margin-bottom: 0.5rem;">{{ .Title }}</h4>
+              <p style="font-size: 0.875rem; color: #6b7280;">{{ .Date.Format "Jan 2, 2006" }} · {{ .Summary | truncate 80 }}</p>
+            </a>
+            {{ end }}
+          </div>
+        </section>
+        {{ end }}
 
         <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb; clear: both;">
           <a href="/blog/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to Blog</a>
