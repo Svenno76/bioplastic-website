@@ -15,6 +15,8 @@ stock_ticker: "PBR (NYSE), PETR3/PETR4 (B3)"
 date: '2026-02-27'
 draft: true
 sitemap:
+  noindex: true
+  nofollow: true
   priority: 0.8
 ---
 

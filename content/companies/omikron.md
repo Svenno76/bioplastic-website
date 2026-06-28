@@ -12,6 +12,8 @@ stock_ticker:
 date: '2026-02-27'
 draft: true
 sitemap:
+  noindex: true
+  nofollow: true
   priority: 0.8
 ---
 

@@ -12,10 +12,14 @@
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     article h3 { margin-top: 2.5rem; margin-bottom: 1rem; }
+    .company-logo { position: absolute; top: 2rem; right: 2rem; }
+    .company-logo img { object-fit: contain; }
     @media (max-width: 768px) {
       .company-grid { grid-template-columns: 1fr; }
-      .company-header { padding-right: 0 !important; }
-      .company-logo { position: static; width: 100px; height: 100px; margin: 1rem 0; }
+      .company-card-wrapper { padding-right: 0 !important; }
+      .company-logo { position: static !important; width: 80px !important; height: 80px !important; padding: 0.75rem !important; margin: 0 !important; top: auto !important; right: auto !important; flex-shrink: 0; }
+      .company-logo img, .company-logo source { width: 60px !important; height: 60px !important; object-fit: contain; }
+      .company-title-row h1 { font-size: 1.5rem !important; }
     }
   </style>
 </head>
@@ -27,15 +31,17 @@
   
   <!-- Company Header Card -->
   <div style="background: linear-gradient(135deg, #2d5a4f 0%, #3d7a6f 100%); color: white; padding: 3rem 2rem; border-radius: 16px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); position: relative;">
-    {{ if .Params.logo }}
-    <div style="position: absolute; top: 2rem; right: 2rem; background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 180px; height: 180px; display: flex; align-items: center; justify-content: center;">
-      {{ partial "picture.html" (dict "src" .Params.logo "alt" (printf "%s logo" .Title) "width" 150 "height" 150) }}
-    </div>
-    {{ end }}
-    <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 2rem; {{ if .Params.logo }}padding-right: 220px;{{ end }}">
+    <div class="company-card-wrapper" style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 2rem; {{ if .Params.logo }}padding-right: 220px;{{ end }}">
       <div style="flex: 1; min-width: 300px;">
-        <div style="display: flex; gap: 1rem; align-items: start; margin-bottom: 1rem; flex-wrap: wrap;">
-          <h1 style="font-size: 2.5rem; margin: 0; font-weight: 700; flex: 1; color: white;">{{ .Title }}</h1>
+        <div class="company-title-row" style="display: flex; gap: 1rem; align-items: center; margin-bottom: 1rem; flex-wrap: wrap;">
+          {{ if .Params.logo }}
+          <div class="company-logo" style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 180px; height: 180px; display: flex; align-items: center; justify-content: center;">
+            {{ partial "picture.html" (dict "src" .Params.logo "alt" (printf "%s logo" .Title) "width" 150 "height" 150) }}
+          </div>
+          {{ end }}
+          <div style="flex: 1; min-width: 200px;">
+            <h1 style="font-size: 2.5rem; margin: 0; font-weight: 700; color: white;">{{ .Title }}</h1>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem; align-items: center;">
           {{ if .Params.company_type }}
             {{ if reflect.IsSlice .Params.company_type }}
               {{ range .Params.company_type }}
@@ -54,6 +60,7 @@
             {{ if eq .Params.status "Active" }}✓{{ end }} {{ .Params.status }}
           </div>
           {{ end }}
+        </div>
         </div>
 
         <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1.5rem;">

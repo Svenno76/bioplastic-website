@@ -12,6 +12,8 @@ stock_ticker:
 date: '2026-02-13'
 draft: true
 sitemap:
+  noindex: true
+  nofollow: true
   priority: 0.8
 logo: /images/logos/lego-group.png
 ---
