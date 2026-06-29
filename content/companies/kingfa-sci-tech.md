@@ -98,11 +98,15 @@ Globally, Kingfa competes with BASF (Ecoflex), Novamont (Mater-Bi), and NatureWo
 
 | Metric | Value |
 |--------|-------|
-| 2025 H1 Revenue | RMB 31.6 billion (+35.5% YoY) |
-| 2025 H1 Net Profit | RMB 585 million |
+| 2024 Annual Revenue | RMB 65.3 billion |
+| 2024 Net Profit | RMB 824.6 million (+160% YoY) |
+| 2025 FY Net Profit Growth | +39.44% YoY |
+| 2026 Q1 Net Profit Growth | +23.72% YoY |
 | Stock Exchange | Shanghai (SSE: 600143) |
 | Founded | 1993 |
 | Subsidiaries | 64 worldwide |
+| Countries served | 130+ |
+| Customers | 1,000+ well-known enterprises |
 
 ## Key Milestones
 
