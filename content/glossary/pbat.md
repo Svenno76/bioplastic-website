@@ -81,18 +81,18 @@ The ratio determines the final properties. Higher adipate content yields softer,
 
 ## Key Applications
 
-### PLA/PBAT Blends (Most Common)
-- Compostable bags (shopping, waste, produce)
-- Flexible food packaging films
-- Agricultural mulch films
-- Food service items requiring flexibility
-- Typical ratio: 70–80% PLA / 20–30% PBAT
+### Starch/PBAT vs. PLA/PBAT
 
-### Starch/PBAT Blends
-- Cost-effective compostable bags
-- Loose-fill packaging
-- Agricultural films
-- Typical ratio: 30–60% starch / 40–70% PBAT
+| Property | Starch/PBAT (50:50) | PLA/PBAT (70:30) |
+|----------|---------------------|-------------------|
+| Cost | Lower (~0.7x PLA/PBAT) | Higher |
+| Tensile strength | 10–20 MPa | 30–40 MPa |
+| Flexibility | High | Moderate |
+| Water resistance | Lower (starch is hydrophilic) | Higher |
+| Compostable | Yes (EN 13432) | Yes (EN 13432) |
+| Bio-based content | 40–60% | 70–80% |
+| Typical uses | Bags, mulch films, loose-fill | Flexible packaging, food service |
+| Typical ratio | 30–60% starch / 40–70% PBAT | 70–80% PLA / 20–30% PBAT |
 
 ### Paper Coatings
 - Compostable paper cups and plates
