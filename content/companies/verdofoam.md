@@ -1,34 +1,15 @@
 ---
-title: Verdofoam
-company_type: Technology Company
-headquarters: Unknown
-status: Active
-short_description: 
-website: 
-primary_materials: Not specified
-market_segments: Not specified
-publicly_listed: false
-stock_ticker: 
-date: '2026-02-13'
-draft: true
+title: "Verdofoam"
+headquarters: "Netherlands"
+website: "https://verdofoam.com"
+primary_materials: "PLA (polylactic acid) foam"
+market_segments: "Packaging, Insulation, Industrial Applications"
+overview: "Verdofoam produces 100% bio-based PLA foam as a sustainable alternative to traditional EPS. The company is bio-based foam has the same shock-absorbing properties as EPS and is produced using responsible and environmentally friendly methods."
+change_status: "active"
+discovery_status: "found"
 sitemap:
-  noindex: true
-  nofollow: true
-  priority: 0.8
+  priority: 0.7
+draft: false
 ---
 
-## Overview
-
-Information not yet available.
-
-### Primary Materials
-
-Not specified
-
-### Market Segments
-
-Not specified
-
----
-
-*Last updated: February 13, 2026*
+Verdofoam is a Netherlands-based biotech company producing 100% bio-based foam made from PLA (polylactic acid). Verdofoam provides a sustainable and fully renewable alternative to traditional EPS foam for packaging, insulation, and industrial applications partnered with Nexam Chemical to enhance the foam with breakthrough additive technology for lightweight bio-based plastics.

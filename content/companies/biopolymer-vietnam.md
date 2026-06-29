@@ -1,4 +1,6 @@
 ---
+logo: "/images/logos/biopolymer-vietnam.png"
+
 title: "Biopolymer Vietnam"
 company_type: Converter
 headquarters: "Ho Chi Minh City, Vietnam"

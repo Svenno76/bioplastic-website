@@ -1,4 +1,6 @@
 ---
+logo: "/images/logos/european-commission.png"
+
 title: European Commission
 company_type: Consulting
 headquarters: Brussels, Belgium

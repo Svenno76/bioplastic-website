@@ -1,4 +1,6 @@
 ---
+logo: "/images/logos/upm-biochemicals.jpg"
+
 title: UPM
 company_type: Forest Industry / Biocomposites
 headquarters: "Helsinki, Finland"

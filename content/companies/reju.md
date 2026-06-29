@@ -1,34 +1,15 @@
 ---
-title: Reju
-company_type: Technology Company
-headquarters: Unknown
-status: Active
-short_description: 
-website: 
-primary_materials: Not specified
-market_segments: Not specified
-publicly_listed: false
-stock_ticker: 
-date: '2026-02-13'
-draft: true
+title: "Reju"
+headquarters: "Netherlands"
+website: "https://www.reju.com"
+primary_materials: "Recycled polyester (rPET from textile waste)"
+market_segments: "Textiles, Apparel, Circular Fashion"
+overview: "Reju is a Dutch polyester textile recycling company owned by Technip Energies. It chemically breaks down polyester textile waste to molecular level and rebuilds it into higher-quality polyester fiber - true textile-to-textile recycling. Parent company Technip has 70+ years in polyester business."
+change_status: "active"
+discovery_status: "found"
 sitemap:
-  noindex: true
-  nofollow: true
-  priority: 0.8
+  priority: 0.7
+draft: false
 ---
 
-## Overview
-
-Information not yet available.
-
-### Primary Materials
-
-Not specified
-
-### Market Segments
-
-Not specified
-
----
-
-*Last updated: February 13, 2026*
+Reju is a materials regeneration company unlocking the infinite possibilities of textile waste. Their technology chemically recycles polyester back to its molecular building blocks and rebuilds it into Reju.Polyester - guaranteed textile-to-textile recycled polyester. The company has selected New York for its first U.S. facility. Reju's recycled fibers have appeared in clothes by major brands.

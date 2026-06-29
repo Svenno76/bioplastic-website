@@ -1,4 +1,6 @@
 ---
+logo: "/images/logos/tetra-pak.png"
+
 title: Tetra Pak
 company_type: Food Packaging Technology
 headquarters: "Lund, Sweden"

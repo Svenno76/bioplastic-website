@@ -1,4 +1,6 @@
 ---
+logo: "/images/logos/treetotextile-ab.png"
+
 title: TreeToTextile AB
 company_type: Technology Company
 headquarters: "Stockholm, Sweden"

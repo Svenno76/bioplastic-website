@@ -1,4 +1,6 @@
 ---
+logo: "/images/logos/octarine-bio.jpg"
+
 title: Octarine Bio
 company_type: Biotechnology Company
 headquarters: "Copenhagen, Denmark"

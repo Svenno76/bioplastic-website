@@ -1,34 +1,16 @@
 ---
-title: Solena Materials
-company_type: Technology Company
-headquarters: Unknown
-status: Active
-short_description: 
-website: 
-primary_materials: Not specified
-market_segments: Not specified
-publicly_listed: false
-stock_ticker: 
-date: '2026-02-13'
-draft: true
+title: "Solena Materials"
+headquarters: "London, United Kingdom"
+founded: "2021"
+website: "https://www.solena-materials.com"
+primary_materials: "Protein-based biodegradable fibers"
+market_segments: "Apparel, Fashion, Luxury Textiles"
+overview: "Solena Materials is a UK-based deep biotech company that uses AI and deep learning to design synthetic protein fibers that are biodegradable and non-oil derived. Founded in 2021, raised $10.8M. Targets premium apparel brands with high-performance sustainable alternatives to polyester."
+change_status: "active"
+discovery_status: "found"
 sitemap:
-  noindex: true
-  nofollow: true
-  priority: 0.8
+  priority: 0.7
+draft: false
 ---
 
-## Overview
-
-Information not yet available.
-
-### Primary Materials
-
-Not specified
-
-### Market Segments
-
-Not specified
-
----
-
-*Last updated: February 13, 2026*
+Solena Materials develops next-generation sustainable fibers using computational protein design. Their deep learning models design new proteins that enable development of high-performance, non-oil derived, biodegradable fibers. The company targets the apparel and fashion industry, offering premium brands a sustainable alternative to petroleum-based synthetic textiles like polyester that contribute to microplastic pollution and carbon emissions.
