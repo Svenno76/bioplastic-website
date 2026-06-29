@@ -1,3 +1,4 @@
+---
 title: "PPWR (Packaging and Packaging Waste Regulation)"
 aka: ["Packaging Regulation", "EU Packaging Law", "PPWR 2024"]
 term_type: "standard"

@@ -1,3 +1,4 @@
+---
 title: "Mass Balance Approach"
 aka: ["Mass Balance", "Bio-Attribution", "Mass Balance Certification"]
 term_type: "concept"

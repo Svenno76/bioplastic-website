@@ -1,3 +1,4 @@
+---
 title: "rPET (Recycled Polyethylene Terephthalate)"
 aka: ["Recycled PET", "Post-Consumer Recycled PET", "PCR-PET"]
 term_type: "material"

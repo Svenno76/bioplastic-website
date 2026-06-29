@@ -1,3 +1,4 @@
+---
 title: "Mycelium-Based Materials"
 aka: ["Mycelium Packaging", "Mushroom Mycelium", "Fungal Biocomposites"]
 term_type: "material"
