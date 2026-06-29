@@ -42,13 +42,13 @@ The bio-based aniline produced is **fully drop-in compatible** — it meets the 
 The **Bio4PURConti** (Bio-based Polyurethanes through Continuous Aniline Production) project is a landmark EU-funded initiative:
 
 | Aspect | Detail |
-|---|---|
+|--------|--------|
 | **Coordinator** | Covestro AG (Germany) |
 | **Partners** | 10 companies across 7 EU countries |
 | **Funding** | EU Horizon Europe |
 | **Target** | First continuous bio-based aniline production process |
 | **Pilot Plants** | Ghent (Belgium) and Leverkusen (Germany) |
-| **Scale** | Semi-industrial (TONNAGE_TO_BE_CONFIRMED) |
+| **Scale** | Semi-industrial (tonnage TBD) |
 | **Feedstock** | Plant-based sugars (hardwood biomass) |
 | **Potential CO₂ Reduction** | ~20 million tonnes/year across polyurethane chain |
 
