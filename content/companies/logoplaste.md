@@ -13,6 +13,7 @@ sitemap:
 noindex: false
 nofollow: false
 draft: false
+logo: "/images/logos/logoplaste.png"
 ---
 
 ## Overview

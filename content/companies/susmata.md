@@ -9,6 +9,7 @@ change_status: "active"
 discovery_status: "found"
 sitemap:
   priority: 0.7
+logo: "/images/logos/susmata.png"
 draft: false
 ---
 

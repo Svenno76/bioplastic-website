@@ -10,6 +10,7 @@ discovery_status: "found"
 sitemap:
   priority: 0.7
 draft: false
+logo: "/images/logos/sealpap.png"
 ---
 
 Sealpap specialized in recyclable paper-based flexible packaging solutions. The company was acquired by TIPA Compostable Packaging (via European subsidiary Bio4Pack) to combine compostable technologies with recyclable paper-based packaging. The acquisition supports brands in meeting environmental goals and upcoming EU packaging regulations.

@@ -10,6 +10,7 @@ discovery_status: "found"
 sitemap:
   priority: 0.7
 draft: false
+logo: "/images/logos/uhde-inventa-fischer.png"
 ---
 
 Uhde Inventa-Fischer is a thyssenkrupp subsidiary and one of the world's leading engineering companies for polymer plant construction. With over 100 years of experience since 1924 the company has built more than 450 polymer plants worldwide. Core competences include polyesters, polyamides, and polylactic acid PLA. The company developed the PLAneo process for producing PLA from lactic acid and has built the first commercial PLA plants using this technology in China and elsewhere.

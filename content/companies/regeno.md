@@ -10,6 +10,7 @@ market_segments: Not specified
 publicly_listed: false
 stock_ticker: 
 date: '2026-02-13'
+logo: "/images/logos/regeno.jpg"
 draft: true
 sitemap:
   noindex: true

@@ -19,6 +19,7 @@ date: '2026-02-14'
 draft: false
 sitemap:
   priority: 0.8
+logo: "/images/logos/jiangsu-supla-bioplastics.png"
 ---
 
 ## Overview

@@ -10,6 +10,7 @@ discovery_status: "found"
 sitemap:
   priority: 0.6
 draft: false
+logo: "/images/logos/sestec.png"
 ---
 
 Sestec develops and manufactures natural, bio-based adhesives for the wood panel industry. Their Sestec adhesive system is one of the world is first 100% bio-based adhesive solutions for panels such as MDF, HDF, OSB, and particleboard. The company operates with German-Polish R&D collaborations and was acquired by Bakelite in 2025 to expand Bakelite is bio-based sustainable material solutions portfolio.

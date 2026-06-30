@@ -11,6 +11,7 @@ discovery_status: "found"
 sitemap:
   priority: 0.7
 draft: false
+logo: "/images/logos/sojitz.png"
 ---
 
 Sojitz Corporation is a major Japanese trading and investment group. Through its subsidiary Sojitz Pla-Net Corporation, Sojitz is actively expanding into the bioplastics and recycling sector. Key initiatives include development of biomass plastics (polylactic acid and polyethylene) with Oji Holdings, and a target of building a JPY 100 billion recycling and bioplastics business by 2030. Sojitz is also involved in innovative biomanufacturing research using CO2 and hydrogen as feedstocks.

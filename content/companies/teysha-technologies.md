@@ -10,6 +10,7 @@ discovery_status: "found"
 sitemap:
   priority: 0.7
 draft: false
+logo: "/images/logos/teysha-technologies.png"
 ---
 
 Teysha Technologies develops breakthrough biodegradable plastics. Unlike existing bioplastics such as PLA and PHA, the degradation rate of AggiePol can be tuned to match product lifetime requirements. This addresses the critical problem of existing bioplastics that either degrade too quickly or persist as microplastics in the environment.

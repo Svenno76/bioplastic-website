@@ -11,6 +11,7 @@ discovery_status: "found"
 sitemap:
   priority: 0.8
 draft: false
+logo: "/images/logos/vioneo.png"
 ---
 
 Vioneo is pioneering the defossilization of the plastics sector by producing PP and PE from green methanol instead of fossil fuels. Founded in 2024 and backed by A.P. Moller Holding, Vioneo produces fossil-free, traceable, and certified polymers at commercial scale products serve the most prevalent plastic resin applications across medical equipment, cars, personal care products, household items, and toys.
