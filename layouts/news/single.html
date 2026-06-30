@@ -53,14 +53,21 @@
           {{ partial "auto-link-content.html" (dict "Content" $content) }}
         </div>
 
-        {{ if .Params.source }}
+        {{ if or .Params.source .Params.source_url }}
         <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #e5e7eb; font-size: 0.95rem; color: #6b7280;">
-          <strong>Source:</strong> <a href="{{ .Params.source }}" target="_blank" rel="noopener" style="color: #3b82f6; text-decoration: none;">{{ .Params.source | replaceRE `^https?://(www\.)?` "" | truncate 60 "…" }}</a>
+          <strong>Source:</strong>
+          {{ if .Params.source_url }}
+            <a href="{{ .Params.source_url }}" target="_blank" rel="noopener" style="color: #3b82f6; text-decoration: none;">{{ .Params.source | default (printf "%s" .Params.source_url | replaceRE `^https?://(www\.)?` "" | truncate 60 "") }}</a>
+          {{ else if and .Params.source (strings.HasPrefix .Params.source "http") }}
+            <a href="{{ .Params.source }}" target="_blank" rel="noopener" style="color: #3b82f6; text-decoration: none;">{{ .Params.source | replaceRE `^https?://(www\.)?` "" | truncate 60 "" }}</a>
+          {{ else }}
+            <span>{{ .Params.source }}</span>
+          {{ end }}
         </div>
         {{ end }}
 
         <footer style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb;">
-          <a href="/news/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">← Back to News</a>
+          <a href="/news/" style="color: #3b82f6; text-decoration: none; font-weight: 500;">Back to News</a>
         </footer>
       </article>
     </div>

@@ -9,7 +9,8 @@ summary: "Copersucar, one of the world's largest sugar and ethanol traders, has 
 tags: ["Biomethane", "Logistics", "Brazil", "Sugarcane", "Fleet", "CO₂ Reduction"]
 category: "Plant Announcement"
 company: "Copersucar"
-source: "https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m"
+source: "copersucar.com.br"
+source_url: "https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m"
 ---
 
 Copersucar, one of the world's largest sugar and ethanol traders, has launched BioRota — Brazil's largest sustainable logistics fleet, powered by biomethane.

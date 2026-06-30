@@ -9,7 +9,8 @@ summary: "Emirates Biotech is pushing forward on its mega-project — and lining
 tags: ["UAE", "PLA", "Sulzer", "Samsung", "CIRCLE Consortium", "Food Waste"]
 category: "Plant Announcement"
 company: "Emirates Biotech"
-source: "https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip"
+source: "emiratesbiotech.com"
+source_url: "https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip"
 ---
 
 Emirates Biotech is pushing forward on its mega-project — and lining up serious partners to do it.

@@ -9,7 +9,8 @@ summary: "BioBTX, a Dutch circular chemistry company from Groningen, has raised 
 tags: ["Renewable Aromatics", "BTX", "Circular Chemistry", "Plastic Waste", "€80M", "Netherlands"]
 category: "Investment & Funding"
 company: "BioBTX"
-source: "https://biobtx.com/biobtx_secures/"
+source: "biobtx.com"
+source_url: "https://biobtx.com/biobtx_secures/"
 ---
 
 BioBTX, a Dutch circular chemistry company from Groningen, has raised over €80 million to build the world's first commercial-scale renewable aromatics plant — in Delfzijl, right on the North Sea coast.

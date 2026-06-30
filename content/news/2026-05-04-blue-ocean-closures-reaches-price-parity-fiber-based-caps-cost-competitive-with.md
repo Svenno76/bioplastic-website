@@ -9,7 +9,8 @@ summary: "Blue Ocean Closures reaches price parity: fiber-based screw caps now c
 tags: ["Fiber Closures", "Price Parity", "L'Oréal", "L'Accelerator", "Screw Caps", "Sweden"]
 category: "Product Launch"
 company: "Blue Ocean Closures"
-source: "https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/"
+source: "blueoceanclosures.com"
+source_url: "https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/"
 ---
 
 Blue Ocean Closures from Sweden has hit a milestone: its fiber-based screw caps are now cost-competitive with conventional plastic closures. The price parity problem — long the biggest barrier to sustainable packaging alternatives — is solved.

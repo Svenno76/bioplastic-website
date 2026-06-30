@@ -8,7 +8,8 @@ summary: "Lummus Technology has taken a lead investor position in RWDC Industrie
 tags: ["Lummus Technology", "RWDC Industries", "PHA", "Biopolymers", "Commercialization", "Biodegradable Plastics", "Investment"]
 category: "Investment & Funding"
 company: "RWDC Industries"
-source: "https://www.rwdc-industries.com/lummus-rwdc-reinforce-commitment"
+source: "rwdc-industries.com"
+source_url: "https://www.rwdc-industries.com/lummus-rwdc-reinforce-commitment"
 ---
 
 ![Lummus Technology & RWDC Industries - PHA Biopolymer Facility](/images/news/lummus-rwdc-pha-facility.jpg)

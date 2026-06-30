@@ -9,7 +9,8 @@ summary: "Aduro Clean Technologies has closed a $15.54 million underwritten publ
 tags: ["Aduro Clean Technologies", "Chemical Recycling", "LIFE Offering", "Public Offering", "Hydrochemolytic", "Plastic Recycling", "Funding"]
 category: "Investment & Funding"
 company: "Aduro Clean Technologies"
-source: "https://www.adurocleantech.com/news"
+source: "adurocleantech.com"
+source_url: "https://www.adurocleantech.com/news"
 ---
 
 ![Aduro Clean Technologies - Chemical Recycling Facility](/images/news/aduro-chemical-recycling.jpg)

@@ -9,7 +9,8 @@ summary: "Aduro Clean Technologies from Canada is getting serious about Europe. 
 tags: ["Chemical Recycling", "FOAK", "Netherlands", "10,000t", "Chemelot", "Canada"]
 category: "Investment & Funding"
 company: "Aduro Clean Technologies"
-source: "https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx"
+source: "adurocleantech.com"
+source_url: "https://www.adurocleantech.com/press-releases/press-releases-details/2026/Aduro-Appoints-Senior-European-Industrial-Leader-to-Lead-Delivery-of-FOAK-Facility-at-Chemelot/default.aspx"
 ---
 
 Aduro Clean Technologies from Canada is getting serious about Europe. The company, which has developed its own technology for chemical recycling of waste plastics, has taken three significant steps.

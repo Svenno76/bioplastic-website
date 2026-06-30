@@ -8,7 +8,8 @@ summary: "UK-based Kelpi's seaweed-derived packaging material approaches first c
 tags: ["Seaweed Packaging", "Sachets", "B Corp", "Market Launch", "Coatings", "UK"]
 category: "Partnerships"
 company: "Kelpi"
-source: "https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch"
+source: "kelpi.net"
+source_url: "https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch"
 ---
 
 Kelpi is on the verge of its first commercial deployment — and with a fitting partner at that.

@@ -8,7 +8,8 @@ summary: "CJ Biomaterials launches PHA extrusion coating platform for paper/boar
 tags: ["PHA", "Extrusion Coatings", "Masterbatch", "CEO Appointment", "Artificial Turf", "Korea"]
 category: "Product Launch"
 company: "CJ Biomaterials"
-source: "https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin"
+source: "cjbiomaterials.com"
+source_url: "https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin"
 ---
 
 CJ Biomaterials, the bioplastics arm of South Korean conglomerate CJ CheilJedang, has unveiled a series of developments that significantly expand PHA's application range.

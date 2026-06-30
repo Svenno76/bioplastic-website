@@ -9,7 +9,8 @@ summary: "Covestro coordinates a 10-partner, 7-country EU consortium to develop 
 tags: ["Bio-Based Aniline", "EU Project", "Polyurethanes", "Continuous Fermentation", "Covestro", "Bio4PURConti", "MDI"]
 category: "Technology"
 company: "Covestro"
-source: "https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/"
+source: "covestro.com"
+source_url: "https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/"
 ---
 
 <picture>

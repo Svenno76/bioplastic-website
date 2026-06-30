@@ -9,7 +9,8 @@ summary: "French bioplastics specialist NaturePlast is transforming marine by-pr
 tags: ['NaturePlast', 'Marine Resources', 'Seaweed', 'Algae', 'Circular Economy', 'Biocomposites', 'Starfish', 'France', 'FILASTERID']
 category: "Company News"
 company: "NaturePlast"
-source: "https://natureplast.eu/natureplast-2025-valorise-les-ressources-marines/"
+source: "natureplast.eu"
+source_url: "https://natureplast.eu/natureplast-2025-valorise-les-ressources-marines/"
 ---
 
 ![NaturePlast Marine Resources — Sea Shells and Algae for Bioplastics](/images/news/natureplast-marine-resources-2025.png)

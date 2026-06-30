@@ -9,7 +9,8 @@ summary: "Bcomp is the leading solutions provider for natural fibre reinforcemen
 tags: ["Natural Fibre", "Biocomposites", "Lightweighting", "Decarbonisation", "Bcomp", "Automotive"]
 category: "Company News"
 company: "Bcomp"
-source: "https://www.bcomp.com/"
+source: "bcomp.com"
+source_url: "https://www.bcomp.com/"
 ---
 
 Bcomp is pioneering sustainable lightweighting through high-performance bio-based materials. The Swiss company's ampliTex™ technical fabrics offer a versatile array of options from dry fibres to prepregs, enabling large-scale back injection moulding, thermoplastic compression moulding, and low-volume prepreg applications.

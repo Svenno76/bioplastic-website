@@ -9,7 +9,8 @@ summary: "TotalEnergies Corbion and Yuhan-Kimberly have commercialized a new gen
 tags: ["PLA", "PHA", "TotalEnergies Corbion", "Yuhan-Kimberly", "Washable Wipes", "Circular Economy", "Biobased Materials", "Luminy"]
 category: "Product Launch"
 company: "TotalEnergies Corbion"
-source: "https://totalenergies-corbion.com/totalenergies-corbion-and-yuhan%e2%80%91kimberly-announce-long%e2%80%91standing-partnership-driving-innovation-in-biobased-washable-wipe-applications/"
+source: "totalenergies-corbion.com"
+source_url: "https://totalenergies-corbion.com/totalenergies-corbion-and-yuhan%e2%80%91kimberly-announce-long%e2%80%91standing-partnership-driving-innovation-in-biobased-washable-wipe-applications/"
 ---
 
 ![Biobased Washable Kitchen Towels - TotalEnergies Corbion & Yuhan-Kimberly](/images/news/totalenergies-corbion-yuhan-kimberly-wipes.jpg)

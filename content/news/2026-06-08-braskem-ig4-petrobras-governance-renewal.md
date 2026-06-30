@@ -9,7 +9,8 @@ summary: "Braskem announces a new stage with investment fund IG4 and Petrobras, 
 tags: ["Braskem", "IG4 Capital", "Petrobras", "Governance", "Leadership", "Restructuring", "Brazil"]
 category: "Company News"
 company: "Braskem"
-source: "https://www.braskem.com/europe/news-detail/braskem-announces-new-stage-with-ig4-and-petrobras-together-to-strengthen-governance-and-renewal-of-executive-leadership"
+source: "braskem.com"
+source_url: "https://www.braskem.com/europe/news-detail/braskem-announces-new-stage-with-ig4-and-petrobras-together-to-strengthen-governance-and-renewal-of-executive-leadership"
 ---
 
 ![Braskem - Governance Renewal with IG4 and Petrobras](/images/news/braskem-ig4-petrobras-governance.jpg)

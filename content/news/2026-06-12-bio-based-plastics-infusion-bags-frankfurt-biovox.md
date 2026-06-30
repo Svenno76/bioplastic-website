@@ -9,7 +9,8 @@ summary: "A research team at Goethe-Universität Frankfurt, in cooperation with 
 tags: ["Medical Bioplastics", "BIOVOX", "Healthcare", "Biodegradable", "Frankfurt", "Research"]
 category: "Research"
 company: "BIOVOX"
-source: "https://www.chemeurope.com/en/news/1187597/bio-based-plastics-for-infusion-bags.html"
+source: "chemeurope.com"
+source_url: "https://www.chemeurope.com/en/news/1187597/bio-based-plastics-for-infusion-bags.html"
 ---
 
 While BIOVOX develops the recipe for the plastic granulate based on cellulose, sugar cane or corn starch, the adapted biocompatibility tests and physical and chemical safety tests are carried out at Frankfurt UAS.

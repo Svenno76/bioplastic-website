@@ -9,7 +9,8 @@ summary: "The PLASTICS Industry Association has announced the winners of its 202
 tags: ["Innovation Award", "PLASTICS", "e-P4HV", "Biodegradable", "High-Performance", "Biomass"]
 category: "Industry Event"
 company: "PLASTICS Industry Association"
-source: "https://www.plasticsindustry.org/newsroom/plastics-announces-2026-plastic-sustainability-innovation-award-winners/"
+source: "plasticsindustry.org"
+source_url: "https://www.plasticsindustry.org/newsroom/plastics-announces-2026-plastic-sustainability-innovation-award-winners/"
 ---
 
 The PLASTICS Industry Association has announced the winners of its 2026 Plastic Sustainability Innovation Award competition, recognizing breakthrough technologies that advance the sustainability of plastics.
