@@ -22,7 +22,7 @@
           {{ end }}
           <div class="faq-section">
             <h2>{{ trim (replaceRE "## " "" .) " " }}</h2>
-        {{ else if hasPrefix . "### " }}
+        {{ if hasPrefix . "### " }}
           {{ if $inFaqItem }}
             </div></div></div>
           {{ end }}
