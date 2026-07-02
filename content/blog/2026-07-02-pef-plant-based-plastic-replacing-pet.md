@@ -1,7 +1,7 @@
 ---
 title: "PEF: The Plant-Based Plastic That Could Replace PET"
 date: 2026-07-02
-draft: true
+draft: false
 categories: ["Materials", "Guide"]
 tags: ["PEF", "PET", "Bio-based", "Packaging", "Avantium", "Circular Economy"]
 summary: "PEF (polyethylene furanoate) is a 100% plant-based polymer with superior barrier properties compared to PET. This deep dive explores the technology, market potential, key players, and challenges facing the most promising PET alternative since bioplastics went mainstream."
