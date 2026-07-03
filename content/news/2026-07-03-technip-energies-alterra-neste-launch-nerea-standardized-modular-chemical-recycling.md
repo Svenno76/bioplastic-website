@@ -8,7 +8,7 @@ category: "Technology"
 company: ["Technip Energies", "Alterra", "Neste"]
 source: "Technip Energies"
 source_url: "https://www.ten.com/en/media/press-releases/technip-energies-alterra-and-neste-launch-nerea-standardized-modular-solution"
-featured_image: "/images/news/nerea-launch-1024.jpg"
+featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1024&q=80"
 sitemap:
   priority: 0.7
 ---
