@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/amcor.jpg
+logo: /images/logos/amcor.png
 title: Amcor
 company_type: Converter
 headquarters: "Melbourne, Victoria, Australia"

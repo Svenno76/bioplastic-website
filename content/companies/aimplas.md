@@ -1,5 +1,5 @@
 ---
-logo: /images/logos/aimplas.jpg
+logo: /images/logos/aimplas.png
 title: AIMPLAS
 company_type: Technology Company
 headquarters: "Valencia, Spain"
