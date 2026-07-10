@@ -1,23 +1,14 @@
 ---
-title: Evonik Launches Purocel™ Series — Advanced Catalysts and Adsorbents to Purify
-  Pyrolysis Oil for Chemical Recycling
-date: 2026-06-25 10:00:00+02:00
+title: "Evonik Launches Purocel™ Series — Advanced Catalysts and Adsorbents to Purify Pyrolysis Oil for Chemical Recycling"
+date: 2026-06-25
 draft: false
-summary: Evonik introduces a comprehensive suite of Purocel™ adsorbents and hydrotreating
-  catalysts that remove chlorides, metals, and heteroatoms from pyrolysis oil — enabling
-  its use as cracker feedstock and accelerating chemical recycling scale-up.
-tags:
-- bioplastics
-- chemical-recycling
-- circular-economy
-- feedstock
-- pyrolysis
-category: Technology
-company:
-- Evonik
-source: Evonik Industries
-source_url: https://corporate.evonik.cn/en/media/news/evonik-advances-pyrolysis-oil-capability-with-launch-of-purocel-series-274240.html
-featured_image: https://images.unsplash.com/photo-1581092334573-2d8a9a5e4b1a?w=1024&q=80
+summary: "Evonik Industries launches Purocel™, a comprehensive portfolio of catalysts and adsorbents designed to purify pyrolysis oil from mixed plastic waste into steam-cracker-ready feedstock, enabling chemical recycling at industrial scale."
+tags: ["Evonik", "Purocel", "chemical-recycling", "pyrolysis-oil"]
+category: "Product Launch"
+company: ["Evonik"]
+source: "Evonik Industries"
+source_url: "https://corporate.evonik.cn/en/media/news/evonik-advances-pyrolysis-oil-capability-with-launch-of-purocel-series-274240.html"
+featured_image: "/images/news/evonik-purocel-pyrolysis-oil-1024.jpg"
 sitemap:
   priority: 0.7
 ---
