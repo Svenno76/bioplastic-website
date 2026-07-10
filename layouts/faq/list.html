@@ -1,48 +1,15 @@
 {{ define "main" }}
   <!-- Hero Section -->
-  <div style="background: linear-gradient(135deg, #faf9f7 0%, #eef5f3 100%); border-bottom: 1px solid #e0e8e6; padding: 3rem 2rem; text-align: center;">
+  <div class="faq-hero">
     <div style="max-width: 50rem; margin: 0 auto;">
-      <h1 style="font-size: 2.8rem; font-weight: 800; color: #1e4d45; letter-spacing: -1px; font-family: var(--font-display); margin-bottom: 0.75rem;">Frequently Asked Questions</h1>
-      <p style="font-size: 1.15rem; color: #6b7f7d; line-height: 1.6;">Everything you need to know about bioplastics — from basics to technical details.</p>
+      <h1>Frequently Asked Questions</h1>
+      <p>Everything you need to know about bioplastics — from basics to technical details.</p>
     </div>
   </div>
 
   <!-- FAQ Content -->
   <div style="max-width: 55rem; margin: 0 auto; padding: 3rem 2rem;">
-    {{ $raw := .RawContent }}
-    {{ $raw = replaceRE "\n" "\n" $raw }}
-    {{ $sections := split $raw "\n---\n" }}
-    {{ range $sections }}
-      {{ $lines := split . "\n" }}
-      {{ $inFaqItem := false }}
-      {{ range $lines }}
-        {{ if hasPrefix . "## " }}
-          {{ if $inFaqItem }}
-            {{ end }}</div></div></div>
-          {{ end }}
-          <div class="faq-section">
-            <h2>{{ trim (replaceRE "## " "" .) " " }}</h2>
-        {{ if hasPrefix . "### " }}
-          {{ if $inFaqItem }}
-            </div></div></div>
-          {{ end }}
-          {{ $inFaqItem = true }}
-          {{ $qTitle := trim (replaceRE "### " "" .) " " }}
-          <div class="faq-item">
-            <button class="faq-question" onclick="toggleFaq(this)">
-              <span>{{ $qTitle }}</span>
-              <span class="faq-icon">+</span>
-            </button>
-            <div class="faq-answer">
-              <div class="faq-answer-inner">
-        {{ else if and (ne . "") (not (hasPrefix . "## ")) (not (hasPrefix . "### ")) (not (hasPrefix . "![")) (not (hasPrefix . "---")) }}
-          {{ . | markdownify | safeHTML }}
-        {{ end }}
-      {{ end }}
-      {{ if $inFaqItem }}
-        </div></div></div>
-      {{ end }}
-    {{ end }}
+    {{ .Content }}
   </div>
 
   <!-- Quick Facts Box -->
