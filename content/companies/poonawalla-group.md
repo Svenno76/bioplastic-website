@@ -1,17 +1,20 @@
----
-logo: /images/logos/poonawalla-group.png
+---logo: /images/logos/poonawalla-group.png
 title: Poonawalla Group
-company_type: Investor / Conglomerate (Not a Bioplastics Producer)
-headquarters: "Pune, Maharashtra, India"
+company_type: Technology Company
+headquarters: Pune, Maharashtra, India
 status: Active
-short_description: "Poonawalla Group is a diversified Indian conglomerate (Serum Institute of India, Poonawalla Fincorp, stud farms, engineering) that invested in Regeno, a biodegradable packaging startup. The Group itself does not produce bioplastics — this entry documents their strategic investment in the sector."
-website: "https://www.poonawallagroup.com"
-founded: "1966"
-employees: "10,000+ (Group total)"
-primary_materials: "N/A — Investment holding company"
-market_segments: "Pharmaceuticals (vaccines), financial services, horse racing/breeding, engineering, biotech investments"
+short_description: Poonawalla Group is a diversified Indian conglomerate (Serum Institute
+  of India, Poonawalla Fincorp, stud farms, engineering) that invested in Regeno,
+  a biodegradable packaging startup. The Group itself does not produce bioplastics
+  — this entry documents their strategic investment in the sector.
+website: https://www.poonawallagroup.com
+founded: '1966'
+employees: 10,000+ (Group total)
+primary_materials: N/A — Investment holding company
+market_segments: Pharmaceuticals (vaccines), financial services, horse racing/breeding,
+  engineering, biotech investments
 publicly_listed: false
-stock_ticker: ""
+stock_ticker: ''
 date: '2026-02-14'
 draft: true
 sitemap:

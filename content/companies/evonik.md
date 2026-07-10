@@ -1,17 +1,20 @@
----
-logo: /images/logos/evonik.png
+---logo: /images/logos/evonik.png
 title: Evonik Industries
-company_type: Specialty Chemicals
-headquarters: "Essen, Germany"
+company_type: Technology Company
+headquarters: Essen, Germany
 status: Active
-short_description: "Evonik is one of the world's leading specialty chemicals companies, with expertise in catalysts, adsorbents, and process technology for refining, petrochemicals, and now chemical recycling. The company employs ~33,000 people across 100+ countries."
-website: "https://www.evonik.com"
-founded: "2007"
-employees: "33,000+"
-primary_materials: "Catalysts, adsorbents, specialty chemicals, pyrolysis oil purification (Purocel™), process additives for recycling"
-market_segments: "refining, petrochemicals, chemical recycling, circular economy, emissions control, life sciences"
+short_description: Evonik is one of the world's leading specialty chemicals companies,
+  with expertise in catalysts, adsorbents, and process technology for refining, petrochemicals,
+  and now chemical recycling. The company employs ~33,000 people across 100+ countries.
+website: https://www.evonik.com
+founded: '2007'
+employees: 33,000+
+primary_materials: Catalysts, adsorbents, specialty chemicals, pyrolysis oil purification
+  (Purocel™), process additives for recycling
+market_segments: refining, petrochemicals, chemical recycling, circular economy, emissions
+  control, life sciences
 publicly_listed: true
-stock_ticker: "EVK.DE"
+stock_ticker: EVK.DE
 date: '2026-06-25'
 draft: false
 sitemap:

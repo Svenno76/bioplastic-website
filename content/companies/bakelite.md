@@ -1,22 +1,28 @@
----
-logo: /images/logos/bakelite.png
-title: "Bakelite"
-company_type: Historical (Not Current Bioplastics)
-headquarters: "Germany / Europe (distributed)"
-status: "Historical"
-short_description: "Bakelite was the world's first fully synthetic plastic, a phenol-formaldehyde thermosetting resin invented in 1907 by Leo Baekeland. Though the original Bakelite Corporation ceased operations in the late 20th century, the name survives as a trademark for phenolic resins and historical reference. Modern producers of phenolic resins continue Bakelite's heritage, though these are not strictly bioplastics by contemporary standards. Bakelite represents important plastics history and early experimentation with synthetic alternatives to petroleum-derived materials."
-website: "https://bakelite.com (historical)"
-founded: "1907"
-employees: "Historical company - ceased operations"
-primary_materials: "Phenol-formaldehyde resin (thermosetting plastic)"
-market_segments: "Historical applications: electrical insulators, automotive components, consumer goods, industrial products"
+---logo: /images/logos/bakelite.png
+title: Bakelite
+company_type: Bioplastic Producer
+headquarters: Germany / Europe (distributed)
+status: Historical
+short_description: Bakelite was the world's first fully synthetic plastic, a phenol-formaldehyde
+  thermosetting resin invented in 1907 by Leo Baekeland. Though the original Bakelite
+  Corporation ceased operations in the late 20th century, the name survives as a trademark
+  for phenolic resins and historical reference. Modern producers of phenolic resins
+  continue Bakelite's heritage, though these are not strictly bioplastics by contemporary
+  standards. Bakelite represents important plastics history and early experimentation
+  with synthetic alternatives to petroleum-derived materials.
+website: https://bakelite.com (historical)
+founded: '1907'
+employees: Historical company - ceased operations
+primary_materials: Phenol-formaldehyde resin (thermosetting plastic)
+market_segments: 'Historical applications: electrical insulators, automotive components,
+  consumer goods, industrial products'
 publicly_listed: false
-stock_ticker: ""
+stock_ticker: ''
 production_capacity:
-  - biopolymer: "Historical production capacity information unavailable"
-    capacity: "No current production"
-    location: "Bound Brook, New Jersey (historical)"
-    status: "Historical facility, ceased operations"
+- biopolymer: Historical production capacity information unavailable
+  capacity: No current production
+  location: Bound Brook, New Jersey (historical)
+  status: Historical facility, ceased operations
 date: '2026-02-14'
 draft: false
 sitemap:

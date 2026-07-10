@@ -1,15 +1,18 @@
----
-logo: /images/logos/oceansafe.png
+---logo: /images/logos/oceansafe.png
 title: OceanSafe
-company_type: Textile Materials (Not Bioplastics)
-headquarters: "Bern, Switzerland"
+company_type: Technology Company
+headquarters: Bern, Switzerland
 status: Active
-short_description: "Data quality issue: OceanSafe AG is a Swiss polymer science company focused on circular textile materials, not bioplastics packaging. The company develops sustainable synthetic textile replacements through proprietary biodegradable polymers for the textile industry, outside the scope of this bioplastics database."
-website: "https://www.oceansafe.co"
-primary_materials: "Synthetic textile polymers, biodegradable textile fibers"
-market_segments: "Textile industry, circular textiles, synthetic fabric alternatives, fashion"
+short_description: 'Data quality issue: OceanSafe AG is a Swiss polymer science company
+  focused on circular textile materials, not bioplastics packaging. The company develops
+  sustainable synthetic textile replacements through proprietary biodegradable polymers
+  for the textile industry, outside the scope of this bioplastics database.'
+website: https://www.oceansafe.co
+primary_materials: Synthetic textile polymers, biodegradable textile fibers
+market_segments: Textile industry, circular textiles, synthetic fabric alternatives,
+  fashion
 publicly_listed: false
-stock_ticker:
+stock_ticker: null
 date: '2026-02-27'
 draft: true
 sitemap:

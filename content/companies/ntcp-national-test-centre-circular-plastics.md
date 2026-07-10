@@ -1,15 +1,23 @@
----
-logo: /images/logos/ntcp-national-test-centre-circular-plastics.png
-title: "NTCP (National Test Centre Circular Plastics)"
-company_type: Testing / Certification Company
-headquarters: "Heerenveen, Netherlands"
-status: "Active"
-short_description: "Not-for-profit testing facility accelerating circular plastics recycling through industrial-scale sorting, washing, and research."
-website: "https://ntcp.nl"
-founded: "2018"
-employees: "50+"
-primary_focus: ["Plastics Recycling Testing", "Mechanical Recycling Research", "Chemical Recycling Development", "Design for Recycling"]
-market_segments: ["Packaging Industry", "Recycling Technology", "Waste Management", "Circular Economy"]
+---logo: /images/logos/ntcp-national-test-centre-circular-plastics.png
+title: NTCP (National Test Centre Circular Plastics)
+company_type: Testing/Certification
+headquarters: Heerenveen, Netherlands
+status: Active
+short_description: Not-for-profit testing facility accelerating circular plastics
+  recycling through industrial-scale sorting, washing, and research.
+website: https://ntcp.nl
+founded: '2018'
+employees: 50+
+primary_focus:
+- Plastics Recycling Testing
+- Mechanical Recycling Research
+- Chemical Recycling Development
+- Design for Recycling
+market_segments:
+- Packaging Industry
+- Recycling Technology
+- Waste Management
+- Circular Economy
 publicly_listed: false
 date: 2026-02-14
 draft: false

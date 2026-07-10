@@ -1,19 +1,25 @@
----
-title: "Logoplaste"
-headquarters: "Cascais, Portugal"
-founded: "1976"
-website: "https://www.logoplaste.com"
-primary_materials: "PET, HDPE, PP, recycled plastics (PCR)"
-market_segments: "Food & Beverage, Personal Care, Household, Healthcare, Packaging"
-overview: "Logoplaste is a Portuguese packaging company founded in 1976, pioneering the 'Hole in the Wall' concept in Europe — installing plastic packaging manufacturing plants directly next door to product filling facilities to reduce shipping costs, secondary packaging, and CO2 emissions. The company designs and manufactures innovative rigid plastic packaging using sustainable processes and materials. With over 1,000 employees, Logoplaste serves global FMCG brands across food & beverage, personal care, household, and healthcare markets."
-change_status: "active"
-discovery_status: "found"
+---title: Logoplaste
+headquarters: Cascais, Portugal
+founded: '1976'
+website: https://www.logoplaste.com
+primary_materials: PET, HDPE, PP, recycled plastics (PCR)
+market_segments: Food & Beverage, Personal Care, Household, Healthcare, Packaging
+overview: Logoplaste is a Portuguese packaging company founded in 1976, pioneering
+  the 'Hole in the Wall' concept in Europe — installing plastic packaging manufacturing
+  plants directly next door to product filling facilities to reduce shipping costs,
+  secondary packaging, and CO2 emissions. The company designs and manufactures innovative
+  rigid plastic packaging using sustainable processes and materials. With over 1,000
+  employees, Logoplaste serves global FMCG brands across food & beverage, personal
+  care, household, and healthcare markets.
+change_status: active
+discovery_status: found
 sitemap:
   priority: 0.8
 noindex: false
 nofollow: false
 draft: false
-logo: "/images/logos/logoplaste.png"
+logo: /images/logos/logoplaste.png
+company_type: Technology Company
 ---
 
 ## Overview

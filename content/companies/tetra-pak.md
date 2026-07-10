@@ -1,18 +1,19 @@
----
-logo: "/images/logos/tetra-pak.png"
-
+---logo: /images/logos/tetra-pak.png
 title: Tetra Pak
-company_type: Food Packaging Technology
-headquarters: "Lund, Sweden"
+company_type: Technology Company
+headquarters: Lund, Sweden
 status: Active
-short_description: "Tetra Pak is a world-leading food packaging and processing company increasingly incorporating bio-based and renewable materials into its carton packaging solutions to reduce fossil dependency."
-website: "https://www.tetrapak.com"
-founded: "1951"
-employees: "25,000+"
-primary_materials: "FSC-certified paperboard, Bio-based polyethylene (from UPM BioVerno), Plant-based polymers"
-market_segments: "Food packaging, Dairy, Beverages, Sustainable packaging"
+short_description: Tetra Pak is a world-leading food packaging and processing company
+  increasingly incorporating bio-based and renewable materials into its carton packaging
+  solutions to reduce fossil dependency.
+website: https://www.tetrapak.com
+founded: '1951'
+employees: 25,000+
+primary_materials: FSC-certified paperboard, Bio-based polyethylene (from UPM BioVerno),
+  Plant-based polymers
+market_segments: Food packaging, Dairy, Beverages, Sustainable packaging
 publicly_listed: false
-stock_ticker: ""
+stock_ticker: ''
 date: '2026-06-28'
 draft: false
 sitemap:

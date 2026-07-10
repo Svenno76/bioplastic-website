@@ -1,15 +1,23 @@
----
-logo: /images/logos/european-bioplastics-eubp.png
-title: "European Bioplastics (EUBP)"
-company_type: Testing / Certification Company
-headquarters: "Berlin, Germany"
-status: "Active"
-short_description: "European industry association representing the bioplastics sector, developing and promoting certification standards and industry policies."
-website: "https://www.european-bioplastics.org"
-founded: "Unknown"
-employees: "50+"
-primary_focus: ["Industry Standards", "Certification Programs", "Policy Advocacy", "Industry Research"]
-market_segments: ["Policy Advocacy", "Industry Representation", "Standardization", "Research and Innovation"]
+---logo: /images/logos/european-bioplastics-eubp.png
+title: European Bioplastics (EUBP)
+company_type: Testing/Certification
+headquarters: Berlin, Germany
+status: Active
+short_description: European industry association representing the bioplastics sector,
+  developing and promoting certification standards and industry policies.
+website: https://www.european-bioplastics.org
+founded: Unknown
+employees: 50+
+primary_focus:
+- Industry Standards
+- Certification Programs
+- Policy Advocacy
+- Industry Research
+market_segments:
+- Policy Advocacy
+- Industry Representation
+- Standardization
+- Research and Innovation
 publicly_listed: false
 date: 2026-02-14
 draft: false

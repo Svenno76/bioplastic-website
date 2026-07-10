@@ -1,18 +1,20 @@
----
-logo: "/images/logos/twogee-biotech.png"
-
+---logo: /images/logos/twogee-biotech.png
 title: Twogee Biotech
-company_type: Biotechnology Company
-headquarters: "Martinsried, Munich, Germany"
+company_type: Technology Company
+headquarters: Martinsried, Munich, Germany
 status: Active
-short_description: "Twogee Biotech is a German biotechnology company developing enzymatic solutions to convert agricultural waste streams into high-value 2G sugars, pure cellulose, and sustainable materials."
-website: "https://www.twogee-biotech.com"
-founded: "2024"
-employees: "10-25"
-primary_materials: "Agricultural residues, Cellulose, Second-generation (2G) sugars, Enzymatic processing outputs"
-market_segments: "Bioeconomy, Agricultural waste valorization, Biomaterials, Circular economy"
+short_description: Twogee Biotech is a German biotechnology company developing enzymatic
+  solutions to convert agricultural waste streams into high-value 2G sugars, pure
+  cellulose, and sustainable materials.
+website: https://www.twogee-biotech.com
+founded: '2024'
+employees: 10-25
+primary_materials: Agricultural residues, Cellulose, Second-generation (2G) sugars,
+  Enzymatic processing outputs
+market_segments: Bioeconomy, Agricultural waste valorization, Biomaterials, Circular
+  economy
 publicly_listed: false
-stock_ticker: ""
+stock_ticker: ''
 date: '2026-06-28'
 draft: false
 sitemap:

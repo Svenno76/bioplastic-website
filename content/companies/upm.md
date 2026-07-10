@@ -1,18 +1,19 @@
----
-logo: "/images/logos/upm-biochemicals.jpg"
-
+---logo: /images/logos/upm-biochemicals.jpg
 title: UPM
-company_type: Forest Industry / Biocomposites
-headquarters: "Helsinki, Finland"
+company_type: Technology Company
+headquarters: Helsinki, Finland
 status: Active
-short_description: "UPM is a Finnish forest industry leader developing renewable material solutions including biocomposites, bio-based polyethylene, and sustainable packaging materials from wood-based feedstocks."
-website: "https://www.upm.com"
-founded: "1996"
-employees: "17,000+"
-primary_materials: "Wood-based biocomposites, UPM BioVerno naphtha, Bio-based polyethylene, Cellulose fibers"
-market_segments: "Packaging, Construction, Automotive, Energy, Bioplastics, Biofuels"
+short_description: UPM is a Finnish forest industry leader developing renewable material
+  solutions including biocomposites, bio-based polyethylene, and sustainable packaging
+  materials from wood-based feedstocks.
+website: https://www.upm.com
+founded: '1996'
+employees: 17,000+
+primary_materials: Wood-based biocomposites, UPM BioVerno naphtha, Bio-based polyethylene,
+  Cellulose fibers
+market_segments: Packaging, Construction, Automotive, Energy, Bioplastics, Biofuels
 publicly_listed: true
-stock_ticker: "HEL: UPM"
+stock_ticker: 'HEL: UPM'
 date: '2026-06-28'
 draft: false
 sitemap:

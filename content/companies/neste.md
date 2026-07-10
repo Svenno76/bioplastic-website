@@ -1,17 +1,21 @@
----
-logo: /images/logos/neste.png
+---logo: /images/logos/neste.png
 title: Neste
-company_type: Renewable Fuel & Chemical Producer
-headquarters: "Espoo, Finland"
+company_type: Technology Company
+headquarters: Espoo, Finland
 status: Active
-short_description: "Global leader in renewable diesel, sustainable aviation fuel, and chemical recycling. Operating the world's largest upgrading facility for liquefied waste plastic at the Porvoo, Finland refinery. Pioneering circular solutions for the plastics and chemicals industry."
-website: "https://www.neste.com"
-founded: "1948"
-employees: "5,000+"
-primary_materials: "Renewable diesel (NEXBTL), sustainable aviation fuel (SAF), renewable naphtha, renewable propane, liquefied waste plastic (LWP) upgrading"
-market_segments: "Transportation fuels, aviation, polymers & chemicals, renewable feedstocks, circular economy"
+short_description: Global leader in renewable diesel, sustainable aviation fuel, and
+  chemical recycling. Operating the world's largest upgrading facility for liquefied
+  waste plastic at the Porvoo, Finland refinery. Pioneering circular solutions for
+  the plastics and chemicals industry.
+website: https://www.neste.com
+founded: '1948'
+employees: 5,000+
+primary_materials: Renewable diesel (NEXBTL), sustainable aviation fuel (SAF), renewable
+  naphtha, renewable propane, liquefied waste plastic (LWP) upgrading
+market_segments: Transportation fuels, aviation, polymers & chemicals, renewable feedstocks,
+  circular economy
 publicly_listed: true
-stock_ticker: "HEL: NESTE"
+stock_ticker: 'HEL: NESTE'
 date: '2026-07-03'
 draft: false
 sitemap:

@@ -1,18 +1,18 @@
----
-logo: "/images/logos/octarine-bio.jpg"
-
+---logo: /images/logos/octarine-bio.jpg
 title: Octarine Bio
-company_type: Biotechnology Company
-headquarters: "Copenhagen, Denmark"
+company_type: Technology Company
+headquarters: Copenhagen, Denmark
 status: Active
-short_description: "Octarine Bio is a Danish synthetic biology company developing bio-based, sustainable solutions for the textile and fashion industries through innovative cannabinoid biosynthesis and dye technologies."
-website: "https://www.octarinebio.com"
-founded: "2018"
-employees: "11-50"
-primary_materials: "Bio-based cannabinoids, Natural dyes, Synthetic biology platform"
-market_segments: "Textiles, Fashion, Sustainable dyes, Biotechnology"
+short_description: Octarine Bio is a Danish synthetic biology company developing bio-based,
+  sustainable solutions for the textile and fashion industries through innovative
+  cannabinoid biosynthesis and dye technologies.
+website: https://www.octarinebio.com
+founded: '2018'
+employees: 11-50
+primary_materials: Bio-based cannabinoids, Natural dyes, Synthetic biology platform
+market_segments: Textiles, Fashion, Sustainable dyes, Biotechnology
 publicly_listed: false
-stock_ticker: ""
+stock_ticker: ''
 date: '2026-06-28'
 draft: false
 sitemap:

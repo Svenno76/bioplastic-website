@@ -1,16 +1,21 @@
----
-logo: /images/logos/profikomp.png
+---logo: /images/logos/profikomp.png
 title: ProfiKomp Environmental Technologies
-company_type: Testing / Certification Company
-headquarters: "Gödöllő, Hungary"
+company_type: Testing/Certification
+headquarters: Gödöllő, Hungary
 status: Active
-short_description: "ProfiKomp Environmental Technologies is a leading Hungarian biowaste treatment and materials testing company established in 2000, specializing in composting infrastructure, bioplastic composability testing, and environmental engineering. The company operates over 85 composting systems globally and conducts research on bioplastic degradation and compost evaluation."
-website: "https://www.profikomp.hu"
-founded: "2000"
-employees: "10-19"
-primary_materials: "Bioplastic testing, compost analysis, biowaste treatment, environmental testing"
-market_segments: "Waste management, composting infrastructure, bioplastics research, environmental certification, industrial testing"
-publicly_listed: no
+short_description: ProfiKomp Environmental Technologies is a leading Hungarian biowaste
+  treatment and materials testing company established in 2000, specializing in composting
+  infrastructure, bioplastic composability testing, and environmental engineering.
+  The company operates over 85 composting systems globally and conducts research on
+  bioplastic degradation and compost evaluation.
+website: https://www.profikomp.hu
+founded: '2000'
+employees: 10-19
+primary_materials: Bioplastic testing, compost analysis, biowaste treatment, environmental
+  testing
+market_segments: Waste management, composting infrastructure, bioplastics research,
+  environmental certification, industrial testing
+publicly_listed: false
 date: '2026-02-14'
 draft: false
 sitemap:

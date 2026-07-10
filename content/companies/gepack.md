@@ -1,16 +1,18 @@
----
-logo: /images/logos/gepack.png
+---logo: /images/logos/gepack.png
 title: Gepack
-company_type: Packaging Manufacturer
-headquarters: "Leiria, Portugal"
+company_type: Technology Company
+headquarters: Leiria, Portugal
 status: Active
-short_description: "Gepack is a Portuguese bottle manufacturer specializing in PET and innovative polymer packaging solutions for the beverage, food, and pharmaceutical industries. The company operates state-of-the-art injection and blow molding facilities with a focus on sustainable packaging technologies."
-website: "https://www.gepack.pt"
-founded: "1998"
-employees: "150+"
-primary_materials: "PET, PEF, rPET, PP"
-market_segments: "beverage packaging, food packaging, pharmaceutical packaging, cosmetics"
-publicly_listed: no
+short_description: Gepack is a Portuguese bottle manufacturer specializing in PET
+  and innovative polymer packaging solutions for the beverage, food, and pharmaceutical
+  industries. The company operates state-of-the-art injection and blow molding facilities
+  with a focus on sustainable packaging technologies.
+website: https://www.gepack.pt
+founded: '1998'
+employees: 150+
+primary_materials: PET, PEF, rPET, PP
+market_segments: beverage packaging, food packaging, pharmaceutical packaging, cosmetics
+publicly_listed: false
 date: '2026-07-02'
 draft: false
 sitemap:

@@ -1,16 +1,18 @@
----
-logo: /images/logos/frubaca.png
+---logo: /images/logos/frubaca.png
 title: Frubaça
-company_type: Beverage Producer
-headquarters: "Vila Nova de Gaia, Portugal"
+company_type: Converter
+headquarters: Vila Nova de Gaia, Portugal
 status: Active
-short_description: "Frubaça is a Portuguese juice and beverage producer specializing in fruit-based drinks, functional beverages, and innovative packaging formats. The company focuses on natural ingredients, clean label formulations, and sustainable packaging solutions."
-website: "https://www.frubaca.pt"
-founded: "1995"
-employees: "80+"
-primary_materials: "Fruit juices, functional beverages, PEF bottles, rPET"
-market_segments: "beverages, functional drinks, juice, health & wellness"
-publicly_listed: no
+short_description: Frubaça is a Portuguese juice and beverage producer specializing
+  in fruit-based drinks, functional beverages, and innovative packaging formats. The
+  company focuses on natural ingredients, clean label formulations, and sustainable
+  packaging solutions.
+website: https://www.frubaca.pt
+founded: '1995'
+employees: 80+
+primary_materials: Fruit juices, functional beverages, PEF bottles, rPET
+market_segments: beverages, functional drinks, juice, health & wellness
+publicly_listed: false
 date: '2026-07-02'
 draft: false
 sitemap:

@@ -1,17 +1,20 @@
----
-logo: /images/logos/plastipak.png
+---logo: /images/logos/plastipak.png
 title: Plastipak
-company_type: Converter / Recycler (Not Bioplastics)
-headquarters: "Plymouth, Michigan, USA"
+company_type: Converter
+headquarters: Plymouth, Michigan, USA
 status: Active
-short_description: "Data quality issue: Plastipak Packaging is a conventional plastics converter and recycler specializing in rigid PET containers and plastic recycling, not a bioplastics manufacturer. Focus is on recycled content and PET, not biodegradable or plant-based materials."
-website: "https://www.plastipak.com"
-founded: "1967"
-employees: "6,000+"
-primary_materials: "PET plastic, recycled plastic (PCR), conventional polymers"
-market_segments: "Food packaging, beverage containers, rigid plastic packaging, recycled content"
+short_description: 'Data quality issue: Plastipak Packaging is a conventional plastics
+  converter and recycler specializing in rigid PET containers and plastic recycling,
+  not a bioplastics manufacturer. Focus is on recycled content and PET, not biodegradable
+  or plant-based materials.'
+website: https://www.plastipak.com
+founded: '1967'
+employees: 6,000+
+primary_materials: PET plastic, recycled plastic (PCR), conventional polymers
+market_segments: Food packaging, beverage containers, rigid plastic packaging, recycled
+  content
 publicly_listed: false
-stock_ticker:
+stock_ticker: null
 date: '2026-02-27'
 draft: true
 sitemap:

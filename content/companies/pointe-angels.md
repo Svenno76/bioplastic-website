@@ -1,17 +1,19 @@
----
-logo: /images/logos/pointe-angels.png
+---logo: /images/logos/pointe-angels.png
 title: Pointe Angels
-company_type: Investor / Angel Club (Not a Bioplastics Company)
-headquarters: "Grosse Pointe, Michigan, USA"
+company_type: Technology Company
+headquarters: Grosse Pointe, Michigan, USA
 status: Active
-short_description: "Pointe Angels is an independent early-stage angel investor club based in Grosse Pointe, Michigan. It is NOT a bioplastics company. This entry documents their investment in biotech (mokSa.ai) but they do not produce bioplastics or biomaterials."
-website: "https://www.pointeangels.com"
-founded: "2019"
-employees: "N/A (investment club, ~50-100 members)"
-primary_materials: "N/A — Financial investor"
-market_segments: "Early-stage venture investment, Michigan startup ecosystem, biotech/medtech investments"
+short_description: Pointe Angels is an independent early-stage angel investor club
+  based in Grosse Pointe, Michigan. It is NOT a bioplastics company. This entry documents
+  their investment in biotech (mokSa.ai) but they do not produce bioplastics or biomaterials.
+website: https://www.pointeangels.com
+founded: '2019'
+employees: N/A (investment club, ~50-100 members)
+primary_materials: N/A — Financial investor
+market_segments: Early-stage venture investment, Michigan startup ecosystem, biotech/medtech
+  investments
 publicly_listed: false
-stock_ticker: ""
+stock_ticker: ''
 date: '2026-02-14'
 draft: true
 sitemap:
