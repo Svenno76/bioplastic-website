@@ -8,7 +8,7 @@ category: "Product Launch"
 company: ["Evonik"]
 source: "Evonik Industries"
 source_url: "https://corporate.evonik.cn/en/media/news/evonik-advances-pyrolysis-oil-capability-with-launch-of-purocel-series-274240.html"
-featured_image: "/images/news/evonik-purocel-pyrolysis-oil-1024.jpg"
+featured_image: "/images/news/evonik-purocel-catalyst-1024.jpg"
 sitemap:
   priority: 0.7
 ---
