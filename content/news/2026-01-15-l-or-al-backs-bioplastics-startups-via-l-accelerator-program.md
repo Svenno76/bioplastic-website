@@ -1,16 +1,20 @@
 ---
-title: "L'Oréal Backs Bioplastics Startups via L'AcceleratOR Program"
+title: L'Oréal Backs Bioplastics Startups via L'AcceleratOR Program
 date: 2026-01-15
 draft: false
 sitemap:
   priority: 0.7
-summary: "L'Oréal has selected 13 innovative startups for its L'AcceleratOR program to advance circularity, climate resilience, and sustainable bioplastic packaging solutions."
-tags: ["L'Oréal"]
-category: "Investment & Funding"
-company: ["L'Oréal"]
-company_type: "Consulting"
-source: "ESG Today"
+summary: L'Oréal has selected 13 innovative startups for its L'AcceleratOR program
+  to advance circularity, climate resilience, and sustainable bioplastic packaging
+  solutions.
+tags: []
+category: Investment & Funding
+company:
+- L'Oréal
+company_type: Consulting
+source: ESG Today
 ---
+
 
 ## Scaling the Future of Sustainable Beauty
 

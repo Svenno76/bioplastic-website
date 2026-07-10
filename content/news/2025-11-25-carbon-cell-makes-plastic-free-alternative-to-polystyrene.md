@@ -1,17 +1,17 @@
 ---
-
-title: "Carbon Cell makes plastic-free alternative to polystyrene"
+title: Carbon Cell makes plastic-free alternative to polystyrene
 date: 2025-11-25
 draft: false
 sitemap:
   priority: 0.7
-summary: "British company Carbon Cell has developed a carbon-negative"
-tags: ['Carbon Cell', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "Carbon Cell"
-company_type: "Bioplastic Producer"
-source: "Dezeen"
+summary: British company Carbon Cell has developed a carbon-negative
+tags: []
+category: Product Launch
+company: Carbon Cell
+company_type: Bioplastic Producer
+source: Dezeen
 ---
+
 
 British startup **Carbon Cell** has launched a carbon-negative, fully compostable foam made from agricultural waste, offering a plastic-free alternative to expanded polystyrene (EPS). This innovation, unveiled recently, targets packaging and construction sectors by mimicking EPS performance without fossil fuels or microplastics, while sequestering CO₂.
 

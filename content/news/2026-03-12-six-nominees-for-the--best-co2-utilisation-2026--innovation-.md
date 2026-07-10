@@ -1,16 +1,24 @@
 ---
-title: "Six Nominees for the “Best CO2 Utilisation 2026” Innovation Award Announced"
+title: Six Nominees for the “Best CO2 Utilisation 2026” Innovation Award Announced
 date: 2026-03-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "The nova-Institute has announced six pioneering nominees for the Best CO2 Utilisation 2026 award, highlighting cutting-edge advancements in converting captured carbon into high-performance polymers and chemicals."
-tags: ["nova-Institute", "Carbon Capture and Utilisation", "CCU Polymers", "Polycarbonates", "Catalysis"]
-category: "Market Analysis"
-company: ["nova-Institute"]
-company_type: ["Research Institute", "Consulting"]
-source: "CO2-based Fuels and Chemicals Conference"
+summary: The nova-Institute has announced six pioneering nominees for the Best CO2
+  Utilisation 2026 award, highlighting cutting-edge advancements in converting captured
+  carbon into high-performance polymers and chemicals.
+tags:
+- bioplastics
+- co2-feedstock
+category: Market Analysis
+company:
+- nova-Institute
+company_type:
+- Research Institute
+- Consulting
+source: CO2-based Fuels and Chemicals Conference
 ---
+
 
 ## Celebrating Advancements in Carbon Capture
 

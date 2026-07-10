@@ -1,16 +1,23 @@
 ---
-title: "Empire Diversified Energy Funds New US Chemical Recycling Plant"
+title: Empire Diversified Energy Funds New US Chemical Recycling Plant
 date: 2025-02-28
 draft: false
 sitemap:
   priority: 0.7
-summary: "Empire Diversified Energy secures $10 million in financing to complete the commissioning of its waste-to-energy chemical recycling facility in West Virginia."
-tags: ["Empire Diversified Energy", "Chemical Recycling", "Syngas", "Pyrolysis", "West Virginia", "Waste-to-Energy", "Hydrogen"]
-category: "Investment & Funding"
-company: ["Empire Diversified Energy"]
-company_type: ["Recycler"]
-source: "Bioplastics News"
+summary: Empire Diversified Energy secures $10 million in financing to complete the
+  commissioning of its waste-to-energy chemical recycling facility in West Virginia.
+tags:
+- bioplastics
+- chemical-recycling
+- pyrolysis
+category: Investment & Funding
+company:
+- Empire Diversified Energy
+company_type:
+- Recycler
+source: Bioplastics News
 ---
+
 
 Empire Diversified Energy, Inc. has successfully closed a significant financing round, securing $10 million to finalize the commissioning of its flagship recycling facility in Fairmont, West Virginia. The funding marks a critical milestone for the company’s "Empire Green Generation" project, which utilizes advanced thermal conversion technologies to process waste materials into clean energy vectors.
 

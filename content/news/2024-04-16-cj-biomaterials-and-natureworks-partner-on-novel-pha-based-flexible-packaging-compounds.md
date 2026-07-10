@@ -1,16 +1,21 @@
 ---
-title: "CJ Biomaterials and NatureWorks Partner on Novel PHA-based Flexible Packaging Compounds"
+title: CJ Biomaterials and NatureWorks Partner on Novel PHA-based Flexible Packaging
+  Compounds
 date: 2024-04-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "CJ Biomaterials and NatureWorks have collaborated to introduce two new PHA-based compounds"
-tags: ["CJ Biomaterials", "NatureWorks"]
-category: "Partnerships"
-company: ["CJ Biomaterials", "NatureWorks"]
-company_type: "Bioplastic Producer"
-source: "SpecialChem"
+summary: CJ Biomaterials and NatureWorks have collaborated to introduce two new PHA-based
+  compounds
+tags: []
+category: Partnerships
+company:
+- CJ Biomaterials
+- NatureWorks
+company_type: Bioplastic Producer
+source: SpecialChem
 ---
+
 
 **CJ Biomaterials and NatureWorks Advance Sustainable Packaging with Novel Biopolymer Compounds**
 

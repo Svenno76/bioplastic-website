@@ -1,17 +1,21 @@
 ---
-title: "Blue Ocean Closures Reaches Price Parity: Fiber-Based Caps Cost-Competitive with Fossil Plastic"
+title: 'Blue Ocean Closures Reaches Price Parity: Fiber-Based Caps Cost-Competitive
+  with Fossil Plastic'
 date: 2026-05-04
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/blue-ocean-fiber-screw-caps.jpg"
-summary: "Blue Ocean Closures reaches price parity: fiber-based screw caps now cost-competitive with fossil plastic. L'Oréal selected BOC for its €100M L'Accelerator program. Live Puri also adopts BOC's NutraCap fiber closures."
-tags: ["Fiber Closures", "Price Parity", "L'Oréal", "L'Accelerator", "Screw Caps", "Sweden"]
-category: "Product Launch"
-company: "Blue Ocean Closures"
-source: "blueoceanclosures.com"
-source_url: "https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/"
+featured_image: /images/news/blue-ocean-fiber-screw-caps.jpg
+summary: 'Blue Ocean Closures reaches price parity: fiber-based screw caps now cost-competitive
+  with fossil plastic. L''Oréal selected BOC for its €100M L''Accelerator program.
+  Live Puri also adopts BOC''s NutraCap fiber closures.'
+tags: []
+category: Product Launch
+company: Blue Ocean Closures
+source: blueoceanclosures.com
+source_url: https://www.blueoceanclosures.com/fiber-based-closures-top-up-with-cost-advantage/
 ---
+
 
 Blue Ocean Closures from Sweden has hit a milestone: its fiber-based screw caps are now cost-competitive with conventional plastic closures. The price parity problem — long the biggest barrier to sustainable packaging alternatives — is solved.
 

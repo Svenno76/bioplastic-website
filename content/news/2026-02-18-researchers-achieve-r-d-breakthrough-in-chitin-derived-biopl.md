@@ -1,16 +1,23 @@
 ---
-title: "Researchers Achieve R&D Breakthrough in Chitin-Derived Bioplastics"
+title: Researchers Achieve R&D Breakthrough in Chitin-Derived Bioplastics
 date: 2026-02-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "A collaborative research team has developed a novel chitin-based material that gains structural strength when hydrated, offering a robust alternative to conventional rigid plastics."
-tags: ["IBEC", "SUTD", "Chitin", "Cellulose"]
-category: "Product Launch"
-company: ["IBEC", "SUTD"]
-company_type: ["Research Institute", "University"]
-source: "Bioengineer.org"
+summary: A collaborative research team has developed a novel chitin-based material
+  that gains structural strength when hydrated, offering a robust alternative to conventional
+  rigid plastics.
+tags: []
+category: Product Launch
+company:
+- IBEC
+- SUTD
+company_type:
+- Research Institute
+- University
+source: Bioengineer.org
 ---
+
 
 A collaborative research team involving the Institute for Bioengineering of Catalonia (IBEC) and the Singapore University of Technology and Design (SUTD) has unveiled a significant advancement in biopolymer science. The team has successfully developed a biological material derived from chitin that defies the structural weaknesses typically associated with organic plastics when exposed to moisture.
 

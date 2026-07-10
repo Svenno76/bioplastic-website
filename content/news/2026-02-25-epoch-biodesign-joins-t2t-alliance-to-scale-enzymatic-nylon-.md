@@ -1,16 +1,26 @@
 ---
-title: "Epoch Biodesign Joins T2T Alliance to Scale Enzymatic Nylon Recycling"
+title: Epoch Biodesign Joins T2T Alliance to Scale Enzymatic Nylon Recycling
 date: 2026-02-25
 draft: false
 sitemap:
   priority: 0.7
-summary: "Epoch Biodesign has joined the T2T Alliance to advance circular fashion through its proprietary enzymatic recycling technology and the establishment of Europe's first nylon biorecycling facility."
-tags: ["Epoch Biodesign", "T2T Alliance", "Nylon", "Enzymatic Recycling", "Polyamide", "Textile Recycling"]
-category: "Partnerships"
-company: ["Epoch Biodesign", "T2T Alliance"]
-company_type: ["Technology Company", "Recycler"]
-source: "Retail Technology Innovation Hub"
+summary: Epoch Biodesign has joined the T2T Alliance to advance circular fashion through
+  its proprietary enzymatic recycling technology and the establishment of Europe's
+  first nylon biorecycling facility.
+tags:
+- bioplastics
+- chemical-recycling
+- enzymatic-recycling
+category: Partnerships
+company:
+- Epoch Biodesign
+- T2T Alliance
+company_type:
+- Technology Company
+- Recycler
+source: Retail Technology Innovation Hub
 ---
+
 
 London-based biotechnology company Epoch Biodesign has announced its entry into the T2T (Textiles to Textiles) Alliance, a strategic move designed to accelerate the commercialization of circular solutions for synthetic fabrics. Coinciding with this partnership, the company has laid claim to developing Europe’s first dedicated nylon biorecycling facility, marking a significant milestone in the processing of complex polyamide waste.
 

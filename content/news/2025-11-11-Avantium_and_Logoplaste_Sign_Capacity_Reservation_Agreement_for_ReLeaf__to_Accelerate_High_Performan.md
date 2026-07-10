@@ -1,17 +1,24 @@
 ---
-title: "Avantium and Logoplaste Sign Capacity Reservation Agreement for ReLeaf® to Accelerate High-Performance Packaging Innovation"
+title: Avantium and Logoplaste Sign Capacity Reservation Agreement for ReLeaf® to
+  Accelerate High-Performance Packaging Innovation
 date: 2025-11-11
 draft: false
 sitemap:
   priority: 0.7
-summary: "Avantium and Logoplaste have solidified their partnership with a capacity reservation agreement for Avantium's plant-based, recyclable polymer PEF, branded as ReLeaf®. This deal secures future volumes of ReLeaf for Logoplaste to accelerate sustainable, high-performance packaging innovation across diverse applications."
-tags: ["Avantium", "Logoplaste", "ReLeaf", "PEF", "Bioplastic", "Sustainable Packaging", "Capacity Reservation", "The Bottle Collective"]
-category: "Partnerships"
-company: "Avantium"
-company_type: "Bioplastic Producer"
-source: "Avantium Newsroom"
-contact: "Tom van Aken, Sandra Santos, Filipe de Botton, Luis Almeida, Paulo Correia"
+summary: Avantium and Logoplaste have solidified their partnership with a capacity
+  reservation agreement for Avantium's plant-based, recyclable polymer PEF, branded
+  as ReLeaf®. This deal secures future volumes of ReLeaf for Logoplaste to accelerate
+  sustainable, high-performance packaging innovation across diverse applications.
+tags:
+- packaging
+- pbat
+category: Partnerships
+company: Avantium
+company_type: Bioplastic Producer
+source: Avantium Newsroom
+contact: Tom van Aken, Sandra Santos, Filipe de Botton, Luis Almeida, Paulo Correia
 ---
+
 
 Avantium N.V., a leader in renewable and circular polymer materials, and Logoplaste Consultores Técnicos, SA, a global packaging manufacturer, announced a significant capacity reservation agreement on November 11, 2025. This agreement focuses on Avantium's plant-based, recyclable polymer PEF (polyethylene furanoate), marketed under the brand name ReLeaf®. The strategic move is designed to accelerate innovation in sustainable, high-performance packaging solutions.
 

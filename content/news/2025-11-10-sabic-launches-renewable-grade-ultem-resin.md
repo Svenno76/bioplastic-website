@@ -1,17 +1,19 @@
 ---
-
-title: "SABIC Launches Renewable-Grade ULTEM Resin"
+title: SABIC Launches Renewable-Grade ULTEM Resin
 date: 2025-11-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "SABIC introduced the first certified renewable-grade ULTEM resin, a bio-based engineering plastic with high heat resistance and mechanical strength for electronics and aerospace applications."
-tags: ['SABIC', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "SABIC"
-company_type: "Bioplastic Producer"
-source: "Perplexity Rev2"
+summary: SABIC introduced the first certified renewable-grade ULTEM resin, a bio-based
+  engineering plastic with high heat resistance and mechanical strength for electronics
+  and aerospace applications.
+tags: []
+category: Product Launch
+company: SABIC
+company_type: Bioplastic Producer
+source: Perplexity Rev2
 ---
+
 
 SABIC has launched the first certified renewable-grade ULTEM resin, marking a significant advancement in sustainable engineering plastics. This bio-based resin combines high heat resistance and mechanical strength, making it ideal for demanding electronics and aerospace applications. The announcement aligns with SABIC’s ongoing commitment to innovation and sustainability in specialty materials, supporting industries seeking high-performance yet eco-friendly solutions.
 

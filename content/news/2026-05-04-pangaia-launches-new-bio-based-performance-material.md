@@ -1,17 +1,25 @@
 ---
-title: "PANGAIA Launches New Bio-Based Performance Material"
+title: PANGAIA Launches New Bio-Based Performance Material
 date: 2026-05-04
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/pangaia-bio-based-material.jpg"
-summary: "Materials science brand PANGAIA has unveiled a new line of high-performance bio-based activewear materials, significantly reducing the apparel industry's reliance on fossil fuel-derived synthetics."
-tags: ["PANGAIA", "Bio-Polyamide", "Bio-Based Textiles", "Activewear"]
-category: "Product Launch"
-company: ["PANGAIA"]
-company_type: ["Technology Company", "Bioplastic Producer"]
-source: "World Bio Market Insights"
+featured_image: /images/news/pangaia-bio-based-material.jpg
+summary: Materials science brand PANGAIA has unveiled a new line of high-performance
+  bio-based activewear materials, significantly reducing the apparel industry's reliance
+  on fossil fuel-derived synthetics.
+tags:
+- pla
+- textiles
+category: Product Launch
+company:
+- PANGAIA
+company_type:
+- Technology Company
+- Bioplastic Producer
+source: World Bio Market Insights
 ---
+
 
 In a significant milestone for the apparel industry, materials science brand PANGAIA has officially launched a novel bio-based performance material engineered specifically for activewear. Announced on May 4, 2026, this breakthrough textile aims to eliminate the athletic wear sector's deep-rooted reliance on conventional petroleum-based synthetics.
 

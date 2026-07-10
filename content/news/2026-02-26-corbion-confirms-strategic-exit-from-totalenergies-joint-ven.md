@@ -1,18 +1,25 @@
 ---
-
-title: "Corbion Confirms Strategic Exit from TotalEnergies Joint Venture"
+title: Corbion Confirms Strategic Exit from TotalEnergies Joint Venture
 date: 2026-02-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "Corbion has officially finalized the divestment of its stake in the TotalEnergies Corbion joint venture, redirecting its focus toward core fermentation and lactic acid capabilities."
-tags: ["Corbion", "TotalEnergies", "PLA", "Fermentation"]
-category: "M&A"
-company: ["Corbion", "TotalEnergies"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Corbion"
-
+summary: Corbion has officially finalized the divestment of its stake in the TotalEnergies
+  Corbion joint venture, redirecting its focus toward core fermentation and lactic
+  acid capabilities.
+tags:
+- fermentation
+- pla
+category: M&A
+company:
+- Corbion
+- TotalEnergies
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Corbion
 ---
+
 
 **AMSTERDAM** — Corbion has officially confirmed the completion of its strategic exit from the TotalEnergies Corbion joint venture, marking a significant structural shift in the global bioplastics landscape. The move dissolves the 50/50 partnership originally established to manufacture and market Poly Lactic Acid (PLA) resins, with TotalEnergies assuming full operational control of the venture's assets.
 

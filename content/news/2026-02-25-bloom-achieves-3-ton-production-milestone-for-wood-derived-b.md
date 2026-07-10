@@ -1,16 +1,24 @@
 ---
-title: "Bloom Achieves 3-Ton Production Milestone for Wood-Derived Bioplastics"
+title: Bloom Achieves 3-Ton Production Milestone for Wood-Derived Bioplastics
 date: 2026-02-25
 draft: false
 sitemap:
   priority: 0.7
-summary: "EPFL spin-off Bloom successfully scales up its proprietary fractionation technology to produce three tons of biomass-based polyesters, marking a critical step toward industrial commercialization."
-tags: ["Bloom", "EPFL", "Lignin", "Cellulose", "Polyesters", "Aldehyde-Assisted Fractionation"]
-category: "Product Launch"
-company: ["Bloom", "EPFL"]
-company_type: ["Bioplastic Producer", "Technology Company", "University"]
-source: "MyScience"
+summary: EPFL spin-off Bloom successfully scales up its proprietary fractionation
+  technology to produce three tons of biomass-based polyesters, marking a critical
+  step toward industrial commercialization.
+tags: []
+category: Product Launch
+company:
+- Bloom
+- EPFL
+company_type:
+- Bioplastic Producer
+- Technology Company
+- University
+source: MyScience
 ---
+
 
 Bloom Biorenewables, a spin-off from the École Polytechnique Fédérale de Lausanne (EPFL), has reached a pivotal junction in the commercialization of non-petroleum plastics. The company announced today the successful production of a three-ton batch of wood-derived bioplastic, validating the scalability of its proprietary biomass fractionation technology.
 

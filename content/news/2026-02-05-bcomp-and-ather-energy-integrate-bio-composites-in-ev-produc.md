@@ -1,16 +1,23 @@
 ---
-title: "Bcomp and Ather Energy Integrate Bio-Composites in EV Production"
+title: Bcomp and Ather Energy Integrate Bio-Composites in EV Production
 date: 2026-02-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Swiss lightweighting specialist Bcomp has partnered with Indian EV manufacturer Ather Energy to integrate flax-based ampliTex composites into the body panels of the Ather 450 Apex scooter."
-tags: ["Bcomp", "Ather Energy", "ampliTex", "Flax Fiber"]
-category: "Partnerships"
-company: ["Bcomp", "Ather Energy"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Plastics Today"
+summary: Swiss lightweighting specialist Bcomp has partnered with Indian EV manufacturer
+  Ather Energy to integrate flax-based ampliTex composites into the body panels of
+  the Ather 450 Apex scooter.
+tags: []
+category: Partnerships
+company:
+- Bcomp
+- Ather Energy
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Plastics Today
 ---
+
 
 ## Pioneering Sustainable Mobility in India
 

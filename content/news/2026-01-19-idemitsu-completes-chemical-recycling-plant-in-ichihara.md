@@ -1,16 +1,23 @@
 ---
-title: "Idemitsu Completes Chemical Recycling Plant in Ichihara"
+title: Idemitsu Completes Chemical Recycling Plant in Ichihara
 date: 2026-01-19
 draft: false
 sitemap:
   priority: 0.7
-summary: "Idemitsu Kosan has finalized the construction of a commercial chemical recycling facility at its Chiba Complex designed to convert used plastics into raw feedstock."
-tags: ["Idemitsu Kosan", "Chemical Recycling", "Pyrolysis", "Ichihara"]
-category: "Plant Announcement"
-company: ["Idemitsu Kosan"]
-company_type: ["Recycler"]
-source: "Argus Media"
+summary: Idemitsu Kosan has finalized the construction of a commercial chemical recycling
+  facility at its Chiba Complex designed to convert used plastics into raw feedstock.
+tags:
+- bioplastics
+- chemical-recycling
+- pyrolysis
+category: Plant Announcement
+company:
+- Idemitsu Kosan
+company_type:
+- Recycler
+source: Argus Media
 ---
+
 
 Japanese petrochemical giant Idemitsu Kosan has officially announced the completion of its new chemical recycling facility located within the Chiba Complex in Ichihara City. This milestone marks a significant step in the company's transition toward a circular business model, enabling the commercial-scale conversion of waste plastics into renewable feedstock.
 

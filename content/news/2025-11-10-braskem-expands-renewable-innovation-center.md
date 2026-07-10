@@ -1,17 +1,19 @@
 ---
-
-title: "Braskem Expands Renewable Innovation Center"
+title: Braskem Expands Renewable Innovation Center
 date: 2025-11-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "Braskem continues expansion of its $20 million Renewable Innovation Center in Massachusetts, targeting 1 million tons of annual bioproduct capacity by 2030 and advancing biopolymer R&D."
-tags: ['Braskem', 'Plant Announcement', 'Manufacturing', 'Capacity']
-category: "Plant Announcement"
-company: "Braskem"
-company_type: "Bioplastic Producer"
-source: "Perplexity Rev2"
+summary: Braskem continues expansion of its $20 million Renewable Innovation Center
+  in Massachusetts, targeting 1 million tons of annual bioproduct capacity by 2030
+  and advancing biopolymer R&D.
+tags: []
+category: Plant Announcement
+company: Braskem
+company_type: Bioplastic Producer
+source: Perplexity Rev2
 ---
+
 
 Braskem has officially expanded its Renewable Innovation Center in Lexington, Massachusetts, reinforcing its commitment to advancing sustainable materials. The $20 million facility, opened in 2024, aims to accelerate research and development in renewable chemicals and biopolymers. Strategically located in the Greater Boston area, the center leverages proximity to over 60 universities and a vibrant biotech ecosystem to drive innovation in plant-based materials and support Braskem’s goal of producing 1 million tons of bioproducts annually by 2030.
 

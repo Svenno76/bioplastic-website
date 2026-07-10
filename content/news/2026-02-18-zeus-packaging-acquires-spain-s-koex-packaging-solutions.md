@@ -1,16 +1,23 @@
 ---
-title: "Zeus Packaging Acquires Spain's Koex Packaging Solutions"
+title: Zeus Packaging Acquires Spain's Koex Packaging Solutions
 date: 2026-02-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "Irish global packaging group Zeus expands its European manufacturing footprint with the strategic acquisition of Spanish extrusion specialist Koex Packaging Solutions."
-tags: ["Zeus Packaging", "Koex Packaging Solutions", "Co-extrusion", "Flexible Packaging"]
-category: "M&A"
-company: ["Zeus Packaging", "Koex Packaging Solutions"]
-company_type: ["Bioplastic Producer"]
-source: "Eco-plastics in Packaging"
+summary: Irish global packaging group Zeus expands its European manufacturing footprint
+  with the strategic acquisition of Spanish extrusion specialist Koex Packaging Solutions.
+tags:
+- packaging
+- pbat
+category: M&A
+company:
+- Zeus Packaging
+- Koex Packaging Solutions
+company_type:
+- Bioplastic Producer
+source: Eco-plastics in Packaging
 ---
+
 
 Irish global supply chain management group Zeus Packaging has continued its aggressive international expansion strategy with the acquisition of Koex Packaging Solutions, a specialist manufacturer based in Spain. This move significantly strengthens Zeus’s vertical integration within the European market, particularly in the realm of high-performance flexible packaging and extrusion technologies.
 

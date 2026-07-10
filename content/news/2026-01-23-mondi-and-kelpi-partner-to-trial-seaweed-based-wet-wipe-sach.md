@@ -1,16 +1,25 @@
 ---
-title: "Mondi and Kelpi Partner to Trial Seaweed-Based Wet Wipe Sachets"
+title: Mondi and Kelpi Partner to Trial Seaweed-Based Wet Wipe Sachets
 date: 2026-01-23
 draft: false
 sitemap:
   priority: 0.7
-summary: "Global packaging leader Mondi collaborates with biotech innovator Kelpi to test seaweed-based coatings for renewable, plastic-free wet wipe sachets."
-tags: ["Seaweed", "Coatings", "Wet Wipes", "Mondi", "Kelpi", "Biopolymers"]
-category: "Partnerships"
-company: ["Mondi", "Kelpi"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Packaging Insights"
+summary: Global packaging leader Mondi collaborates with biotech innovator Kelpi to
+  test seaweed-based coatings for renewable, plastic-free wet wipe sachets.
+tags:
+- bioplastics
+- construction
+- textiles
+category: Partnerships
+company:
+- Mondi
+- Kelpi
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Packaging Insights
 ---
+
 
 Global packaging and paper leader Mondi has announced a strategic collaboration with sustainable material innovator Kelpi to prototype and trial a new generation of wet wipe sachets. The partnership aims to eliminate the fossil-fuel-based plastic liners traditionally used in composite packaging, replacing them with Kelpi’s proprietary seaweed-derived coating technology.
 

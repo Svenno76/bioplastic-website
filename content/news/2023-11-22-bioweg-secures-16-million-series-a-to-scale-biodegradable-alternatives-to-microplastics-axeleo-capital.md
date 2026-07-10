@@ -1,16 +1,19 @@
 ---
-title: "BIOWEG secures €16 million Series A to scale biodegradable alternatives to microplastics - Axeleo Capital"
+title: BIOWEG secures €16 million Series A to scale biodegradable alternatives to
+  microplastics - Axeleo Capital
 date: 2023-11-22
 draft: false
 sitemap:
   priority: 0.7
-summary: "BIOWEG has successfully closed a €16 million Series A funding round"
-tags: ["BIOWEG"]
-category: "Investment & Funding"
-company: ["BIOWEG"]
-company_type: "Technology Company"
-source: "Axeleo Capital"
+summary: BIOWEG has successfully closed a €16 million Series A funding round
+tags: []
+category: Investment & Funding
+company:
+- BIOWEG
+company_type: Technology Company
+source: Axeleo Capital
 ---
+
 
 WEG, a German biotechnology company founded in 2019, has secured €16 million in Series A funding led by Axeleo Capital's Green Tech Industry Fund to scale biodegradable alternatives to microplastics. The investment, announced on September 16, 2025, brings the startup's total funding to €22 million and will fund its first industrial bacterial cellulose plant in Germany, accelerating commercialization across Europe amid tightening EU regulations phasing out fossil-based microplastics by 2028.
 

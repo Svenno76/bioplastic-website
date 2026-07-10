@@ -1,16 +1,21 @@
 ---
-title: "Kemvera Completes Design for Commercial Bio-Acetic Acid Plant"
+title: Kemvera Completes Design for Commercial Bio-Acetic Acid Plant
 date: 2026-01-21
 draft: false
 sitemap:
   priority: 0.7
-summary: "Kemvera has finalized the engineering design for its first commercial-scale facility dedicated to producing low-carbon bio-acetic acid and bio-ethyl acetate."
-tags: ["Kemvera", "Bio-Acetic Acid", "Bio-Ethyl Acetate", "Photocatalysis"]
-category: "Plant Announcement"
-company: ["Kemvera"]
-company_type: ["Technology Company", "Additive Producer"]
-source: "Kemvera"
+summary: Kemvera has finalized the engineering design for its first commercial-scale
+  facility dedicated to producing low-carbon bio-acetic acid and bio-ethyl acetate.
+tags: []
+category: Plant Announcement
+company:
+- Kemvera
+company_type:
+- Technology Company
+- Additive Producer
+source: Kemvera
 ---
+
 
 Kemvera, the low-carbon chemical technology firm formerly known as New Iridium, has reached a critical infrastructure milestone with the completion of the design package for its first commercial-scale manufacturing plant. The facility is designed to produce bio-acetic acid and bio-ethyl acetate, marking a significant transition from pilot-stage development to industrial chemical production.
 

@@ -1,16 +1,25 @@
 ---
-title: "Eastman and Kolmar Korea Sign MOU for Biodegradable Solutions"
+title: Eastman and Kolmar Korea Sign MOU for Biodegradable Solutions
 date: 2026-01-22
 draft: false
 sitemap:
   priority: 0.7
-summary: "Eastman and Kolmar Korea have entered a strategic agreement to develop and expand the use of biodegradable cellulose-based materials in the global personal care market."
-tags: ["Eastman", "Kolmar Korea", "Cellulose", "Biodegradable Polymers", "Personal Care Packaging"]
-category: "Partnerships"
-company: ["Eastman", "Kolmar Korea"]
-company_type: ["Bioplastic Producer"]
-source: "Eastman"
+summary: Eastman and Kolmar Korea have entered a strategic agreement to develop and
+  expand the use of biodegradable cellulose-based materials in the global personal
+  care market.
+tags:
+- biodegradable
+- packaging
+- pbat
+category: Partnerships
+company:
+- Eastman
+- Kolmar Korea
+company_type:
+- Bioplastic Producer
+source: Eastman
 ---
+
 
 Eastman, a global specialty materials provider, has signed a Memorandum of Understanding (MOU) with Kolmar Korea, a leading original design manufacturer (ODM) in the cosmetics industry, to advance the adoption of biodegradable materials in personal care products. The collaboration aims to leverage Eastman’s expertise in cellulose technology to address the growing demand for environmentally responsible beauty solutions.
 

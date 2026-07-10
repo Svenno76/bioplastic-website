@@ -1,17 +1,27 @@
 ---
-title: "Technip Energies, Alterra and Neste Launch Nerea™ — Standardized Modular Solution for Plastic Chemical Recycling"
-date: 2026-07-03T10:00:00+02:00
+title: Technip Energies, Alterra and Neste Launch Nerea™ — Standardized Modular Solution
+  for Plastic Chemical Recycling
+date: 2026-07-03 10:00:00+02:00
 draft: false
-summary: "Three industry leaders in circular solutions introduce standardized modular plant design that reduces pre-investment, project complexity and timeline uncertainty for chemical recycling deployment worldwide"
-tags: ["chemical-recycling", "technip-energies", "alterra", "neste", "nerea", "modular-solution", "circular-economy"]
-category: "Technology"
-company: ["Technip Energies", "Alterra", "Neste"]
-source: "Technip Energies"
-source_url: "https://www.ten.com/en/media/press-releases/technip-energies-alterra-and-neste-launch-nerea-standardized-modular-solution"
-featured_image: "https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=1024&q=80"
+summary: Three industry leaders in circular solutions introduce standardized modular
+  plant design that reduces pre-investment, project complexity and timeline uncertainty
+  for chemical recycling deployment worldwide
+tags:
+- bioplastics
+- chemical-recycling
+- circular-economy
+category: Technology
+company:
+- Technip Energies
+- Alterra
+- Neste
+source: Technip Energies
+source_url: https://www.ten.com/en/media/press-releases/technip-energies-alterra-and-neste-launch-nerea-standardized-modular-solution
+featured_image: https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=1024&q=80
 sitemap:
   priority: 0.7
 ---
+
 
 **Paris, June 29, 2026** — Technip Energies (PARIS:TE), Alterra and Neste today announced the commercial launch of **Nerea™**, a new type of industrial offering designed to accelerate the deployment of chemical recycling projects for plastic waste worldwide. By transitioning from bespoke engineering to a standardized product model, Nerea™ enables waste operators, project developers, refining and petrochemical players to scale circular plastic production with enhanced predictability.
 

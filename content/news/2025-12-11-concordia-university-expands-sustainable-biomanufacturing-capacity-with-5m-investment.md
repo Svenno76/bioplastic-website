@@ -1,16 +1,20 @@
 ---
-title: "Concordia University Expands Sustainable Biomanufacturing Capacity with $5M Investment"
+title: Concordia University Expands Sustainable Biomanufacturing Capacity with $5M
+  Investment
 date: 2025-12-11
 draft: false
 sitemap:
   priority: 0.7
-summary: "Concordia University has significantly upgraded its Genome Foundry and Bioprocessing facilities with"
-tags: ["Concordia University"]
-category: "Investment & Funding"
-company: ["Concordia University"]
-company_type: "University"
-source: "Concordia University News"
+summary: Concordia University has significantly upgraded its Genome Foundry and Bioprocessing
+  facilities with
+tags: []
+category: Investment & Funding
+company:
+- Concordia University
+company_type: University
+source: Concordia University News
 ---
+
 
 Concordia University in Montreal has significantly expanded its **sustainable biomanufacturing capabilities** through a $5 million Canada Foundation for Innovation (CFI) investment announced in December 2025. The upgrades to the Genome Foundry and Bioprocessing facilities position the institution as one of Canada's leading centers for synthetic biology and bioprocessing, strengthening its capacity to develop bio-based products from design through commercialization.
 

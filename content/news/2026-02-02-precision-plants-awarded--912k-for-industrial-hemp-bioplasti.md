@@ -1,16 +1,23 @@
 ---
-title: "Precision Plants Awarded £912k for Industrial Hemp Bioplastics"
+title: Precision Plants Awarded £912k for Industrial Hemp Bioplastics
 date: 2026-02-02
 draft: false
 sitemap:
   priority: 0.7
-summary: "Precision Plants Ltd secures significant funding to accelerate the development and commercialization of biopolymers derived from industrial hemp biomass."
-tags: ["Precision Plants", "Industrial Hemp", "Biomass", "Feedstock"]
-category: "Investment & Funding"
-company: ["Precision Plants"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "GOV.UK"
+summary: Precision Plants Ltd secures significant funding to accelerate the development
+  and commercialization of biopolymers derived from industrial hemp biomass.
+tags:
+- bioplastics
+- feedstock
+category: Investment & Funding
+company:
+- Precision Plants
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: GOV.UK
 ---
+
 
 In a significant boost for the United Kingdom's circular bioeconomy, Precision Plants Ltd has announced the receipt of a £912,000 grant aimed at accelerating the commercialization of industrial hemp-based bioplastics. The funding marks a critical step in the company's mission to utilize non-food crops as a primary feedstock for high-performance polymer production.
 

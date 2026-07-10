@@ -1,16 +1,22 @@
 ---
-title: "Development of Cassava-Based Bioplastic with Eggshell Gelatin"
+title: Development of Cassava-Based Bioplastic with Eggshell Gelatin
 date: 2026-02-23
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers have synthesized a new biodegradable film combining cassava starch with eggshell-derived gelatin to enhance mechanical strength and decomposition rates."
-tags: ["BRIN", "Cassava Starch", "Eggshell Gelatin", "Biodegradable Film"]
-category: "Product Launch"
-company: ["BRIN"]
-company_type: ["Research Institute"]
-source: "RRI.co.id"
+summary: Researchers have synthesized a new biodegradable film combining cassava starch
+  with eggshell-derived gelatin to enhance mechanical strength and decomposition rates.
+tags:
+- biodegradable
+- bioplastics
+category: Product Launch
+company:
+- BRIN
+company_type:
+- Research Institute
+source: RRI.co.id
 ---
+
 
 The National Research and Innovation Agency (BRIN) has announced a significant breakthrough in the synthesis of biodegradable materials, unveiling a new bioplastic composite derived from cassava starch and eggshell waste. This development addresses the critical limitations of conventional starch-based films while valorizing agricultural byproducts.
 

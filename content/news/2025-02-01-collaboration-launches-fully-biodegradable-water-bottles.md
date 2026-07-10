@@ -1,16 +1,25 @@
 ---
-title: "Collaboration Launches Fully Biodegradable Water Bottles"
+title: Collaboration Launches Fully Biodegradable Water Bottles
 date: 2025-02-20
 draft: false
 sitemap:
   priority: 0.7
-summary: "Win Win Water partners with TotalEnergies Corbion to introduce a 100% plant-based, biodegradable water bottle utilizing Luminy® PLA technology."
-tags: ["PLA", "Luminy", "Win Win Water", "Biopolymers", "Packaging"]
-category: "Product Launch"
-company: ["TotalEnergies Corbion", "Win Win Water"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Packaging Europe"
+summary: Win Win Water partners with TotalEnergies Corbion to introduce a 100% plant-based,
+  biodegradable water bottle utilizing Luminy® PLA technology.
+tags:
+- bioplastics
+- packaging
+- pla
+category: Product Launch
+company:
+- TotalEnergies Corbion
+- Win Win Water
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Packaging Europe
 ---
+
 
 In a significant move toward reducing reliance on fossil-based packaging, **Win Win Water** has unveiled a new line of water bottles made entirely from plant-based materials. This product launch is the result of a strategic collaboration with **TotalEnergies Corbion**, a global leader in the production of Poly Lactic Acid (PLA). The initiative aims to provide a scalable, sustainable alternative to traditional polyethylene terephthalate (PET) bottles, addressing the growing global concern regarding single-use plastic waste.
 

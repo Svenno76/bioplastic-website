@@ -1,16 +1,21 @@
 ---
-title: "Mechanical Completion of Commercial bioTHF and bioPTMEG Plant"
+title: Mechanical Completion of Commercial bioTHF and bioPTMEG Plant
 date: 2026-04-21
 draft: false
 sitemap:
   priority: 0.7
-summary: "Covation Biomaterials has achieved mechanical completion of its first commercial plant producing non-food, second-generation bioTHF and bioPTMEG, unveiling its new Xatryx brand."
-tags: ["Covation Biomaterials", "bioTHF", "bioPTMEG", "Xatryx", "Spandex", "Polyurethanes"]
-category: "Plant Announcement"
-company: ["Covation Biomaterials"]
-company_type: ["Bioplastic Producer"]
-source: "Chemical Industry Digest"
+summary: Covation Biomaterials has achieved mechanical completion of its first commercial
+  plant producing non-food, second-generation bioTHF and bioPTMEG, unveiling its new
+  Xatryx brand.
+tags: []
+category: Plant Announcement
+company:
+- Covation Biomaterials
+company_type:
+- Bioplastic Producer
+source: Chemical Industry Digest
 ---
+
 
 Covation Biomaterials has officially reached a major milestone in the renewable materials sector, announcing the mechanical completion of its first commercial-scale manufacturing facility for bio-tetrahydrofuran (bioTHF) and bio-polytetramethylene ether glycol (bioPTMEG). This pivotal development signals a significant leap forward in scaling drop-in bio-based alternatives for high-performance apparel, textiles, and industrial polymer applications.
 

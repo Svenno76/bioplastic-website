@@ -1,16 +1,22 @@
 ---
-title: "Technip Energies completes acquisition of Ecovyst’s Advanced Materials & Catalysts business"
+title: Technip Energies completes acquisition of Ecovyst’s Advanced Materials & Catalysts
+  business
 date: 2026-01-02
 draft: false
 sitemap:
   priority: 0.7
-summary: "Technip Energies has finalized its acquisition of Ecovyst’s Advanced Materials & Catalysts division, a strategic move designed to bolster its sustainable technology portfolio and accelerate the development of bio-based materials."
-tags: ["Technip Energies", "Ecovyst"]
-category: "M&A"
-company: ["Technip Energies", "Ecovyst"]
-company_type: "Technology Company"
-source: "Technip Energies"
+summary: Technip Energies has finalized its acquisition of Ecovyst’s Advanced Materials
+  & Catalysts division, a strategic move designed to bolster its sustainable technology
+  portfolio and accelerate the development of bio-based materials.
+tags: []
+category: M&A
+company:
+- Technip Energies
+- Ecovyst
+company_type: Technology Company
+source: Technip Energies
 ---
+
 
 PARIS – Marking a significant milestone in its transition toward sustainable industrial solutions, Technip Energies (PARIS: TE) officially announced today the completion of its acquisition of Ecovyst’s Advanced Materials & Catalysts (AMC) business. The deal, finalized on January 2, 2026, positions Technip Energies as a formidable leader in the development of high-performance catalysts essential for the bioplastics and circular economy sectors.
 

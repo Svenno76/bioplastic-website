@@ -1,18 +1,22 @@
 ---
-
-title: "Genetically Engineered Algae Converts Microplastics to Bioplastics"
+title: Genetically Engineered Algae Converts Microplastics to Bioplastics
 date: 2026-02-01
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers at the University of Missouri have developed a genetically modified algae strain capable of metabolizing microplastics and converting them into biodegradable biopolymers."
-tags: ["University of Missouri", "Algae", "Microplastic Pollution", "PHA", "Upcycling"]
-category: "Product Launch"
-company: ["University of Missouri"]
-company_type: ["University"]
-source: "Mizzou Engineering"
-
+summary: Researchers at the University of Missouri have developed a genetically modified
+  algae strain capable of metabolizing microplastics and converting them into biodegradable
+  biopolymers.
+tags:
+- pha
+category: Product Launch
+company:
+- University of Missouri
+company_type:
+- University
+source: Mizzou Engineering
 ---
+
 
 ## Dual-Purpose Remediation Technology
 

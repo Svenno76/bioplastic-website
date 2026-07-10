@@ -1,16 +1,24 @@
 ---
-title: "Selenis to Double Recycled Polyester Output in Portugal"
+title: Selenis to Double Recycled Polyester Output in Portugal
 date: 2026-03-02
 draft: false
 sitemap:
   priority: 0.7
-summary: "Selenis has announced plans to double its recycled polyester production capacity at its Portuguese facility by the third quarter of 2027 to meet the growing global demand for circular packaging solutions."
-tags: ["Selenis", "Recycled Polyester", "rPET", "Copolyesters"]
-category: "Plant Announcement"
-company: ["Selenis"]
-company_type: ["Bioplastic Producer", "Recycler"]
-source: "Eco-Plastics in Packaging"
+summary: Selenis has announced plans to double its recycled polyester production capacity
+  at its Portuguese facility by the third quarter of 2027 to meet the growing global
+  demand for circular packaging solutions.
+tags:
+- bioplastics
+- recycled-content
+category: Plant Announcement
+company:
+- Selenis
+company_type:
+- Bioplastic Producer
+- Recycler
+source: Eco-Plastics in Packaging
 ---
+
 
 ## Expanding Circular Footprint in Europe
 

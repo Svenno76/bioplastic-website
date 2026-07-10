@@ -1,16 +1,23 @@
 ---
-title: "Roquette Achieves ISCC PLUS Certification for Bio-Succinic Acid"
+title: Roquette Achieves ISCC PLUS Certification for Bio-Succinic Acid
 date: 2026-04-30
 draft: false
 sitemap:
   priority: 0.7
-summary: "Roquette has successfully obtained ISCC PLUS certification for its BIOSUCCINIUM® bio-succinic acid, reinforcing the traceability and verifiable sustainability of its biomaterial supply chain."
-tags: ["Roquette", "Bio-Succinic Acid", "ISCC PLUS", "BIOSUCCINIUM", "PBS"]
-category: "Certifications"
-company: ["Roquette"]
-company_type: ["Additive Producer"]
-source: "Roquette News"
+summary: Roquette has successfully obtained ISCC PLUS certification for its BIOSUCCINIUM®
+  bio-succinic acid, reinforcing the traceability and verifiable sustainability of
+  its biomaterial supply chain.
+tags:
+- iscc-plus
+- pbs
+category: Certifications
+company:
+- Roquette
+company_type:
+- Additive Producer
+source: Roquette News
 ---
+
 
 ## Setting a New Benchmark for Biomaterials
 

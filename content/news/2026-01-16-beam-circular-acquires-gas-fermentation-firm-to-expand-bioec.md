@@ -1,16 +1,22 @@
 ---
-title: "BEAM Circular Acquires Gas Fermentation Firm to Expand Bioeconomy"
+title: BEAM Circular Acquires Gas Fermentation Firm to Expand Bioeconomy
 date: 2026-01-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "BEAM Circular has announced the strategic acquisition of a gas fermentation firm to accelerate the production of bio-based materials from industrial and agricultural emissions."
-tags: ["BEAM Circular"]
-category: "M&A"
-company: ["BEAM Circular"]
-company_type: "Bioplastic Producer"
-source: "World Bio Market Insights"
+summary: BEAM Circular has announced the strategic acquisition of a gas fermentation
+  firm to accelerate the production of bio-based materials from industrial and agricultural
+  emissions.
+tags:
+- bioplastics
+- circular-economy
+category: M&A
+company:
+- BEAM Circular
+company_type: Bioplastic Producer
+source: World Bio Market Insights
 ---
+
 
 In a landmark move for the sustainable materials sector, BEAM Circular has officially acquired a specialized gas fermentation firm, a step that signals a major expansion of California’s North Valley bioeconomy. The acquisition, announced today, positions the Modesto-based organization to transition from traditional biomass processing to the high-tech conversion of industrial and agricultural greenhouse gases into high-value bioproducts.
 

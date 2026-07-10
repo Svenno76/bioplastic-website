@@ -1,16 +1,24 @@
 ---
-title: "Trevira Integrates Recycled Content into Flame-Retardant Yarns"
+title: Trevira Integrates Recycled Content into Flame-Retardant Yarns
 date: 2026-01-27
 draft: false
 sitemap:
   priority: 0.7
-summary: "Indorama Ventures expands its Trevira CS portfolio by incorporating chemically recycled PET into flame-retardant yarns without compromising safety standards."
-tags: ["Trevira", "Indorama Ventures", "rPET", "Polyester", "Flame Retardants"]
-category: "Product Launch"
-company: ["Indorama Ventures", "Trevira"]
-company_type: ["Bioplastic Producer", "Recycler"]
-source: "Globuc"
+summary: Indorama Ventures expands its Trevira CS portfolio by incorporating chemically
+  recycled PET into flame-retardant yarns without compromising safety standards.
+tags:
+- bioplastics
+- recycled-content
+category: Product Launch
+company:
+- Indorama Ventures
+- Trevira
+company_type:
+- Bioplastic Producer
+- Recycler
+source: Globuc
 ---
+
 
 Indorama Ventures Public Company Limited (IVL) has marked a significant milestone in the technical textile sector by integrating recycled content into its renowned Trevira brand flame-retardant yarns. The move addresses a longstanding challenge in the industry: combining the stringent safety requirements of contract textiles with the growing demand for circular economy solutions.
 

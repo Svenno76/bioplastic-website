@@ -1,18 +1,23 @@
 ---
-
-title: "Lenzing and OceanSafe partner to launch next-gen performance textiles featuring TENCEL™ Lyocell - A100 and naNea"
+title: Lenzing and OceanSafe partner to launch next-gen performance textiles featuring
+  TENCEL™ Lyocell - A100 and naNea
 date: 2025-10-28
 draft: false
 sitemap:
   priority: 0.7
-summary: "Lenzing Group and OceanSafe have collaborated to introduce a next-generation yarn, combining TENCEL™ Lyocell - A100 fibers with biodegradable naNea co-polyester, offering a sustainable and high-performance alternative for various textile applications."
-tags: ["Lenzing Group", "OceanSafe", "TENCEL Lyocell", "naNea", "bioplastic textiles", "Sustainable Fashion", "performance textiles"]
-category: "Product Launch"
-company: "Lenzing Group, OceanSafe"
-company_type: ["Bioplastic Producer, Technology Company"]
-source: "Lenzing Newsroom"
-
+summary: Lenzing Group and OceanSafe have collaborated to introduce a next-generation
+  yarn, combining TENCEL™ Lyocell - A100 fibers with biodegradable naNea co-polyester,
+  offering a sustainable and high-performance alternative for various textile applications.
+tags:
+- pla
+- textiles
+category: Product Launch
+company: Lenzing Group, OceanSafe
+company_type:
+- Bioplastic Producer, Technology Company
+source: Lenzing Newsroom
 ---
+
 
 Lenzing Group and OceanSafe have announced a strategic partnership to launch a groundbreaking next-generation yarn, integrating Lenzing's TENCEL™ Lyocell - A100 fibers with OceanSafe's innovative, biodegradable naNea co-polyester. This collaboration introduces a resource-efficient solution designed to meet the increasing demand for sustainable and technically advanced materials across the textile industry.
 

@@ -1,15 +1,17 @@
 ---
-title: "CovationBio unveils bio-based PTMEG alternative"
+title: CovationBio unveils bio-based PTMEG alternative
 date: 2026-01-06
 draft: false
 sitemap:
   priority: 0.7
-summary: "CovationBio unveiled bio-based alternative to PTMEG at Chinaplas 2025."
-tags: ["CovationBio"]
-category: "Product Launch"
-company: ["CovationBio"]
-source: "Perplexity Rev2"
+summary: CovationBio unveiled bio-based alternative to PTMEG at Chinaplas 2025.
+tags: []
+category: Product Launch
+company:
+- CovationBio
+source: Perplexity Rev2
 ---
+
 
 Covation Biomaterials unveiled **bioPTMEG**, a bio-based alternative to petroleum-derived polytetramethylene ether glycol, at Chinaplas 2025 in Shenzhen, China, from April 15-18. The company introduced this sustainable material as a "drop-in" replacement designed to reduce environmental impact without requiring significant manufacturing process changes. Made entirely from renewable resources such as corncobs, bioPTMEG delivers substantially lower greenhouse gas emissions compared to fossil-based PTMEG while maintaining performance standards. The launch reflects growing industry demand for sustainable materials that address climate concerns without compromising functionality.
 

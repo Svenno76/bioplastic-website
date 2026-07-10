@@ -1,16 +1,20 @@
 ---
-title: "Colesco Launches New Impact Credit Fund for Circular Economy"
+title: Colesco Launches New Impact Credit Fund for Circular Economy
 date: 2026-01-20
 draft: false
 sitemap:
   priority: 0.7
-summary: "Colesco Capital has unveiled a new impact credit fund designed to finance European mid-market companies driving the transition to circular industrial models."
-tags: ["Colesco"]
-category: "Investment & Funding"
-company: ["Colesco"]
-company_type: ["Consulting"]
-source: "World Bio Market Insights"
+summary: Colesco Capital has unveiled a new impact credit fund designed to finance
+  European mid-market companies driving the transition to circular industrial models.
+tags: []
+category: Investment & Funding
+company:
+- Colesco
+company_type:
+- Consulting
+source: World Bio Market Insights
 ---
+
 
 Colesco Capital has announced the expansion of its responsible investment capabilities with the launch of a new Impact Credit Fund, specifically targeting the financing needs of the circular economy and energy transition sectors. The move signifies a growing appetite among institutional investors for senior secured debt instruments that support tangible industrial sustainability, particularly within the European mid-market.
 

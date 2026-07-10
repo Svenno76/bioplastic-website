@@ -1,15 +1,18 @@
 ---
-title: "Loliware partners with Entec"
+title: Loliware partners with Entec
 date: 2025-12-31
 draft: false
 sitemap:
   priority: 0.7
-summary: "Loliware partnered with Entec to develop seaweed biopolymer solutions."
-tags: ["Loliware", "Entec Polymers"]
-category: "Partnerships"
-company: ["Loliware", "Entec Polymers"]
-source: "Perplexity Rev2"
+summary: Loliware partnered with Entec to develop seaweed biopolymer solutions.
+tags: []
+category: Partnerships
+company:
+- Loliware
+- Entec Polymers
+source: Perplexity Rev2
 ---
+
 
 **Seaweed-Based Biopolymer Pioneer Loliware Secures Major Distribution Partnership with Entec**
 

@@ -1,17 +1,23 @@
 ---
-title: "Bio-based Plastics for Infusion Bags — Frankfurt Research Team Develops Sustainable Alternative to Medical Products From Crude Oil"
+title: Bio-based Plastics for Infusion Bags — Frankfurt Research Team Develops Sustainable
+  Alternative to Medical Products From Crude Oil
 date: 2026-06-12
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/nexam-verdofoam-pla-foam.jpg"
-summary: "A research team at Goethe-Universität Frankfurt, in cooperation with bioplastics start-up BIOVOX, is developing fully biodegradable bioplastics for medical applications including infusion bags, replacing petroleum-based materials."
-tags: ["Medical Bioplastics", "BIOVOX", "Healthcare", "Biodegradable", "Frankfurt", "Research"]
-category: "Research"
-company: "BIOVOX"
-source: "chemeurope.com"
-source_url: "https://www.chemeurope.com/en/news/1187597/bio-based-plastics-for-infusion-bags.html"
+featured_image: /images/news/nexam-verdofoam-pla-foam.jpg
+summary: A research team at Goethe-Universität Frankfurt, in cooperation with bioplastics
+  start-up BIOVOX, is developing fully biodegradable bioplastics for medical applications
+  including infusion bags, replacing petroleum-based materials.
+tags:
+- biodegradable
+- bioplastics
+category: Research
+company: BIOVOX
+source: chemeurope.com
+source_url: https://www.chemeurope.com/en/news/1187597/bio-based-plastics-for-infusion-bags.html
 ---
+
 
 While BIOVOX develops the recipe for the plastic granulate based on cellulose, sugar cane or corn starch, the adapted biocompatibility tests and physical and chemical safety tests are carried out at Frankfurt UAS.
 

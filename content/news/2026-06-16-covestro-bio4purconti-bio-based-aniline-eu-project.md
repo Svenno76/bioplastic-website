@@ -1,17 +1,24 @@
 ---
-title: "Covestro Launches Bio4PURConti: EU-Funded Project for World's First Continuous Bio-Based Aniline Production"
+title: 'Covestro Launches Bio4PURConti: EU-Funded Project for World''s First Continuous
+  Bio-Based Aniline Production'
 date: 2026-06-16
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/covestro-bio4purconti-aniline-1024.webp"
-summary: "Covestro coordinates a 10-partner, 7-country EU consortium to develop the world's first continuous production process for bio-based aniline, targeting semi-industrial scale with pilot plants in Ghent and Leverkusen."
-tags: ["Bio-Based Aniline", "EU Project", "Polyurethanes", "Continuous Fermentation", "Covestro", "Bio4PURConti", "MDI"]
-category: "Technology"
-company: "Covestro"
-source: "covestro.com"
-source_url: "https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/"
+featured_image: /images/news/covestro-bio4purconti-aniline-1024.webp
+summary: Covestro coordinates a 10-partner, 7-country EU consortium to develop the
+  world's first continuous production process for bio-based aniline, targeting semi-industrial
+  scale with pilot plants in Ghent and Leverkusen.
+tags:
+- bio-based
+- bioplastics
+- fermentation
+category: Technology
+company: Covestro
+source: covestro.com
+source_url: https://www.covestro.com/press/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/
 ---
+
 
 <picture>
   <source type="image/webp"

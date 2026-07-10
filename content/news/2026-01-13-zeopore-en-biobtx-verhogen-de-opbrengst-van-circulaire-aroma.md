@@ -1,16 +1,27 @@
 ---
-title: "Zeopore and BioBTX increase the yield of circular aromatics from waste plastics thanks to a breakthrough in catalyst and process synergy"
+title: Zeopore and BioBTX increase the yield of circular aromatics from waste plastics
+  thanks to a breakthrough in catalyst and process synergy
 date: 2026-01-13
 draft: false
 sitemap:
   priority: 0.7
-summary: "Zeopore and BioBTX have achieved a significant breakthrough in chemical recycling by combining advanced zeolite catalysts with innovative process technology to maximize the yield of circular aromatics from mixed plastic waste."
-tags: ["BioBTX", "Zeopore", "Circular Aromatics", "Chemical Recycling", "Zeolite Catalysts"]
-category: "Partnerships"
-company: ["BioBTX", "Zeopore"]
-company_type: ["Technology Company", "Recycler"]
-source: "BioBTX"
+summary: Zeopore and BioBTX have achieved a significant breakthrough in chemical recycling
+  by combining advanced zeolite catalysts with innovative process technology to maximize
+  the yield of circular aromatics from mixed plastic waste.
+tags:
+- bioplastics
+- chemical-recycling
+- circular-economy
+category: Partnerships
+company:
+- BioBTX
+- Zeopore
+company_type:
+- Technology Company
+- Recycler
+source: BioBTX
 ---
+
 
 ## A Breakthrough in Chemical Recycling
 

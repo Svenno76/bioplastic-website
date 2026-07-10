@@ -1,16 +1,22 @@
 ---
-title: "Nant Biorenewables Expands Alabama Manufacturing Plant"
+title: Nant Biorenewables Expands Alabama Manufacturing Plant
 date: 2026-04-09
 draft: false
 sitemap:
   priority: 0.7
-summary: "Nant Biorenewables has announced a major expansion of its Gadsden, Alabama manufacturing facility to boost production capacity and introduce advanced multi-material biopolymer capabilities."
-tags: ["Nant Biorenewables", "Compounding", "Bio-resins"]
-category: "Plant Announcement"
-company: ["Nant Biorenewables"]
-company_type: ["Bioplastic Producer", "Compounder"]
-source: "Business Wire"
+summary: Nant Biorenewables has announced a major expansion of its Gadsden, Alabama
+  manufacturing facility to boost production capacity and introduce advanced multi-material
+  biopolymer capabilities.
+tags: []
+category: Plant Announcement
+company:
+- Nant Biorenewables
+company_type:
+- Bioplastic Producer
+- Compounder
+source: Business Wire
 ---
+
 
 On April 9, 2026, Nant Biorenewables announced a critical expansion of its primary U.S. manufacturing facility situated in Gadsden, Alabama. This strategic investment is aimed at significantly scaling up domestic production capacity for advanced bioplastics while simultaneously introducing next-generation multi-material processing capabilities to the North American market.
 

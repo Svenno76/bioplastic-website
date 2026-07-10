@@ -1,17 +1,25 @@
 ---
-title: "Nexam Chemical enables lightweight materials in bio-based plastics – together with Verdofoam®"
+title: Nexam Chemical enables lightweight materials in bio-based plastics – together
+  with Verdofoam®
 date: 2025-10-29
 draft: false
 sitemap:
   priority: 0.7
-summary: "Nexam Chemical and Verdofoam achieve breakthrough in bio-based PLA foam, replacing fossil-based polystyrene in packaging applications."
-tags: ["Nexam Chemical", "Verdofoam", "PLA foam", "lightweight materials", "sustainable packaging", "bio-based foam"]
-category: "Partnerships"
-company: ["Nexam Chemical", "Verdofoam"]
-company_type: "Additive Producer"
-source: "Nexam Chemical press release"
-featured_image: "/images/news/nexam-verdofoam-pla-foam.jpg"
+summary: Nexam Chemical and Verdofoam achieve breakthrough in bio-based PLA foam,
+  replacing fossil-based polystyrene in packaging applications.
+tags:
+- bio-based
+- packaging
+- pbat
+category: Partnerships
+company:
+- Nexam Chemical
+- Verdofoam
+company_type: Additive Producer
+source: Nexam Chemical press release
+featured_image: /images/news/nexam-verdofoam-pla-foam.jpg
 ---
+
 
 ![Nexam Chemical and Verdofoam bio-based PLA foam for sustainable packaging](/images/news/nexam-verdofoam-pla-foam.jpg)
 

@@ -1,16 +1,22 @@
 ---
-title: "Kelpi Packaging Approaches Market Launch with Homethings Partnership"
+title: Kelpi Packaging Approaches Market Launch with Homethings Partnership
 date: 2026-04-08
 draft: false
 sitemap:
   priority: 0.7
-summary: "UK-based Kelpi's seaweed-derived packaging material approaches first commercial deployment. Cleaning brand Homethings selected for next-generation refill sachets — the world's first commercial use of Kelpi's seaweed-coated packaging."
-tags: ["Seaweed Packaging", "Sachets", "B Corp", "Market Launch", "Coatings", "UK"]
-category: "Partnerships"
-company: "Kelpi"
-source: "kelpi.net"
-source_url: "https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch"
+summary: UK-based Kelpi's seaweed-derived packaging material approaches first commercial
+  deployment. Cleaning brand Homethings selected for next-generation refill sachets
+  — the world's first commercial use of Kelpi's seaweed-coated packaging.
+tags:
+- construction
+- packaging
+- pbat
+category: Partnerships
+company: Kelpi
+source: kelpi.net
+source_url: https://www.kelpi.net/news/kelpi-packaging-approaches-market-launch
 ---
+
 
 Kelpi is on the verge of its first commercial deployment — and with a fitting partner at that.
 

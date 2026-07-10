@@ -1,16 +1,25 @@
 ---
-title: "Zeon and Visolis Sign Agreement for Bio-Isoprene Development"
+title: Zeon and Visolis Sign Agreement for Bio-Isoprene Development
 date: 2026-02-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "Zeon Corporation and Visolis have entered a strategic partnership to accelerate the commercial development of bio-isoprene, a critical sustainable feedstock for synthetic rubber and elastomers."
-tags: ["Bio-Isoprene", "Synthetic Rubber", "Fermentation", "Sustainable Elastomers"]
-category: "Partnerships"
-company: ["Zeon", "Visolis"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Zeon"
+summary: Zeon Corporation and Visolis have entered a strategic partnership to accelerate
+  the commercial development of bio-isoprene, a critical sustainable feedstock for
+  synthetic rubber and elastomers.
+tags:
+- bioplastics
+- fermentation
+category: Partnerships
+company:
+- Zeon
+- Visolis
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Zeon
 ---
+
 
 **TOKYO/HAYWARD** — In a significant move toward decarbonizing the elastomer supply chain, Zeon Corporation and Visolis have announced a Memorandum of Understanding (MOU) to jointly develop and commercialize bio-isoprene. The agreement, signed on February 16, 2026, combines Zeon’s expertise in polymerization and materials science with Visolis’ advanced biomanufacturing capabilities.
 

@@ -1,17 +1,21 @@
 ---
-
-title: "Polykar Doubles Production Capacity at Edmonton Facility"
+title: Polykar Doubles Production Capacity at Edmonton Facility
 date: 2025-10-09
 draft: false
 sitemap:
   priority: 0.7
-summary: "Polykar has announced a $20 million investment to double the production capacity of its Edmonton facility, reinforcing its commitment to sustainable packaging and the circular economy in Western Canada."
-tags: ['Polykar', 'Innovation', 'Sustainability']
-category: "Plant Announcement"
-company: "Polykar"
-company_type: "Bioplastic Producer"
-source: "Plastics Today"
+summary: Polykar has announced a $20 million investment to double the production capacity
+  of its Edmonton facility, reinforcing its commitment to sustainable packaging and
+  the circular economy in Western Canada.
+tags:
+- bioplastics
+- circular-economy
+category: Plant Announcement
+company: Polykar
+company_type: Bioplastic Producer
+source: Plastics Today
 ---
+
 
 ## A Strategic Expansion in Western Canada
 

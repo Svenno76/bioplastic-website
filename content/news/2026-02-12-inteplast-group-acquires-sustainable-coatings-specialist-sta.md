@@ -1,16 +1,25 @@
 ---
-title: "Inteplast Group Acquires Sustainable Coatings Specialist STA"
+title: Inteplast Group Acquires Sustainable Coatings Specialist STA
 date: 2026-02-12
 draft: false
 sitemap:
   priority: 0.7
-summary: "Inteplast Group expands its sustainable packaging portfolio by acquiring STA to integrate high-performance, eco-friendly over-laminates and coatings into its film production lines."
-tags: ["Inteplast Group", "STA", "Over-laminates", "Coatings"]
-category: "M&A"
-company: ["Inteplast Group", "STA"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Packaging Dive"
+summary: Inteplast Group expands its sustainable packaging portfolio by acquiring
+  STA to integrate high-performance, eco-friendly over-laminates and coatings into
+  its film production lines.
+tags:
+- construction
+- pla
+category: M&A
+company:
+- Inteplast Group
+- STA
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Packaging Dive
 ---
+
 
 Inteplast Group, a global leader in the manufacturing of integrated plastics and films, has officially announced the acquisition of STA, a specialized manufacturer known for its high-performance sustainable over-laminates and coating technologies. The strategic move, finalized on February 12, 2026, marks a significant step in Inteplast's efforts to vertically integrate advanced surface technologies with its extensive bioplastic and polyolefin film capabilities.
 

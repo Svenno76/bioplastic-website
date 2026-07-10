@@ -1,16 +1,23 @@
 ---
-title: "Plastipak and MSU Unveil New Processing Lab for Packaging Innovation"
+title: Plastipak and MSU Unveil New Processing Lab for Packaging Innovation
 date: 2026-01-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "Plastipak and Michigan State University have inaugurated a state-of-the-art processing lab designed to accelerate sustainable packaging research and student training."
-tags: ["Plastipak", "Michigan State University"]
-category: "Partnerships"
-company: ["Plastipak", "Michigan State University"]
-company_type: ["Bioplastic Producer", "University"]
-source: "Michigan State University"
+summary: Plastipak and Michigan State University have inaugurated a state-of-the-art
+  processing lab designed to accelerate sustainable packaging research and student
+  training.
+tags: []
+category: Partnerships
+company:
+- Plastipak
+- Michigan State University
+company_type:
+- Bioplastic Producer
+- University
+source: Michigan State University
 ---
+
 
 Plastipak Holdings, Inc., a global leader in the design and manufacture of rigid plastic containers, has officially unveiled the Plastipak Processing Lab in partnership with Michigan State University (MSU). Located within the university's School of Packaging, this newly inaugurated facility represents a significant investment in the infrastructure required to advance polymer science and sustainable manufacturing education.
 

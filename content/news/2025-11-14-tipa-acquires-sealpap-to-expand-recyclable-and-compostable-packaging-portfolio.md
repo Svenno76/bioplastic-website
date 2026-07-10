@@ -1,17 +1,17 @@
 ---
-
-title: "TIPA acquires Sealpap to expand recyclable and compostable packaging portfolio"
+title: TIPA acquires Sealpap to expand recyclable and compostable packaging portfolio
 date: 2025-11-14
 draft: false
 sitemap:
   priority: 0.7
-summary: "TIPA Compostable Packaging has acquired Sealpap"
-tags: ['TIPA', 'M&A', 'Merger', 'Acquisition']
-category: "M&A"
-company: "TIPA"
-company_type: "Bioplastic Producer"
-source: "SPNEWS.com"
+summary: TIPA Compostable Packaging has acquired Sealpap
+tags: []
+category: M&A
+company: TIPA
+company_type: Bioplastic Producer
+source: SPNEWS.com
 ---
+
 
 TIPA Compostable Packaging, a leader in flexible compostable solutions, has acquired Sealpap, a Dutch specialist in recyclable paper-based packaging, through its European subsidiary Bio4Pack. Announced on November 14, 2025, the deal combines TIPA's certified compostable technologies with Sealpap's sealable coated papers—used in sachets, rice packs, and airline wraps—to help global brands meet product needs, environmental targets, and stringent EU regulations. This move advances TIPA's mission to drive circular packaging innovation across Europe and North America.
 

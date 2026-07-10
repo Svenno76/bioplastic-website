@@ -1,17 +1,17 @@
 ---
-
-title: "Lubrizol Unveils 2025 Innovations"
+title: Lubrizol Unveils 2025 Innovations
 date: 2025-04-08
 draft: false
 sitemap:
   priority: 0.7
-summary: "Lubrizol has launched new readily biodegradable polymers"
-tags: ['Lubrizol', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "Lubrizol"
-company_type: "Additive Producer"
-source: "Business Wire"
+summary: Lubrizol has launched new readily biodegradable polymers
+tags: []
+category: Product Launch
+company: Lubrizol
+company_type: Additive Producer
+source: Business Wire
 ---
+
 
 Lubrizol, a global specialty chemistry leader, has unveiled a portfolio of sustainable polymer innovations designed to meet the beauty industry's growing demand for environmentally responsible solutions. The company's 2025 product launches represent a significant shift toward biodegradable alternatives that maintain high performance standards. These innovations address consumer preferences for natural, eco-conscious personal care products while supporting regulatory requirements for reduced environmental impact.
 

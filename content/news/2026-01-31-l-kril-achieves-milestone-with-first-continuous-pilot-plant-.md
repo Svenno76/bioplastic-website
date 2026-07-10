@@ -1,16 +1,23 @@
 ---
-title: "Låkril Achieves Milestone with First Continuous Pilot Plant for Bio-Acrylic Acid"
+title: Låkril Achieves Milestone with First Continuous Pilot Plant for Bio-Acrylic
+  Acid
 date: 2026-01-31
 draft: false
 sitemap:
   priority: 0.7
-summary: "Låkril Technologies has successfully commissioned its first continuous pilot plant for converting lactic acid into bio-acrylic acid, validating the scalability of its proprietary catalyst technology."
-tags: ["Låkril Technologies", "Bio-Acrylic Acid", "Lactic Acid", "Catalysts"]
-category: "Plant Announcement"
-company: ["Låkril Technologies"]
-company_type: ["Technology Company", "Bioplastic Producer"]
-source: "World Bio Market Insights"
+summary: Låkril Technologies has successfully commissioned its first continuous pilot
+  plant for converting lactic acid into bio-acrylic acid, validating the scalability
+  of its proprietary catalyst technology.
+tags: []
+category: Plant Announcement
+company:
+- Låkril Technologies
+company_type:
+- Technology Company
+- Bioplastic Producer
+source: World Bio Market Insights
 ---
+
 
 Låkril Technologies has announced the successful commissioning and operation of its first continuous pilot plant, marking a pivotal moment in the commercialization of bio-based acrylics. This development represents a significant leap from batch-level laboratory testing to continuous processing, a necessary requirement for industrial-scale chemical manufacturing.
 

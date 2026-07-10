@@ -1,17 +1,20 @@
 ---
-title: "Kaneka Corporation Expands PHBH Biopolymer Production with ¥12.4 Billion Investment"
+title: Kaneka Corporation Expands PHBH Biopolymer Production with ¥12.4 Billion Investment
 date: 2022-02-07
 draft: false
 sitemap:
   priority: 0.7
 noindex: true
-summary: "Kaneka Corporation has committed ¥12.4 billion in October 2025 to boost its PHBH biopolymer producti"
-tags: ["Kaneka Corporation"]
-category: "Investment & Funding"
-company: ["Kaneka Corporation"]
-company_type: "Bioplastic Producer"
-source: "openPR.com"
+summary: Kaneka Corporation has committed ¥12.4 billion in October 2025 to boost its
+  PHBH biopolymer producti
+tags: []
+category: Investment & Funding
+company:
+- Kaneka Corporation
+company_type: Bioplastic Producer
+source: openPR.com
 ---
+
 
 Kaneka Corporation, a Tokyo-based chemical giant specializing in innovative materials, announced in October 2025 a ¥12.4 billion investment to significantly expand production of its flagship PHBH biopolymer, known as KANEKA Biodegradable Polymer Green Planet™. Headquartered in Minato-ku, the company aims to meet surging global demand for sustainable alternatives amid marine plastic pollution concerns. This move builds on prior expansions at its Takasago Plant in Japan, reinforcing Kaneka's mission to deliver "Wellness First" solutions through biotechnology and polymer expertise.
 

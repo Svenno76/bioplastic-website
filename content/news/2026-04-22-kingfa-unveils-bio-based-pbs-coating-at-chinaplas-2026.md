@@ -1,17 +1,26 @@
 ---
-title: "Kingfa Unveils Bio-Based Home-Compostable PBS Coating at CHINAPLAS 2026"
+title: Kingfa Unveils Bio-Based Home-Compostable PBS Coating at CHINAPLAS 2026
 date: 2026-04-22
 draft: false
-summary: "At CHINAPLAS 2026 in Shanghai, Kingfa introduced an innovative bio-based and home-compostable PBS extrusion coating material for paper packaging, alongside recycled HDPE solutions — advancing both bio-based and circular economy material strategies."
-tags: ["Kingfa", "CHINAPLAS", "PBS", "Home Compostable", "Bio-based", "Paper Coating", "Recycling"]
-category: "Product Launch"
-company: ["Kingfa Sci. & Tech."]
-source: "PR Newswire"
-featured_image: "/images/news/kingfa-chinaplas-2026-1024.webp"
-image_type: "photo"
+summary: At CHINAPLAS 2026 in Shanghai, Kingfa introduced an innovative bio-based
+  and home-compostable PBS extrusion coating material for paper packaging, alongside
+  recycled HDPE solutions — advancing both bio-based and circular economy material
+  strategies.
+tags:
+- bio-based
+- chemical-recycling
+- compostable
+- pbs
+category: Product Launch
+company:
+- Kingfa Sci. & Tech.
+source: PR Newswire
+featured_image: /images/news/kingfa-chinaplas-2026-1024.webp
+image_type: photo
 sitemap:
   priority: 0.7
 ---
+
 
 ## Kingfa Showcases Innovation Under "Shape · Circular · Invent" Theme
 

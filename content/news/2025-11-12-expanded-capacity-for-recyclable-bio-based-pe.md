@@ -1,17 +1,18 @@
 ---
-
-title: "Expanded Capacity for Recyclable Bio-based PE"
+title: Expanded Capacity for Recyclable Bio-based PE
 date: 2025-11-12
 draft: false
 sitemap:
   priority: 0.7
-summary: "Braskem America has announced expanded production capacity for its 'I'm green' bio-based polyethylen"
-tags: ['Braskem', 'Plant Announcement', 'Manufacturing', 'Capacity']
-category: "Plant Announcement"
-company: "Braskem"
-company_type: "Bioplastic Producer"
-source: "Packaging World"
+summary: Braskem America has announced expanded production capacity for its 'I'm green'
+  bio-based polyethylen
+tags: []
+category: Plant Announcement
+company: Braskem
+company_type: Bioplastic Producer
+source: Packaging World
 ---
+
 
 askem America, a subsidiary of the world's leading biopolymer producer Braskem S.A., has announced a significant expansion of production capacity for its flagship **I'm green™ bio-based polyethylene (PE)**. This recyclable, sugarcane-derived resin, developed at the company's Triunfo Petrochemical Complex in Rio Grande do Sul, Brazil, now reaches **275,000 tons per year**—a 37% increase from the original 200,000 tons achieved through a US$61 million investment. The move supports Braskem's mission to drive a circular economy and carbon neutrality by 2050, capturing approximately **159,000 tons of CO₂ annually**, equivalent to the emissions of 12,000 U.S. citizens.
 

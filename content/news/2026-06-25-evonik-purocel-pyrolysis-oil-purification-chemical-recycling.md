@@ -1,17 +1,27 @@
 ---
-title: "Evonik Launches Purocel™ Series — Advanced Catalysts and Adsorbents to Purify Pyrolysis Oil for Chemical Recycling"
-date: 2026-06-25T10:00:00+02:00
+title: Evonik Launches Purocel™ Series — Advanced Catalysts and Adsorbents to Purify
+  Pyrolysis Oil for Chemical Recycling
+date: 2026-06-25 10:00:00+02:00
 draft: false
-summary: "Evonik introduces a comprehensive suite of Purocel™ adsorbents and hydrotreating catalysts that remove chlorides, metals, and heteroatoms from pyrolysis oil — enabling its use as cracker feedstock and accelerating chemical recycling scale-up."
-tags: ["Evonik", "pyrolysis oil", "chemical recycling", "Purocel", "catalysts", "adsorbents", "circular economy", "steam cracker", "feedstock purification"]
-category: "Technology"
-company: ["Evonik"]
-source: "Evonik Industries"
-source_url: "https://corporate.evonik.cn/en/media/news/evonik-advances-pyrolysis-oil-capability-with-launch-of-purocel-series-274240.html"
-featured_image: "https://images.unsplash.com/photo-1581092334573-2d8a9a5e4b1a?w=1024&q=80"
+summary: Evonik introduces a comprehensive suite of Purocel™ adsorbents and hydrotreating
+  catalysts that remove chlorides, metals, and heteroatoms from pyrolysis oil — enabling
+  its use as cracker feedstock and accelerating chemical recycling scale-up.
+tags:
+- bioplastics
+- chemical-recycling
+- circular-economy
+- feedstock
+- pyrolysis
+category: Technology
+company:
+- Evonik
+source: Evonik Industries
+source_url: https://corporate.evonik.cn/en/media/news/evonik-advances-pyrolysis-oil-capability-with-launch-of-purocel-series-274240.html
+featured_image: https://images.unsplash.com/photo-1581092334573-2d8a9a5e4b1a?w=1024&q=80
 sitemap:
   priority: 0.7
 ---
+
 
 **Essen, June 10, 2026** — Evonik Industries has launched the **Purocel™ series**, a comprehensive portfolio of specialized adsorbents and hydrotreating catalysts designed to purify pyrolysis oil derived from mixed plastic waste. The new product line addresses the single greatest technical barrier to scaling chemical recycling: converting heterogeneous, contaminated pyrolysis oil into a consistent, high-quality feedstock suitable for steam crackers.
 

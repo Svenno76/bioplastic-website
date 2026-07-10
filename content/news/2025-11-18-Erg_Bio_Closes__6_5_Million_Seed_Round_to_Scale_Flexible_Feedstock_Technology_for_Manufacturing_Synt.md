@@ -1,19 +1,23 @@
 ---
-
-title: "Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology for Manufacturing Synthetic Aviation Fuels and Critical Chemicals"
+title: Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology
+  for Manufacturing Synthetic Aviation Fuels and Critical Chemicals
 date: 2025-11-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "Erg Bio has successfully secured $6.5 million in a seed funding round to accelerate the scale-up of its Aspire™ Technology, which converts agricultural and forestry wastes into sustainable aviation fuels and vital bio-based chemicals."
-tags: ["Erg Bio", "Biomass Valorization", "Sustainable Aviation Fuels", "Bio-Based Chemicals", "Seed Funding", "Aspire Technology"]
-category: "Investment & Funding"
-company: "Erg Bio"
-company_type: "Technology Company"
-source: "Erg Bio"
-contact: "Vineet Rajgarhia"
-
+summary: Erg Bio has successfully secured $6.5 million in a seed funding round to
+  accelerate the scale-up of its Aspire™ Technology, which converts agricultural and
+  forestry wastes into sustainable aviation fuels and vital bio-based chemicals.
+tags:
+- bio-based
+- bioplastics
+category: Investment & Funding
+company: Erg Bio
+company_type: Technology Company
+source: Erg Bio
+contact: Vineet Rajgarhia
 ---
+
 
 Erg Bio, an innovator in biomass valorization and advanced bioindustrial technology, announced on November 18, 2025, the successful closure of a $6.5 million seed funding round. This significant investment was led by Azolla Ventures, with additional participation from Chevron Technology Ventures, Freeflow, Plug and Play, and strategic angel investors. The capital infusion is earmarked for scaling Erg Bio’s proprietary Aspire™ Technology.
 

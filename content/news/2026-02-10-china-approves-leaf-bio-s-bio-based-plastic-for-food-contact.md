@@ -1,16 +1,21 @@
 ---
-title: "China Approves Leaf Bio’s Bio-Based Plastic for Food Contact"
+title: China Approves Leaf Bio’s Bio-Based Plastic for Food Contact
 date: 2026-02-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "Leaf Bio has secured regulatory approval in China for its Polyethylene Furanoate (PEF) material, authorizing its use in direct food contact packaging applications."
-tags: ["Leaf Bio", "PEF", "Food Contact Approval"]
-category: "Regulatory & Policy"
-company: ["Leaf Bio"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "World Bio Market Insights"
+summary: Leaf Bio has secured regulatory approval in China for its Polyethylene Furanoate
+  (PEF) material, authorizing its use in direct food contact packaging applications.
+tags: []
+category: Regulatory & Policy
+company:
+- Leaf Bio
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 Leaf Bio has announced a pivotal regulatory milestone, securing official approval from Chinese authorities to market its bio-based Polyethylene Furanoate (PEF) for food contact applications. This certification grants the company access to the world’s largest consumer packaging market, marking a significant step forward for the adoption of high-performance biopolymers in Asia.
 

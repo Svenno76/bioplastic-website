@@ -1,16 +1,22 @@
 ---
-title: "Breakthrough in Milk-Based Bioplastic Film"
+title: Breakthrough in Milk-Based Bioplastic Film
 date: 2026-02-28
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers at Flinders University have developed a new biodegradable packaging film derived from waste milk proteins designed to replace single-use fossil plastics."
-tags: ["Flinders University", "Casein", "Food Packaging", "Biopolymers"]
-category: "Product Launch"
-company: ["Flinders University"]
-company_type: ["University"]
-source: "ScienceDaily"
+summary: Researchers at Flinders University have developed a new biodegradable packaging
+  film derived from waste milk proteins designed to replace single-use fossil plastics.
+tags:
+- bioplastics
+- food-contact
+category: Product Launch
+company:
+- Flinders University
+company_type:
+- University
+source: ScienceDaily
 ---
+
 
 Scientists at Flinders University in Australia have unveiled a significant advancement in the fight against plastic pollution, developing a new bioplastic film derived principally from milk proteins. Announced on February 28, 2026, this innovation utilizes casein—a protein found in milk—to create a material capable of replacing single-use petroleum-based plastics in food packaging applications.
 

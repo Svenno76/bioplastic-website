@@ -1,16 +1,21 @@
 ---
-title: "From Air to Plastics: Norsk e-Fuel and Braskem Partner to Turn Captured Carbon into Long-Lasting Products"
+title: 'From Air to Plastics: Norsk e-Fuel and Braskem Partner to Turn Captured Carbon
+  into Long-Lasting Products'
 date: 2023-12-06
 draft: false
 sitemap:
   priority: 0.7
-summary: "Braskem and Norsk e-Fuel have formed a strategic partnership to explore integrating e-Naphtha"
-tags: ["Braskem", "Norsk e-Fuel"]
-category: "Partnerships"
-company: ["Braskem", "Norsk e-Fuel"]
-company_type: "Bioplastic Producer"
-source: "Braskem"
+summary: Braskem and Norsk e-Fuel have formed a strategic partnership to explore integrating
+  e-Naphtha
+tags: []
+category: Partnerships
+company:
+- Braskem
+- Norsk e-Fuel
+company_type: Bioplastic Producer
+source: Braskem
 ---
+
 
 Braskem, a global leader in polymers and biopolymers, has partnered with Norsk e-Fuel, a pioneer in Power-to-Liquid (PtL) technology, to integrate e-Naphtha—produced from fossil-free electricity, water, and captured CO₂—into the plastics value chain. Announced recently, this strategic collaboration aims to create long-lasting, recyclable plastics from carbon that would otherwise enter the atmosphere, aligning with both companies' circular economy goals. Norsk e-Fuel, founded in 2019 to advance sustainable aviation fuels, plans three industrial plants by 2032.
 

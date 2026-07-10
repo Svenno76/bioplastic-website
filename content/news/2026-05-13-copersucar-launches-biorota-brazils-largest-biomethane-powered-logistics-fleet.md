@@ -1,17 +1,22 @@
 ---
-title: "Copersucar Launches BioRota: Brazil's Largest Biomethane-Powered Logistics Fleet"
+title: 'Copersucar Launches BioRota: Brazil''s Largest Biomethane-Powered Logistics
+  Fleet'
 date: 2026-05-13
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/copersucar-biorota-trucks.jpg"
-summary: "Copersucar, one of the world's largest sugar and ethanol traders, has launched BioRota — Brazil's largest sustainable logistics fleet, powered by biomethane."
-tags: ["Biomethane", "Logistics", "Brazil", "Sugarcane", "Fleet", "CO₂ Reduction"]
-category: "Plant Announcement"
-company: "Copersucar"
-source: "copersucar.com.br"
-source_url: "https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m"
+featured_image: /images/news/copersucar-biorota-trucks.jpg
+summary: Copersucar, one of the world's largest sugar and ethanol traders, has launched
+  BioRota — Brazil's largest sustainable logistics fleet, powered by biomethane.
+tags:
+- bioplastics
+- sugarcane
+category: Plant Announcement
+company: Copersucar
+source: copersucar.com.br
+source_url: https://www.copersucar.com.br/copersucar-apresenta-biorota-maior-operacao-de-logistica-sustentavel-m
 ---
+
 
 Copersucar, one of the world's largest sugar and ethanol traders, has launched BioRota — Brazil's largest sustainable logistics fleet, powered by biomethane.
 

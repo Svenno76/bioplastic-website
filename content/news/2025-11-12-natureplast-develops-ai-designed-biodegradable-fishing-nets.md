@@ -1,17 +1,19 @@
 ---
-
-title: "NaturePlast Develops AI-Designed Biodegradable Fishing Nets"
+title: NaturePlast Develops AI-Designed Biodegradable Fishing Nets
 date: 2025-11-12
 draft: false
 sitemap:
   priority: 0.7
-summary: "NaturePlast announced new-generation bioplastic formulations for technical filaments in fishing and construction nets, leveraging artificial intelligence to optimize performance characteristics for demanding applications."
-tags: ['NaturePlast', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "NaturePlast"
-company_type: "Bioplastic Producer"
-source: "Perplexity Rev2"
+summary: NaturePlast announced new-generation bioplastic formulations for technical
+  filaments in fishing and construction nets, leveraging artificial intelligence to
+  optimize performance characteristics for demanding applications.
+tags: []
+category: Product Launch
+company: NaturePlast
+company_type: Bioplastic Producer
+source: Perplexity Rev2
 ---
+
 
 NaturePlast, a French leader in bio-based and biodegradable plastics based in Caen, has announced the development of new-generation bioplastic formulations for technical filaments used in fishing and construction nets. Leveraging artificial intelligence through the EU-funded DiMAT project, the company aims to optimize the performance characteristics of these materials to meet the demanding requirements of these sectors. This innovation was revealed in November 2025, highlighting NaturePlast’s commitment to sustainability and digital transformation in traditional industries.
 

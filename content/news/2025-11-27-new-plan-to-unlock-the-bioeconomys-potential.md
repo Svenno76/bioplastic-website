@@ -1,16 +1,16 @@
 ---
-
-title: "New plan to unlock the bioeconomy's potential"
+title: New plan to unlock the bioeconomy's potential
 date: 2025-11-27
 draft: false
 sitemap:
   priority: 0.7
-summary: "The European Commission has adopted a new Bioeconomy Strategy"
-tags: ['European Commission', 'Regulatory & Policy']
-category: "Regulatory & Policy"
-company: "European Commission"
-source: "European Commission Newsroom"
+summary: The European Commission has adopted a new Bioeconomy Strategy
+tags: []
+category: Regulatory & Policy
+company: European Commission
+source: European Commission Newsroom
 ---
+
 
 The European Commission adopted a new Bioeconomy Strategy on November 27, 2025, in Brussels, to unlock the sector's potential amid Europe's push for sustainability and competitiveness. Building on the 2012 strategy and its 2018 update, it shifts focus from research to industrial deployment, market scale-up, and resilience against fossil fuel dependency, responding to 2023-2024 Council conclusions and the 2024-2029 strategic agenda.
 

@@ -1,16 +1,20 @@
 ---
-title: "EU Updates Single-Use Plastic Regulations for 2025"
+title: EU Updates Single-Use Plastic Regulations for 2025
 date: 2025-08-05
 draft: false
-summary: "The European Union introduces stricter regulations on single-use plastics, creating new opportunities for bioplastic alternatives."
-tags: ["European Commission", "single-use plastics", "SUP directive", "regulatory policy", "bioplastics opportunity"]
-category: "Regulatory & Policy"
-company: ["European Commission"]
-company_type: "Government Body"
-featured_image: "/images/news/eu-single-use-plastic-regulation-2025.jpg"
+summary: The European Union introduces stricter regulations on single-use plastics,
+  creating new opportunities for bioplastic alternatives.
+tags:
+- bioplastics
+category: Regulatory & Policy
+company:
+- European Commission
+company_type: Government Body
+featured_image: /images/news/eu-single-use-plastic-regulation-2025.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ![EU Single-Use Plastic Directive 2025 regulatory update](/images/news/eu-single-use-plastic-regulation-2025.jpg)
 

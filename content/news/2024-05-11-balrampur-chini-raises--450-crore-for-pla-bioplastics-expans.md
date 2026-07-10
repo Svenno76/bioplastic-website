@@ -1,18 +1,21 @@
 ---
-
-title: "Balrampur Chini Raises ₹450 Crore for PLA Bioplastics Expansion"
+title: Balrampur Chini Raises ₹450 Crore for PLA Bioplastics Expansion
 date: 2024-05-11
 draft: false
 sitemap:
   priority: 0.7
-summary: "Balrampur Chini Mills Ltd has secured ₹450 crore to expand its Polylactic Acid (PLA) bioplastics production and invest in a new lactogypsum processing facility."
-tags: ["Balrampur Chini Mills Ltd", "PLA", "Lactogypsum"]
-category: "Investment & Funding"
-company: ["Balrampur Chini Mills Ltd"]
-company_type: ["Bioplastic Producer"]
-source: "ChiniMandi"
-
+summary: Balrampur Chini Mills Ltd has secured ₹450 crore to expand its Polylactic
+  Acid (PLA) bioplastics production and invest in a new lactogypsum processing facility.
+tags:
+- pla
+category: Investment & Funding
+company:
+- Balrampur Chini Mills Ltd
+company_type:
+- Bioplastic Producer
+source: ChiniMandi
 ---
+
 
 ## Strategic Capital for PLA Expansion
 

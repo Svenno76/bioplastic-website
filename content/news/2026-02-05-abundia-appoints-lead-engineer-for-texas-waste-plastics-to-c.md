@@ -1,16 +1,24 @@
 ---
-title: "Abundia Appoints Lead Engineer for Texas Waste Plastics-to-Chemicals Facility"
+title: Abundia Appoints Lead Engineer for Texas Waste Plastics-to-Chemicals Facility
 date: 2026-02-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Abundia Global Impact Group has selected Burns & McDonnell to provide front-end engineering design services for its new waste-to-value facility in Texas."
-tags: ["Abundia Global Impact Group", "Burns & McDonnell", "Chemical Recycling"]
-category: "Partnerships"
-company: ["Abundia Global Impact Group", "Burns & McDonnell"]
-company_type: ["Recycler", "Consulting"]
-source: "Advanced BioFuels USA"
+summary: Abundia Global Impact Group has selected Burns & McDonnell to provide front-end
+  engineering design services for its new waste-to-value facility in Texas.
+tags:
+- bioplastics
+- chemical-recycling
+category: Partnerships
+company:
+- Abundia Global Impact Group
+- Burns & McDonnell
+company_type:
+- Recycler
+- Consulting
+source: Advanced BioFuels USA
 ---
+
 
 Abundia Global Impact Group has taken a decisive step toward the commercialization of its advanced recycling infrastructure by appointing Burns & McDonnell to lead the Front-End Engineering Design (FEED) for its new facility in Texas. The project focuses on converting mixed waste plastics into high-value chemical feedstocks and fuels, addressing critical gaps in current waste management systems.
 

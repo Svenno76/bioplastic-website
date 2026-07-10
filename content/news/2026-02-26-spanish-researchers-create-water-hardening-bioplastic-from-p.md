@@ -1,16 +1,21 @@
 ---
-title: "Spanish Researchers Create Water-Hardening Bioplastic from Prawn Shells"
+title: Spanish Researchers Create Water-Hardening Bioplastic from Prawn Shells
 date: 2026-02-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers at IBEC have developed a chitosan-based bioplastic derived from crustacean waste that significantly increases its mechanical strength upon exposure to water."
-tags: ["Chitosan", "Institute for Bioengineering of Catalonia (IBEC)", "Biomaterials"]
-category: "Product Launch"
-company: ["Institute for Bioengineering of Catalonia (IBEC)"]
-company_type: ["Research Institute"]
-source: "Beacon Wales"
+summary: Researchers at IBEC have developed a chitosan-based bioplastic derived from
+  crustacean waste that significantly increases its mechanical strength upon exposure
+  to water.
+tags: []
+category: Product Launch
+company:
+- Institute for Bioengineering of Catalonia (IBEC)
+company_type:
+- Research Institute
+source: Beacon Wales
 ---
+
 
 Researchers at the **Institute for Bioengineering of Catalonia (IBEC)** have unveiled a breakthrough in biopolymer science, developing a new material derived from prawn shells that defies the traditional weaknesses of biodegradable plastics. While most biological materials degrade or lose structural integrity when exposed to moisture, this novel organic polymer actually increases its mechanical strength when wet.
 

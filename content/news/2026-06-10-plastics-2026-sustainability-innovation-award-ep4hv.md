@@ -1,17 +1,23 @@
 ---
-title: "PLASTICS Announces 2026 Plastic Sustainability Innovation Award Winners — e-P4HV Expands Bioplastics Capabilities"
+title: PLASTICS Announces 2026 Plastic Sustainability Innovation Award Winners — e-P4HV
+  Expands Bioplastics Capabilities
 date: 2026-06-10
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/plastics-award-ep4hv.jpg"
-summary: "The PLASTICS Industry Association has announced the winners of its 2026 Innovation in Bioplastics Award competition. e-P4HV was recognized for combining high performance with designed biodegradability and a new electricity-driven pathway from biomass."
-tags: ["Innovation Award", "PLASTICS", "e-P4HV", "Biodegradable", "High-Performance", "Biomass"]
-category: "Industry Event"
-company: "PLASTICS Industry Association"
-source: "plasticsindustry.org"
-source_url: "https://www.plasticsindustry.org/newsroom/plastics-announces-2026-plastic-sustainability-innovation-award-winners/"
+featured_image: /images/news/plastics-award-ep4hv.jpg
+summary: The PLASTICS Industry Association has announced the winners of its 2026 Innovation
+  in Bioplastics Award competition. e-P4HV was recognized for combining high performance
+  with designed biodegradability and a new electricity-driven pathway from biomass.
+tags:
+- biodegradable
+- bioplastics
+category: Industry Event
+company: PLASTICS Industry Association
+source: plasticsindustry.org
+source_url: https://www.plasticsindustry.org/newsroom/plastics-announces-2026-plastic-sustainability-innovation-award-winners/
 ---
+
 
 The PLASTICS Industry Association has announced the winners of its 2026 Plastic Sustainability Innovation Award competition, recognizing breakthrough technologies that advance the sustainability of plastics.
 

@@ -1,18 +1,24 @@
 ---
-
-title: "Octarine Bio Secures €5M to Scale Bio-Based Pigments"
+title: Octarine Bio Secures €5M to Scale Bio-Based Pigments
 date: 2026-01-27
 draft: false
 sitemap:
   priority: 0.7
-summary: "Octarine Bio raises €5 million to accelerate the industrial scaling of its precision-fermented, non-toxic pigment platform for sustainable material applications."
-tags: ["Octarine Bio", "Bio-Based Pigments", "Precision Fermentation"]
-category: "Investment & Funding"
-company: ["Octarine Bio"]
-company_type: ["Additive Producer", "Technology Company"]
-source: "World Bio Market Insights"
-
+summary: Octarine Bio raises €5 million to accelerate the industrial scaling of its
+  precision-fermented, non-toxic pigment platform for sustainable material applications.
+tags:
+- bio-based
+- bioplastics
+- fermentation
+category: Investment & Funding
+company:
+- Octarine Bio
+company_type:
+- Additive Producer
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 Copenhagen-based synthetic biology innovator Octarine Bio has successfully closed a €5 million funding round aimed at accelerating the commercial scaling of its proprietary bio-based pigment platform. This capital injection marks a critical step in the company’s mission to replace petrochemical-derived dyes and colorants with safe, sustainable alternatives derived through precision fermentation.
 

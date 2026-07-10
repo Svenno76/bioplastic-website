@@ -1,16 +1,23 @@
 ---
-title: "Gov. Spanberger and Homegrown Innovator AgroSpheres Celebrate Launch of New Biomanufacturing Facility"
+title: Gov. Spanberger and Homegrown Innovator AgroSpheres Celebrate Launch of New
+  Biomanufacturing Facility
 date: 2026-04-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "AgroSpheres, joined by Virginia Governor Abigail Spanberger, has officially opened a state-of-the-art biomanufacturing facility to scale its biodegradable, biopolymer-based delivery systems for crop protection."
-tags: ["AgroSpheres", "Biomanufacturing", "AgriCell", "Biopolymers", "Crop Protection"]
-category: "Plant Announcement"
-company: ["AgroSpheres"]
-company_type: ["Technology Company"]
-source: "AgroSpheres"
+summary: AgroSpheres, joined by Virginia Governor Abigail Spanberger, has officially
+  opened a state-of-the-art biomanufacturing facility to scale its biodegradable,
+  biopolymer-based delivery systems for crop protection.
+tags:
+- bioplastics
+category: Plant Announcement
+company:
+- AgroSpheres
+company_type:
+- Technology Company
+source: AgroSpheres
 ---
+
 
 ## A New Era for Agricultural Biomanufacturing
 

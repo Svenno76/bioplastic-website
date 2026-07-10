@@ -1,16 +1,22 @@
 ---
-title: "SUSMATA Introduces 'NOTPLAST' Bio-Based Plastic Substitute"
+title: SUSMATA Introduces 'NOTPLAST' Bio-Based Plastic Substitute
 date: 2026-02-02
 draft: false
 sitemap:
   priority: 0.7
-summary: "SUSMATA launches NOTPLAST, a fully bio-based and biodegradable material alternative designed to eliminate microplastic pollution in packaging and industrial applications."
-tags: ["SUSMATA", "NOTPLAST", "Biodegradable Polymers"]
-category: "Product Launch"
-company: ["SUSMATA"]
-company_type: ["Bioplastic Producer"]
-source: "World Bio Market Insights"
+summary: SUSMATA launches NOTPLAST, a fully bio-based and biodegradable material alternative
+  designed to eliminate microplastic pollution in packaging and industrial applications.
+tags:
+- biodegradable
+- bioplastics
+category: Product Launch
+company:
+- SUSMATA
+company_type:
+- Bioplastic Producer
+source: World Bio Market Insights
 ---
+
 
 ## A New Era for Plastic-Free Materials
 

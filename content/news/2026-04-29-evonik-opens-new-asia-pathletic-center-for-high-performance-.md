@@ -1,16 +1,21 @@
 ---
-title: "Evonik Opens New Asia PAthletic Center for High-Performance Polyamides"
+title: Evonik Opens New Asia PAthletic Center for High-Performance Polyamides
 date: 2026-04-29
 draft: false
 sitemap:
   priority: 0.7
-summary: "Evonik has officially launched its new Asia PAthletic Center in Shanghai to accelerate the development of high-performance, bio-based polyamide solutions for the sports and consumer goods sectors."
-tags: ["Evonik", "Polyamide", "Biopolyamide", "Sports Equipment"]
-category: "Plant Announcement"
-company: ["Evonik"]
-company_type: ["Bioplastic Producer"]
-source: "ALCHEMPro"
+summary: Evonik has officially launched its new Asia PAthletic Center in Shanghai
+  to accelerate the development of high-performance, bio-based polyamide solutions
+  for the sports and consumer goods sectors.
+tags: []
+category: Plant Announcement
+company:
+- Evonik
+company_type:
+- Bioplastic Producer
+source: ALCHEMPro
 ---
+
 
 ## Strategic Expansion in Asia
 

@@ -1,17 +1,24 @@
 ---
-title: "Radici Group launches Bionside bio-based nylons at Fakuma"
+title: Radici Group launches Bionside bio-based nylons at Fakuma
 date: 2024-10-27
 draft: false
-summary: "Radici Group launched Bionside, new line of bio-based nylon resins at Fakuma 2024 trade show, expanding sustainable engineering plastics portfolio for automotive and industrial applications."
-tags: ["Radici Group", "Bionside", "bio-based nylon", "Fakuma 2024", "engineering plastics", "automotive"]
-category: "Product Launch"
-company: ["Radici Group"]
-company_type: "Compounder"
-source: "Gemini search"
-featured_image: "/images/news/radici-bionside-bio-nylon-fakuma.jpg"
+summary: Radici Group launched Bionside, new line of bio-based nylon resins at Fakuma
+  2024 trade show, expanding sustainable engineering plastics portfolio for automotive
+  and industrial applications.
+tags:
+- automotive
+- bio-based
+- bio-pp
+category: Product Launch
+company:
+- Radici Group
+company_type: Compounder
+source: Gemini search
+featured_image: /images/news/radici-bionside-bio-nylon-fakuma.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ![Radici Group Bionside bio-based nylon at Fakuma 2024](/images/news/radici-bionside-bio-nylon-fakuma.jpg)
 

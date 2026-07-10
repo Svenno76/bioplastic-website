@@ -1,16 +1,24 @@
 ---
-title: "Mizuno Installs Kaneka PHA-Based Artificial Turf at Vantelin Dome Nagoya"
+title: Mizuno Installs Kaneka PHA-Based Artificial Turf at Vantelin Dome Nagoya
 date: 2026-02-09
 draft: false
 sitemap:
   priority: 0.7
-summary: "Mizuno Corporation has completed the installation of artificial turf utilizing Kaneka's Green Planet PHA biopolymer at Vantelin Dome Nagoya to mitigate microplastic pollution."
-tags: ["PHA", "Green Planet", "Artificial Turf", "Marine Biodegradable"]
-category: "Product Launch"
-company: ["Kaneka Corporation", "Mizuno Corporation"]
-company_type: ["Bioplastic Producer"]
-source: "Kaneka"
+summary: Mizuno Corporation has completed the installation of artificial turf utilizing
+  Kaneka's Green Planet PHA biopolymer at Vantelin Dome Nagoya to mitigate microplastic
+  pollution.
+tags:
+- biodegradable
+- pha
+category: Product Launch
+company:
+- Kaneka Corporation
+- Mizuno Corporation
+company_type:
+- Bioplastic Producer
+source: Kaneka
 ---
+
 
 Mizuno Corporation has successfully renovated the playing surface of the Vantelin Dome Nagoya using a next-generation artificial turf system incorporating Kaneka Biodegradable Polymer Green Planet™. This installation marks a significant milestone in the adoption of polyhydroxyalkanoate (PHA) materials within professional sports infrastructure, addressing growing concerns regarding microplastic leakage from stadiums.
 

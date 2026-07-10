@@ -1,16 +1,24 @@
 ---
-title: "Poonawalla Group Invests in Regeno for Biodegradable Packaging"
+title: Poonawalla Group Invests in Regeno for Biodegradable Packaging
 date: 2026-01-29
 draft: false
 sitemap:
   priority: 0.7
-summary: "The Poonawalla Group has strategically invested in Regeno to accelerate the production of biodegradable, non-toxic alternatives to single-use plastics."
-tags: ["Poonawalla Group", "Regeno", "Biodegradable Packaging", "Compostable Films"]
-category: "Investment & Funding"
-company: ["Poonawalla Group", "Regeno"]
-company_type: ["Bioplastic Producer"]
-source: "ET Edge Insights"
+summary: The Poonawalla Group has strategically invested in Regeno to accelerate the
+  production of biodegradable, non-toxic alternatives to single-use plastics.
+tags:
+- compostable
+- packaging
+- pbat
+category: Investment & Funding
+company:
+- Poonawalla Group
+- Regeno
+company_type:
+- Bioplastic Producer
+source: ET Edge Insights
 ---
+
 
 Yohan and Michelle Poonawalla of the Poonawalla Group have announced a strategic investment in Regeno, a company specializing in 100% biodegradable and compostable packaging solutions. This move marks a significant entry by the prominent business family into the sustainable materials sector, aiming to address the global crisis of single-use plastic pollution through scalable, bio-based alternatives.
 

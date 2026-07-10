@@ -1,17 +1,21 @@
 ---
-title: "Uluu raises $10.5M to scale seaweed bioplastics"
+title: Uluu raises $10.5M to scale seaweed bioplastics
 date: 2024-11-02
 draft: false
 sitemap:
   priority: 0.7
 noindex: true
-summary: "Australian firm Uluu secured A$16 million ($10.5 million) in funding to develop demonstration facility and scale technology for producing PHA bioplastics from seaweed as petroleum alternative."
-tags: ["Uluu"]
-category: "Investment & Funding"
-company: ["Uluu"]
-company_type: "Bioplastic Producer"
-source: "Gemini search"
+summary: Australian firm Uluu secured A$16 million ($10.5 million) in funding to develop
+  demonstration facility and scale technology for producing PHA bioplastics from seaweed
+  as petroleum alternative.
+tags: []
+category: Investment & Funding
+company:
+- Uluu
+company_type: Bioplastic Producer
+source: Gemini search
 ---
+
 
 Australian bioplastics startup Uluu has raised A$16 million (US$10.5 million) in Series A funding to build a demonstration facility and scale its innovative technology for producing PHA bioplastics from seaweed. The Perth-based company aims to provide a sustainable, fossil-free alternative to petroleum-based plastics, targeting industries from packaging to automotive and fashion.
 

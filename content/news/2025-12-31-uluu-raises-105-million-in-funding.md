@@ -1,16 +1,18 @@
 ---
-title: "Uluu raises $10.5 million in funding"
+title: Uluu raises $10.5 million in funding
 date: 2025-12-31
 draft: false
 sitemap:
   priority: 0.7
-summary: "Uluu raised $10.5 million to expand seaweed biopolymer production and development."
-tags: ["Uluu"]
-category: "Investment & Funding"
-company: ["Uluu"]
-company_type: "Bioplastic Producer"
-source: "Perplexity Rev2"
+summary: Uluu raised $10.5 million to expand seaweed biopolymer production and development.
+tags: []
+category: Investment & Funding
+company:
+- Uluu
+company_type: Bioplastic Producer
+source: Perplexity Rev2
 ---
+
 
 Australian seaweed bioplastics startup **Uluu** has secured AU$16 million (US$10.5 million) in Series A funding to accelerate its mission of replacing fossil-fuel-based plastics with sustainable alternatives. Founded in 2021 by co-CEOs Dr. Julia Reisser and Michael Kingsbury, the Perth-based company uses fermentation technology to transform farmed seaweed into polyhydroxyalkanoates (PHAs)—biodegradable polymers that perform like conventional plastics.
 

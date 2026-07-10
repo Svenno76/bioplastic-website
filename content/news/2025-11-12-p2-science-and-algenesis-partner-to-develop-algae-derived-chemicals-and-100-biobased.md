@@ -1,19 +1,19 @@
 ---
-
-
-title: "P2 Science and Algenesis Partner to Develop Algae-Derived Chemicals and 100% Biobased"
+title: P2 Science and Algenesis Partner to Develop Algae-Derived Chemicals and 100%
+  Biobased
 date: 2025-11-12
 draft: false
 sitemap:
   priority: 0.7
-summary: "P2 Science and Algenesis Corporation have formed a strategic partnership to develop and commercializ"
-tags: ["P2 Science", "Partnership", "Collaboration"]
-category: "Partnerships"
-company: "P2 Science"
-company_type: "Technology Company"
-source: "P2 Science Inc."
-
+summary: P2 Science and Algenesis Corporation have formed a strategic partnership
+  to develop and commercializ
+tags: []
+category: Partnerships
+company: P2 Science
+company_type: Technology Company
+source: P2 Science Inc.
 ---
+
 
 P2 Science, Inc., a pioneer in green chemistry and sustainable materials based in Woodbridge, Connecticut, has partnered with Algenesis Corporation, a San Diego-based leader in bio-based polyurethanes, to develop and commercialize 100% biobased, biodegradable polyurethane materials. Announced in November 2025, this strategic collaboration combines two complementary technological platforms to create high-performance alternatives to petroleum-based polymers, addressing growing demand for sustainable solutions across multiple industries.
 

@@ -1,18 +1,24 @@
 ---
-
-title: "Novonesis Acquires Thailand Facility to Expand Bio-Based Production"
+title: Novonesis Acquires Thailand Facility to Expand Bio-Based Production
 date: 2026-04-08
 draft: false
 sitemap:
   priority: 0.7
-summary: "Novonesis has acquired a manufacturing facility in Thailand to scale up its regional production of enzymes and biological solutions for the bio-based materials sector."
-tags: ["Novonesis", "Enzymes", "Fermentation", "Bio-Based Polymers"]
-category: "M&A"
-company: ["Novonesis"]
-company_type: ["Technology Company"]
-source: "World Bio Market Insights"
-
+summary: Novonesis has acquired a manufacturing facility in Thailand to scale up its
+  regional production of enzymes and biological solutions for the bio-based materials
+  sector.
+tags:
+- bio-based
+- bioplastics
+- fermentation
+category: M&A
+company:
+- Novonesis
+company_type:
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 Global biosolutions giant Novonesis has officially expanded its manufacturing footprint in Southeast Asia by acquiring a specialized production facility in Thailand. The strategic acquisition is designed to rapidly scale the company's output of bio-based solutions, specifically targeting the growing demand for enzymes and microbial technologies that are essential to the biochemical and bioplastics sectors in the Asia-Pacific (APAC) region.
 

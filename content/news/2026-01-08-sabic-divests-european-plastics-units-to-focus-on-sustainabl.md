@@ -1,16 +1,20 @@
 ---
-title: "SABIC Divests European Plastics Units to Focus on Sustainable Portfolio"
+title: SABIC Divests European Plastics Units to Focus on Sustainable Portfolio
 date: 2026-01-08
 draft: false
 sitemap:
   priority: 0.7
-summary: "SABIC has announced a strategic divestment of its traditional European plastics units to accelerate its transition toward a high-growth, bio-based, and circular product portfolio."
-tags: ["SABIC"]
-category: "M&A"
-company: ["SABIC"]
-company_type: "Bioplastic Producer"
-source: "Eco Plastics in Packaging"
+summary: SABIC has announced a strategic divestment of its traditional European plastics
+  units to accelerate its transition toward a high-growth, bio-based, and circular
+  product portfolio.
+tags: []
+category: M&A
+company:
+- SABIC
+company_type: Bioplastic Producer
+source: Eco Plastics in Packaging
 ---
+
 
 In a move that signals a profound shift in the global petrochemical landscape, SABIC has officially announced the divestment of several key European plastics manufacturing units. This strategic realignment, effective early 2026, marks the company’s decisive pivot away from traditional, fossil-fuel-dependent commodity plastics toward a specialized portfolio centered on sustainability and circularity.
 

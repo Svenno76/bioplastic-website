@@ -1,18 +1,20 @@
 ---
-
-title: "Covestro Opens New TPU Production Site in Zhuhai"
+title: Covestro Opens New TPU Production Site in Zhuhai
 date: 2026-01-22
 draft: false
 sitemap:
   priority: 0.7
-summary: "Covestro expands its Asian footprint with a new manufacturing facility in Zhuhai dedicated to high-performance and sustainable thermoplastic polyurethanes."
-tags: ["Covestro", "TPU"]
-category: "Plant Announcement"
-company: ["Covestro"]
-company_type: ["Bioplastic Producer"]
-source: "Plasticker"
-
+summary: Covestro expands its Asian footprint with a new manufacturing facility in
+  Zhuhai dedicated to high-performance and sustainable thermoplastic polyurethanes.
+tags: []
+category: Plant Announcement
+company:
+- Covestro
+company_type:
+- Bioplastic Producer
+source: Plasticker
 ---
+
 
 Covestro has officially inaugurated its new Thermoplastic Polyurethanes (TPU) production site in Zhuhai, South China. This significant expansion creates the company’s largest TPU production site worldwide, reinforcing its commitment to the Asia-Pacific region. The facility is strategically positioned to serve the booming manufacturing hubs of the Greater Bay Area, specifically targeting the IT, consumer electronics, and footwear industries.
 

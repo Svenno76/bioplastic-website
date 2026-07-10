@@ -1,17 +1,19 @@
 ---
-
-title: "Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology for Manufacturing Synthetic Aviation Fuels and Critical Chemicals"
+title: Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology
+  for Manufacturing Synthetic Aviation Fuels and Critical Chemicals
 date: 2025-11-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "Erg Bio has successfully secured $6.5 million in a seed funding round to accelerate the scale-up of "
-tags: ['Erg Bio', 'investment-&-funding', 'Investment', 'Funding']
-category: "Investment & Funding"
-company: "Erg Bio"
-company_type: "Technology Company"
-source: "Erg Bio"
+summary: 'Erg Bio has successfully secured $6.5 million in a seed funding round to
+  accelerate the scale-up of '
+tags: []
+category: Investment & Funding
+company: Erg Bio
+company_type: Technology Company
+source: Erg Bio
 ---
+
 
 **Erg Bio**, a California-based biomanufacturing startup, has closed a **$6.5 million seed round** to advance its innovative Aspire™ technology platform for producing synthetic aviation fuels and bio-based chemicals from waste biomass. The funding, announced in November 2025, positions the company to accelerate commercialization of its flexible feedstock technology at a critical time for U.S. energy security and industrial resilience.
 

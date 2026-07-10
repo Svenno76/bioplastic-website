@@ -1,16 +1,22 @@
 ---
-title: "Syclus Pushes Bioethylene Plant Launch to 2030"
+title: Syclus Pushes Bioethylene Plant Launch to 2030
 date: 2026-02-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "Syclus has announced a significant delay to its renewable ethylene production facility, pushing the expected operational start date to 2030 amid broader sector challenges."
-tags: ["Syclus", "Bioethylene", "Bio-PE", "Ethanol"]
-category: "Plant Announcement"
-company: ["Syclus"]
-company_type: ["Bioplastic Producer"]
-source: "Argus Media"
+summary: Syclus has announced a significant delay to its renewable ethylene production
+  facility, pushing the expected operational start date to 2030 amid broader sector
+  challenges.
+tags:
+- bio-pe
+category: Plant Announcement
+company:
+- Syclus
+company_type:
+- Bioplastic Producer
+source: Argus Media
 ---
+
 
 Syclus has officially adjusted the timeline for its highly anticipated bioethylene plant, pushing the projected launch date to 2030. The decision marks a significant shift in the company's roadmap and reflects a wider trend of hesitation currently affecting the European biochemical infrastructure sector.
 

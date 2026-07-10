@@ -1,16 +1,20 @@
 ---
-title: "Primient Becomes Sole Owner of Primient Covation"
+title: Primient Becomes Sole Owner of Primient Covation
 date: 2026-01-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "Primient has finalized the acquisition of the remaining stake in the Primient Covation joint venture, solidifying its leadership in the production of high-performance, bio-based materials like Susterra® propanediol."
-tags: ["Primient"]
-category: "M&A"
-company: ["Primient"]
-company_type: "Bioplastic Producer"
-source: "World Bio Market Insights"
+summary: Primient has finalized the acquisition of the remaining stake in the Primient
+  Covation joint venture, solidifying its leadership in the production of high-performance,
+  bio-based materials like Susterra® propanediol.
+tags: []
+category: M&A
+company:
+- Primient
+company_type: Bioplastic Producer
+source: World Bio Market Insights
 ---
+
 
 ## A Strategic Move for Bio-Based Materials
 

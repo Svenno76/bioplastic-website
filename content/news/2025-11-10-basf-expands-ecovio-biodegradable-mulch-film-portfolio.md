@@ -1,17 +1,19 @@
 ---
-
-title: "BASF Expands ecovio Biodegradable Mulch Film Portfolio"
+title: BASF Expands ecovio Biodegradable Mulch Film Portfolio
 date: 2025-11-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "BASF enhanced its ecovio biodegradable mulch film portfolio, targeting diverse climate zones in Asia and Latin America, supporting sustainable agriculture and high-growth markets."
-tags: ['BASF', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "BASF"
-company_type: "Bioplastic Producer"
-source: "Perplexity Rev2"
+summary: BASF enhanced its ecovio biodegradable mulch film portfolio, targeting diverse
+  climate zones in Asia and Latin America, supporting sustainable agriculture and
+  high-growth markets.
+tags: []
+category: Product Launch
+company: BASF
+company_type: Bioplastic Producer
+source: Perplexity Rev2
 ---
+
 
 BASF has expanded its **ecovio® biodegradable mulch film portfolio** in 2025, targeting diverse climate zones across Asia and Latin America to support sustainable agriculture and meet growing demand in high-growth markets. This move aligns with BASF’s commitment to advancing eco-friendly agricultural solutions that reduce plastic pollution and improve soil health. The expansion enhances BASF’s position as a leading supplier of biodegradable polymers for agricultural films, addressing critical environmental and operational challenges faced by farmers worldwide.
 

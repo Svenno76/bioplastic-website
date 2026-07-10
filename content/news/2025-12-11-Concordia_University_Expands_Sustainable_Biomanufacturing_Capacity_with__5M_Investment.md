@@ -1,18 +1,24 @@
 ---
-title: "Concordia University Expands Sustainable Biomanufacturing Capacity with $5M Investment"
+title: Concordia University Expands Sustainable Biomanufacturing Capacity with $5M
+  Investment
 date: 2025-12-11
 draft: false
 sitemap:
   priority: 0.7
 noindex: true
-summary: "Concordia University has significantly upgraded its Genome Foundry and Bioprocessing facilities with a $5 million investment, enhancing its position as a leading Canadian hub for synthetic biology and sustainable biomanufacturing."
-tags: ["Concordia University", "Biomanufacturing", "Synthetic Biology", "CFI Investment", "Bioplastics"]
-category: "Investment & Funding"
-company: "Concordia University"
-company_type: "Research Institute"
-source: "Concordia University News"
-contact: "Steve Shih, Nicholas Gold, Kevin Jacquet, Jing Cheng, Lalit Kumar, Flávia Araújo, Mindy Melgar, Angela Quach, Audrey Morin, Vincent Martin, Malcolm Whiteway"
+summary: Concordia University has significantly upgraded its Genome Foundry and Bioprocessing
+  facilities with a $5 million investment, enhancing its position as a leading Canadian
+  hub for synthetic biology and sustainable biomanufacturing.
+tags:
+- bioplastics
+category: Investment & Funding
+company: Concordia University
+company_type: Research Institute
+source: Concordia University News
+contact: Steve Shih, Nicholas Gold, Kevin Jacquet, Jing Cheng, Lalit Kumar, Flávia
+  Araújo, Mindy Melgar, Angela Quach, Audrey Morin, Vincent Martin, Malcolm Whiteway
 ---
+
 
 Concordia University has significantly bolstered its sustainable biomanufacturing capabilities through substantial upgrades to its Genome Foundry and Bioprocessing facilities, backed by a $5 million Canada Foundation for Innovation (CFI) Innovation Fund investment. This funding, matched by Quebec's Ministry of Higher Education (MES), solidifies Concordia's standing as a premier Canadian center for synthetic biology and bioprocessing. The enhancements are designed to accelerate the development of greener chemicals, bioplastics, sustainable biofuels, and new medicines, transforming sectors such as health, agriculture, and clean energy.
 

@@ -1,17 +1,17 @@
 ---
-
-title: "Fibre Screw Caps on Track to Be Cost-Competitive with Fossil Plastics"
+title: Fibre Screw Caps on Track to Be Cost-Competitive with Fossil Plastics
 date: 2025-11-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Blue Ocean Closures (BOC) has announced a significant breakthrough"
-tags: ['Blue Ocean Closures', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "Blue Ocean Closures"
-company_type: "Technology Company"
-source: "bioplastics MAGAZINE"
+summary: Blue Ocean Closures (BOC) has announced a significant breakthrough
+tags: []
+category: Product Launch
+company: Blue Ocean Closures
+company_type: Technology Company
+source: bioplastics MAGAZINE
 ---
+
 
 Blue Ocean Closures (BOC), a Swedish pioneer in fiber-based packaging, has announced a major breakthrough: its latest fiber screw caps now match or outperform fossil plastics in material costs while using far less energy in production. This milestone, achieved through years of R&D and collaborations with brands like Great Earth and The Absolut Group, positions sustainable closures as commercially viable amid EU regulations pushing circular packaging.
 

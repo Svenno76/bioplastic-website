@@ -1,17 +1,18 @@
 ---
-
-title: "New bamboo bioplastic offers strong alternative to traditional plastics"
+title: New bamboo bioplastic offers strong alternative to traditional plastics
 date: 2025-11-20
 draft: false
 sitemap:
   priority: 0.7
-summary: "Scientists in China have developed a high-performance bamboo bioplastic that surpasses conventional "
-tags: ['Northeast Forestry University and Shenyang University of Chemical Technology', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "Northeast Forestry University and Shenyang University of Chemical Technology"
-company_type: "University"
-source: "Biomarket Insights"
+summary: 'Scientists in China have developed a high-performance bamboo bioplastic
+  that surpasses conventional '
+tags: []
+category: Product Launch
+company: Northeast Forestry University and Shenyang University of Chemical Technology
+company_type: University
+source: Biomarket Insights
 ---
+
 
 Researchers at China's Northeast Forestry University and Shenyang University of Chemical Technology have developed a **high-performance bamboo bioplastic** that matches or exceeds the strength of conventional petroleum-based plastics while remaining fully biodegradable. The breakthrough addresses a critical gap in sustainable materials, as traditional bioplastics often lack the durability needed for industrial applications. This innovation offers a viable pathway to reduce plastic pollution and fossil fuel dependence.
 

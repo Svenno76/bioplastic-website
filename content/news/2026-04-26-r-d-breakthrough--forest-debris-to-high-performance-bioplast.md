@@ -1,16 +1,21 @@
 ---
-title: "R&D Breakthrough: Forest Debris to High-Performance Bioplastics"
+title: 'R&D Breakthrough: Forest Debris to High-Performance Bioplastics'
 date: 2026-04-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "The National Institute of Forest Science has developed a low-energy catalytic process to transform discarded wood and forestry waste into high-performance, lignocellulose-derived bioplastics."
-tags: ["Lignocellulosic Biomass", "National Institute of Forest Science", "Low-Energy Catalysis"]
-category: "Product Launch"
-company: ["National Institute of Forest Science"]
-company_type: ["Research Institute"]
-source: "World Bio Market Insights"
+summary: The National Institute of Forest Science has developed a low-energy catalytic
+  process to transform discarded wood and forestry waste into high-performance, lignocellulose-derived
+  bioplastics.
+tags: []
+category: Product Launch
+company:
+- National Institute of Forest Science
+company_type:
+- Research Institute
+source: World Bio Market Insights
 ---
+
 
 South Korea’s National Institute of Forest Science has unveiled a significant research and development breakthrough, successfully transforming discarded wood and forest debris into high-performance bioplastics. This advancement presents a highly scalable, low-energy pathway to replace fossil-based polymers while simultaneously addressing the environmental accumulation of forestry waste.
 

@@ -1,18 +1,22 @@
 ---
-
-title: "Avid Organics Unveils World’s First Commercial-Scale Bio-Based Glycolic Acid"
+title: Avid Organics Unveils World’s First Commercial-Scale Bio-Based Glycolic Acid
 date: 2026-03-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "Avid Organics has launched AviGa Bio HP70, the world's first commercially available bio-based glycolic acid, offering a renewable drop-in alternative to petroleum-derived chemical precursors."
-tags: ["Avid Organics", "Glycolic Acid", "AviGa Bio HP70", "PGA"]
-category: "Product Launch"
-company: ["Avid Organics"]
-company_type: ["Technology Company", "Additive Producer"]
-source: "PR Newswire"
-
+summary: Avid Organics has launched AviGa Bio HP70, the world's first commercially
+  available bio-based glycolic acid, offering a renewable drop-in alternative to petroleum-derived
+  chemical precursors.
+tags: []
+category: Product Launch
+company:
+- Avid Organics
+company_type:
+- Technology Company
+- Additive Producer
+source: PR Newswire
 ---
+
 
 ## Disrupting a Century-Old Petroleum Standard
 

@@ -1,18 +1,21 @@
 ---
-
-title: "Roquette Advances Thermal Enhancement for Biobased Polycarbonates"
+title: Roquette Advances Thermal Enhancement for Biobased Polycarbonates
 date: 2026-02-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "Roquette utilizes high-purity isosorbide to significantly elevate the glass transition temperature and optical clarity of biobased polycarbonates."
-tags: ["Roquette", "Isosorbide", "Bio-polycarbonate", "Polysorb"]
-category: "Product Launch"
-company: ["Roquette"]
-company_type: ["Additive Producer", "Bioplastic Producer"]
-source: "Roquette Corporate News"
-
+summary: Roquette utilizes high-purity isosorbide to significantly elevate the glass
+  transition temperature and optical clarity of biobased polycarbonates.
+tags: []
+category: Product Launch
+company:
+- Roquette
+company_type:
+- Additive Producer
+- Bioplastic Producer
+source: Roquette Corporate News
 ---
+
 
 Roquette has announced significant advancements in the formulation of biobased polycarbonates, utilizing its high-purity isosorbide technology to overcome historical thermal limitations in sustainable engineering plastics. By leveraging its flagship POLYSORB® product, the company aims to provide a viable, high-performance alternative to fossil-based polycarbonates, addressing critical demands in the automotive, electronics, and smart glazing industries.
 

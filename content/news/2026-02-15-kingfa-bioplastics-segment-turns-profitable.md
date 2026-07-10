@@ -1,17 +1,23 @@
 ---
-title: "Kingfa Bioplastics Segment Turns Profitable as High-End Applications Grow"
+title: Kingfa Bioplastics Segment Turns Profitable as High-End Applications Grow
 date: 2026-02-15
 draft: false
-summary: "Kingfa's 2025 annual results show net profit up 39.44% YoY, with the biodegradable plastics segment turning from loss to profit for the first time, driven by breakthroughs in industrial-grade 3D printing filaments and food packaging barrier coatings."
-tags: ["Kingfa", "Financial Results", "Bioplastics Profitability", "3D Printing", "China"]
-category: "Financial Results"
-company: ["Kingfa Sci. & Tech."]
-source: "STCN"
-featured_image: "/images/news/kingfa-bioplastics-profitable-1024.webp"
-image_type: "photo"
+summary: Kingfa's 2025 annual results show net profit up 39.44% YoY, with the biodegradable
+  plastics segment turning from loss to profit for the first time, driven by breakthroughs
+  in industrial-grade 3D printing filaments and food packaging barrier coatings.
+tags:
+- bioplastics
+- pla
+category: Financial Results
+company:
+- Kingfa Sci. & Tech.
+source: STCN
+featured_image: /images/news/kingfa-bioplastics-profitable-1024.webp
+image_type: photo
 sitemap:
   priority: 0.7
 ---
+
 
 ## Bioplastics Segment Breaks Even After Years of Investment
 

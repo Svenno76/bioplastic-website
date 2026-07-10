@@ -1,15 +1,18 @@
 ---
-title: "Notpla produced 15M single-use plastic alternatives"
+title: Notpla produced 15M single-use plastic alternatives
 date: 2025-12-31
 draft: false
 sitemap:
   priority: 0.7
-summary: "Notpla produced 15 million single-use plastic alternatives in 2025, advancing seaweed biopolymer applications."
-tags: ["Notpla"]
-category: "Financial Results"
-company: ["Notpla"]
-source: "Perplexity Rev2"
+summary: Notpla produced 15 million single-use plastic alternatives in 2025, advancing
+  seaweed biopolymer applications.
+tags: []
+category: Financial Results
+company:
+- Notpla
+source: Perplexity Rev2
 ---
+
 
 London-based sustainable packaging company **Notpla** has announced it produced 15 million single-use plastic alternatives in 2025, marking significant growth in its seaweed-based biopolymer manufacturing capabilities. This milestone represents a substantial increase from 11.4 million units in 2024 and 4.4 million in 2023, demonstrating accelerating market adoption of marine-safe packaging solutions. The achievement underscores Notpla's position as a leading innovator in the emerging seaweed biopolymers sector.
 

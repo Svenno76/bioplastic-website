@@ -1,18 +1,23 @@
 ---
-title: "Braskem Siam and Mitr Phol Bio Fuel sign Letter of Intent for ethanol supply for upcoming bio-ethylene plant in Thailand"
+title: Braskem Siam and Mitr Phol Bio Fuel sign Letter of Intent for ethanol supply
+  for upcoming bio-ethylene plant in Thailand
 date: 2025-04-10
 draft: false
 sitemap:
   priority: 0.7
 noindex: true
-summary: "Braskem Siam has signed a Letter of Intent with Mitr Phol Bio Fuel for the annual supply of 450 million liters of ethanol, securing crucial feedstock for its pioneering bio-ethylene plant in Thailand set to operate by 2027."
-tags: ["Braskem", "Mitr Phol", "Bio-ethylene", "Thailand", "Ethanol", "Bio-PE", "Sustainable Plastics"]
-category: "Partnerships"
-company: "Braskem"
-company_type: "Bioplastic Producer"
-source: "Braskem"
-contact: "None"
+summary: Braskem Siam has signed a Letter of Intent with Mitr Phol Bio Fuel for the
+  annual supply of 450 million liters of ethanol, securing crucial feedstock for its
+  pioneering bio-ethylene plant in Thailand set to operate by 2027.
+tags:
+- bio-pe
+category: Partnerships
+company: Braskem
+company_type: Bioplastic Producer
+source: Braskem
+contact: None
 ---
+
 
 ## Details
 Braskem Siam, a joint venture between global biopolymer leader Braskem and SCG Chemicals, has formally entered into a Letter of Intent with Mitr Phol Bio Fuel for the supply of agricultural-based ethanol. This strategic agreement ensures a stable and competitive feedstock source for Braskem Siam's forthcoming bio-ethylene plant in Thailand, marking a significant step in sustainable plastics production in Asia. The facility, poised to be the first of its kind outside Brazil, is anticipated to commence operations by 2027 and will require an estimated 450 million liters of ethanol annually. Mitr Phol Bio Fuel, a subsidiary of the Mitr Phol Group and ASEAN's leading ethanol producer, is renowned for its commitment to sustainability across its value chain.

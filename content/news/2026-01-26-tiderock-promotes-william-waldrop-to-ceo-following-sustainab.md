@@ -1,16 +1,20 @@
 ---
-title: "Tiderock Promotes William Waldrop to CEO Following Sustainable Growth"
+title: Tiderock Promotes William Waldrop to CEO Following Sustainable Growth
 date: 2026-01-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "Tiderock Companies appoints William Waldrop as CEO to spearhead continued expansion in sustainable industrial materials and technology holdings."
-tags: ["Tiderock Companies"]
-category: "Investment & Funding"
-company: ["Tiderock Companies"]
-company_type: ["Technology Company"]
-source: "StockTitan"
+summary: Tiderock Companies appoints William Waldrop as CEO to spearhead continued
+  expansion in sustainable industrial materials and technology holdings.
+tags: []
+category: Investment & Funding
+company:
+- Tiderock Companies
+company_type:
+- Technology Company
+source: StockTitan
 ---
+
 
 Tiderock Companies has officially announced the promotion of William Waldrop to the position of Chief Executive Officer, effective immediately. This leadership transition marks a pivotal moment for the diverse holding company as it seeks to capitalize on recent successes in its sustainable industrial and material technology portfolios.
 

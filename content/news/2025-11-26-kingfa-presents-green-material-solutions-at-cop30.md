@@ -1,17 +1,22 @@
 ---
-title: "Kingfa Presents Green Material Solutions at COP30"
+title: Kingfa Presents Green Material Solutions at COP30
 date: 2025-11-26
 draft: false
-summary: "At COP30, Kingfa's Academician Li Jianjun presented the company's full-chain carbon reduction pathway for the plastics industry, covering bio-based feedstock development, recycled content integration, and lifecycle carbon footprint calculation services."
-tags: ["Kingfa", "COP30", "Carbon Neutrality", "Green Materials", "China"]
-category: "Industry Event"
-company: ["Kingfa Sci. & Tech."]
-source: "Kingfa Sci. & Tech."
-featured_image: "/images/news/kingfa-cop30-green-1024.webp"
-image_type: "photo"
+summary: At COP30, Kingfa's Academician Li Jianjun presented the company's full-chain
+  carbon reduction pathway for the plastics industry, covering bio-based feedstock
+  development, recycled content integration, and lifecycle carbon footprint calculation
+  services.
+tags: []
+category: Industry Event
+company:
+- Kingfa Sci. & Tech.
+source: Kingfa Sci. & Tech.
+featured_image: /images/news/kingfa-cop30-green-1024.webp
+image_type: photo
 sitemap:
   priority: 0.7
 ---
+
 
 ## Kingfa Showcases Full-Chain Carbon Reduction Pathway at COP30
 

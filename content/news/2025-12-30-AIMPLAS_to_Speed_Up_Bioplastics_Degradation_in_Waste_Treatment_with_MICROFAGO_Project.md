@@ -1,17 +1,26 @@
 ---
-title: "AIMPLAS to Speed Up Bioplastics Degradation in Waste Treatment with MICROFAGO Project"
+title: AIMPLAS to Speed Up Bioplastics Degradation in Waste Treatment with MICROFAGO
+  Project
 date: 2025-12-30
 draft: false
 sitemap:
   priority: 0.7
-summary: "AIMPLAS is spearheading the MICROFAGO project, a collaborative effort to accelerate the decomposition of compostable bioplastics in waste treatment facilities using microorganisms and phages, without requiring major infrastructure changes."
-tags: ["AIMPLAS"]
-category: "Partnerships"
-company: ["AIMPLAS", "University of Valencia", "Darwin Bioprospecting Excellence", "Evolving Therapeutics", "Girsa"]
-company_type: "Research Institute"
-source: "World Bio Market Insights"
-contact: "None"
+summary: AIMPLAS is spearheading the MICROFAGO project, a collaborative effort to
+  accelerate the decomposition of compostable bioplastics in waste treatment facilities
+  using microorganisms and phages, without requiring major infrastructure changes.
+tags: []
+category: Partnerships
+company:
+- AIMPLAS
+- University of Valencia
+- Darwin Bioprospecting Excellence
+- Evolving Therapeutics
+- Girsa
+company_type: Research Institute
+source: World Bio Market Insights
+contact: None
 ---
+
 
 ## Details
 

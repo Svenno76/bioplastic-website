@@ -1,16 +1,23 @@
 ---
-title: "Solvay Inaugurates Europe's First Bio-Circular Silica Facility"
+title: Solvay Inaugurates Europe's First Bio-Circular Silica Facility
 date: 2026-01-29
 draft: false
 sitemap:
   priority: 0.7
-summary: "Solvay has officially opened its new facility in Italy dedicated to producing bio-circular silica derived from rice husk ash, marking a major step forward in sustainable tire reinforcement."
-tags: ["Solvay", "Bio-circular Silica", "Rice Husk Ash", "Tires"]
-category: "Plant Announcement"
-company: ["Solvay"]
-company_type: ["Additive Producer"]
-source: "Indian Chemical News"
+summary: Solvay has officially opened its new facility in Italy dedicated to producing
+  bio-circular silica derived from rice husk ash, marking a major step forward in
+  sustainable tire reinforcement.
+tags:
+- bioplastics
+- circular-economy
+category: Plant Announcement
+company:
+- Solvay
+company_type:
+- Additive Producer
+source: Indian Chemical News
 ---
+
 
 Solvay has officially inaugurated its highly anticipated bio-circular silica production facility in Livorno, Italy, establishing the site as the first of its kind in Europe. The new plant represents a significant technological leap in the production of highly dispersible silica (HDS), a critical reinforcing agent used primarily in the automotive tire industry.
 

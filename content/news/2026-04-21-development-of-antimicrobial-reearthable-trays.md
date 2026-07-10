@@ -1,16 +1,24 @@
 ---
-title: "Development of Antimicrobial REearthable Trays"
+title: Development of Antimicrobial REearthable Trays
 date: 2026-04-21
 draft: false
 sitemap:
   priority: 0.7
-summary: "Metalchemy has introduced a new line of REearthable bioplastic trays infused with silver nanotechnology to inhibit bacterial growth and significantly reduce food waste."
-tags: ["Metalchemy", "Active Packaging", "Silver Nanotechnology", "Antimicrobial", "Bioplastics"]
-category: "Product Launch"
-company: ["Metalchemy"]
-company_type: ["Technology Company", "Additive Producer"]
-source: "Packnode"
+summary: Metalchemy has introduced a new line of REearthable bioplastic trays infused
+  with silver nanotechnology to inhibit bacterial growth and significantly reduce
+  food waste.
+tags:
+- bioplastics
+- packaging
+category: Product Launch
+company:
+- Metalchemy
+company_type:
+- Technology Company
+- Additive Producer
+source: Packnode
 ---
+
 
 ## Revolutionizing Active Packaging
 

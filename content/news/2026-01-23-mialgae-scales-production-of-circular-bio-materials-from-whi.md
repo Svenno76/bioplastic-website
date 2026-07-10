@@ -1,16 +1,25 @@
 ---
-title: "MiAlgae Scales Production of Circular Bio-Materials from Whisky Byproducts"
+title: MiAlgae Scales Production of Circular Bio-Materials from Whisky Byproducts
 date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Scottish biotechnology firm MiAlgae commences construction on a commercial-scale facility in Grangemouth to transform whisky byproducts into sustainable algal biomass and Omega-3."
-tags: ["MiAlgae", "Fermentation", "Algal Biomass", "Circular Economy"]
-category: "Plant Announcement"
-company: ["MiAlgae"]
-company_type: ["Technology Company", "Bioplastic Producer"]
-source: "MiAlgae"
+summary: Scottish biotechnology firm MiAlgae commences construction on a commercial-scale
+  facility in Grangemouth to transform whisky byproducts into sustainable algal biomass
+  and Omega-3.
+tags:
+- bioplastics
+- circular-economy
+- fermentation
+category: Plant Announcement
+company:
+- MiAlgae
+company_type:
+- Technology Company
+- Bioplastic Producer
+source: MiAlgae
 ---
+
 
 **GRANGEMOUTH, Scotland** — MiAlgae has officially broken ground on a new commercial-scale production facility at the Port of Grangemouth, marking a pivotal shift in the industrialization of circular bio-economy technologies. The expansion is set to dramatically increase the company's output of algal-based products derived from the distillation byproducts of Scotland’s whisky industry.
 

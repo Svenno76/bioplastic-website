@@ -1,16 +1,23 @@
 ---
-title: "Ecopha Biotech and Terra Sol Win Energy & Renewables Award at the 2025 Innovation Aus award for Breakthrough PHA Technology"
+title: Ecopha Biotech and Terra Sol Win Energy & Renewables Award at the 2025 Innovation
+  Aus award for Breakthrough PHA Technology
 date: 2025-12-01
 draft: false
 sitemap:
   priority: 0.7
-summary: "Ecopha Biotech and design partner Terra Sol Studio secured the 2025 InnovationAus Energy & Renewables Award for their groundbreaking carbon-negative PHA bioplastics, which are fully home-compostable and marine biodegradable, offering a scalable alternative to petroleum-based plastics."
-tags: ["Ecopha Biotech", "Terra Sol Studio", "PHA bioplastics", "InnovationAus Awards", "Pongamia Oil", "Sustainable Packaging"]
-category: "Product Launch"
-company: "Ecopha Biotech and Terra Sol Studio"
-company_type: "Bioplastic Producer"
-source: "News Hub"
+summary: Ecopha Biotech and design partner Terra Sol Studio secured the 2025 InnovationAus
+  Energy & Renewables Award for their groundbreaking carbon-negative PHA bioplastics,
+  which are fully home-compostable and marine biodegradable, offering a scalable alternative
+  to petroleum-based plastics.
+tags:
+- bioplastics
+- packaging
+category: Product Launch
+company: Ecopha Biotech and Terra Sol Studio
+company_type: Bioplastic Producer
+source: News Hub
 ---
+
 
 ## Details of the Breakthrough
 

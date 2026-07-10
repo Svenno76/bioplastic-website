@@ -1,17 +1,19 @@
 ---
-
-title: "Teknor Apex Acquires Danimer Scientific"
+title: Teknor Apex Acquires Danimer Scientific
 date: 2025-11-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "Teknor Apex completed the acquisition of Danimer Scientific, consolidating its position in the biodegradable biopolymer market and strengthening its production scalability and competitive dynamics."
-tags: ['Teknor Apex', 'M&A']
-category: "M&A"
-company: "Teknor Apex"
-company_type: "Compounder"
-source: "Perplexity Rev2"
+summary: Teknor Apex completed the acquisition of Danimer Scientific, consolidating
+  its position in the biodegradable biopolymer market and strengthening its production
+  scalability and competitive dynamics.
+tags: []
+category: M&A
+company: Teknor Apex
+company_type: Compounder
+source: Perplexity Rev2
 ---
+
 
 Teknor Apex, a global leader in plastic material science solutions, has completed its acquisition of Danimer Scientific, a pioneering biodegradable biopolymer manufacturer headquartered in Bainbridge, Georgia. The transaction, finalized in May 2025 following Chapter 11 bankruptcy proceedings, represents a $19 million strategic investment that consolidates two industry innovators committed to sustainable materials development. This acquisition significantly strengthens Teknor Apex's competitive position in the rapidly expanding bioplastics market while preserving Danimer's operational independence and mission-driven focus.
 

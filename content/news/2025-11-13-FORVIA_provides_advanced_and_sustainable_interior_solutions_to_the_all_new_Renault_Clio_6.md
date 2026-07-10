@@ -1,18 +1,23 @@
 ---
-
-title: "FORVIA provides advanced and sustainable interior solutions to the all-new Renault Clio 6"
+title: FORVIA provides advanced and sustainable interior solutions to the all-new
+  Renault Clio 6
 date: 2025-11-13
 draft: false
 sitemap:
   priority: 0.7
-summary: "FORVIA is supplying the instrument panel and center console for the all-new Renault Clio 6, incorporating 40% recycled plastics and advanced finishing techniques to enhance sustainability and user experience."
-tags: ["FORVIA", "Renault Clio 6", "Sustainable Interiors", "Recycled Plastics", "automotive technology"]
-category: "Product Launch"
-company: "FORVIA"
-company_type: "Technology Company"
-source: "FORVIA Technology Press Release"
-
+summary: FORVIA is supplying the instrument panel and center console for the all-new
+  Renault Clio 6, incorporating 40% recycled plastics and advanced finishing techniques
+  to enhance sustainability and user experience.
+tags:
+- automotive
+- bio-pp
+- recycled-content
+category: Product Launch
+company: FORVIA
+company_type: Technology Company
+source: FORVIA Technology Press Release
 ---
+
 
 ## Details
 FORVIA, a global automotive technology leader, has announced its provision of advanced and sustainable interior solutions for the all-new Renault Clio 6. These key interior components, specifically the instrument panel and center console, incorporate 40% recycled plastics, demonstrating a significant step towards more eco-friendly automotive manufacturing. This initiative aligns with Renault's broader sustainability objectives and FORVIA's commitment to developing smarter, more sustainable mobility solutions.

@@ -1,16 +1,23 @@
 ---
-title: "Syngenta Opens £100M Agricultural Bioscience Research Centre"
+title: Syngenta Opens £100M Agricultural Bioscience Research Centre
 date: 2026-03-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "Syngenta has unveiled a new £100 million state-of-the-art agricultural bioscience research center dedicated to advancing biologicals and sustainable crop technologies."
-tags: ["Syngenta", "Agricultural Bioscience", "Biologicals", "Biomass Feedstocks"]
-category: "Investment & Funding"
-company: ["Syngenta"]
-company_type: ["Technology Company", "Research Institute"]
-source: "Society of Chemical Industry (SCI)"
+summary: Syngenta has unveiled a new £100 million state-of-the-art agricultural bioscience
+  research center dedicated to advancing biologicals and sustainable crop technologies.
+tags:
+- bioplastics
+- feedstock
+category: Investment & Funding
+company:
+- Syngenta
+company_type:
+- Technology Company
+- Research Institute
+source: Society of Chemical Industry (SCI)
 ---
+
 
 The transition toward a sustainable bioeconomy has received a major infrastructure boost. Syngenta has officially unveiled its new £100 million Agricultural Bioscience Research Centre, marking a pivotal investment in the future of bio-based crop protection and advanced agricultural technologies.
 

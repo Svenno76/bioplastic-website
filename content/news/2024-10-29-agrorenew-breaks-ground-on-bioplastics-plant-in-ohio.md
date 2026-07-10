@@ -1,16 +1,20 @@
 ---
-title: "AgroRenew breaks ground on bioplastics plant in Ohio"
+title: AgroRenew breaks ground on bioplastics plant in Ohio
 date: 2024-10-29
 draft: false
 sitemap:
   priority: 0.7
-summary: "AgroRenew LLC started construction in Northeast Ohio on facility converting food waste from pumpkins, watermelons, and cantaloupes into bioplastics, addressing agricultural waste challenges."
-tags: ["AgroRenew"]
-category: "Plant Announcement"
-company: ["AgroRenew"]
-company_type: "Bioplastic Producer"
-source: "Gemini search"
+summary: AgroRenew LLC started construction in Northeast Ohio on facility converting
+  food waste from pumpkins, watermelons, and cantaloupes into bioplastics, addressing
+  agricultural waste challenges.
+tags: []
+category: Plant Announcement
+company:
+- AgroRenew
+company_type: Bioplastic Producer
+source: Gemini search
 ---
+
 
 AgroRenew LLC has officially broken ground on a new bioplastics manufacturing facility in Northeast Ohio, marking a significant step in the company’s mission to convert agricultural waste into sustainable materials. The plant, which began construction this month, is designed to process food waste—specifically from pumpkins, watermelons, and cantaloupes—into biodegradable plastics, directly addressing both agricultural waste challenges and the growing demand for eco-friendly packaging solutions. This initiative positions AgroRenew as a pioneer in the regional circular economy, leveraging local produce byproducts to create value-added products while reducing environmental impact.
 

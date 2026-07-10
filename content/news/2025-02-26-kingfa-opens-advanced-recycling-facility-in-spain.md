@@ -1,17 +1,25 @@
 ---
-title: "Kingfa Opens Advanced Chemical Recycling Facility in Spain"
+title: Kingfa Opens Advanced Chemical Recycling Facility in Spain
 date: 2025-02-26
 draft: false
-summary: "Kingfa has inaugurated a state-of-the-art plastic waste chemical recycling facility in Montalbo, Cuenca, Spain, with annual capacity of 30,000 tonnes of high-performance recycled plastics, marking the Chinese materials giant's first major European recycling operation."
-tags: ["Kingfa", "Chemical Recycling", "Circular Economy", "Spain", "Europe"]
-category: "Facility Launch"
-company: ["Kingfa Sci. & Tech."]
-source: "Kingfa Sci. & Tech."
-featured_image: "/images/news/kingfa-spain-recycling-1024.webp"
-image_type: "photo"
+summary: Kingfa has inaugurated a state-of-the-art plastic waste chemical recycling
+  facility in Montalbo, Cuenca, Spain, with annual capacity of 30,000 tonnes of high-performance
+  recycled plastics, marking the Chinese materials giant's first major European recycling
+  operation.
+tags:
+- bioplastics
+- chemical-recycling
+- circular-economy
+category: Facility Launch
+company:
+- Kingfa Sci. & Tech.
+source: Kingfa Sci. & Tech.
+featured_image: /images/news/kingfa-spain-recycling-1024.webp
+image_type: photo
 sitemap:
   priority: 0.7
 ---
+
 
 ## Kingfa Inaugurates 30,000 Tonne/Year Chemical Recycling Plant in Montalbo
 

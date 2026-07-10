@@ -1,16 +1,23 @@
 ---
-title: "Fraunhofer Researchers Develop AI-Based Camera for Real-Time Plastic Analysis"
+title: Fraunhofer Researchers Develop AI-Based Camera for Real-Time Plastic Analysis
 date: 2026-01-21
 draft: false
 sitemap:
   priority: 0.7
-summary: "Fraunhofer IPMS has unveiled a compact hyperspectral camera integrated with AI to enable real-time identification and sorting of various plastics during recycling processes."
-tags: ["Fraunhofer IPMS", "Hyperspectral Imaging", "AI", "Recycling Technology", "Sorting"]
-category: "Product Launch"
-company: ["Fraunhofer IPMS"]
-company_type: ["Research Institute"]
-source: "ChemEurope"
+summary: Fraunhofer IPMS has unveiled a compact hyperspectral camera integrated with
+  AI to enable real-time identification and sorting of various plastics during recycling
+  processes.
+tags:
+- bioplastics
+- chemical-recycling
+category: Product Launch
+company:
+- Fraunhofer IPMS
+company_type:
+- Research Institute
+source: ChemEurope
 ---
+
 
 Researchers at the Fraunhofer Institute for Photonic Microsystems (IPMS) have unveiled a compact, AI-powered hyperspectral camera designed to revolutionize the sorting of polymer materials. Addressing a critical bottleneck in the circular economy, this new optical system enables the real-time identification of plastics without the need for an external computer, streamlining quality control and recycling operations.
 

@@ -1,16 +1,24 @@
 ---
-title: "Researchers Develop Sea Urchin-Inspired Biomimetic Materials"
+title: Researchers Develop Sea Urchin-Inspired Biomimetic Materials
 date: 2026-03-02
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers have successfully engineered 3D-printed biomimetic smart materials inspired by the structural architecture of sea urchins, unlocking rapid mechanoelectrical responses for advanced sensor applications."
-tags: ["Biomimetics", "3D Printing", "Smart Materials", "Mechanoelectrical Resins"]
-category: "Product Launch"
-company: ["University of Hong Kong", "City University of Hong Kong"]
-company_type: ["University", "Research Institute"]
-source: "World Bio Market Insights"
+summary: Researchers have successfully engineered 3D-printed biomimetic smart materials
+  inspired by the structural architecture of sea urchins, unlocking rapid mechanoelectrical
+  responses for advanced sensor applications.
+tags:
+- pla
+category: Product Launch
+company:
+- University of Hong Kong
+- City University of Hong Kong
+company_type:
+- University
+- Research Institute
+source: World Bio Market Insights
 ---
+
 
 ## Nature-Inspired Engineering 
 

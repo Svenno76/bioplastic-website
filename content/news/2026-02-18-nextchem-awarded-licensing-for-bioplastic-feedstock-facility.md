@@ -1,16 +1,24 @@
 ---
-title: "NEXTCHEM Awarded Licensing for Bioplastic Feedstock Facility in China"
+title: NEXTCHEM Awarded Licensing for Bioplastic Feedstock Facility in China
 date: 2026-02-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "NEXTCHEM secures a licensing and process design contract in China utilizing its proprietary NX Conser technologies to produce essential intermediates for biodegradable plastics."
-tags: ["NEXTCHEM", "MAIRE Group", "Maleic Anhydride", "NX Conser", "PBAT", "PBS"]
-category: "Plant Announcement"
-company: ["NEXTCHEM", "MAIRE Group"]
-company_type: ["Technology Company"]
-source: "Maire Group"
+summary: NEXTCHEM secures a licensing and process design contract in China utilizing
+  its proprietary NX Conser technologies to produce essential intermediates for biodegradable
+  plastics.
+tags:
+- pbat
+- pbs
+category: Plant Announcement
+company:
+- NEXTCHEM
+- MAIRE Group
+company_type:
+- Technology Company
+source: Maire Group
 ---
+
 
 MAIRE Group has announced that its subsidiary, NEXTCHEM (Sustainable Technology Solutions), has secured a significant licensing and Process Design Package (PDP) contract for a new industrial facility in China. The project will utilize NEXTCHEM’s proprietary technologies to produce high-value intermediates essential for the manufacturing of biodegradable plastics.
 

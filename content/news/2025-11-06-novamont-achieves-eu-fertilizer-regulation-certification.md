@@ -1,17 +1,19 @@
 ---
-
-title: "Novamont Achieves EU Fertilizer Regulation Certification"
+title: Novamont Achieves EU Fertilizer Regulation Certification
 date: 2025-11-06
 draft: false
 sitemap:
   priority: 0.7
-summary: "Novamont obtained certificate of conformity with EU Fertilizer Regulation 2019/1009 for its Mater-Bi bioplastic, enabling new applications in the agricultural sector and expanding market opportunities."
-tags: ['Novamont', 'Certification', 'Standards']
-category: "Certifications"
-company: "Novamont"
-company_type: "Bioplastic Producer"
-source: "Perplexity Rev2"
+summary: Novamont obtained certificate of conformity with EU Fertilizer Regulation
+  2019/1009 for its Mater-Bi bioplastic, enabling new applications in the agricultural
+  sector and expanding market opportunities.
+tags: []
+category: Certifications
+company: Novamont
+company_type: Bioplastic Producer
+source: Perplexity Rev2
 ---
+
 
 Novamont, a global leader in bioplastics and biochemicals, announced on November 6, 2025, that its Mater-Bi mulch film has obtained certification of conformity with the EU Fertilizer Regulation 2019/1009. This certification officially recognizes Mater-Bi as an inorganic soil improver, enabling its use in agricultural applications such as weed control. The certification marks a significant step for Novamont in expanding the practical and sustainable applications of its bioplastic products within the European agricultural sector.
 

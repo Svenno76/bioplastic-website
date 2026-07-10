@@ -1,16 +1,18 @@
 ---
-
-title: "CARBIOS and Wankai seal major deal to launch Asia's first large-scale PET biorecycling plant"
+title: CARBIOS and Wankai seal major deal to launch Asia's first large-scale PET biorecycling
+  plant
 date: 2025-12-04
 draft: false
 sitemap:
   priority: 0.7
-summary: "CARBIOS and Wankai New Materials have finalized a landmark agreement to establish a joint venture fo"
-tags: ['CARBIOS and Wankai New Materials', 'Plant Announcement']
-category: "Plant Announcement"
-company: "CARBIOS and Wankai New Materials"
-source: "CARBIOS Newsroom"
+summary: CARBIOS and Wankai New Materials have finalized a landmark agreement to establish
+  a joint venture fo
+tags: []
+category: Plant Announcement
+company: CARBIOS and Wankai New Materials
+source: CARBIOS Newsroom
 ---
+
 
 **CARBIOS and Wankai seal major deal to launch Asia's first large-scale PET biorecycling plant**
 

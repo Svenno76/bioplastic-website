@@ -1,18 +1,25 @@
 ---
-
-title: "Henkel and Sekab Partner for Bio-Based Adhesive Raw Materials"
+title: Henkel and Sekab Partner for Bio-Based Adhesive Raw Materials
 date: 2026-02-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "Henkel collaborates with Sekab to integrate sustainable, bio-based intermediates into its adhesive formulations to significantly reduce carbon footprints."
-tags: ["Henkel", "Sekab", "Adhesives", "Acrylates", "Bio-Based Chemicals"]
-category: "Partnerships"
-company: ["Henkel", "Sekab"]
-company_type: ["Compounder", "Technology Company"]
-source: "World Bio Market Insights"
-
+summary: Henkel collaborates with Sekab to integrate sustainable, bio-based intermediates
+  into its adhesive formulations to significantly reduce carbon footprints.
+tags:
+- bio-based
+- construction
+- pla
+category: Partnerships
+company:
+- Henkel
+- Sekab
+company_type:
+- Compounder
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 Henkel, a global leader in adhesive technologies, has entered into a strategic partnership with Swedish chemical company Sekab to integrate bio-based raw materials into its product formulations. This collaboration marks a significant step forward in the adhesive industry’s transition away from fossil-based feedstocks, aiming to deliver high-performance bonding solutions with a reduced carbon footprint.
 

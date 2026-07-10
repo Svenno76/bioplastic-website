@@ -1,16 +1,22 @@
 ---
-title: "Symphony Environmental Signs Biodegradable Technology Deal in Dominican Republic"
+title: Symphony Environmental Signs Biodegradable Technology Deal in Dominican Republic
 date: 2026-02-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "Symphony Environmental has entered a strategic consultancy agreement to accelerate the commercial adoption of its d2w biodegradable technology within the Dominican Republic."
-tags: ["d2w", "Symphony Environmental"]
-category: "Partnerships"
-company: ["Symphony Environmental Technologies"]
-company_type: ["Additive Producer", "Technology Company"]
-source: "AJ Bell"
+summary: Symphony Environmental has entered a strategic consultancy agreement to accelerate
+  the commercial adoption of its d2w biodegradable technology within the Dominican
+  Republic.
+tags: []
+category: Partnerships
+company:
+- Symphony Environmental Technologies
+company_type:
+- Additive Producer
+- Technology Company
+source: AJ Bell
 ---
+
 
 Symphony Environmental Technologies has announced a strategic expansion into the Caribbean market through a new consultancy agreement focused on the Dominican Republic. The deal is designed to accelerate the adoption of Symphony’s flagship d2w biodegradable technology, positioning the company to address the region's growing demand for plastic waste solutions.
 

@@ -1,16 +1,23 @@
 ---
-title: "Chugai Develops Multilayer Blister Pack Using Biomass Plastics"
+title: Chugai Develops Multilayer Blister Pack Using Biomass Plastics
 date: 2026-02-04
 draft: false
 sitemap:
   priority: 0.7
-summary: "Chugai Pharmaceutical has successfully developed a prototype multilayer press-through package incorporating biomass-derived plastics to reduce the carbon footprint of drug delivery systems."
-tags: ["Chugai Pharmaceutical", "Biomass Plastics", "Blister Packaging", "PTP"]
-category: "Product Launch"
-company: ["Chugai Pharmaceutical Co., Ltd."]
-company_type: ["Technology Company"]
-source: "Plastics Today"
+summary: Chugai Pharmaceutical has successfully developed a prototype multilayer press-through
+  package incorporating biomass-derived plastics to reduce the carbon footprint of
+  drug delivery systems.
+tags:
+- packaging
+- pbat
+category: Product Launch
+company:
+- Chugai Pharmaceutical Co., Ltd.
+company_type:
+- Technology Company
+source: Plastics Today
 ---
+
 
 Chugai Pharmaceutical Co., Ltd. has announced a significant advancement in sustainable healthcare logistics with the development of a multilayer blister pack utilizing biomass plastics. This innovation marks a pivotal step in reducing the pharmaceutical industry's reliance on fossil-fuel-derived packaging materials while maintaining strict quality assurance standards.
 

@@ -1,15 +1,17 @@
 ---
-title: "Zerocircle raises $2.3 million"
+title: Zerocircle raises $2.3 million
 date: 2025-12-31
 draft: false
 sitemap:
   priority: 0.7
-summary: "Zerocircle raised $2.3 million for biopolymer technology advancements."
-tags: ["Zerocircle"]
-category: "Investment & Funding"
-company: ["Zerocircle"]
-source: "Perplexity Rev2"
+summary: Zerocircle raised $2.3 million for biopolymer technology advancements.
+tags: []
+category: Investment & Funding
+company:
+- Zerocircle
+source: Perplexity Rev2
 ---
+
 
 **Pune-based Zerocircle secures $2.3 million seed funding to scale seaweed-based packaging solutions**
 

@@ -1,17 +1,21 @@
 ---
-title: "Emirates Biotech Advances World's Largest Bioplastics Facility with Sulzer Partnership"
+title: Emirates Biotech Advances World's Largest Bioplastics Facility with Sulzer
+  Partnership
 date: 2026-06-08
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/emirates-biotech-facility.jpg"
-summary: "Emirates Biotech is pushing forward on its mega-project — and lining up serious partners to do it, selecting Samsung E&A as contractor and advancing Sulzer partnership."
-tags: ["UAE", "PLA", "Sulzer", "Samsung", "CIRCLE Consortium", "Food Waste"]
-category: "Plant Announcement"
-company: "Emirates Biotech"
-source: "emiratesbiotech.com"
-source_url: "https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip"
+featured_image: /images/news/emirates-biotech-facility.jpg
+summary: Emirates Biotech is pushing forward on its mega-project — and lining up serious
+  partners to do it, selecting Samsung E&A as contractor and advancing Sulzer partnership.
+tags:
+- pla
+category: Plant Announcement
+company: Emirates Biotech
+source: emiratesbiotech.com
+source_url: https://emiratesbiotech.com/emirates-biotech-and-sulzer-advance-strategic-partnership-with-the-equip
 ---
+
 
 Emirates Biotech is pushing forward on its mega-project — and lining up serious partners to do it.
 

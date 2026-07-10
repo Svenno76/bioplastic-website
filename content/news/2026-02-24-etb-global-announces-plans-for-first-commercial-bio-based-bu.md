@@ -1,16 +1,20 @@
 ---
-title: "ETB Global Announces Plans for First Commercial Bio-based Butadiene Plant"
+title: ETB Global Announces Plans for First Commercial Bio-based Butadiene Plant
 date: 2026-02-24
 draft: false
 sitemap:
   priority: 0.7
-summary: "ETB Global is advancing the sustainable rubber industry by establishing its first commercial-scale facility for producing bio-based butadiene from ethanol."
-tags: ["ETB Global", "Bio-butadiene", "Bio-ethanol", "Synthetic Rubber"]
-category: "Plant Announcement"
-company: ["ETB Global"]
-company_type: ["Technology Company"]
-source: "CHEManager"
+summary: ETB Global is advancing the sustainable rubber industry by establishing its
+  first commercial-scale facility for producing bio-based butadiene from ethanol.
+tags: []
+category: Plant Announcement
+company:
+- ETB Global
+company_type:
+- Technology Company
+source: CHEManager
 ---
+
 
 ETB Global B.V. has officially confirmed plans to construct its first commercial-scale plant dedicated to the production of bio-based butadiene. The announcement marks a pivotal moment in the transition from fossil-fuel-derived elastomers to sustainable alternatives, targeting the heavy-industrial demands of the tire and rubber sectors.
 

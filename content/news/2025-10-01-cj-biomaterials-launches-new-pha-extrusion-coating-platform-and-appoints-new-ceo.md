@@ -1,16 +1,22 @@
 ---
-title: "CJ Biomaterials Launches New PHA Extrusion Coating Platform and Appoints New CEO"
+title: CJ Biomaterials Launches New PHA Extrusion Coating Platform and Appoints New
+  CEO
 date: 2025-10-01
 draft: false
 sitemap:
   priority: 0.7
-summary: "CJ Biomaterials launches PHA extrusion coating platform for paper/board, introduces PHACT masterbatch, partners with BIQ Materials for artificial turf infill, and appoints Allan Chung as CEO to lead next growth phase."
-tags: ["PHA", "Extrusion Coatings", "Masterbatch", "CEO Appointment", "Artificial Turf", "Korea"]
-category: "Product Launch"
-company: "CJ Biomaterials"
-source: "cjbiomaterials.com"
-source_url: "https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin"
+summary: CJ Biomaterials launches PHA extrusion coating platform for paper/board,
+  introduces PHACT masterbatch, partners with BIQ Materials for artificial turf infill,
+  and appoints Allan Chung as CEO to lead next growth phase.
+tags:
+- construction
+- pha
+category: Product Launch
+company: CJ Biomaterials
+source: cjbiomaterials.com
+source_url: https://cjbiomaterials.com/2025/10/01/cj-biomaterials-launches-new-pha-platform-for-extrusion-coatin
 ---
+
 
 CJ Biomaterials, the bioplastics arm of South Korean conglomerate CJ CheilJedang, has unveiled a series of developments that significantly expand PHA's application range.
 

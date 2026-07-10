@@ -1,18 +1,23 @@
 ---
-
-title: "Lawson Adopts Mitsui Chemicals' Prasus Bio-based Polyethylene"
+title: Lawson Adopts Mitsui Chemicals' Prasus Bio-based Polyethylene
 date: 2026-01-23
 draft: false
 sitemap:
   priority: 0.7
-summary: "Lawson integrates Mitsui Chemicals' mass-balance bio-based polyethylene into its retail packaging to reduce carbon footprint without compromising material performance."
-tags: ["Mitsui Chemicals", "Lawson", "PE", "Prasus", "Mass Balance"]
-category: "Partnerships"
-company: ["Mitsui Chemicals", "Lawson"]
-company_type: ["Bioplastic Producer"]
-source: "Mitsui Chemicals"
-
+summary: Lawson integrates Mitsui Chemicals' mass-balance bio-based polyethylene into
+  its retail packaging to reduce carbon footprint without compromising material performance.
+tags:
+- bioplastics
+- mass-balance-approach
+category: Partnerships
+company:
+- Mitsui Chemicals
+- Lawson
+company_type:
+- Bioplastic Producer
+source: Mitsui Chemicals
 ---
+
 
 Mitsui Chemicals has announced that Lawson, one of Japan’s premier convenience store chains, has selected the "Prasus" series of bio-based polyethylene for use in its product packaging. This collaboration marks a significant milestone in the retail sector's efforts to decouple from fossil fuel dependencies while maintaining the rigorous quality standards required for food safety and logistics.
 

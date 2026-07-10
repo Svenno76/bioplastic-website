@@ -1,16 +1,21 @@
 ---
-title: "SmartSolve Debuts Water-Soluble Bio-Based Film for Consumer Packaging"
+title: SmartSolve Debuts Water-Soluble Bio-Based Film for Consumer Packaging
 date: 2026-02-24
 draft: false
 sitemap:
   priority: 0.7
-summary: "SmartSolve launches PureNil, a proprietary bio-based and water-soluble film designed to eliminate packaging waste by dissolving completely in water."
-tags: ["SmartSolve", "PureNil", "Water-Soluble Film", "Cellulose"]
-category: "Product Launch"
-company: ["SmartSolve"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Packaging Insights"
+summary: SmartSolve launches PureNil, a proprietary bio-based and water-soluble film
+  designed to eliminate packaging waste by dissolving completely in water.
+tags: []
+category: Product Launch
+company:
+- SmartSolve
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Packaging Insights
 ---
+
 
 SmartSolve, an Ohio-based materials science company specializing in sustainable packaging technology, has announced the commercial launch of PureNil, a high-performance water-soluble film. The new material is engineered to address the growing demand for zero-waste packaging solutions in the consumer goods sector, offering a bio-based alternative to traditional single-use plastics.
 

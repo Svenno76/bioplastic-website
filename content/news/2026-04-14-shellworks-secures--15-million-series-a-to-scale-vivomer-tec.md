@@ -1,16 +1,24 @@
 ---
-title: "Shellworks Secures $15 Million Series A to Scale Vivomer Technology"
+title: Shellworks Secures $15 Million Series A to Scale Vivomer Technology
 date: 2026-04-14
 draft: false
 sitemap:
   priority: 0.7
-summary: "Shellworks has successfully raised $15 million in a Series A funding round to expand the commercial manufacturing of its microbially fermented, PHA-based bioplastic material, Vivomer."
-tags: ["Shellworks", "Vivomer", "PHA", "Microbial Fermentation", "Venture Capital"]
-category: "Investment & Funding"
-company: ["Shellworks"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Plastic Pollution Coalition"
+summary: Shellworks has successfully raised $15 million in a Series A funding round
+  to expand the commercial manufacturing of its microbially fermented, PHA-based bioplastic
+  material, Vivomer.
+tags:
+- fermentation
+- pha
+category: Investment & Funding
+company:
+- Shellworks
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Plastic Pollution Coalition
 ---
+
 
 London-based biotech startup Shellworks has announced the successful close of a $15 million Series A funding round, a significant milestone intended to accelerate the commercialization of its proprietary bioplastic material, Vivomer. The fresh injection of capital will enable the company to significantly scale its manufacturing capabilities and meet soaring global demand for sustainable packaging alternatives.
 

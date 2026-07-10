@@ -1,16 +1,19 @@
 ---
-title: "BioBTX secures €80M funding to build a pioneering facility for biobased aromatics"
+title: BioBTX secures €80M funding to build a pioneering facility for biobased aromatics
 date: 2024-12-11
 draft: false
 sitemap:
   priority: 0.7
-summary: "BioBTX has successfully secured over €80 million in funding to construct the world's first commercia"
-tags: ["BioBTX"]
-category: "Investment & Funding"
-company: ["BioBTX"]
-company_type: "Technology Company"
-source: "BioBTX"
+summary: BioBTX has successfully secured over €80 million in funding to construct
+  the world's first commercia
+tags: []
+category: Investment & Funding
+company:
+- BioBTX
+company_type: Technology Company
+source: BioBTX
 ---
+
 
 BioBTX, a Dutch pioneer in renewable aromatics, has secured over €80 million in funding to construct the world's first commercial plant producing biobased BTX—benzene, toluene, and xylene—from plastic waste and biomass. Announced in June 2024, the facility at the PETRA Circular Chemicals Plant in Delfzijl, Netherlands, will process 20,000 tons of mixed plastic waste annually, advancing the nation's 100% circular economy goal by 2050.
 

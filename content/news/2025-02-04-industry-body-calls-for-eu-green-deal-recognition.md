@@ -1,18 +1,24 @@
 ---
-
-title: "Industry Body Calls for EU Green Deal Recognition"
+title: Industry Body Calls for EU Green Deal Recognition
 date: 2025-02-04
 draft: false
 sitemap:
   priority: 0.7
-summary: "European Bioplastics urges EU policymakers to formally recognize the bioplastics sector as a critical enabler for achieving the European Green Deal's climate and circularity goals."
-tags: ["EU Green Deal", "Bio-Based Plastics", "Compostable Plastics", "Biogenic Carbon"]
-category: "Regulatory & Policy"
-company: ["European Bioplastics"]
-company_type: ["Bioplastic Producer"]
-source: "European Bioplastics"
-
+summary: European Bioplastics urges EU policymakers to formally recognize the bioplastics
+  sector as a critical enabler for achieving the European Green Deal's climate and
+  circularity goals.
+tags:
+- bio-based
+- bioplastics
+- compostable
+category: Regulatory & Policy
+company:
+- European Bioplastics
+company_type:
+- Bioplastic Producer
+source: European Bioplastics
 ---
+
 
 European Bioplastics (EUBP), the association representing the interests of the bioplastics industry across Europe, has issued a formal call to action urging European Union policymakers to integrate the bioplastics sector more deeply into the legislative framework of the European Green Deal. The organization argues that achieving a truly circular economy and climate neutrality by 2050 is impossible without a strategic shift away from fossil-based materials toward bio-based and compostable alternatives.
 

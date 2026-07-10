@@ -1,16 +1,24 @@
 ---
-title: "Celanese Opens Expanded Michigan Technology Center for Sustainable Materials"
+title: Celanese Opens Expanded Michigan Technology Center for Sustainable Materials
 date: 2026-02-23
 draft: false
 sitemap:
   priority: 0.7
-summary: "Celanese Corporation has unveiled its newly expanded Auburn Hills technology center, significantly increasing its capacity for developing sustainable polymer formulations and electric vehicle applications."
-tags: ["Celanese Corporation", "Engineered Materials", "Thermoplastics", "Automotive"]
-category: "Plant Announcement"
-company: ["Celanese Corporation"]
-company_type: ["Compounder", "Technology Company"]
-source: "Indian Chemical News"
+summary: Celanese Corporation has unveiled its newly expanded Auburn Hills technology
+  center, significantly increasing its capacity for developing sustainable polymer
+  formulations and electric vehicle applications.
+tags:
+- automotive
+- bio-pp
+category: Plant Announcement
+company:
+- Celanese Corporation
+company_type:
+- Compounder
+- Technology Company
+source: Indian Chemical News
 ---
+
 
 Celanese Corporation, a global chemical and specialty materials company, has officially inaugurated its expanded Automotive Technology Center in Auburn Hills, Michigan. The strategic expansion aims to bolster the company's capabilities in developing sustainable engineered materials and accelerating innovation for the electric vehicle (EV) market.
 

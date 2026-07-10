@@ -1,16 +1,23 @@
 ---
-title: "Launch of Biomass-Balanced Polyurethane Foam Systems"
+title: Launch of Biomass-Balanced Polyurethane Foam Systems
 date: 2026-02-26
 draft: false
 sitemap:
   priority: 0.7
-summary: "BASF introduces new certified biomass-balanced polyurethane systems designed to reduce product carbon footprints while maintaining identical performance to fossil-based equivalents."
-tags: ["BASF", "Polyurethane", "Biomass Balance", "REDcert2"]
-category: "Product Launch"
-company: ["BASF"]
-company_type: ["Bioplastic Producer"]
-source: "BASF"
+summary: BASF introduces new certified biomass-balanced polyurethane systems designed
+  to reduce product carbon footprints while maintaining identical performance to fossil-based
+  equivalents.
+tags:
+- bioplastics
+- mass-balance-approach
+category: Product Launch
+company:
+- BASF
+company_type:
+- Bioplastic Producer
+source: BASF
 ---
+
 
 BASF has announced the commercial availability of its latest generation of biomass-balanced (BMB) polyurethane foam systems, marking a significant step forward in the chemical industry's transition toward circular feedstocks. The new product line allows manufacturers in the automotive, furniture, and construction sectors to significantly lower their Product Carbon Footprint (PCF) without compromising material performance or altering existing production processes.
 

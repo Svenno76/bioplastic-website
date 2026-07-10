@@ -1,18 +1,23 @@
 ---
-
-title: "Fibre Screw Caps on Track to Be Cost-Competitive with Fossil Plastics"
+title: Fibre Screw Caps on Track to Be Cost-Competitive with Fossil Plastics
 date: 2025-11-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Blue Ocean Closures (BOC) has announced a significant breakthrough, positioning its latest fibre screw caps to match or outperform fossil plastic in material cost while drastically reducing production energy requirements. This advancement marks a pivotal moment for sustainable and cost-efficient packaging alternatives."
-tags: ["Blue Ocean Closures (BOC)", "fibre screw caps", "Sustainable Packaging", "cost-competitive", "fiber-based closures"]
-category: "Product Launch"
-company: "Blue Ocean Closures (BOC)"
-company_type: "Technology Company"
-source: "bioplastics MAGAZINE"
-
+summary: Blue Ocean Closures (BOC) has announced a significant breakthrough, positioning
+  its latest fibre screw caps to match or outperform fossil plastic in material cost
+  while drastically reducing production energy requirements. This advancement marks
+  a pivotal moment for sustainable and cost-efficient packaging alternatives.
+tags:
+- packaging
+- pbat
+- textiles
+category: Product Launch
+company: Blue Ocean Closures (BOC)
+company_type: Technology Company
+source: bioplastics MAGAZINE
 ---
+
 
 ## Details
 Blue Ocean Closures (BOC), a Swedish innovation company, has achieved a significant milestone with its latest generation of fibre screw caps. The company announced on November 5, 2025, that these caps are now on track to match or even outperform fossil plastic in material cost, while simultaneously requiring up to 90% less energy for production. This breakthrough stems from continuous advancements in BOC's proprietary forming technology, which enables the high-volume production of three-dimensional fibre components directly from new or recycled paperboard.

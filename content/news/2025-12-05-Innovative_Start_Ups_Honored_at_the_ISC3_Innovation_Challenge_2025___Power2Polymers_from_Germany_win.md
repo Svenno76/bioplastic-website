@@ -1,16 +1,22 @@
 ---
-title: "Innovative Start-Ups Honored at the ISC3 Innovation Challenge 2025 – Power2Polymers from Germany wins top prize"
+title: Innovative Start-Ups Honored at the ISC3 Innovation Challenge 2025 – Power2Polymers
+  from Germany wins top prize
 date: 2025-12-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Power2Polymers, a German startup, secured the top prize at the ISC3 Innovation Challenge 2025 for its pioneering sustainable and high-performance polymer products, which significantly reduce carbon footprint and offer an alternative to harmful PFAS chemicals."
-tags: ["Power2Polymers", "ISC3", "Sustainable Chemistry", "Innovation Challenge", "Bioplastics", "Polymers"]
-category: "Investment & Funding"
-company: "Power2Polymers"
-company_type: "Technology Company"
-source: "Informationsdienst Wissenschaft"
+summary: Power2Polymers, a German startup, secured the top prize at the ISC3 Innovation
+  Challenge 2025 for its pioneering sustainable and high-performance polymer products,
+  which significantly reduce carbon footprint and offer an alternative to harmful
+  PFAS chemicals.
+tags:
+- bioplastics
+category: Investment & Funding
+company: Power2Polymers
+company_type: Technology Company
+source: Informationsdienst Wissenschaft
 ---
+
 
 ## Details
 Power2Polymers, a German start-up, has been honored with the prestigious ISC3 Innovation Challenge Award 2025, winning the top prize of €15,000. The award ceremony took place at the ISC3 Investor Forum during the Impact Festival in Frankfurt on November 26-27, 2025. The company was recognized for its ground-breaking work in developing sustainable and high-performance polymer products, aligning with this year's challenge theme of "Sustainable Chemistry and Climate Change."

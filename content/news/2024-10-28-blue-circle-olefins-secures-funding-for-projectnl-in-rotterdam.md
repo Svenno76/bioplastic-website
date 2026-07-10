@@ -1,17 +1,21 @@
 ---
-title: "Blue Circle Olefins secures funding for ProjectNL in Rotterdam"
+title: Blue Circle Olefins secures funding for ProjectNL in Rotterdam
 date: 2024-10-28
 draft: false
-summary: "Blue Circle Olefins secured funding to advance ProjectNL, commercial Methanol to Olefins production facility in Rotterdam, Netherlands. Project aims to produce sustainable olefins from renewable methanol."
-tags: ["Blue Circle Olefins", "ProjectNL", "Rotterdam", "sustainable olefins", "renewable methanol", "funding"]
-category: "Investment & Funding"
-company: ["Blue Circle Olefins"]
-company_type: "Bioplastic Producer"
-source: "Gemini search"
-featured_image: "/images/news/blue-circle-olefins-projectnl-rotterdam.jpg"
+summary: Blue Circle Olefins secured funding to advance ProjectNL, commercial Methanol
+  to Olefins production facility in Rotterdam, Netherlands. Project aims to produce
+  sustainable olefins from renewable methanol.
+tags: []
+category: Investment & Funding
+company:
+- Blue Circle Olefins
+company_type: Bioplastic Producer
+source: Gemini search
+featured_image: /images/news/blue-circle-olefins-projectnl-rotterdam.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ![Blue Circle Olefins ProjectNL sustainable olefins facility Rotterdam](/images/news/blue-circle-olefins-projectnl-rotterdam.jpg)
 

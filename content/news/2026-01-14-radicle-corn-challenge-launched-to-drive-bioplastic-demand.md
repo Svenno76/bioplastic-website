@@ -1,16 +1,20 @@
 ---
-title: "Radicle Corn Challenge Launched to Drive Bioplastic Demand"
+title: Radicle Corn Challenge Launched to Drive Bioplastic Demand
 date: 2026-01-14
 draft: false
 sitemap:
   priority: 0.7
-summary: "Radicle Growth has unveiled a new global competition designed to accelerate the development of corn-derived bioplastics, offering significant investment to innovators in the sustainable materials space."
-tags: ["Radicle Growth"]
-category: "Investment & Funding"
-company: ["Radicle Growth"]
-company_type: "Consulting"
-source: "Ethanol Producer Magazine"
+summary: Radicle Growth has unveiled a new global competition designed to accelerate
+  the development of corn-derived bioplastics, offering significant investment to
+  innovators in the sustainable materials space.
+tags: []
+category: Investment & Funding
+company:
+- Radicle Growth
+company_type: Consulting
+source: Ethanol Producer Magazine
 ---
+
 
 ## A New Frontier for Sustainable Materials
 

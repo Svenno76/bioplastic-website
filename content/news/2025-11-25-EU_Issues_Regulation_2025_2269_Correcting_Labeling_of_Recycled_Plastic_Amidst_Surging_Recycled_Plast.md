@@ -1,17 +1,24 @@
 ---
-title: "EU Issues Regulation 2025/2269 Correcting Labeling of Recycled Plastic Amidst Surging Recycled Plastic Market"
+title: EU Issues Regulation 2025/2269 Correcting Labeling of Recycled Plastic Amidst
+  Surging Recycled Plastic Market
 date: 2025-11-25
 draft: false
-summary: "EU Commission Regulation 2025/2269 corrects rules on labeling of recycled plastic, recycling technology development, and authorization transfers for food contact materials."
-tags: ["European Commission", "Regulation 2025/2269", "recycled plastic", "food contact", "labeling", "regulatory policy"]
-category: "Regulatory & Policy"
-company: ["European Commission"]
-company_type: "Government Body"
-source: "SGS Regulatory News"
-featured_image: "/images/news/eu-regulation-2025-2269-recycled-plastic-labeling.jpg"
+summary: EU Commission Regulation 2025/2269 corrects rules on labeling of recycled
+  plastic, recycling technology development, and authorization transfers for food
+  contact materials.
+tags:
+- bioplastics
+- recycled-content
+category: Regulatory & Policy
+company:
+- European Commission
+company_type: Government Body
+source: SGS Regulatory News
+featured_image: /images/news/eu-regulation-2025-2269-recycled-plastic-labeling.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ![EU Regulation 2025/2269 recycled plastic labeling](/images/news/eu-regulation-2025-2269-recycled-plastic-labeling.jpg)
 

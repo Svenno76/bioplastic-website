@@ -4,11 +4,14 @@ company: FutureBio Inc.
 date: 2025-12-15
 link: https://www.futurebio.net/news
 category:
-  - Investment & Funding
-  - Product Launch
+- Investment & Funding
+- Product Launch
 sitemap:
   priority: 0.7
+tags:
+- bioplastics
 ---
+
 ### Expert Analysis: FutureBio Inc. Advances Cost-Competitive, Recyclable Bioplastics
 
 FutureBio Inc., a biotech startup headquartered in Berkeley, California, is emerging as a significant player in the sustainable materials sector with its focus on developing completely recyclable and cost-competitive plastics. Founded in 2024, the company's core mission revolves around combating climate change, reducing carbon emissions, and promoting a circular economy through innovative biomanufacturing solutions.

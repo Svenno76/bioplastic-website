@@ -1,16 +1,18 @@
 ---
-
-title: "Breaking the Plastic Wave 2025: Global Report Warns of Doubling Pollution Without Urgent Action"
+title: 'Breaking the Plastic Wave 2025: Global Report Warns of Doubling Pollution
+  Without Urgent Action'
 date: 2025-12-03
 draft: false
 sitemap:
   priority: 0.7
-summary: "New landmark report from The Pew Charitable Trusts reveals plastic pollution could more than double "
-tags: ['The Pew Charitable Trusts', 'Regulatory & Policy']
-category: "Regulatory & Policy"
-company: "The Pew Charitable Trusts"
-source: "The Pew Charitable Trusts"
+summary: 'New landmark report from The Pew Charitable Trusts reveals plastic pollution
+  could more than double '
+tags: []
+category: Regulatory & Policy
+company: The Pew Charitable Trusts
+source: The Pew Charitable Trusts
 ---
+
 
 The Pew Charitable Trusts released a landmark report warning that **plastic pollution will more than double from 130 million to 280 million metric tons by 2040** unless urgent systemic action is implemented globally. Published in December 2025, "Breaking the Plastic Wave 2025" reveals that plastic production will grow 52% over the next 15 years, outpacing waste management capacity expansion. The analysis, developed with support from Systemiq and other leading institutions, underscores the accelerating environmental and health crisis driven by rising consumption patterns worldwide.
 

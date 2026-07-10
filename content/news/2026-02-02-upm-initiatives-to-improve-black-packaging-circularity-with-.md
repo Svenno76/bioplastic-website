@@ -1,16 +1,24 @@
 ---
-title: "UPM Initiatives to Improve Black Packaging Circularity with Bio-materials"
+title: UPM Initiatives to Improve Black Packaging Circularity with Bio-materials
 date: 2025-12-11
 draft: false
 sitemap:
   priority: 0.7
-summary: "UPM Biochemicals has unveiled a novel bio-based, carbon-negative, and NIR-detectable black pigment designed to resolve sorting inefficiencies in premium black plastic packaging."
-tags: ["UPM", "UPM Circular Renewable Black", "Wood-based fillers"]
-category: "Product Launch"
-company: ["UPM"]
-company_type: ["Additive Producer", "Bioplastic Producer"]
-source: "Packaging Europe"
+summary: UPM Biochemicals has unveiled a novel bio-based, carbon-negative, and NIR-detectable
+  black pigment designed to resolve sorting inefficiencies in premium black plastic
+  packaging.
+tags:
+- bioplastics
+- circular-economy
+category: Product Launch
+company:
+- UPM
+company_type:
+- Additive Producer
+- Bioplastic Producer
+source: Packaging Europe
 ---
+
 
 ## Solving the "Invisible" Waste Problem
 

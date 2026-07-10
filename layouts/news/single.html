@@ -29,14 +29,14 @@
             <span>by Sven Cammerer</span>
             {{ end }}
             {{ if .Params.tags }}
-            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-              {{ range .Params.tags }}
-              <span style="background: rgba(82, 169, 140, 0.1); color: var(--color-primary-dark); padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.85rem;">
-                {{ . | title }}
-              </span>
-              {{ end }}
-            </div>
-            {{ end }}
+                    <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                      {{ range .Params.tags }}
+                      <a href="/glossary/{{ . | lower }}/" style="background: rgba(82, 169, 140, 0.1); color: var(--color-primary-dark); padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.85rem; text-decoration: none; transition: all 0.2s;">
+                        {{ . | title }}
+                      </a>
+                      {{ end }}
+                    </div>
+                    {{ end }}
           </div>
         </header>
 

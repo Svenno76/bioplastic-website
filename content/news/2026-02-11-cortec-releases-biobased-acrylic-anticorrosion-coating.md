@@ -1,16 +1,22 @@
 ---
-title: "Cortec Releases Biobased Acrylic Anticorrosion Coating"
+title: Cortec Releases Biobased Acrylic Anticorrosion Coating
 date: 2026-02-11
 draft: false
 sitemap:
   priority: 0.7
-summary: "Cortec Corporation has launched a new high-performance biobased acrylic coating that integrates proprietary corrosion inhibition technology with renewable raw materials."
-tags: ["Cortec Corporation", "Acrylic", "Anticorrosion", "VpCI", "USDA Certified Biobased"]
-category: "Product Launch"
-company: ["Cortec Corporation"]
-company_type: ["Technology Company"]
-source: "World Bio Market Insights"
+summary: Cortec Corporation has launched a new high-performance biobased acrylic coating
+  that integrates proprietary corrosion inhibition technology with renewable raw materials.
+tags:
+- bio-based
+- bioplastics
+category: Product Launch
+company:
+- Cortec Corporation
+company_type:
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 Cortec Corporation has announced the release of a new biobased acrylic anticorrosion coating, marking a significant advancement in the development of sustainable industrial protectants. This latest addition to Cortec’s portfolio is designed to replace traditional petroleum-based coatings, offering a solution that reduces environmental impact without sacrificing the durability required for heavy-duty metal protection.
 

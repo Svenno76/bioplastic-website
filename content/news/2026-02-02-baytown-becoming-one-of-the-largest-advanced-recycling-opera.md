@@ -1,16 +1,25 @@
 ---
-title: "Baytown becoming one of the largest advanced recycling operations in the world"
+title: Baytown becoming one of the largest advanced recycling operations in the world
 date: 2026-02-03
 draft: false
 sitemap:
   priority: 0.7
-summary: "ExxonMobil expands its Baytown facility to solidify its status as one of the world's largest advanced recycling hubs, utilizing proprietary technology to convert plastic waste into circular polymers."
-tags: ["ExxonMobil", "Advanced Recycling", "Chemical Recycling", "Exxtend", "Circular Polymers"]
-category: "Plant Announcement"
-company: ["ExxonMobil"]
-company_type: ["Recycler", "Technology Company"]
-source: "LinkedIn"
+summary: ExxonMobil expands its Baytown facility to solidify its status as one of
+  the world's largest advanced recycling hubs, utilizing proprietary technology to
+  convert plastic waste into circular polymers.
+tags:
+- bioplastics
+- chemical-recycling
+- circular-economy
+category: Plant Announcement
+company:
+- ExxonMobil
+company_type:
+- Recycler
+- Technology Company
+source: LinkedIn
 ---
+
 
 ExxonMobil continues to scale its circularity ambitions, with its Baytown, Texas facility now positioned as one of the largest advanced recycling operations globally. As of early 2026, the integrated complex has significantly ramped up its processing capacity, marking a pivotal moment for the chemical recycling sector and the broader sustainable materials market.
 

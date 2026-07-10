@@ -1,17 +1,18 @@
 ---
-
-title: "Scientists Develop New Plastics That Break Down Safely Instead of Polluting"
+title: Scientists Develop New Plastics That Break Down Safely Instead of Polluting
 date: 2025-12-02
 draft: false
 sitemap:
   priority: 0.7
-summary: "Rutgers University scientists have engineered novel plastics that naturally degrade under everyday c"
-tags: ['Rutgers University', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "Rutgers University"
-company_type: "University"
-source: "Rutgers University"
+summary: Rutgers University scientists have engineered novel plastics that naturally
+  degrade under everyday c
+tags: []
+category: Product Launch
+company: Rutgers University
+company_type: University
+source: Rutgers University
 ---
+
 
 Rutgers University researchers have unveiled a breakthrough in sustainable materials: **programmable plastics that degrade safely under everyday conditions**. Led by chemist Yuwei Gu, the team published their findings in *Nature Chemistry*, demonstrating a nature-inspired approach that could fundamentally transform plastic waste management. The innovation addresses a critical environmental challenge by enabling synthetic polymers to break down naturally, unlike conventional plastics that persist for centuries.
 

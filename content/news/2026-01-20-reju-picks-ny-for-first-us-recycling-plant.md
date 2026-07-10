@@ -1,16 +1,23 @@
 ---
-title: "Reju picks NY for first US recycling plant"
+title: Reju picks NY for first US recycling plant
 date: 2026-01-20
 draft: false
 sitemap:
   priority: 0.7
-summary: "Reju has selected New York as the location for its first U.S. facility dedicated to the chemical regeneration of polyester textile waste."
-tags: ["Reju", "Polyester", "Textile Recycling"]
-category: "Plant Announcement"
-company: ["Reju"]
-company_type: ["Recycler", "Technology Company"]
-source: "Apparel Insider"
+summary: Reju has selected New York as the location for its first U.S. facility dedicated
+  to the chemical regeneration of polyester textile waste.
+tags:
+- bioplastics
+- chemical-recycling
+category: Plant Announcement
+company:
+- Reju
+company_type:
+- Recycler
+- Technology Company
+source: Apparel Insider
 ---
+
 
 Reju, a company specializing in textile-to-textile regeneration, has officially selected New York as the site for its first recycling plant in the United States. This announcement marks a significant expansion for the company, signaling its entry into the North American market to address the growing crisis of textile waste.
 

@@ -1,16 +1,21 @@
 ---
-title: "Novamont Develops New Marine-Biodegradable Film"
+title: Novamont Develops New Marine-Biodegradable Film
 date: 2025-08-10
 draft: false
-summary: "Italian bioplastics pioneer Novamont introduces a revolutionary film that biodegrades in marine environments within 6 months."
-tags: ["Novamont", "marine biodegradable", "Mater-Bi", "biodegradable film", "ocean pollution"]
-category: "Product Launch"
-company: ["Novamont"]
-company_type: "Bioplastic Producer"
-featured_image: "/images/news/novamont-marine-biodegradable-film.jpg"
+summary: Italian bioplastics pioneer Novamont introduces a revolutionary film that
+  biodegrades in marine environments within 6 months.
+tags:
+- biodegradable
+- bioplastics
+category: Product Launch
+company:
+- Novamont
+company_type: Bioplastic Producer
+featured_image: /images/news/novamont-marine-biodegradable-film.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ![Novamont marine-biodegradable Mater-Bi film for sustainable packaging](/images/news/novamont-marine-biodegradable-film.jpg)
 

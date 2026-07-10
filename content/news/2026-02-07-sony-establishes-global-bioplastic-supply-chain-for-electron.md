@@ -1,16 +1,23 @@
 ---
-title: "Sony Establishes Global Bioplastic Supply Chain for Electronics"
+title: Sony Establishes Global Bioplastic Supply Chain for Electronics
 date: 2026-02-07
 draft: false
 sitemap:
   priority: 0.7
-summary: "Sony Corporation collaborates with Neste to operationalize the world's first global supply chain integrating renewable hydrocarbons into high-performance electronic device manufacturing."
-tags: ["Sony Corporation", "Neste", "Neste RE", "Renewable Hydrocarbons"]
-category: "Partnerships"
-company: ["Sony Corporation", "Neste"]
-company_type: ["Technology Company", "Bioplastic Producer"]
-source: "Green Prophet"
+summary: Sony Corporation collaborates with Neste to operationalize the world's first
+  global supply chain integrating renewable hydrocarbons into high-performance electronic
+  device manufacturing.
+tags: []
+category: Partnerships
+company:
+- Sony Corporation
+- Neste
+company_type:
+- Technology Company
+- Bioplastic Producer
+source: Green Prophet
 ---
+
 
 ## A Milestone for Sustainable Electronics
 

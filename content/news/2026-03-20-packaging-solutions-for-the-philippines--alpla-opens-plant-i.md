@@ -1,16 +1,24 @@
 ---
-title: "Packaging solutions for the Philippines: ALPLA opens plant in Calamba City"
+title: 'Packaging solutions for the Philippines: ALPLA opens plant in Calamba City'
 date: 2026-03-20
 draft: false
 sitemap:
   priority: 0.7
-summary: "Global packaging manufacturer ALPLA has inaugurated a state-of-the-art facility in Calamba City to advance sustainable packaging and bioplastic production capabilities within the Southeast Asian market."
-tags: ["ALPLA", "Philippines", "Bio-PET", "PHA", "Injection Moulding"]
-category: "Plant Announcement"
-company: ["ALPLA"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "ALPLA Newsroom"
+summary: Global packaging manufacturer ALPLA has inaugurated a state-of-the-art facility
+  in Calamba City to advance sustainable packaging and bioplastic production capabilities
+  within the Southeast Asian market.
+tags:
+- bio-pet
+- pha
+category: Plant Announcement
+company:
+- ALPLA
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: ALPLA Newsroom
 ---
+
 
 ## Expanding Sustainable Packaging in Southeast Asia
 

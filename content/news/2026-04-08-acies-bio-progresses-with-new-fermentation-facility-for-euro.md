@@ -1,16 +1,23 @@
 ---
-title: "Acies Bio Progresses with New Fermentation Facility for European Markets"
+title: Acies Bio Progresses with New Fermentation Facility for European Markets
 date: 2026-04-08
 draft: false
 sitemap:
   priority: 0.7
-summary: "Acies Bio is rapidly advancing the construction of its new European fermentation facility, a strategic expansion designed to alleviate biomanufacturing bottlenecks and scale up the production of bio-based polymers."
-tags: ["Acies Bio", "Fermentation", "Biomanufacturing", "PHA", "Biomonomers"]
-category: "Plant Announcement"
-company: ["Acies Bio"]
-company_type: ["Technology Company"]
-source: "World Bio Market Insights"
+summary: Acies Bio is rapidly advancing the construction of its new European fermentation
+  facility, a strategic expansion designed to alleviate biomanufacturing bottlenecks
+  and scale up the production of bio-based polymers.
+tags:
+- fermentation
+- pha
+category: Plant Announcement
+company:
+- Acies Bio
+company_type:
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 European biotechnology specialist Acies Bio has announced significant progress in the construction and expansion of its new state-of-the-art fermentation facility. Positioned to serve the broader European market, the site will provide much-needed scale-up capacity for the production of bioplastics, biochemicals, and next-generation biomaterials.
 

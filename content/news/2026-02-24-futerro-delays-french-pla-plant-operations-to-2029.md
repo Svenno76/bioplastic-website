@@ -1,18 +1,23 @@
 ---
-
-title: "Futerro Delays French PLA Plant Operations to 2029"
+title: Futerro Delays French PLA Plant Operations to 2029
 date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.7
-summary: "Belgian bioplastics producer Futerro has postponed the operational launch of its vertically integrated PLA biorefinery in Normandy to 2029 amidst broader European industrial headwinds."
-tags: ["Futerro", "PLA", "Biorefinery"]
-category: "Plant Announcement"
-company: ["Futerro"]
-company_type: ["Bioplastic Producer"]
-source: "Argus Media"
-
+summary: Belgian bioplastics producer Futerro has postponed the operational launch
+  of its vertically integrated PLA biorefinery in Normandy to 2029 amidst broader
+  European industrial headwinds.
+tags:
+- biorefinery
+- pla
+category: Plant Announcement
+company:
+- Futerro
+company_type:
+- Bioplastic Producer
+source: Argus Media
 ---
+
 
 Belgian bioplastics producer Futerro has officially adjusted the timeline for its flagship vertically integrated biorefinery in Port-Jérôme-sur-Seine, France. The company now projects the facility will commence operations in 2029, a shift from previous targets that aimed for a start-up closer to 2027.
 

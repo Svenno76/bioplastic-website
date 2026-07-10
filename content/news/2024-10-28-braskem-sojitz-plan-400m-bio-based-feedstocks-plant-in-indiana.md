@@ -1,17 +1,24 @@
 ---
-title: "Braskem-Sojitz plan $400M bio-based feedstocks plant in Indiana"
+title: Braskem-Sojitz plan $400M bio-based feedstocks plant in Indiana
 date: 2024-10-28
 draft: false
-summary: "Braskem SA and Sojitz Corp planning $400 million joint venture facility in Lafayette, Indiana to produce bio-based plastic feedstocks, expanding North American sustainable materials capacity."
-tags: ["Braskem", "Sojitz", "bio-based feedstocks", "Indiana", "joint venture", "North America", "green polyethylene"]
-category: "Plant Announcement"
-company: ["Braskem", "Sojitz"]
-company_type: "Bioplastic Producer"
-source: "Gemini search"
-featured_image: "/images/news/braskem-sojitz-indiana-bio-feedstocks.jpg"
+summary: Braskem SA and Sojitz Corp planning $400 million joint venture facility in
+  Lafayette, Indiana to produce bio-based plastic feedstocks, expanding North American
+  sustainable materials capacity.
+tags:
+- bioplastics
+- feedstock
+category: Plant Announcement
+company:
+- Braskem
+- Sojitz
+company_type: Bioplastic Producer
+source: Gemini search
+featured_image: /images/news/braskem-sojitz-indiana-bio-feedstocks.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ![Braskem Sojitz bio-based feedstocks plant Indiana](/images/news/braskem-sojitz-indiana-bio-feedstocks.jpg)
 

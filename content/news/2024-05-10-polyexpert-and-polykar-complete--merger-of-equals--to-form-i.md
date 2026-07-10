@@ -1,16 +1,27 @@
 ---
-title: "PolyExpert and Polykar Complete 'Merger of Equals' to Form Invera Flexibles"
+title: PolyExpert and Polykar Complete 'Merger of Equals' to Form Invera Flexibles
 date: 2024-05-10
 draft: false
 sitemap:
   priority: 0.7
-summary: "PolyExpert and Polykar Industries have successfully finalized a merger of equals to establish Invera Flexibles, creating a new North American leader in sustainable and compostable flexible packaging."
-tags: ["PolyExpert", "Polykar Industries", "Invera Flexibles", "Compostable Films", "PBAT", "PLA"]
-category: "M&A"
-company: ["PolyExpert", "Polykar Industries", "Invera Flexibles"]
-company_type: ["Bioplastic Producer", "Recycler"]
-source: "Eco-Plastics in Packaging"
+summary: PolyExpert and Polykar Industries have successfully finalized a merger of
+  equals to establish Invera Flexibles, creating a new North American leader in sustainable
+  and compostable flexible packaging.
+tags:
+- compostable
+- pbat
+- pla
+category: M&A
+company:
+- PolyExpert
+- Polykar Industries
+- Invera Flexibles
+company_type:
+- Bioplastic Producer
+- Recycler
+source: Eco-Plastics in Packaging
 ---
+
 
 ## A New Era in Flexible Packaging
 

@@ -1,17 +1,26 @@
 ---
-title: "Bcomp: Sustainable Lightweighting – Decarbonising the World with Natural Fibre Biocomposites"
+title: 'Bcomp: Sustainable Lightweighting – Decarbonising the World with Natural Fibre
+  Biocomposites'
 date: 2026-06-12
 draft: false
 sitemap:
   priority: 0.7
-featured_image: "/images/news/radici-bionside-bio-nylon-fakuma.jpg"
-summary: "Bcomp is the leading solutions provider for natural fibre reinforcements in high-performance applications. Their ampliTex™ technical fabrics and powerRibs™ reinforcement grid enable natural fibre parts to match metal performance, decarbonising industries from automotive to aerospace."
-tags: ["Natural Fibre", "Biocomposites", "Lightweighting", "Decarbonisation", "Bcomp", "Automotive"]
-category: "Company News"
-company: "Bcomp"
-source: "bcomp.com"
-source_url: "https://www.bcomp.com/"
+featured_image: /images/news/radici-bionside-bio-nylon-fakuma.jpg
+summary: Bcomp is the leading solutions provider for natural fibre reinforcements
+  in high-performance applications. Their ampliTex™ technical fabrics and powerRibs™
+  reinforcement grid enable natural fibre parts to match metal performance, decarbonising
+  industries from automotive to aerospace.
+tags:
+- automotive
+- bio-pp
+- construction
+- textiles
+category: Company News
+company: Bcomp
+source: bcomp.com
+source_url: https://www.bcomp.com/
 ---
+
 
 Bcomp is pioneering sustainable lightweighting through high-performance bio-based materials. The Swiss company's ampliTex™ technical fabrics offer a versatile array of options from dry fibres to prepregs, enabling large-scale back injection moulding, thermoplastic compression moulding, and low-volume prepreg applications.
 

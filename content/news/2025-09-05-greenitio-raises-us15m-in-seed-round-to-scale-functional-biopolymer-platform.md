@@ -1,16 +1,18 @@
 ---
-title: "Greenitio raises US$1.5M in Seed round to scale functional biopolymer platform"
+title: Greenitio raises US$1.5M in Seed round to scale functional biopolymer platform
 date: 2025-09-05
 draft: false
 sitemap:
   priority: 0.7
-summary: "Greenitio"
-tags: ["Greenitio"]
-category: "Investment & Funding"
-company: ["Greenitio"]
-company_type: "Additive Producer"
-source: "SGInnovate"
+summary: Greenitio
+tags: []
+category: Investment & Funding
+company:
+- Greenitio
+company_type: Additive Producer
+source: SGInnovate
 ---
+
 
 Greenitio, a Singapore-based climate-tech startup founded in 2021, has secured US$1.5 million in seed funding to scale its functional biopolymer platform. The investment, announced recently, will accelerate production of high-performance, bio-based alternatives to petrochemicals and microplastics in cosmetics and personal care products. Backed by investors like Silver Strand, the round supports Greenitio's patented green chemistry process, which transforms natural feedstocks like mushrooms into vegan chitosan derivatives, addressing the EU's 2027 ban on over 500 microplastic ingredients.
 

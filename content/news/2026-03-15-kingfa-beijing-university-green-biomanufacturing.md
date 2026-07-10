@@ -1,17 +1,24 @@
 ---
-title: "Kingfa and Beijing University Partner on Green Biomanufacturing"
+title: Kingfa and Beijing University Partner on Green Biomanufacturing
 date: 2026-03-15
 draft: false
-summary: "Kingfa Sci. & Tech. has signed a strategic cooperation agreement with Beijing University of Chemical Technology for green biomanufacturing, targeting bio-based material development using biochemical technologies and biocatalysis to replace petrochemical feedstocks."
-tags: ["Kingfa", "Green Biomanufacturing", "Bio-based", "R&D", "China", "Partnership"]
-category: "Partnership"
-company: ["Kingfa Sci. & Tech."]
-source: "Kingfa Sci. & Tech."
-featured_image: "/images/news/kingfa-beijing-biomanufacturing-1024.webp"
-image_type: "photo"
+summary: Kingfa Sci. & Tech. has signed a strategic cooperation agreement with Beijing
+  University of Chemical Technology for green biomanufacturing, targeting bio-based
+  material development using biochemical technologies and biocatalysis to replace
+  petrochemical feedstocks.
+tags:
+- bio-based
+- bioplastics
+category: Partnership
+company:
+- Kingfa Sci. & Tech.
+source: Kingfa Sci. & Tech.
+featured_image: /images/news/kingfa-beijing-biomanufacturing-1024.webp
+image_type: photo
 sitemap:
   priority: 0.7
 ---
+
 
 ## Strategic Cooperation in Green Biomanufacturing
 

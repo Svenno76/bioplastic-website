@@ -1,16 +1,24 @@
 ---
-title: "Shellworks Raises €13 Million to Scale 'Vivomer' Bioplastic Production"
+title: Shellworks Raises €13 Million to Scale 'Vivomer' Bioplastic Production
 date: 2026-03-09
 draft: false
 sitemap:
   priority: 0.7
-summary: "Biotech packaging startup Shellworks has secured €13 million in new funding to accelerate the commercial scale-up of Vivomer, its microbe-derived, compostable PHA bioplastic."
-tags: ["Shellworks", "Vivomer", "PHA", "Microbes", "Cosmetics Packaging"]
-category: "Investment & Funding"
-company: ["Shellworks"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Premium Beauty News"
+summary: Biotech packaging startup Shellworks has secured €13 million in new funding
+  to accelerate the commercial scale-up of Vivomer, its microbe-derived, compostable
+  PHA bioplastic.
+tags:
+- packaging
+- pha
+category: Investment & Funding
+company:
+- Shellworks
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Premium Beauty News
 ---
+
 
 London-based biotech startup Shellworks has successfully closed a €13 million funding round to dramatically scale the production of Vivomer, its proprietary, completely compostable bioplastic. The investment marks a vital milestone for the company as it seeks to replace conventional fossil-based plastics in the highly demanding cosmetics and personal care packaging sectors.
 

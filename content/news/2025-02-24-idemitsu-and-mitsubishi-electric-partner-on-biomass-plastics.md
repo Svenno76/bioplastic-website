@@ -1,16 +1,24 @@
 ---
-title: "Idemitsu and Mitsubishi Electric Partner on Biomass Plastics for Appliances"
+title: Idemitsu and Mitsubishi Electric Partner on Biomass Plastics for Appliances
 date: 2025-02-24
 draft: false
 sitemap:
   priority: 0.7
-summary: "Idemitsu Kosan and Mitsubishi Electric form an alliance to integrate mass-balance biomass plastics into household appliances, aiming to reduce industrial carbon footprints."
-tags: ["Idemitsu Kosan", "Mitsubishi Electric", "Mass Balance", "Polystyrene", "Polycarbonate"]
-category: "Partnerships"
-company: ["Idemitsu Kosan", "Mitsubishi Electric"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "Bioplastics News"
+summary: Idemitsu Kosan and Mitsubishi Electric form an alliance to integrate mass-balance
+  biomass plastics into household appliances, aiming to reduce industrial carbon footprints.
+tags:
+- bioplastics
+- mass-balance-approach
+category: Partnerships
+company:
+- Idemitsu Kosan
+- Mitsubishi Electric
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: Bioplastics News
 ---
+
 
 Idemitsu Kosan Co., Ltd. and Mitsubishi Electric Corporation have announced a strategic partnership aimed at establishing a supply chain for biomass-based plastics tailored for the consumer electronics sector. This collaboration marks a significant step in the Japanese manufacturing industry’s transition toward carbon neutrality, specifically targeting the reduction of greenhouse gas (GHG) emissions associated with household appliances.
 

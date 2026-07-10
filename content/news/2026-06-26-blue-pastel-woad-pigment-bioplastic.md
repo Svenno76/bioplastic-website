@@ -1,16 +1,26 @@
 ---
-title: "From Woad Leaves to Bioplastics: Blue&Pastel and NaturePlast Pioneer Natural Dye Pigments in Polymers"
+title: 'From Woad Leaves to Bioplastics: Blue&Pastel and NaturePlast Pioneer Natural
+  Dye Pigments in Polymers'
 date: 2026-06-26
 draft: false
-summary: "French startup Blue&Pastel partners with bioplastics expert NaturePlast to integrate natural woad-derived blue pigments into biobased polymer matrices — reviving a centuries-old crop for modern sustainable materials."
-tags: ["NaturePlast", "Blue&Pastel", "bio-based pigments", "natural dyes", "biocomposites", "R&D", "France", "circular economy"]
-category: "R&D Partnership"
-company: ["NaturePlast", "Blue&Pastel"]
-source_name: "NaturePlast"
-featured_image: "/images/news/blue-pastel-woad-bioplastic.jpg"
+summary: French startup Blue&Pastel partners with bioplastics expert NaturePlast to
+  integrate natural woad-derived blue pigments into biobased polymer matrices — reviving
+  a centuries-old crop for modern sustainable materials.
+tags:
+- bio-based
+- circular-economy
+- construction
+- pla
+category: R&D Partnership
+company:
+- NaturePlast
+- Blue&Pastel
+source_name: NaturePlast
+featured_image: /images/news/blue-pastel-woad-bioplastic.jpg
 sitemap:
   priority: 0.7
 ---
+
 
 ## A Historical Crop Meets Modern Material Science
 

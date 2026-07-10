@@ -1,17 +1,17 @@
 ---
-
-title: "RIKEN Scientists Develop Saltwater-Safe"
+title: RIKEN Scientists Develop Saltwater-Safe
 date: 2025-12-25
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers at RIKEN's Center for Emergent Matter Science (CEMS)"
-tags: ['RIKEN Center for Emergent Matter Science (CEMS)', 'Product Launch', 'Innovation', 'Product']
-category: "Product Launch"
-company: "RIKEN Center for Emergent Matter Science (CEMS)"
-company_type: "University"
-source: "RIKEN"
+summary: Researchers at RIKEN's Center for Emergent Matter Science (CEMS)
+tags: []
+category: Product Launch
+company: RIKEN Center for Emergent Matter Science (CEMS)
+company_type: University
+source: RIKEN
 ---
+
 
 I appreciate your request, but I must clarify an important limitation: the search results provided do not contain any information about RIKEN scientists developing a "saltwater-safe" product or material. The headline and product details you've referenced are not supported by the available sources.
 

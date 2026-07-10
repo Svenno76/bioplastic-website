@@ -1,16 +1,25 @@
 ---
-title: "TotalEnergies Starts Production at France's First Advanced Plastics Recycling Plant"
+title: TotalEnergies Starts Production at France's First Advanced Plastics Recycling
+  Plant
 date: 2026-03-24
 draft: false
 sitemap:
   priority: 0.7
-summary: "TotalEnergies has officially commenced operations at France's first advanced recycling facility, utilizing pyrolysis to convert hard-to-recycle plastic waste into feedstock for virgin-quality polymers."
-tags: ["TotalEnergies", "Advanced Recycling", "Pyrolysis", "Chemical Recycling"]
-category: "Plant Announcement"
-company: ["TotalEnergies"]
-company_type: ["Recycler"]
-source: "LinkedIn"
+summary: TotalEnergies has officially commenced operations at France's first advanced
+  recycling facility, utilizing pyrolysis to convert hard-to-recycle plastic waste
+  into feedstock for virgin-quality polymers.
+tags:
+- bioplastics
+- chemical-recycling
+- pyrolysis
+category: Plant Announcement
+company:
+- TotalEnergies
+company_type:
+- Recycler
+source: LinkedIn
 ---
+
 
 ## A Milestone for the Circular Economy in France
 

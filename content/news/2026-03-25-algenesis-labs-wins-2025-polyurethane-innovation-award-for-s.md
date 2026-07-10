@@ -1,18 +1,24 @@
 ---
-
-title: "Algenesis Labs Wins 2025 Polyurethane Innovation Award for Soleic® Technology"
+title: Algenesis Labs Wins 2025 Polyurethane Innovation Award for Soleic® Technology
 date: 2026-03-25
 draft: false
 sitemap:
   priority: 0.7
-summary: "Algenesis Labs has been awarded the 2025 Polyurethane Innovation Award for its Soleic® technology, a biodegradable, bio-based polyurethane derived from algae and non-food plants."
-tags: ["Algenesis Labs", "Soleic", "Polyurethane", "Bio-Based Polymers", "Algae-Based Plastics"]
-category: "Product Launch"
-company: ["Algenesis Labs"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "LinkedIn"
-
+summary: Algenesis Labs has been awarded the 2025 Polyurethane Innovation Award for
+  its Soleic® technology, a biodegradable, bio-based polyurethane derived from algae
+  and non-food plants.
+tags:
+- bio-based
+- bioplastics
+category: Product Launch
+company:
+- Algenesis Labs
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: LinkedIn
 ---
+
 
 ## A Milestone in Bio-Based Polymers
 

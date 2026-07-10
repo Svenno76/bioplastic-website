@@ -1,16 +1,25 @@
 ---
-title: "Pulpex Secures Funding to Build Commercial Fiber Bottle Factory"
+title: Pulpex Secures Funding to Build Commercial Fiber Bottle Factory
 date: 2025-02-28
 draft: false
 sitemap:
   priority: 0.7
-summary: "The UK's National Wealth Fund has announced a strategic investment to support Pulpex in constructing its first commercial-scale manufacturing facility for renewable fiber bottles in Scotland."
-tags: ["Pulpex", "National Wealth Fund", "Fiber Packaging", "Cellulose"]
-category: "Investment & Funding"
-company: ["Pulpex", "National Wealth Fund"]
-company_type: ["Technology Company", "Bioplastic Producer"]
-source: "Bioplastics News"
+summary: The UK's National Wealth Fund has announced a strategic investment to support
+  Pulpex in constructing its first commercial-scale manufacturing facility for renewable
+  fiber bottles in Scotland.
+tags:
+- packaging
+- pbat
+category: Investment & Funding
+company:
+- Pulpex
+- National Wealth Fund
+company_type:
+- Technology Company
+- Bioplastic Producer
+source: Bioplastics News
 ---
+
 
 The landscape of sustainable packaging has taken a significant leap forward as Pulpex secures critical financial backing to scale its operations. The UK’s National Wealth Fund (NWF) has announced its first-ever investment in Scotland, directing capital toward the construction of Pulpex’s first commercial-scale manufacturing facility.
 

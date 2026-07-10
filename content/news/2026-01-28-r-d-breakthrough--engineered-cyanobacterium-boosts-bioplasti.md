@@ -1,16 +1,23 @@
 ---
-title: "R&D Breakthrough: Engineered Cyanobacterium Boosts Bioplastic Yield"
+title: 'R&D Breakthrough: Engineered Cyanobacterium Boosts Bioplastic Yield'
 date: 2026-01-28
 draft: false
 sitemap:
   priority: 0.7
-summary: "Researchers at the University of Tuebingen have successfully engineered cyanobacteria to significantly increase the intracellular accumulation of polyhydroxybutyrate (PHB) for industrial applications."
-tags: ["University of Tuebingen", "PHB", "Cyanobacteria", "Metabolic Engineering", "PHA"]
-category: "Product Launch"
-company: ["University of Tuebingen"]
-company_type: ["University"]
-source: "Springer Nature"
+summary: Researchers at the University of Tuebingen have successfully engineered cyanobacteria
+  to significantly increase the intracellular accumulation of polyhydroxybutyrate
+  (PHB) for industrial applications.
+tags:
+- pha
+- phb
+category: Product Launch
+company:
+- University of Tuebingen
+company_type:
+- University
+source: Springer Nature
 ---
+
 
 Researchers at the University of Tuebingen have announced a significant advancement in the field of phototrophic biotechnology, revealing a newly engineered strain of cyanobacteria capable of producing industrial quantities of polyhydroxybutyrate (PHB). This development marks a critical step toward decoupling bioplastic production from agricultural feedstocks, utilizing carbon dioxide and sunlight as the primary inputs.
 

@@ -1,16 +1,20 @@
 ---
-title: "NatureWorks Expands Thailand Manufacturing Footprint and Prioritizes Closed-Loop Sustainability"
+title: NatureWorks Expands Thailand Manufacturing Footprint and Prioritizes Closed-Loop
+  Sustainability
 date: 2023-10-18
 draft: false
 sitemap:
   priority: 0.7
-summary: "NatureWorks is advancing construction on its new Ingeo™ PLA biopolymer manufacturing facility in Tha"
-tags: ["NatureWorks"]
-category: "Plant Announcement"
-company: ["NatureWorks"]
-company_type: "Bioplastic Producer"
-source: "NatureWorks"
+summary: NatureWorks is advancing construction on its new Ingeo™ PLA biopolymer manufacturing
+  facility in Tha
+tags: []
+category: Plant Announcement
+company:
+- NatureWorks
+company_type: Bioplastic Producer
+source: NatureWorks
 ---
+
 
 NatureWorks is accelerating construction on its new fully integrated Ingeo™ PLA biopolymer facility at the Nakhon Sawan Biocomplex (NBC) in Nakhon Sawan Province, Thailand, with production and start-up activities now projected for 2025. The leading biopolymer producer, jointly owned by Cargill and PTT Global Chemical, is investing over $600 million to expand its global footprint and meet surging demand for low-carbon, renewably sourced materials, emphasizing closed-loop sustainability through local sugarcane feedstock and efficient process integration.
 

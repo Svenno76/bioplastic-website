@@ -1,16 +1,25 @@
 ---
-title: "Divestment of UCY Polymers CZ Completed"
+title: Divestment of UCY Polymers CZ Completed
 date: 2026-01-20
 draft: false
 sitemap:
   priority: 0.7
-summary: "Indorama Ventures has officially completed the sale of its indirect subsidiary UCY Polymers CZ as part of a strategic portfolio optimization."
-tags: ["Indorama Ventures", "UCY Polymers CZ", "rPET", "Recycling"]
-category: "M&A"
-company: ["Indorama Ventures", "UCY Polymers CZ"]
-company_type: ["Bioplastic Producer", "Recycler"]
-source: "PETplanet Insider"
+summary: Indorama Ventures has officially completed the sale of its indirect subsidiary
+  UCY Polymers CZ as part of a strategic portfolio optimization.
+tags:
+- bioplastics
+- chemical-recycling
+- recycled-content
+category: M&A
+company:
+- Indorama Ventures
+- UCY Polymers CZ
+company_type:
+- Bioplastic Producer
+- Recycler
+source: PETplanet Insider
 ---
+
 
 Indorama Ventures Public Company Limited (IVL), a global sustainable chemical company, has officially announced the completion of the divestment of its indirect subsidiary, UCY Polymers CZ s.r.o. The transaction involves the sale of a 100 percent equity stake in the Czech Republic-based facility, marking a deliberate move in the company's ongoing strategy to optimize its global asset portfolio and improve capital efficiency.
 

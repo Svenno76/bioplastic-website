@@ -1,16 +1,22 @@
 ---
-title: "Bio-Material Solution for the Diaper Industry"
+title: Bio-Material Solution for the Diaper Industry
 date: 2026-04-01
 draft: false
 sitemap:
   priority: 0.7
-summary: "ZymoChem has published a comprehensive performance white paper detailing its BAYSE™ bio-based superabsorbent polymers, offering a scalable, renewable alternative to fossil-based polyacrylates in hygiene products."
-tags: ["ZymoChem", "BAYSE", "Superabsorbent Polymers", "SAP"]
-category: "Product Launch"
-company: ["ZymoChem"]
-company_type: ["Bioplastic Producer", "Technology Company"]
-source: "World Bio Market Insights"
+summary: ZymoChem has published a comprehensive performance white paper detailing
+  its BAYSE™ bio-based superabsorbent polymers, offering a scalable, renewable alternative
+  to fossil-based polyacrylates in hygiene products.
+tags: []
+category: Product Launch
+company:
+- ZymoChem
+company_type:
+- Bioplastic Producer
+- Technology Company
+source: World Bio Market Insights
 ---
+
 
 The global absorbent hygiene sector is undergoing a massive material transformation. ZymoChem has released its highly anticipated performance white paper for BAYSE™, a proprietary bio-based superabsorbent polymer (SAP) designed to replace the petroleum-derived materials that have long dominated the modern diaper industry. 
 

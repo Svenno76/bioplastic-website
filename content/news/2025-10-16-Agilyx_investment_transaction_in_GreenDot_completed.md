@@ -1,17 +1,23 @@
 ---
-title: "Agilyx investment transaction in GreenDot completed"
+title: Agilyx investment transaction in GreenDot completed
 date: 2025-10-16
 draft: false
 sitemap:
   priority: 0.7
-summary: "Agilyx has completed the acquisition of a 44% stake in GreenDot Global, a significant move to strengthen its European market presence and establish a global platform for supplying feedstock to the advanced recycling industry."
-tags: ["Agilyx", "GreenDot Global", "Investment", "Recycling", "Circular Economy", "Advanced Recycling", "Waste Management"]
-category: "M&A"
-company: "Agilyx"
-company_type: "Technology Company"
-source: "Agilyx"
-contact: "None"
+summary: Agilyx has completed the acquisition of a 44% stake in GreenDot Global, a
+  significant move to strengthen its European market presence and establish a global
+  platform for supplying feedstock to the advanced recycling industry.
+tags:
+- bioplastics
+- chemical-recycling
+- circular-economy
+category: M&A
+company: Agilyx
+company_type: Technology Company
+source: Agilyx
+contact: None
 ---
+
 
 ## Details of the Acquisition
 
