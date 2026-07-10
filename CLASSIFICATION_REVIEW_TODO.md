@@ -11,10 +11,12 @@
 ### 1. Blue Circle Olefins → **Technology Company** ✅
 - **Reason:** Develops circular methanol-to-olefins technology; produces ethylene/propylene building blocks, not finished bioplastics
 - **File:** `content/companies/blue-circle-olefins.md`
+- **Status:** Already correctly classified as Technology Company (verified)
 
 ### 2. Asahi Kasei Corporation → **Compounder** ✅
 - **Reason:** Large chemical company producing bio-based plastic resins (POM, PA, PPE) from bioethanol via Revolefin technology; makes the resin compounds, not end products
 - **File:** `content/companies/asahi-kasei.md`
+- **Status:** Already correctly classified as Compounder (verified)
 
 ---
 

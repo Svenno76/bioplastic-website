@@ -7,12 +7,12 @@ status: Active
 short_description: "Praj Industries is an Indian industrial biotech leader developing biofuels and bioplastics technologies. Founded 1983, the company has established India's first biopolymer demonstration facility and develops PLA and PHA bioplastics through advanced fermentation and strain engineering with ~1000 customer references globally."
 website: "https://www.praj.net"
 founded: "1983"
-employees: "Not specified"
-primary_materials: "Agri-based feedstocks, biomass, corn, sugarcane derivatives"
+employees: "1000+"
+primary_materials: "Agri-based feedstocks, biomass, corn, sugarcane derivatives, PLA, PHA"
 market_segments: "Biofuels, bioplastics, renewable chemicals, sustainable transportation, PLA, PHA"
-publicly_listed: false
-stock_ticker:
-date: '2026-02-27'
+publicly_listed: true
+stock_ticker: "BSE: 522205, NSE: PRAJIND"
+date: '2026-02-14'
 draft: false
 sitemap:
   priority: 0.8
@@ -66,4 +66,4 @@ Praj Industries Limited is a world-leading industrial biotech company headquarte
 
 ---
 
-*Last updated: February 27, 2026*
+*Last updated: February 14, 2026*
