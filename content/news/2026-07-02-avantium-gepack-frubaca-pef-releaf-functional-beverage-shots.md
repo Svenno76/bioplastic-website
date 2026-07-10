@@ -1,23 +1,13 @@
 ---
-title: Avantium Partners with Gepack and Frubaça on PEF 'releaf®' Bottles for Functional
-  Beverage Shots
-date: 2026-07-02 10:00:00+02:00
+title: "Avantium Partners with Gepack and Frubaça on PEF 'releaf®' Bottles for Functional Beverage Shots"
+date: 2026-07-02
 draft: false
-summary: Avantium collaborates with Portuguese bottle manufacturer Gepack and juice
-  producer Frubaça to trial 100% plant-based PEF bottles for the fast-growing functional
-  beverage shot segment.
-tags:
-- circular-economy
-- packaging
-- pbat
-category: Product Launch
-company:
-- Avantium
-- Gepack
-- Frubaça
-source: Avantium
-source_url: https://newsroom.avantium.com/avantium-collaborates-with-gepack-and-frubaca-on-small-pef-bottles-for-functional-beverage-shots/
-featured_image: https://images.unsplash.com/photo-1609505848969-5ae389d4b14c?w=1024&q=80
+summary: "Avantium N.V. partners with Portuguese bottle manufacturer Gepack and juice producer Frubaça to explore PEF (polyethylene furanoate) 'releaf®' in small-format bottles for functional beverage shots, demonstrating value-chain integration for sustainable packaging."
+tags: ["Avantium", "Gepack", "Frubaça", "releaf"]
+category: "Partnership"
+company: ["Avantium", "Gepack", "Frubaça"]
+source: "Avantium Newsroom"
+featured_image: "/images/news/avantium-gepack-frubaca-pef-releaf-1024.jpg"
 sitemap:
   priority: 0.7
 ---
