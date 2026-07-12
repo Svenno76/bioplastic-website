@@ -21,6 +21,12 @@
 <body>
   {{ partial "site-header.html" . }}
 
+  {{/* Handle redirect for glossary terms that point elsewhere */}}
+  {{ if .Params.redirect }}
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirect }}">
+  <script>window.location.href = "{{ .Params.redirect }}";</script>
+  {{ end }}
+
   <main>
     <div style="max-width: 50rem; margin: 0 auto; padding: 2rem;">
       <article>

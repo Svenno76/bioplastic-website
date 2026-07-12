@@ -62,7 +62,7 @@
 {{ end }}
 
 {{/* Robots */}}
-{{ if or .Params.noindex (and (eq .Kind "term") (lt (len .Pages) 5)) }}
+{{ if .Params.noindex }}
 <meta name="robots" content="noindex, nofollow">
 {{ else }}
 <meta name="robots" content="index, follow">
