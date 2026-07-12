@@ -3,12 +3,12 @@ title: "Lindex and BASF Bring Textile-to-Textile Recycled Polyamide to Lingerie 
 date: 2026-06-02T10:00:00+02:00
 draft: false
 summary: "Lindex partners with BASF to introduce loopamid® recycled polyamide into lingerie, advancing textile-to-textile circularity and supporting Lindex's 2026 target of 100% recycled or sustainably sourced materials."
-tags: ["Textile Recycling", "Polyamide", "Loopamid", "Circular Fashion", "BASF"]
+tags: ["Chemical Recycling", "Polyamide", "Circular Economy"]
 category: "Partnerships"
 company: ["BASF", "Lindex"]
 source: "BASF"
 source_url: "https://www.basf.com/global/en/media/news-releases/2026/05/p-26-095"
-featured_image: "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=1024&q=80"
+featured_image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1024&q=80"
 sitemap:
   priority: 0.7
 ---

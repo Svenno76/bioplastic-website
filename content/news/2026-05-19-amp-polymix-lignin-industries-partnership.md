@@ -3,7 +3,7 @@ title: "Strategic Partnership to Accelerate Biobased Thermoplastics in Polymer A
 date: 2026-05-19T10:00:00+02:00
 draft: false
 summary: "AMP Polymix and Lignin Industries announce exclusive distribution partnership for lignin-based thermoplastic Renol®, targeting fossil-plastic substitution in injection molding, extrusion, and 3D printing."
-tags: ["Lignin", "Biobased Thermoplastics", "Renol", "Partnership", "Circular Economy"]
+tags: ["Lignin-Based", "Bio-Based", "Drop-In", "Circular Economy"]
 category: "Partnerships"
 company: ["AMP Polymix", "Lignin Industries"]
 source: "Lignin Industries"

@@ -3,12 +3,12 @@ title: "PureCycle Advances Food-Contact PCR Solutions for New Jersey 2027 Mandat
 date: 2026-06-16T10:00:00+02:00
 draft: false
 summary: "PureCycle Technologies and IPL Schoeller unveil food-contact polypropylene containers with 20% PureFive® PCR resin for Cleveland Kitchen, demonstrating scalable compliance path for New Jersey's 2027 recycled content law."
-tags: ["PCR", "Food Contact", "Polypropylene", "Recycled Content", "PureCycle"]
+tags: ["PCR", "Food Contact", "Polypropylene", "Recycled Content"]
 category: "Product Launch"
 company: ["PureCycle"]
 source: "PureCycle Technologies"
 source_url: "https://www.globenewswire.com/news-release/2026/06/16/3313073/0/en/purecycle-advances-food-contact-pcr-solutions-to-support-new-jersey-s-2027-recycled-content-requirement.html"
-featured_image: "https://images.unsplash.com/photo-1581092921461-9315b7a905d0?w=1024&q=80"
+featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1024&q=80"
 sitemap:
   priority: 0.7
 ---
