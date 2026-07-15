@@ -1,16 +1,16 @@
 ---
 title: "Chemical Recycling Crisis? What Viridor's Closure Means for the Industry"
 date: 2026-07-15T14:30:00+02:00
-draft: false
+draft: true
 summary: "Viridor's shutdown of its European chemical recycling operations — acquired for £90M via Quantafuel — despite achieving 70-75% dry yields, exposes the brutal economics undermining the sector. Technology works, but policy gaps, cheap virgin plastic, and Chinese overcapacity are killing investment."
 tags: ["Chemical Recycling", "Pyrolysis", "Policy", "Circular Economy", "Viridor", "Quantafuel", "Market Analysis", "Investment"]
 category: "Market Analysis"
 company: ["Viridor", "Quantafuel", "Dow", "ExxonMobil", "LyondellBasell", "Borealis"]
 source: "Viridor"
 source_url: "https://www.viridor.co.uk/news/viridor-to-close-european-chemical-recycling-operations"
-featured_image: "https://images.unsplash.com/photo-1610944270798-644f044743a8?w=1024&q=80"
+featured_image: "/images/blog/chemical-recycling-crisis-hero.jpg"
 image_credit: "Photo by Bas van den Eijkhof on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1610944270798-644f044743a8"
+image_source_url: "https://unsplash.com/photos/photo-1620712943543-bcc4688e7485"
 sitemap:
   priority: 0.8
 ---
