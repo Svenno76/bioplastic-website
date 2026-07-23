@@ -8,7 +8,7 @@ category: "Product Launch"
 company: ["PureCycle"]
 source: "PureCycle Technologies"
 source_url: "https://www.globenewswire.com/news-release/2026/06/16/3313073/0/en/purecycle-advances-food-contact-pcr-solutions-to-support-new-jersey-s-2027-recycled-content-requirement.html"
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1024&q=80"
+featured_image: "/images/news/2026-06-16-purecycle-food-contact-pcr-new-jersey.png"
 sitemap:
   priority: 0.7
 ---

@@ -13,34 +13,19 @@ sitemap:
   priority: 0.7
 ---
 
-**PORTALEGRE, Portugal** — IMG Group has officially launched the **Everbio Innovation Hub**, a €15 million research and development platform at its industrial site in Portalegre, Portugal, dedicated to accelerating circular polymer solutions across its portfolio of subsidiaries.
+**PORTALEGRE, Portugal** — IMG Group has officially launched the **Everbio Innovation Hub**, a €15 million research and development platform at its industrial site in Portalegre, Portugal. The hub unifies the R&D capabilities of four IMG Group companies — **Evertis** (PET films), **Selenis** (PET resins), **Renascis** (mechanical recycling), and **Renewis** (chemical recycling) — into a single collaborative infrastructure for developing, testing, and scaling recycled and bio-based polymer materials.
 
-The hub integrates the R&D capabilities of four IMG Group companies — **Evertis** (PET films), **Selenis** (PET resins), **Renascis** (mechanical recycling), and **Renewis** (chemical recycling) — into a single collaborative infrastructure for developing, testing, and scaling recycled and bio-based polymer materials.
-
-## Strategic Rationale
-
-The investment responds to accelerating regulatory demands — particularly the EU's **Packaging and Packaging Waste Regulation (PPWR)** — which mandates increasing recycled content in packaging and drives demand for circular polymer solutions that meet food-contact and performance requirements.
+The investment responds directly to accelerating regulatory pressure, particularly the EU's **Packaging and Packaging Waste Regulation (PPWR)**, which mandates increasing recycled content in packaging and drives demand for circular polymer solutions that meet food-contact and performance requirements.
 
 > "The Everbio Innovation Hub is our answer to the industry's need for speed in circular innovation," said **João Miranda, CEO of IMG Group**. "By co-locating our subsidiaries' R&D teams with pilot-scale equipment, we collapse the timeline from lab concept to industrial validation."
 
 ## Hub Capabilities
 
-The Portalegre facility includes:
-
-- **Pilot extrusion lines** for film and sheet testing with recycled content
-- **Analytical laboratories** for material characterization and food-contact compliance
-- **PET tray-to-tray recycling** demonstration line (Renascis technology)
-- **Chemical recycling** process development for depolymerization (Renewis)
-- **Bio-based polymer** formulation and processing (Selenis/Evertis)
+The Portalegre facility brings together pilot extrusion lines for film and sheet testing with recycled content, analytical laboratories for material characterization and food-contact compliance, a PET tray-to-tray recycling demonstration line using Renascis technology, chemical recycling process development for depolymerization through Renewis, and bio-based polymer formulation and processing capabilities from Selenis and Evertis.
 
 ## Circular Portfolio Focus
 
-Initial projects target:
-
-1. **PET tray-to-tray recycling**: Closing the loop on PET thermoformed packaging
-2. **Chemical recycling of polyester**: Depolymerization to monomers for food-grade rPET
-3. **Bio-based PET/PEF blends**: Reducing fossil carbon footprint while maintaining recyclability
-4. **Multi-layer film solutions**: Design for recycling without compromising barrier performance
+Initial projects target four strategic areas. **PET tray-to-tray recycling** aims to close the loop on PET thermoformed packaging. **Chemical recycling of polyester** via depolymerization to monomers will enable food-grade rPET production. **Bio-based PET/PEF blends** seek to reduce fossil carbon footprint while maintaining recyclability. And **multi-layer film solutions** are being designed for recycling without compromising barrier performance.
 
 ## Funding & Partnerships
 

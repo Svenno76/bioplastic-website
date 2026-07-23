@@ -8,9 +8,9 @@ category: "Partnerships"
 company: ["Natur-Tec", "Bayer"]
 source: "Natur-Tec"
 source_url: "https://www.naturtec.com/news/natur-tec-india-and-bayer-develop-compostable-seedling-cups"
-featured_image: "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=1024&q=80"
-image_credit: "Photo by Neslihan Gunaydin on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1500937386664-56d1dfef3854"
+featured_image: "/images/news/2026-07-01-natur-tec-bayer-compostable-seedling-cups.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---
@@ -33,13 +33,7 @@ Pilot trials will begin in **vegetable and fruit nurseries across India**, measu
 
 ## Technical Requirements
 
-The seedling cups must meet several critical performance criteria:
-
-- **Biodegradability**: Break down within transplant cycles under composting conditions
-- **Chemical compatibility**: Resist degradation when exposed to nematicides and fungicides
-- **Structural integrity**: Maintain form during nursery handling and transport
-- **Root development support**: Enable healthy root penetration and air exchange
-- **Cost competitiveness**: Practical economics for farmer adoption
+The seedling cups must meet several critical performance criteria, including biodegradability within transplant cycles under composting conditions, chemical compatibility to resist degradation from nematicides and fungicides, structural integrity to maintain form during nursery handling and transport, and the ability to support healthy root penetration and air exchange. Crucially, they must also offer cost competitiveness for broad farmer adoption.
 
 ## Resources
 
