@@ -8,9 +8,9 @@ category: "M&A"
 company: ["Viridor"]
 source: "Viridor"
 source_url: "https://www.viridor.co.uk/news/viridor-to-close-european-chemical-recycling-operations"
-featured_image: "https://images.unsplash.com/photo-1610944270798-644f044743a8?w=1024&q=80"
-image_credit: "Photo by Bas van den Eijkhof on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1610944270798-644f044743a8"
+featured_image: "/images/news/2026-07-06-viridor-chemical-recycling-closure.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---

@@ -8,9 +8,9 @@ category: "Plant Announcement"
 company: ["DePoly"]
 source: "DePoly"
 source_url: "https://depoly.ch/en/news/depoly-inaugurates-its-showcase-plant-in-switzerland"
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1024&q=80"
-image_credit: "Photo by ThisisEngineering RAEng on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1581091226825-a6a2a5aee158"
+featured_image: "/images/news/2026-07-07-depoly-showcase-plant-switzerland.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---

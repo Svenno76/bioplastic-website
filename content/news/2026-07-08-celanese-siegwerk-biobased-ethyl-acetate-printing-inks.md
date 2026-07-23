@@ -8,9 +8,9 @@ category: "Partnerships"
 company: ["Celanese", "Siegwerk"]
 source: "Celanese"
 source_url: "https://www.celanese.com/news-media/press-releases/celanese-and-siegwerk-collaborate-on-biobased-ethyl-acetate-for-sustainable-printing-inks"
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1024&q=80"
-image_credit: "Photo by Annie Spratt on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1558618666-fcd25c85cd64"
+featured_image: "/images/news/2026-07-08-celanese-siegwerk-biobased-ethyl-acetate.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---

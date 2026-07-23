@@ -8,9 +8,9 @@ category: "Product Launch"
 company: ["PureCycle", "Motherson"]
 source: "PureCycle Technologies"
 source_url: "https://www.purecycle.com/news/purecycle-and-motherson-produce-class-a-automotive-bumper-with-30-recycled-polypropylene"
-featured_image: "https://images.unsplash.com/photo-1544829085-4333d0c8a6e6?w=1024&q=80"
-image_credit: "Photo by Obi Onyeador on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1544829085-4333d0c8a6e6"
+featured_image: "/images/news/2026-07-03-purecycle-motherson-recycled-pp-bumper.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---

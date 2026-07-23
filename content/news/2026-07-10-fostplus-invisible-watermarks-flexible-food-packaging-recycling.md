@@ -8,9 +8,9 @@ category: "Technology"
 company: ["Fost Plus", "Digimarc", "Pellenc ST", "Mondelēz International", "Ferrero", "PepsiCo", "pladis"]
 source: "Fost Plus"
 source_url: "https://fostplus.prezly.com/belgium-becomes-the-first-country-in-europe-to-test-a-sorting-technology-designed-to-turn-crisp-bags-biscuit-wrappers-and-snack-packaging-into-new-food-packaging"
-featured_image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1024&q=80"
-image_credit: "Photo by Alexander Mils on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1470071459604-3b5ec3a7fe05"
+featured_image: "/images/news/2026-07-10-fostplus-invisible-watermarks-flexible-packaging.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---
