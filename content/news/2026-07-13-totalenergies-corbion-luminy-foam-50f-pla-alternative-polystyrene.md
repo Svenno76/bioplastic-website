@@ -8,9 +8,9 @@ category: "Product Launch"
 company: ["TotalEnergies Corbion"]
 source: "TotalEnergies Corbion"
 source_url: "https://totalenergies-corbion.com/a-new-polystyrene-alternative-low-carbon-circular-pla-foam/"
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1024&q=80"
-image_credit: "Photo by Taylor Kiser on Unsplash"
-image_source_url: "https://unsplash.com/photos/photo-1558618666-fcd25c85cd64"
+featured_image: "/images/news/2026-07-13-totalenergies-corbion-luminy-foam-50f.png"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---
@@ -27,13 +27,7 @@ Luminy FOAM 50F is engineered as a drop-in replacement for polystyrene, allowing
 
 ## Technical Advantages
 
-The material combines performance and sustainability characteristics that have historically been difficult to achieve in XPLA foam packaging:
-
-- **Comparable density and functional properties** to XPS while maintaining processing efficiency on standard equipment
-- **Bio-based, industrially compostable, recyclable** — free from styrene, PFAS, and persistent microplastics
-- **High melt strength** enables stable foam production without additives or chain extenders
-- **Uniform cell morphology** for demanding applications like fresh protein packaging
-- **FDA and Korean Food Contact approved** for food applications; non-food applications in other regions
+The material combines performance and sustainability characteristics that have historically been difficult to achieve in XPLA foam packaging. It offers **comparable density and functional properties** to XPS while maintaining processing efficiency on standard equipment. The foam is **bio-based, industrially compostable, and recyclable** — free from styrene, PFAS, and persistent microplastics. Its **high melt strength** enables stable foam production without additives or chain extenders, producing **uniform cell morphology** suitable for demanding applications like fresh protein packaging. The material is **FDA and Korean Food Contact approved** for food applications, with non-food applications approved in other regions.
 
 ## Market Context
 

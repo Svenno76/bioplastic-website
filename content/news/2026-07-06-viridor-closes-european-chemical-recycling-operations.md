@@ -41,12 +41,7 @@ Viridor remains committed to delivering a circular economy, preventing waste fro
 
 ## Sector Implications
 
-The closure highlights the **commercial fragility of chemical recycling** in Europe despite technical viability:
-
-- **Technology works**: 70-75% dry yields achieved, contaminated household plastics successfully processed
-- **Economics fail**: Virgin plastic pricing undercuts recycled; recycled demand weakened
-- **Policy gap**: PPWR and ELV regulations not yet creating sufficient pull-through demand
-- **Investment risk**: High CapEx projects need long-term policy visibility
+The closure highlights the **commercial fragility of chemical recycling** in Europe despite technical viability. The technology works — 70-75% dry yields achieved with contaminated household plastics successfully processed — but the economics fail as virgin plastic pricing undercuts recycled alternatives and recycled demand has weakened. The policy gap is also significant: PPWR and ELV regulations are not yet creating sufficient pull-through demand, and high CapEx projects need long-term policy visibility to attract investment.
 
 ## Resources
 

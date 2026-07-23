@@ -37,20 +37,13 @@ For automakers and Tier 1 suppliers targeting the European market, the Motherson
 
 ## Future Development Goals
 
-The collaboration between Motherson and PureCycle lays the foundation for continued work on:
-- Automotive-grade material specifications
-- Mass production evaluation with PureFive
-- Long-term goal: closed-loop "bumper-to-bumper" recycling
-- Increasing recycled content beyond 30%
-- Expanding into additional PP applications for exterior and interior components
-
-In addition to the Belgium facility, PureCycle is building a new dissolution recycling facility in Rayong, Thailand. Both facilities are expected to be operational before 2030, expanding PureCycle's global capacity to serve the automotive supply chain as ELV mandate deadlines approach.
+The collaboration between Motherson and PureCycle lays the foundation for continued work on automotive-grade material specifications and mass production evaluation with PureFive. A long-term goal is closed-loop "bumper-to-bumper" recycling, increasing recycled content beyond 30% and expanding into additional PP applications for exterior and interior components. In addition to the Belgium facility, PureCycle is building a new dissolution recycling facility in Rayong, Thailand. Both facilities are expected to be operational before 2030, expanding PureCycle's global capacity to serve the automotive supply chain as ELV mandate deadlines approach.
 
 ## Resources
 
-- PureCycle Press Release: https://www.purecycle.com/news/purecycle-and-motherson-produce-class-a-automotive-bumper-with-30-recycled-polypropylene
-- PureCycle Website: https://www.purecycle.com/
-- Motherson Website: https://www.motherson.com/
+- [PureCycle Press Release](https://www.purecycle.com/news/purecycle-and-motherson-produce-class-a-automotive-bumper-with-30-recycled-polypropylene)
+- [PureCycle Website](https://www.purecycle.com/)
+- [Motherson Website](https://www.motherson.com/)
 
 ## Company Boilerplates
 

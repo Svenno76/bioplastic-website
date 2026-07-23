@@ -33,20 +33,13 @@ CERT's **Direct CO2 Electrolysis** technology uses an integrated proprietary CO2
 
 ## Technology Highlights
 
-- **Integrated, single-step conversion** of CO2 to ethylene — no costly intermediate feedstocks (hydrogen, ethanol, syngas) required
-- **Every tonne of ethylene produced sequesters over 3 tonnes of CO2** — molecules are chemically identical to fossil-derived ethylene
-- **Modular and scalable** — electrochemical process deployable anywhere, at any scale, enabling resilient, sovereign supply chains
-- **Drop-in compatibility** — CERT's ethylene substitutes over 200 million tonnes/year of fossil ethylene without modification to downstream manufacturing
+The technology features an **integrated, single-step conversion** of CO2 to ethylene that eliminates the need for costly intermediate feedstocks such as hydrogen, ethanol, or syngas. Every tonne of ethylene produced sequesters over three tonnes of CO2, with molecules chemically identical to fossil-derived ethylene. The **modular and scalable** electrochemical process is deployable anywhere, at any scale, enabling resilient, sovereign supply chains. CERT's ethylene offers **drop-in compatibility** as a direct substitute for over 200 million tonnes per year of fossil ethylene without modification to downstream manufacturing.
 
 ## CarbonX 2.0 Context
 
 The CarbonX program was initiated in 2023 by Tencent together with industry, investment, and ecosystem partners. Now in its second phase, CarbonX 2.0 focuses on cutting-edge CCUS, carbon removal, and long-duration energy storage technologies, soliciting proposals from early-stage teams worldwide. The program aims to build first-of-their-kind pilot projects in real industrial settings, incubate high-potential startups, and support capacity-building projects.
 
-Ten of the 16 winning teams span four critical technology areas:
-1. **Carbon Dioxide Removal (CDR)** — technologies removing CO2 directly from atmosphere
-2. **CCUS for Steel** — solutions for one of the hardest-to-abate industrial sectors
-3. **Carbon Utilization (CCU / CarbonXmade)** — converting captured CO2 into useful materials (CERT Systems)
-4. **Long-Duration Energy Storage (LDES)** — enabling stable 24/7 renewable energy systems
+Ten of the 16 winning teams span four critical technology areas: **Carbon Dioxide Removal (CDR)** technologies removing CO2 directly from the atmosphere; **CCUS for Steel** solutions for one of the hardest-to-abate industrial sectors; **Carbon Utilization (CCU / CarbonXmade)** converting captured CO2 into useful materials — including CERT Systems; and **Long-Duration Energy Storage (LDES)** enabling stable 24/7 renewable energy systems.
 
 ## Resources
 
