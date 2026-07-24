@@ -8,7 +8,7 @@ category: "Technology"
 company: ["CERT Systems"]
 source: "Tencent"
 source_url: "https://www.prnewswire.com/news-releases/tencent-backs-next-gen-decarbonization-innovators-with-catalytic-funding-through-carbonx-2-0-and-advances-progress-towards-climate-goals-302807668.html"
-featured_image: "/images/news/2026-07-09-cert-systems-carbonx-2-0-co2-ethylene.png"
+featured_image: "/images/news/2026-07-09-cert-systems-carbonx2-ethylene.png"
 image_credit: "AI-generated image (OpenAI gpt-image-2)"
 image_source_url: ""
 sitemap:
