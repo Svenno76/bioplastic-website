@@ -22,22 +22,7 @@
   <main>
     <div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
 
-      <!-- ===== 1. HERO SECTION ===== -->
-      {{ $companiesSection := .Site.GetPage "section" "companies" }}
-      <section class="hero-section">
-        <div class="hero-content">
-          <h1 class="hero-title">Your Guide to Bioplastics</h1>
-          <p class="hero-subtitle">Explore cutting-edge research, industry news, companies, and events driving the sustainable future of bioplastics</p>
-          <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem;">
-            <a href="/news/" style="display: inline-block; background: white; color: #2d5a4f; padding: 0.9rem 1.8rem; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
-              Latest News →
-            </a>
-            <a href="/companies/" style="display: inline-block; border: 2px solid white; color: white; padding: 0.8rem 1.7rem; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
-              Browse {{ len $companiesSection.Pages }} Companies →
-            </a>
-          </div>
-        </div>
-      </section>
+      
 
       <!-- ===== 2. LATEST NEWS (3 CARDS) ===== -->
       {{ $newsSection := .Site.GetPage "section" "news" }}
@@ -121,6 +106,7 @@
       {{ end }}
 
       <!-- ===== 4. CTA / GO DEEPER ===== -->
+      {{ $companiesSection := .Site.GetPage "section" "companies" }}
       <section class="cta-section">
         <h2>Go Deeper</h2>
 
