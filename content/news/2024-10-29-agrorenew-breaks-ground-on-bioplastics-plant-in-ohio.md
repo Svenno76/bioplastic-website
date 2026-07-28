@@ -1,7 +1,7 @@
 ---
 title: AgroRenew breaks ground on bioplastics plant in Ohio
 date: 2024-10-29
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: AgroRenew LLC started construction in Northeast Ohio on facility converting

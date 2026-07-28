@@ -1,7 +1,7 @@
 ---
 title: India's first large-scale PLA bioplastics plant by 2026
 date: 2024-10-30
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 noindex: true

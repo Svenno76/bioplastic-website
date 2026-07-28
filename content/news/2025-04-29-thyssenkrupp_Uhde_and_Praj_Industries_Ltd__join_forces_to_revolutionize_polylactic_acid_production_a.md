@@ -2,7 +2,7 @@
 title: thyssenkrupp Uhde and Praj Industries Ltd. join forces to revolutionize polylactic
   acid production and circular economy
 date: 2025-04-29
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: thyssenkrupp Uhde and Praj Industries Ltd. have announced a strategic partnership

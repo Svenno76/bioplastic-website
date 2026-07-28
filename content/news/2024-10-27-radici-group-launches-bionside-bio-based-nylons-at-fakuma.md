@@ -1,7 +1,7 @@
 ---
 title: Radici Group launches Bionside bio-based nylons at Fakuma
 date: 2024-10-27
-draft: false
+draft: true
 summary: Radici Group launched Bionside, new line of bio-based nylon resins at Fakuma
   2024 trade show, expanding sustainable engineering plastics portfolio for automotive
   and industrial applications.

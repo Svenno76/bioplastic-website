@@ -1,7 +1,7 @@
 ---
 title: BASF-Siemens show circuit breaker with biomass-balanced plastics
 date: 2024-10-26
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: BASF and Siemens collaborated to present circuit breaker with components

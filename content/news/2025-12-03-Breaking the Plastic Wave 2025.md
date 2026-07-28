@@ -5,15 +5,13 @@ date: 2025-12-03
 draft: false
 sitemap:
   priority: 0.7
-summary: New landmark report from The Pew Charitable Trusts reveals plastic pollution
+summary: New landmark report reveals plastic pollution
   could more than double by 2040, but offers science-based pathway to reduce annual
   pollution by 83% through systemic transformation.
 tags:
 - bioplastics
 - circular-economy
 category: Regulatory & Policy
-company: The Pew Charitable Trusts
-company_type: Research Organization
 source: The Pew Charitable Trusts
 ---
 

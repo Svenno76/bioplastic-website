@@ -1,7 +1,7 @@
 ---
 title: Lummus Technology Invests in RWDC Industries to Accelerate PHA Biopolymer Commercialization
 date: 2024-06-05
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: Lummus Technology has taken a lead investor position in RWDC Industries'

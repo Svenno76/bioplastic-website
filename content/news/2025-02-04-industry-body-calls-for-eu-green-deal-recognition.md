@@ -1,7 +1,7 @@
 ---
 title: Industry Body Calls for EU Green Deal Recognition
 date: 2025-02-04
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: European Bioplastics urges EU policymakers to formally recognize the bioplastics

@@ -1,7 +1,7 @@
 ---
 title: Pulpex Secures Funding to Build Commercial Fiber Bottle Factory
 date: 2025-02-28
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: The UK's National Wealth Fund has announced a strategic investment to support

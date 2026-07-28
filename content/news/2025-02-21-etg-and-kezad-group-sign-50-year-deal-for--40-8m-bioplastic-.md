@@ -1,7 +1,7 @@
 ---
 title: ETG and KEZAD Group Sign 50-Year Deal for $40.8M Bioplastic Facility
 date: 2025-02-27
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: ETG Bio Green Polymer has secured a 50-year land lease with KEZAD Group to

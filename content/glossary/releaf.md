@@ -1,10 +1,15 @@
 ---
 title: "releaf®"
+description: "releaf® is Avantium's brand name for PEF (polyethylene furanoate) — a 100% plant-based, recyclable polyester made from FDCA (furandicarboxylic acid) produced via Avantium's YXY® Technology. It offers superior barrier properties vs. PET and is a drop-in replacement for fossil-based polyester."
+redirect: "/companies/releaf/"
+term_type: "brand"
+parent_company: "Avantium"
+redirect_company: "/companies/avantium/"
+tags: ["bioplastic", "packaging", "circular-economy", "pef", "avantium"]
+category: "Material"
 date: 2026-07-10
 draft: false
 summary: "releaf® is Avantium's brand name for PEF (polyethylene furanoate) — a 100% plant-based, recyclable polyester made from FDCA (furandicarboxylic acid) produced via Avantium's YXY® Technology. It offers superior barrier properties vs. PET and is a drop-in replacement for fossil-based polyester."
-tags: ["bioplastic", "packaging", "circular-economy", "pef", "avantium"]
-category: "Material"
 ---
 
 ## Overview
@@ -60,70 +65,81 @@ PEF is produced from **FDCA (2,5-furandicarboxylic acid)**, which Avantium manuf
 5. **Electronics** — Barrier films for displays, flexible electronics
 
 ### Lightweighting Potential
-Due to superior mechanical properties, PEF enables **thinner walls** — reducing material use by 10–30% vs. PET for equivalent performance.
+Due to superior mechanical properties, PEF enables thinner walls and less material use.
 
-## Technology Platform: YXY®
+## Value Chain Integration
 
-### Process Steps
-1. **Dehydration** — Fructose → HMF (5-hydroxymethylfurfural)
-2. **Oxidation** — HMF → FDCA (catalytic, high selectivity)
-3. **Purification** — FDCA isolation, polymerization grade
-4. **Polycondensation** — FDCA + MEG → PEF (standard equipment)
+### Avantium YXY® Technology (Amsterdam, NL)
+- Pilot plant in Geleen, Netherlands
+- Commercial FDCA plant under development in Delfzijl
+- Technology licensing model
 
-### Commercial Status
-- **Pilot plant**: Geleen, Netherlands (operational since 2011)
-- **FDCA flagship plant**: **Delfzijl, Netherlands** — under construction/commissioning
-- **Capacity**: Targeting **5,000 t/yr FDCA** (expandable)
-- **Technology licensing**: Available for partners
+### Bottle Manufacturing Partners
+- **Gepack** (Portugal) — injection stretch blow molding
+- **Amcor** — rigid packaging development
+- **Other converters** — evaluating PEF processing
 
-## Commercial Partnerships
+### Brand Owners & Fillers
+- **Frubaça** (Portugal) — functional beverage shots
+- **Hoogesteger** — capacity reservation agreement
+- **Coca-Cola, Danone, others** — evaluation partnerships
 
-| Partner | Role | Project |
-|---------|------|---------|
-| **Coca-Cola** | Brand owner | PlantBottle™ development |
-| **Danone** | Brand owner | Bottle trials |
-| **Carlsberg** | Brand owner | Green Fiber Bottle |
-| **ALPLA** | Converter | Bottle manufacturing |
-| **Amcor** | Converter | Rigid packaging development |
-| **Hoogesteger** | Juice producer | Capacity reservation |
-| **Gepack / Frubaça** | Bottler/filler | PEF shot bottles (2026) |
+## Commercial Milestones
 
-## Regulatory & Certification
+### 2024-2025 Achievements
+- **RecyClass validation**: PEF/PET bottles fully recyclable in PET stream
+- **Amcor partnership**: Joint development of PEF rigid packaging
+- **Hoogesteger agreement**: Capacity reservation for releaf® supply
+- **Gepack/Frubaça collaboration**: PEF bottles for functional beverage shots
 
-- **Food contact**: EFSA, FDA compliance (monomer & polymer)
-- **Recyclability**: RecyClass "Design for Recycling" — fully compatible with PET stream
-- **ISCC PLUS**: Mass balance certification available
-- **REACH**: FDCA registered, no SVHC
+### Near-term Targets
+- **Delfzijl FDCA plant**: Commercial start-up (target 2026+)
+- **Scale-up**: From pilot to commercial volumes
+- **Brand launches**: First consumer products with releaf®
+
+## Environmental Benefits
+
+### Lifecycle Assessment
+- **~50-70% lower GHG emissions** vs. fossil PET (depending on MEG source)
+- **Bio-based carbon content**: Up to 100% (with bio-MEG)
+- **Circularity**: Recyclable in existing infrastructure
+- **Non-toxic**: No antimony catalysts, no acetaldehyde migration
+
+### End-of-Life
+- **Mechanical recycling**: Compatible with PET recycling (validated)
+- **Chemical recycling**: Depolymerization to monomers possible
+- **Biodegradation**: Not compostable (durable polymer), but recyclable
+- **No microplastic persistence**: Recyclable circular pathway
 
 ## Market Position
 
-| Metric | Status |
-|--------|--------|
-| **First commercial PEF** | World's first |
-| **Polymer class** | Novel polyester (not a PET copy) |
-| **IP portfolio** | 200+ patents (YXY®, FDCA, PEF, applications) |
-| **Listing** | Euronext Amsterdam/Brussels (AVTX) |
-| **Index** | AScX component |
+### Competitive Advantages
+1. **Only commercial 100% bio-based PET alternative** with superior properties
+2. **Drop-in compatibility** with existing PET production equipment
+3. **Validated recyclability** in current infrastructure
+4. **Strong IP portfolio** (200+ patents)
+5. **Proven technology** at pilot scale
 
-## Related Glossary Entries
+### Target Markets
+- **Premium beverages**: Where barrier performance justifies premium
+- **Sustainability-driven brands**: Meeting recycled/bio-based content targets
+- **Regulatory compliance**: EU PPWR, SUPD requirements
+- **Circular economy leaders**: Closed-loop packaging systems
 
-- [PEF](/glossary/pef/) *(if exists)*
-- [FDCA](/glossary/fdca/)
-- [YXY® Technology](/glossary/yxy-technology/) *(if exists)*
-- [Bio-based polyester](/glossary/bio-based/)
-- [PET](/glossary/pet/) *(if exists)*
-- [Chemical recycling](/glossary/chemical-recycling/)
-- [Circular economy](/glossary/circular-economy/)
-- [Mass balance approach](/glossary/mass-balance-approach/)
+## Company Context
 
-## Resources
+### Relationship to Avantium
+- **Brand**: releaf® = Avantium's PEF commercial brand
+- **Technology**: YXY® = Avantium's FDCA production technology
+- **Commercialization**: Avantium handles polymer supply; partners handle conversion
+- **Stock listing**: Avantium listed on Euronext Amsterdam/Brussels (AVTX)
 
-- [Avantium releaf® Website](https://releaf.bio/)
-- [Avantium YXY® Technology](https://avantium.com/products-technologies/yxy-technology/)
-- [RecyClass PEF Assessment](https://recyclass.eu/)
-- [Avantium Investor Relations](https://avantium.com/investors/)
+### Strategic Importance
+releaf® represents Avantium's primary commercialization pathway for its YXY® Technology, targeting the $50+ billion global PET market with a bio-based, higher-performing, recyclable alternative.
 
 ---
 
 *Last updated: July 10, 2026*  
-*Source: Avantium corporate communications, scientific publications, press releases*
+*Source: Avantium corporate communications, releaf® brand materials, press releases, and industry publications*  
+*Parent Company: [Avantium](/companies/avantium/)*  
+*Product Brand: [ReLeaf](/companies/releaf/)*

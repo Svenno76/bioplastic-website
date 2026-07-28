@@ -1,7 +1,7 @@
 ---
 title: Blue Ocean fiber screw caps reach cost parity with plastic
 date: 2024-10-25
-draft: false
+draft: true
 summary: Blue Ocean Closures announced its fiber screw caps now cost-competitive with
   fossil plastic caps while having lower energy consumption in production, marking
   sustainability milestone in packaging.

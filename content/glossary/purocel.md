@@ -1,10 +1,15 @@
 ---
-title: "Purocel"
+title: "Purocel™"
+description: "Evonik's portfolio of advanced catalysts and adsorbents for purifying pyrolysis oil from mixed plastic waste into steam-cracker-ready feedstock for chemical recycling."
+term_type: "technology"
+related: ["chemical-recycling", "pyrolysis-oil", "catalyst", "adsorbent", "evonik"]
+parent_company: "Evonik Industries"
+redirect_company: "/companies/evonik/"
+tags: ["chemical-recycling", "pyrolysis", "catalyst", "adsorbent", "evonik", "purification"]
+category: "Technology"
 date: 2026-07-10
 draft: false
-summary: "Purocel™ is Evonik's brand of advanced catalysts and adsorbents for purifying pyrolysis oil from mixed plastic waste into steam-cracker-ready feedstock for chemical recycling."
-tags: ["chemical-recycling", "pyrolysis", "catalyst", "adsorbent"]
-category: "Technology"
+summary: "Evonik's portfolio of advanced catalysts and adsorbents for purifying pyrolysis oil from mixed plastic waste into steam-cracker-ready feedstock for chemical recycling."
 ---
 
 ## Overview
@@ -83,7 +88,7 @@ Pyrolysis Oil
 |--------------|-------------|
 | **VESTENAMER®** | Process additive for mechanical recycling of rubber/polymers |
 | **TEGO® Cycle** | Additives enabling recyclability of coatings and adhesives |
-| **DEGACRYL®** | Recyclable adhesive systems |
+| **DEGACRYL®** | Recyclable adhesive systems for packaging |
 | **Purocel™** | **Pyrolysis oil purification for chemical recycling** |
 
 ## Resources
@@ -95,4 +100,5 @@ Pyrolysis Oil
 ---
 
 *Last updated: July 10, 2026*  
-*Source: Evonik Industries press releases and technical documentation*
+*Source: Evonik Industries press releases and technical documentation*  
+*Developer: [Evonik Industries](/companies/evonik/)*

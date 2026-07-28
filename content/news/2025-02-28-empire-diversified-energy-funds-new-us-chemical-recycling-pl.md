@@ -1,7 +1,7 @@
 ---
 title: Empire Diversified Energy Funds New US Chemical Recycling Plant
 date: 2025-02-28
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: Empire Diversified Energy secures $10 million in financing to complete the

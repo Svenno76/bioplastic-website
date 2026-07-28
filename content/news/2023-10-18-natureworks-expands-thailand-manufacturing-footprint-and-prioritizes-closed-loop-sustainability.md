@@ -2,7 +2,7 @@
 title: NatureWorks Expands Thailand Manufacturing Footprint and Prioritizes Closed-Loop
   Sustainability
 date: 2023-10-18
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: NatureWorks is advancing construction on its new Ingeo™ PLA biopolymer manufacturing

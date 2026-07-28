@@ -1,7 +1,7 @@
 ---
 title: BioBTX secures €80M funding to build a pioneering facility for biobased aromatics
 date: 2024-12-11
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: BioBTX has successfully secured over €80 million in funding to construct

@@ -1,7 +1,7 @@
 ---
 title: Bakelite acquires sustainable adhesives maker Sestec
 date: 2024-10-31
-draft: false
+draft: true
 summary: Thermoset resin producer Bakelite acquired Sestec, Polish company specializing
   in sustainable protein-based adhesives for wood and composite products, expanding
   its bio-based materials portfolio.

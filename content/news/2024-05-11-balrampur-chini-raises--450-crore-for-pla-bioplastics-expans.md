@@ -1,7 +1,7 @@
 ---
 title: Balrampur Chini Raises ₹450 Crore for PLA Bioplastics Expansion
 date: 2024-05-11
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: Balrampur Chini Mills Ltd has secured ₹450 crore to expand its Polylactic

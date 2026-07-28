@@ -2,7 +2,7 @@
 title: BIOWEG secures €16 million Series A to scale biodegradable alternatives to
   microplastics - Axeleo Capital
 date: 2023-11-22
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: BIOWEG has successfully closed a €16 million Series A funding round

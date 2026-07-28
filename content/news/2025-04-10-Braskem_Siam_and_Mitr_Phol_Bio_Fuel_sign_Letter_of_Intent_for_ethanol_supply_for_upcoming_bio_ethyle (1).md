@@ -2,7 +2,7 @@
 title: Braskem Siam and Mitr Phol Bio Fuel sign Letter of Intent for ethanol supply
   for upcoming bio-ethylene plant in Thailand
 date: 2025-04-10
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 noindex: true

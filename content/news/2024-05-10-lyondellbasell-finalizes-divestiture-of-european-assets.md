@@ -1,7 +1,7 @@
 ---
 title: LyondellBasell Finalizes Divestiture of European Assets
 date: 2026-05-10
-draft: false
+draft: true
 sitemap:
   priority: 0.7
 summary: LyondellBasell has completed the sale of select European assets to streamline
