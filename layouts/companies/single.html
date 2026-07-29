@@ -28,7 +28,7 @@
 
   <main>
 <div style="max-width: 70rem; margin: 0 auto; padding: 2rem;">
-  
+
   <!-- Company Header Card -->
   <div style="background: linear-gradient(135deg, #2d5a4f 0%, #3d7a6f 100%); color: white; padding: 3rem 2rem; border-radius: 16px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); position: relative;">
     <div class="company-card-wrapper" style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 2rem; {{ if .Params.logo }}padding-right: 220px;{{ end }}">
@@ -192,64 +192,6 @@
     
     <!-- Sidebar -->
     <aside>
-      <!-- Connect & Social -->
-      {{ if or .Params.website .Params.email .Params.phone .Params.address }}
-      <div style="background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #e5e7eb;">
-        <h3 style="color: #2d5a4f; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🔗 Connect</h3>
-
-        {{ if .Params.website }}
-        <p style="margin: 0.75rem 0; color: #475569;">
-          <a href="{{ .Params.website }}" target="_blank" rel="noopener" style="color: #3d7a6f; text-decoration: none; font-weight: 500;">🌐 Official Website →</a>
-        </p>
-        {{ end }}
-
-        {{ if .Params.twitter }}
-        <p style="margin: 0.75rem 0; color: #475569;">
-          <a href="https://twitter.com/{{ .Params.twitter | replace "@" "" }}" target="_blank" rel="noopener" style="color: #1d9bf0; text-decoration: none; font-weight: 500;">𝕏 Twitter →</a>
-        </p>
-        {{ end }}
-
-        {{ if .Params.linkedin }}
-        <p style="margin: 0.75rem 0; color: #475569;">
-          <a href="https://linkedin.com/company/{{ .Params.linkedin }}" target="_blank" rel="noopener" style="color: #0a66c2; text-decoration: none; font-weight: 500;">in LinkedIn →</a>
-        </p>
-        {{ end }}
-
-        {{ if .Params.youtube }}
-        <p style="margin: 0.75rem 0; color: #475569;">
-          <a href="https://youtube.com/{{ .Params.youtube }}" target="_blank" rel="noopener" style="color: #ff0000; text-decoration: none; font-weight: 500;">▶️ YouTube →</a>
-        </p>
-        {{ end }}
-
-        {{ if .Params.instagram }}
-        <p style="margin: 0.75rem 0; color: #475569;">
-          <a href="https://instagram.com/{{ .Params.instagram | replace "@" "" }}" target="_blank" rel="noopener" style="color: #e1306c; text-decoration: none; font-weight: 500;">📸 Instagram →</a>
-        </p>
-        {{ end }}
-
-        {{ if .Params.email }}
-        <p style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; color: #475569;">
-          <strong>Email:</strong><br>
-          <a href="mailto:{{ .Params.email }}" style="color: #3d7a6f; text-decoration: none; font-size: 0.9rem;">{{ .Params.email }}</a>
-        </p>
-        {{ end }}
-
-        {{ if .Params.phone }}
-        <p style="margin: 0.5rem 0; color: #475569;">
-          <strong>Phone:</strong><br>
-          <span style="font-size: 0.9rem;">{{ .Params.phone }}</span>
-        </p>
-        {{ end }}
-
-        {{ if .Params.address }}
-        <p style="margin: 0.5rem 0; color: #475569;">
-          <strong>Address:</strong><br>
-          <span style="font-size: 0.9rem;">{{ .Params.address }}</span>
-        </p>
-        {{ end }}
-      </div>
-      {{ end }}
-      
       <!-- Certifications -->
       {{ if .Params.certifications }}
       <div style="background: #f0fdf4; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border: 1px solid #bbf7d0;">
@@ -261,8 +203,7 @@
         </ul>
       </div>
       {{ end }}
-      
-      <!-- Related News -->
+      \n      <!-- Related News -->
       {{ $companyName := .Title }}
       {{ $relatedNews := slice }}
       {{ range where .Site.RegularPages "Section" "news" }}
