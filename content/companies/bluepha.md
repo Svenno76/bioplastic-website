@@ -24,9 +24,15 @@ sitemap:
 Bluepha is a Chinese biotechnology company founded in 2015, headquartered in Ningbo, Zhejiang Province. The company specializes in the development and commercialization of polyhydroxyalkanoates (PHA), a family of 100% biobased and fully biodegradable polymers produced through microbial fermentation from renewable resources such as plant oils, sugars, and waste streams.
 
 Bluepha's mission is to provide a scalable, sustainable alternative to conventional petroleum-based plastics, addressing the global plastic pollution crisis through circular, bio-based materials that are fully biodegradable in natural environments including soil, marine, and composting conditions.
+<<<<<<< HEAD
 
 ## Core Technology: PHA Biosynthesis Platform
 
+=======
+
+## Core Technology: PHA Biosynthesis Platform
+
+>>>>>>> 0af9613 (Add PCR plastic guide blog post (23))
 **Technology Platform:**
 
 Bluepha has developed a proprietary PHA biosynthesis platform that leverages microbial fermentation to produce polyhydroxyalkanoates (PHA) from renewable feedstocks:
@@ -43,6 +49,7 @@ Bluepha has developed a proprietary PHA biosynthesis platform that leverages mic
 - **Thermoplastic Processability**: Can be processed on conventional plastic equipment (injection molding, extrusion, blow molding, thermoforming)
 - **Barrier Properties**: Excellent oxygen and CO2 barrier properties for packaging applications
 - **Biocompatibility**: Suitable for medical and food-contact applications
+<<<<<<< HEAD
 
 ## Company Background and Strategic Positioning
 
@@ -262,6 +269,51 @@ Bluepha collaborates with TotalEnergies Corbion, a global bioplastics leader, on
 - Supply chain integration opportunities
 
 This partnership connects Bluepha with global market expertise and distribution capabilities while bringing Asian production scale to TotalEnergies Corbion's portfolio.
+=======
+
+## Product Portfolio
+
+**Bluepha PHA Resins:**
+
+- **Bluepha P3HB**: Homopolymer with high crystallinity, suitable for rigid packaging and disposable tableware
+- **Bluepha P3HB-co-3HV (PHBV)**: Copolymer with improved toughness and flexibility, suitable for films and packaging
+- **Bluepha P3HB-co-4HB (PHB4HB)**: Copolymer with enhanced elasticity and toughness, suitable for medical and high-performance applications
+- **Bluepha Compounds**: Pre-compounded grades with additives for specific processing requirements (nucleating agents, plasticizers, nucleating agents)
+
+**Product Forms:**
+- Pellets (injection molding, extrusion, blow molding grades)
+- Masterbatches (color, additive masterbatches)
+- Filaments (3D printing)
+
+## Commercial Applications
+
+**Packaging:**
+- Rigid food containers and trays
+- Flexible films and bags
+- Bottles and caps
+- Blister packaging
+- Coatings for paper/cardboard
+
+**Disposable Tableware:**
+- Cutlery, plates, cups
+- Straws and stirrers
+- Food service items
+
+**Agricultural Films:**
+- Mulch films
+- Seedling bags
+- Controlled-release fertilizer coatings
+
+**Medical Applications:**
+- Surgical sutures
+- Drug delivery systems
+- Tissue engineering scaffolds
+- Wound dressings
+
+**3D Printing:**
+- PHA filaments for FDM printing
+- Biodegradable support materials
+>>>>>>> 0af9613 (Add PCR plastic guide blog post (23))
 
 ## Commercial Scale & Milestones
 
