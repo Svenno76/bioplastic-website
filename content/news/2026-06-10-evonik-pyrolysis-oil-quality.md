@@ -8,54 +8,26 @@ category: "Technology"
 company: ["Evonik"]
 source: "Evonik"
 source_url: "https://www.evonik.com/en/news/press-releases/2026/06/Evonik-facilitates-the-chemical-recycling-of-plastics.html"
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1024&q=80"
+featured_image: "/images/news/evonik-pyrolysis-oil-quality-hero.jpg"
+image_credit: "AI-generated illustration of industrial catalysis technology"
+image_source_url: ""
 sitemap:
   priority: 0.7
 ---
 
-**ESSEN, Germany** — Evonik Industries AG has launched a comprehensive portfolio of catalysts and adsorbents under the **Purocel™** brand designed to upgrade pyrolysis oil quality for use as steam cracker feedstock, marking a significant advance in industrial-scale chemical recycling of mixed plastic waste.
+**ESSEN, Germany** — The gap between plastic waste and the petrochemical feedstock it could become has long been measured in contaminants. Chlorides that corrode steam cracker tubes, metals that poison downstream catalysts, nitrogen and oxygen compounds that destabilize the oil — these are the fingerprints of a waste stream that refuses to behave like the clean naphtha refineries are built to process. On June 10, 2026, Evonik Industries AG stepped into that gap with a comprehensive portfolio of catalysts and adsorbents under the Purocel™ brand, designed to upgrade pyrolysis oil from mixed plastic waste into a feedstock that steam crackers can accept without compromise.
 
-The new solutions address a critical bottleneck in chemical recycling: pyrolysis oil derived from mixed plastic waste typically contains contaminants — including chlorides, metals, nitrogen, and oxygen compounds — that exceed steam cracker specifications and cause corrosion, fouling, and catalyst poisoning in downstream petrochemical processes.
+The launch, announced at Evonik's Innovation Press Conference, positions chemical recycling as a strategic growth pillar for the specialty chemicals company alongside green hydrogen and sustainable catalysts. It arrives at a moment when the European Union's Packaging and Packaging Waste Regulation is writing recycled content targets into law, and mechanical recycling — effective for clean, sorted streams — is confronting the hard limits of what it can do with contaminated, mixed, and multi-layer packaging waste. Pyrolysis has emerged as the leading candidate to handle those difficult streams, converting them back into a hydrocarbon liquid. But raw pyrolysis oil has never been a drop-in feedstock. Its impurity profile varies with every waste bale, and steam crackers, which operate on thin margins and tight specifications, have little tolerance for surprises.
 
-## Technology Overview
+Evonik's response is deliberately modular. The Purocel™ catalyst line handles hydrotreatment, stripping out heteroatoms — nitrogen, oxygen, sulfur — and saturating olefins to give the oil the stability it lacks. The Purocel™ adsorbent line targets the inorganics: chloride stripped to below one part per million, metals pulled out before they can reach a cracker's catalyst bed. Between them sits process integration expertise, the engineering knowledge to configure reactors for the specific composition of a given pyrolysis oil source. The technologies have been pilot-tested with multiple oil suppliers, a practical validation that matters in an industry where feedstock variability is the rule rather than the exception.
 
-Evonik's modular approach combines:
+"Pyrolysis oil is the key to closing the loop for plastics that cannot be mechanically recycled," said Dr. Ralf Düssel, Head of Catalysts at Evonik, during the press conference. "But raw pyrolysis oil is not a drop-in feedstock. Our Purocel technologies bridge the gap between waste-derived oil and refinery specifications." The phrasing is careful — bridge, not leap — because the economics of chemical recycling still depend on integrating these upgrading steps into existing refinery infrastructure rather than building parallel greenfield complexes. Evonik is actively collaborating with pyrolysis plant operators, technology licensors, and refinery owners to embed Purocel units into chemical recycling hubs taking shape across Europe.
 
-- **Purocel™ catalysts** for hydrotreatment: remove heteroatoms (N, O, S) and saturate olefins to improve stability
-- **Purocel™ adsorbents**: selectively remove chloride, metals, and other contaminants to ppm levels
-- **Process integration expertise**: tailored reactor configurations for different pyrolysis oil compositions
-
-The technologies were presented at Evonik's Innovation Press Conference on June 10, 2026, where the company positioned chemical recycling as a strategic growth area alongside green hydrogen and sustainable catalysts.
-
-## Market Context
-
-Chemical recycling via pyrolysis is gaining traction as mechanical recycling reaches its limits with contaminated, mixed, and multi-layer plastic waste streams. The EU's Packaging and Packaging Waste Regulation (PPWR) mandates recycled content targets that will require both mechanical and chemical recycling capacity to scale rapidly.
-
-> "Pyrolysis oil is the key to closing the loop for plastics that cannot be mechanically recycled," said **Dr. Ralf Düssel, Head of Catalysts at Evonik**. "But raw pyrolysis oil is not a drop-in feedstock. Our Purocel technologies bridge the gap between waste-derived oil and refinery specifications."
-
-## Technical Advantages
-
-- **Chloride removal to <1 ppm**: critical for preventing corrosion in steam crackers
-- **Metals removal**: protects downstream catalysts from poisoning
-- **Modular design**: adaptable to varying feedstock compositions from different waste streams
-- **Commercial readiness**: pilot-tested with multiple pyrolysis oil sources
-
-## Circular Economy Impact
-
-By enabling pyrolysis oil to meet steam cracker feedstock specifications, Evonik's solutions allow plastic waste to re-enter the petrochemical value chain at the base chemical level — producing virgin-quality polymers with certified recycled content via mass balance allocation.
-
-The company is actively collaborating with pyrolysis plant operators, technology licensors, and refinery owners to integrate Purocel units into existing and new chemical recycling hubs across Europe.
-
-## Resources
-
-- [Evonik Press Release: Facilitates the Chemical Recycling of Plastics](https://www.evonik.com/en/news/press-releases/2026/06/Evonik-facilitates-the-chemical-recycling-of-plastics.html)
-- [Evonik Pyrolysis Expertise Page](https://www.evonik.com/en/company/circular-economy/expertise/pyrolysis.html)
-- [Purocel Product Brochure (PDF)](https://www.evonik.com/content/dam/evonik/documents/KA_Case%20Study_Pyrolysis-oil-PUROCEL_EN_2026-03_Letter_SCREEN.pdf.coredownload.pdf)
-
-## Company Boilerplate
-
-**Evonik Industries AG** is one of the world's leading specialty chemicals companies. The Catalysts segment develops high-performance catalysts and process technologies for the chemical and energy industries, enabling more sustainable and efficient production routes.
+The circular economy logic is straightforward in principle and demanding in practice. If pyrolysis oil can meet steam cracker specifications, plastic waste re-enters the petrochemical value chain at its origin — the cracker — producing virgin-quality polymers that carry certified recycled content through mass balance allocation. No downstream process changes, no quality compromises, no separate supply chains. The waste becomes feedstock, and the loop closes at the molecular level. Getting there requires removing chloride to levels that prevent corrosion, stripping metals that would poison the cracker's own catalysts, and doing both reliably across the shifting composition of post-consumer waste. That is the problem Evonik has built Purocel to solve, and the company's next steps will be measured not in press releases but in the tonnage of upgraded oil flowing into European crackers over the coming years.
 
 ---
 
-*Source: Evonik press release, June 10, 2026*
+Sources:
+1. Evonik, "Evonik facilitates the chemical recycling of plastics," press release, June 10, 2026. https://www.evonik.com/en/news/press-releases/2026/06/Evonik-facilitates-the-chemical-recycling-of-plastics.html
+2. Evonik, "Expertise in pyrolysis." https://www.evonik.com/en/company/circular-economy/expertise/pyrolysis.html
+3. Evonik, "Purocel product brochure." https://www.evonik.com/content/dam/evonik/documents/KA_Case%20Study_Pyrolysis-oil-PUROCEL_EN_2026-03_Letter_SCREEN.pdf.coredownload.pdf
