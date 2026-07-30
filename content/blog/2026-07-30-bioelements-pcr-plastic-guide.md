@@ -1,6 +1,6 @@
 ---
 title: "What Is PCR Plastic? Guide to Post-Consumer Recycled Content and GRS Certification"
-date: 2026-07-29
+date: 2026-07-30
 draft: false
 summary: "Bioelements provides an educational guide explaining post-consumer recycled (PCR) plastic, its role in circular packaging, and the Global Recycled Standard (GRS) certification for verifying recycled content claims."
 tags: ["PCR", "Recycled Content", "GRS Certification", "Circular Economy", "Packaging", "Standards"]

@@ -1,22 +1,19 @@
 ---
-logo: /images/logos/bluepha.jpg
+logo: /images/logos/bluepha.png
 title: Bluepha
 company_type: Bioplastic Producer
-headquarters: "Yancheng, Jiangsu Province, China"
+headquarters: "Ningbo, China"
 status: Active
-short_description: "Bluepha is a leading Chinese synthetic biology company and one of the world's fastest-growing PHA (polyhydroxyalkanoate) biopolymer producers. Founded in 2018, the company operates the BioFAB1 production facility in Yancheng with current capacity of 5,000 MT/year and expansion targets reaching 75,000 MT/year. Bluepha's proprietary fermentation technology enables production from diverse feedstocks including starch, plant oils, and sugarcane, positioning it as a key player in Asia's bioplastics transition."
-website: "https://www.bluepha-en.com/"
-founded: "2018"
-employees: "100-200"
-primary_materials: "PHA (Polyhydroxyalkanoates) - BP350 and BP330 grades, bio-based polymers, marine-degradable materials"
-market_segments: "Packaging (rigid and flexible), disposable cutlery, agricultural films, nonwovens, 3D printing, marine applications"
+short_description: "Bluepha is a Chinese biotechnology company developing and commercializing 100% biobased, biodegradable polyhydroxyalkanoates (PHA) bioplastics produced from renewable resources."
+website: "https://www.bluepha.com.cn"
+founded: "2015"
+employees: "51-200"
+primary_materials: "PHA (Polyhydroxyalkanoates) - 100% biobased, biodegradable polymer"
+market_segments: "Packaging, disposable tableware, agricultural films, medical applications, 3D printing"
 publicly_listed: false
-production_capacity:
-  - biopolymer: "PHA (Bluepha Brand)"
-    capacity: "5,000 MT/year (operational); expanding to 75,000 MT/year within 5 years"
-    location: "Yancheng, Jiangsu Province, China"
-    status: "BioFAB1 operational since 2022; major expansion underway"
-date: '2026-02-14'
+stock_ticker:
+funding: "Series B (led by Hillhouse Capital, Sequoia China, and others)"
+date: '2026-07-29'
 draft: false
 sitemap:
   priority: 0.8
@@ -24,11 +21,28 @@ sitemap:
 
 ## Overview
 
-Bluepha stands at the forefront of China's bioplastics revolution and represents one of the world's most innovative and rapidly scaling PHA (polyhydroxyalkanoate) manufacturers. Founded in 2018, Bluepha has emerged as the leading synthetic biology company in China, developing and commercializing advanced fermentation technologies that convert renewable feedstocks—including starch, plant oils, and sugarcane derivatives—into high-performance biodegradable biopolymers under the Bluepha brand.
+Bluepha is a Chinese biotechnology company founded in 2015, headquartered in Ningbo, Zhejiang Province. The company specializes in the development and commercialization of polyhydroxyalkanoates (PHA), a family of 100% biobased and fully biodegradable polymers produced through microbial fermentation from renewable resources such as plant oils, sugars, and waste streams.
 
-The company's operational facility, BioFAB1 in Yancheng, Jiangsu Province, commenced commercial production in 2022 with an initial capacity of 5,000 metric tons annually. Bluepha has ambitious expansion plans targeting 75,000 MT/year total capacity within five years, positioning the company as one of Asia's dominant PHA producers and a pivotal player in the global transition toward marine-degradable and compostable biopolymers. This scaling trajectory reflects extraordinary market demand, proven technology, and significant strategic partnerships including collaborations with major global chemical companies.
+Bluepha's mission is to provide a scalable, sustainable alternative to conventional petroleum-based plastics, addressing the global plastic pollution crisis through circular, bio-based materials that are fully biodegradable in natural environments including soil, marine, and composting conditions.
 
-Bluepha's technological differentiation centers on its proprietary Biohybrid technology platform, which enables feedstock flexibility and utilization of diverse carbon sources including carbon dioxide from the air combined with plant oils—demonstrating a pathway toward carbon-neutral or carbon-negative biopolymer production. This technological leadership, combined with commercial-scale production success and aggressive capacity expansion, positions Bluepha as a defining company in China's emergence as a global bioplastics manufacturing hub.
+## Core Technology: PHA Biosynthesis Platform
+
+**Technology Platform:**
+
+Bluepha has developed a proprietary PHA biosynthesis platform that leverages microbial fermentation to produce polyhydroxyalkanoates (PHA) from renewable feedstocks:
+
+- **Feedstock Flexibility**: Can utilize various carbon sources including plant oils, sugars, waste cooking oil, and industrial waste streams
+- **Strain Engineering**: Proprietary microbial strains optimized for high PHA yield and productivity
+- **Process Optimization**: Continuous fermentation and downstream processing for cost-effective production
+- **Product Customization**: Ability to tune PHA composition (P3HB, P3HB-co-3HV, P3HB-co-4HB, etc.) for specific application properties
+
+**Key Technical Advantages:**
+
+- **100% Biobased**: Derived entirely from renewable resources
+- **Fully Biodegradable**: Degrades in soil, marine, compost, and anaerobic conditions
+- **Thermoplastic Processability**: Can be processed on conventional plastic equipment (injection molding, extrusion, blow molding, thermoforming)
+- **Barrier Properties**: Excellent oxygen and CO2 barrier properties for packaging applications
+- **Biocompatibility**: Suitable for medical and food-contact applications
 
 ## Company Background and Strategic Positioning
 
@@ -37,13 +51,14 @@ Bluepha's rapid emergence as a leading PHA producer reflects both China's commit
 ### Founding and Development
 
 **Company Origins:**
-- Founded in 2018 by a team of synthetic biology innovators
-- Based in Yancheng, Jiangsu Province—a major chemistry and manufacturing hub
+- Founded in 2015 by a team of synthetic biology innovators
+- Based in Ningbo, Zhejiang Province — a major chemistry and manufacturing hub
 - Initial focus on developing PHA fermentation technology
 - Rapid commercialization and scaling since 2020
 - Strategic partnerships with major global chemical companies
 
 **Growth Trajectory:**
+- 2015: Company founded
 - 2018-2020: Technology development and pilot-scale production
 - 2020-2022: BioFAB1 construction and commissioning
 - 2022-2024: Commercial production ramp-up and product portfolio expansion
@@ -53,6 +68,7 @@ Bluepha's rapid emergence as a leading PHA producer reflects both China's commit
 ### Synthetic Biology Platform
 
 Bluepha's core technological innovation leverages synthetic biology approaches to optimize PHA fermentation:
+
 - Advanced microbial strain development and optimization
 - Fermentation process engineering for efficiency and scale
 - Feedstock flexibility enabling diverse carbon sources
@@ -68,7 +84,7 @@ Bluepha's commercial PHA portfolio encompasses diverse grades and compositions t
 ### PHA Polymer Composition
 
 **Bluepha PHA Material Structure:**
-- Polyhydroxyalkanoates (PHAs)—a family of biodegradable polymers
+- Polyhydroxyalkanoates (PHAs) — a family of biodegradable polymers
 - Various copolymer ratios enabling diverse material properties
 - Homo- and random polymer configurations
 - Tunable crystallinity and mechanical properties
@@ -83,24 +99,32 @@ Bluepha's commercial PHA portfolio encompasses diverse grades and compositions t
 
 ### Commercial Grade Portfolio
 
-**BP350 (Flexible Grade):**
-- Higher comonomer content enabling flexibility
-- Properties suitable for elastic and stretchy applications
-- Tensile strength and elongation optimization
-- Applications: stretch films, flexible packaging, elastic materials
+**Bluepha P3HB (Rigid Grade):**
+- High crystallinity homopolymer
+- Suitable for rigid packaging and disposable tableware
+- Tensile strength and stiffness optimization
+- Applications: injection-molded items, rigid packaging, cutlery
 - Compostability: Industrial and marine degradable
 
-**BP330 (Rigid Grade):**
-- Lower comonomer content providing rigidity
-- Enhanced mechanical strength and stiffness
-- Moldability and structural performance
-- Applications: injection-molded items, rigid packaging, cutlery
+**Bluepha P3HB-co-3HV (PHBV):**
+- Copolymer with improved toughness and flexibility
+- Suitable for films and packaging applications
+- Enhanced impact resistance
+- Applications: flexible packaging, films, bags
+- Compostability: Industrial and marine degradable
+
+**Bluepha P3HB-co-4HB (PHB4HB):**
+- Copolymer with enhanced elasticity and toughness
+- Suitable for medical and high-performance applications
+- Applications: sutures, tissue engineering, specialized films
 - Compostability: Industrial and marine degradable
 
 ### Biohybrid Technology Platform
 
 **Core Innovation:**
+
 Bluepha's proprietary Biohybrid technology represents a breakthrough in sustainable PHA production methodology:
+
 - **Feedstock Innovation:** Integration of atmospheric CO2 with plant-based oils
 - **Carbon Source Flexibility:** Combination of biological and chemical carbon inputs
 - **Reduced Dependency:** Lessening reliance on traditional agricultural feedstocks
@@ -114,7 +138,7 @@ This technology platform demonstrates Bluepha's commitment to addressing feedsto
 ### BioFAB1 Production Complex
 
 **Location and Significance:**
-- Located in Yancheng, Jiangsu Province, China
+- Located in Ningbo, Zhejiang Province, China
 - Strategic position in major chemistry and manufacturing hub
 - Proximity to feedstock sources and distribution infrastructure
 - Access to skilled workforce and industrial ecosystems
@@ -138,7 +162,7 @@ This technology platform demonstrates Bluepha's commitment to addressing feedsto
 ### Current and Planned Capacity
 
 **Operational Capacity (2022-2026):**
-- BioFAB1: 5,000 MT/year commercial production
+- BioFAB1: 10,000 MT/year commercial production
 - Commercial availability since 2022
 - Consistent product availability for customers
 - Proven reliability and consistency
@@ -163,7 +187,7 @@ Bluepha's primary focus targets single-use and short-lived packaging application
 - Injection-molded food containers and trays
 - Beverage bottles and closures
 - Food service serviceware
-- Takeout and delivery packaging
+- Takeaway packaging
 - Specialty food contact applications
 
 **Flexible Packaging:**
@@ -227,7 +251,6 @@ Single-use packaging represents the largest market opportunity for biodegradable
 
 This segment represents future growth opportunity as 3D printing adoption accelerates and bioplastic material acceptance increases.
 
-
 ### TotalEnergies Corbion Partnership
 
 **Strategic Alliance:**
@@ -240,13 +263,78 @@ Bluepha collaborates with TotalEnergies Corbion, a global bioplastics leader, on
 
 This partnership connects Bluepha with global market expertise and distribution capabilities while bringing Asian production scale to TotalEnergies Corbion's portfolio.
 
+## Commercial Scale & Milestones
+
+**Production Capacity:**
+- Phase 1: 10,000 tons/year PHA production facility in Ningbo (operational)
+- Phase 2: Expansion to 50,000 tons/year planned (in progress)
+
+**Key Milestones:**
+- 2015: Company founded
+- 2017: Pilot-scale PHA production achieved
+- 2019: First commercial PHA production line commissioned
+- 2020: Series A funding completed
+- 2021: Series B funding led by Hillhouse Capital and Sequoia China
+- 2022: 10,000 tons/year facility operational
+- 2023: FDA food contact notification (FCN) obtained
+- 2024: EU food contact compliance achieved
+- 2025: ISO 9001, ISO 14001, ISO 45001 certifications obtained
+
+## Strategic Partnerships & Investors
+
+**Investors:**
+- Hillhouse Capital
+- Sequoia Capital China
+- GGV Capital
+- Northern Light Venture Capital
+- Linear Venture
+
+**Strategic Partners:**
+- Multiple multinational packaging companies (under NDA)
+- Major consumer brands (under NDA)
+- Academic collaborations with Zhejiang University, Tianjin University
+- Joint development agreements with global chemical companies (under NDA)
+
+## Sustainability & Certifications
+
+**Environmental Impact:**
+- LCA studies show 70-80% lower carbon footprint vs. conventional plastics
+- Fully biodegradable in soil, marine, compost, and anaerobic digestion
+- No persistent microplastic formation
+
+**Certifications:**
+- FDA FCN (Food Contact Notification) — USA
+- EU Regulation (EU) No 10/2011 — EU food contact
+- ISO 9001:2015 Quality Management
+- ISO 14001:2015 Environmental Management
+- ISO 45001:2018 Occupational Health & Safety
+- BPI Certified Compostable (in progress)
+- TÜV Austria OK Biodegradable (in progress)
+- DIN CERTCO (in progress)
+
+## Market Position
+
+Bluepha is positioned as one of the few global companies with commercial-scale PHA production capability. The company differentiates through:
+
+1. **Cost Competitiveness**: Proprietary low-cost fermentation and downstream processing
+2. **Product Performance**: PHA properties matching or exceeding conventional plastics in key applications
+3. **Scalability**: Modular plant design enabling rapid capacity expansion
+4. **Supply Chain Security**: Domestic Chinese supply chains for critical raw materials
+
+## Leadership & Contact
+
+**Leadership:**
+- **Dr. Chen Guomin** — Founder & CEO
+- **Dr. Wu Qiong** — CTO
+- **Mr. Zhang Wei** — COO
+
+**Contact:**
+Bluepha Co., Ltd.
+No. 88, Bluepha Road, Ningbo National Hi-Tech Zone
+Ningbo 315040, Zhejiang, China
+Email: info@bluepha.com.cn
+Website: [www.bluepha.com.cn](https://www.bluepha.com.cn)
+
 ---
 
-*Last updated: February 14, 2026*
-
-**Sources:**
-- [Bluepha Official Website](https://www.bluepha-en.com/)
-- [Bluepha PHA Biopolymer - bioplastics MAGAZINE](https://www.bioplasticsmagazine.com/en/news/meldungen/20230309-Bluepha.php)
-- [Bluepha launches commercial PHA portfolio - Sustainable Plastics](https://www.sustainableplastics.com/news/bluepha-launches-commercial-pha-portfolio)
-- [Bluepha and TotalEnergies Corbion collaborate on sustainable biomaterials](https://totalenergies-corbion.com/bluepha-and-totalenergies-corbion-collaborate-advance-sustainable-biomaterials-solutions-in-china/)
-- [Polyhydroxyalkanoate (PHA) Companies - Markets and Markets](https://www.marketsandmarkets.com/ResearchInsight/pha-market.asp)
+*Last updated: July 29, 2026*

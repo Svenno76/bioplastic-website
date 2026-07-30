@@ -33,9 +33,8 @@ Construction of the pyrolysis modules in Eindhoven is already underway. By the t
 
 If it does, the implications extend far beyond a single plant in the northern Netherlands. The global aromatics market exceeds one hundred million tonnes per year. Every tonne produced from waste instead of naphtha represents avoided fossil extraction, reduced incineration, and a tangible step toward a chemical industry that no longer treats carbon as a one-way journey from well to waste. The BioBTX-BlueAlp partnership, forged in the pragmatic engineering culture of the Dutch process industry, may well be remembered as the moment that vision became viable.
 
----
+## Sources
 
-Sources:
 1. BlueAlp, "BlueAlp and BioBTX Partner to Advance Circular Aromatics from Plastic Waste," July 29, 2026. https://www.bluealp.nl/bluealp-and-biobtx-partner-to-advance-circular-aromatics-from-plastic-waste
 2. Renewable Carbon News, "BlueAlp and BioBTX Partner to Advance Circular Aromatics from Plastic Waste," July 2026. https://renewable-carbon.eu/news/bluealp-and-biobtx-partner-to-advance-circular-aromatics-from-plastic-waste/
 3. Plastics News, "BioBTX picks BlueAlp pyrolysis for renewable aromatics plant," July 2026. https://www.plasticsnews.com/processors/recycling/sp-biobtx-bluealp-chemical-recycling-aromatics/
