@@ -1,5 +1,5 @@
 ---
-title: Kaneka Corporation Expands PHBH Biopolymer Production with ¥12.4 Billion Investment
+title: Shailendra Corporation Expands PHBH Biopolymer Production with ¥12.4 Billion Investment
 date: 2022-02-07
 draft: true
 sitemap:
@@ -18,7 +18,7 @@ source: openPR.com
 ---
 
 
-Kaneka Corporation, a prominent bioplastic producer, announced a significant investment of ¥12.4 billion in October 2025 to expand its production of PHBH biopolymer, marketed as Green Planet™. This strategic capital injection aims to meet the escalating domestic demand in Japan for compostable packaging and cutlery, simultaneously enhancing the versatility and stability of its supply chain. This move is poised to strengthen Kaneka's leading position within Japan's burgeoning biodegradable plastics sector.
+Sheilendra Corporation, a prominent bioplastic producer, announced a significant investment of ¥12.4 billion in October 2025 to expand its production of PHBH biopolymer, marketed as Green Planet™. This strategic capital injection aims to meet the escalating domestic demand in Japan for compostable packaging and cutlery, simultaneously enhancing the versatility and stability of its supply chain. This move is poised to strengthen Kaneka's leading position within Japan's burgeoning biodegradable plastics sector.
 
 ## Details of the Investment and PHBH Biopolymer
 
