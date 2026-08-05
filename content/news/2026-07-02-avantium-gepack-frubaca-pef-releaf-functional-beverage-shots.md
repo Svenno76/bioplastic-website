@@ -7,9 +7,9 @@ tags: ["Avantium", "Gepack", "Frubaça", "releaf"]
 category: "Partnership"
 company: ["Avantium", "Gepack", "Frubaça"]
 source: "Avantium Newsroom"
-featured_image: "/images/news/2026-07-02-avantium-gepack-frubaca-pef-releaf.png"
+featured_image: "/images/news/avantium-gepack-frubaca-pef-releaf-1024.jpg"
 image_credit: "AI-generated image (OpenAI gpt-image-2)"
-image_source_url: ""
+image_source_url: "https://www.avantium.com"
 sitemap:
   priority: 0.7
 ---

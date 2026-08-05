@@ -17,7 +17,9 @@ company:
 - Neste
 source: Technip Energies
 source_url: https://www.ten.com/en/media/press-releases/technip-energies-alterra-and-neste-launch-nerea-standardized-modular-solution
-featured_image: https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=1024&q=80
+featured_image: "/images/news/technip-energies-alterra-neste-nerea-1024.jpg"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: "https://www.ten.com"
 sitemap:
   priority: 0.7
 ---

@@ -8,7 +8,9 @@ category: "Plant Announcement"
 company: ["IMG Group"]
 source: "IMG Group"
 source_url: "https://www.recyclingtoday.com/news/img-group-launches-everbio-innovation-hub-for-circular-polymers/"
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1024&q=80"
+featured_image: "/images/news/img-group-everbio-innovation-hub-1024.jpg"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: "https://www.img-group.com"
 sitemap:
   priority: 0.7
 ---
