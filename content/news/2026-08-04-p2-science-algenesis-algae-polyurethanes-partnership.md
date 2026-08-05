@@ -8,9 +8,9 @@ category: "Partnership"
 company: ["P2 Science", "Algenesis"]
 source: "P2 Science"
 source_url: "https://p2science.com/press-release/p2-science-and-algenesis-partner-to-develop-algae-derived-chemicals-and-100-biobased-biodegradable-polyurethanes/"
-featured_image: "/images/news/p2-science-algenesis-partnership-1024.jpg"
-image_credit: "P2 Science / Algenesis"
-image_source_url: "https://p2science.com/press-release/p2-science-and-algenesis-partner-to-develop-algae-derived-chemicals-and-100-biobased-biodegradable-polyurethanes/"
+featured_image: "/images/news/p2-science-algenesis-algae-polyurethanes-1024.jpg"
+image_credit: "AI-generated image (OpenAI gpt-image-2)"
+image_source_url: "https://p2science.com"
 sitemap:
   priority: 0.7
 ---
