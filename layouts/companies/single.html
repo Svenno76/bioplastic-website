@@ -203,7 +203,8 @@
         </ul>
       </div>
       {{ end }}
-      \n      <!-- Related News -->
+
+      <!-- Related News -->
       {{ $companyName := .Title }}
       {{ $relatedNews := slice }}
       {{ range where .Site.RegularPages "Section" "news" }}
