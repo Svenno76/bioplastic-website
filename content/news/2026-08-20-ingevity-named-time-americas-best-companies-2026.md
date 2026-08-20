@@ -8,7 +8,7 @@ category: "Market Analysis"
 company: ["Ingevity"]
 source: "Ingevity Corporation"
 source_url: "https://www.ingevity.com/news/press-releases/ingevity-included-in-time-americas-best-companies-2026-list/"
-featured_image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1024&q=80"
+featured_image: "/images/news/ingevity-time-recognition-hero-new.png"
 sitemap:
   priority: 0.7
 ---

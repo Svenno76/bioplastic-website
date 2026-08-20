@@ -8,7 +8,7 @@ category: "Market Analysis"
 company: ["Neste"]
 source: "Neste Corporation"
 source_url: "https://www.neste.com/news/nestes-financial-reporting-in-2027"
-featured_image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1024&q=80"
+featured_image: "/images/news/neste-financial-calendar-hero-new.png"
 sitemap:
   priority: 0.7
 ---

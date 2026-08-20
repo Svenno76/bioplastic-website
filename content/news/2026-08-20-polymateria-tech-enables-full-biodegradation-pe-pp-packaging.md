@@ -8,7 +8,7 @@ category: "Technology"
 company: ["Polymateria", "Imperial College London", "SIRIM"]
 source: "Packaging Insights"
 source_url: "https://www.packaginginsights.com/news/polymateria-pe-pp-biodegradation-tech.html"
-featured_image: "https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=1024&q=80"
+featured_image: "/images/news/polymateria-biodegradation-hero-new.png"
 sitemap:
   priority: 0.7
 ---
