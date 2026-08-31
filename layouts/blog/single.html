@@ -29,12 +29,12 @@
           </div>
         </header>
 
-        {{ if .Params.featured_image }}
+        {{ if .Params.image }}
           {{ if eq .Params.image_type "logo" }}
-            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;" loading="eager">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" style="max-height: 200px; height: auto; border-radius: 8px; float: left; margin-right: 2rem; margin-bottom: 1rem;" loading="eager">
           {{ else }}
           <div style="margin-bottom: 2rem; border-radius: 12px; overflow: hidden;">
-            {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 1200 "height" 480) }}
+            {{ partial "picture.html" (dict "src" .Params.image "alt" .Title "width" 1200 "height" 480) }}
           </div>
           {{ end }}
         {{ end }}
