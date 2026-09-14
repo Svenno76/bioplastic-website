@@ -22,6 +22,4 @@ Ecovia Bio, a Michigan-based company pioneering polyglutamic acid (PGA) biopolym
 The study's timing coincides with growing regulatory scrutiny of microplastics across multiple sectors, from drinking water standards to air quality guidelines. As scientific evidence mounts regarding the systemic infiltration of plastic particles into human biology, the economic and health-related costs of inaction become increasingly difficult to ignore. For industries ranging from packaging to textiles, the medical necessity highlighted by this research adds a compelling dimension to sustainability initiatives already driven by environmental concerns and consumer demand.
 
 Ecovia Bio's perspective positions the transition to bio-based materials not merely as an ecological preference but as a preventive health measure—one that addresses pollution at its source rather than attempting to remediate its consequences after widespread environmental distribution has occurred. This upstream approach aligns with principles of green chemistry and circular design, where material selection considers the full lifecycle impact from production through eventual return to natural systems.
-
-Source: Ecovia Bio Industry Radar, September 11, 2026
 EOF
