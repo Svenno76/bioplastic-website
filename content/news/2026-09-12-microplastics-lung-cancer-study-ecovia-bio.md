@@ -8,7 +8,7 @@ category: "Health & Environment"
 company: ["Ecovia Bio"]
 source: "Ecovia Bio"
 source_url: "https://ecovia-bio.com/industry-radar-new-study-links-microplastics-to-lung-cancer-why-we-need-material-transition-now/"
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f7d2ba70b68?w=1024&q=80"
+featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1024&q=80"
 sitemap:
   priority: 0.7
 ---
@@ -24,4 +24,4 @@ The study's timing coincides with growing regulatory scrutiny of microplastics a
 Ecovia Bio's perspective positions the transition to bio-based materials not merely as an ecological preference but as a preventive health measure—one that addresses pollution at its source rather than attempting to remediate its consequences after widespread environmental distribution has occurred. This upstream approach aligns with principles of green chemistry and circular design, where material selection considers the full lifecycle impact from production through eventual return to natural systems.
 
 Source: Ecovia Bio Industry Radar, September 11, 2026
----
+EOF
