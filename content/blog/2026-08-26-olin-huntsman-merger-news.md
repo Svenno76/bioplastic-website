@@ -9,8 +9,6 @@ categories: ["News", "Industry Analysis"]
 image: "/images/blog/olin-huntsman-merger-hero.png"
 ---
 
-# Olin and Huntsman Shareholders Approve $12.5 Billion Merger of Equals
-
 **CLAYTON, Missouri / THE WOODLANDS, Texas** — Shareholders of Olin Corporation (NYSE: OLN) and Huntsman Corporation (NYSE: HUN) have approved the companies' all-stock merger of equals with overwhelming majorities, clearing a critical milestone toward the creation of **OlinHuntsman Corporation**, a $12.5 billion integrated North American chemicals platform.
 
 At special meetings held August 25, 2026, approximately 97% of votes cast at Olin (representing 81% of outstanding shares) and 99% of votes cast at Huntsman (representing 75% of outstanding shares) favored the transaction. The merger is expected to close in the first half of 2027, subject to regulatory approvals and customary closing conditions.
