@@ -9,8 +9,6 @@ categories: ["News", "Industry Analysis"]
 image: "/images/blog/olin-huntsman-merger-hero.png"
 ---
 
-# Olin and Huntsman Shareholders Approve $12.5 Billion Merger of Equals to Form Chemical Powerhouse
-
 **CLAYTON, Mo. & THE WOODLANDS, Texas** — In a major step toward reshaping the North American industrial landscape, shareholders of Olin Corporation and Huntsman Corporation have overwhelmingly approved an all-stock merger of equals. The transaction, valued at approximately $12.5 billion, received approval from 97% of votes cast at Olin and 99% at Huntsman during special meetings held on August 25, 2026. The approval clears a critical threshold to establish OlinHuntsman Corporation, creating a highly integrated chemicals platform spanning 55 production sites across 25 countries.
 
 The transaction brings together two major industry players with complementary portfolios. Olin contributed approximately $6.5 billion in revenue in 2025, while Huntsman brought $6.0 billion from its continuing operations. Under the terms of the agreement, the combined entity will operate as a true merger of equals with a fixed exchange ratio and no cash consideration. Pro forma net debt for the combined company stands at approximately $4.7 billion. Leadership will be shared across both legacies: Ken Lane, President and CEO of Olin, will serve as Chief Executive Officer of OlinHuntsman, while Peter Huntsman, Chairman, President, and CEO of Huntsman, will step into the role of non-executive Chairman of the Board.
