@@ -227,7 +227,16 @@
           {{ if not (in $relatedNews .Permalink) }}{{ $relatedNews = $relatedNews | append . }}{{ end }}
         {{ end }}
       {{ end }}
-      {{ $relatedNews = first 5 (sort $relatedNews "Date" "desc") }}
+      <!-- Deduplicate by Permalink -->
+      {{ $seen := slice }}
+      {{ $uniqueNews := slice }}
+      {{ range $relatedNews }}
+        {{ if not (in $seen .Permalink) }}
+          {{ $seen = $seen | append .Permalink }}
+          {{ $uniqueNews = $uniqueNews | append . }}
+        {{ end }}
+      {{ end }}
+      {{ $relatedNews = first 5 (sort $uniqueNews "Date" "desc") }}
       {{ if $relatedNews }}
       <div style="background: linear-gradient(135deg, #f3ede3 0%, #e8dcd0 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #e8dcd0; margin-bottom: 1.5rem;">
         <h3 style="color: #6b5344; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📰 Related News</h3>
@@ -315,3 +324,4 @@
   {{ partial "site-footer.html" . }}
 </body>
 </html>
+EOF
