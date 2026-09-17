@@ -31,5 +31,5 @@ BIOWEG's pilot site in Quakenbrück remains operational throughout construction:
 
 BIOWEG's ingredients are already in commercial use, and Elsdorf is being built to meet increasing demand for them. In agriculture, the company's microplastics-free fertiliser coatings, seed coatings and extrusion aids deliver the required functionality at up to 70 percent lower dosage than conventional synthetic alternatives in some formulations, lowering cost-in-use under industrial conditions. In cosmetics, personal care and home care, its bacterial cellulose-based ingredients provide texture enhancement, rheology control, suspending properties, film-forming and sensory effects from a fully bio-based, biodegradable input. Both are supported by BIOWEG's in-house formulation team, which develops each ingredient against the customer's specific use case and carries reformulation work in-house — a differentiator the company weighs equally with scale.
 
-Source: bioplastics MAGAZINE, September 11, 2026
+Source: BIOWEG
 EOF
