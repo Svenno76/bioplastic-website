@@ -6,8 +6,8 @@ summary: "German deep-tech company BIOWEG will begin construction of Europe's la
 tags: ["Bacterial Cellulose", "Microplastics Replacement", "Biodegradable", "BIOWEG", "NRW", "Fermentation"]
 category: "Plant Announcement"
 company: ["BIOWEG"]
-source: "bioplastics MAGAZINE"
-source_url: "https://www.bioplasticsmagazine.com/en/news/meldungen/20260911-BIOWEG-to-build-Europe-s-largest-bacterial-cellulose-plant.php"
+source: "BIOWEG"
+source_url: "https://bioweg.com/bioweg-to-build-europes-largest-bacterial-cellulose-plant-backed-by-series-a-of-e-30-million/"
 featured_image: "https://images.unsplash.com/photo-1581091012184-3955906507e0?w=1024&q=80"
 sitemap:
   priority: 0.7
@@ -31,5 +31,4 @@ BIOWEG's pilot site in Quakenbrück remains operational throughout construction:
 
 BIOWEG's ingredients are already in commercial use, and Elsdorf is being built to meet increasing demand for them. In agriculture, the company's microplastics-free fertiliser coatings, seed coatings and extrusion aids deliver the required functionality at up to 70 percent lower dosage than conventional synthetic alternatives in some formulations, lowering cost-in-use under industrial conditions. In cosmetics, personal care and home care, its bacterial cellulose-based ingredients provide texture enhancement, rheology control, suspending properties, film-forming and sensory effects from a fully bio-based, biodegradable input. Both are supported by BIOWEG's in-house formulation team, which develops each ingredient against the customer's specific use case and carries reformulation work in-house — a differentiator the company weighs equally with scale.
 
-Source: BIOWEG
 EOF
