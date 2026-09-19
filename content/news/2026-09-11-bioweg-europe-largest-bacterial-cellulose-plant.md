@@ -3,12 +3,12 @@ title: "BIOWEG to Build Europe's Largest Bacterial Cellulose Plant in Germany"
 date: 2026-09-11T12:29:05+02:00
 draft: false
 summary: "German deep-tech company BIOWEG will begin construction of Europe's largest bacterial cellulose plant in Q4 2026, with first commercial volumes expected in 2028, backed by €35 million in total funding."
-tags: ["Bacterial Cellulose", "Microplastics Replacement", "Biodegradable", "BIOWEG", "NRW", "Fermentation"]
+tags: ["Bacterial Cellulose", "Microplastics Replacement", "Biodegradable", "BIOWEG", "Fermentation"]
 category: "Plant Announcement"
 company: ["BIOWEG"]
-source: "bioplastics MAGAZINE"
-source_url: "https://www.bioplasticsmagazine.com/en/news/meldungen/20260911-BIOWEG-to-build-Europe-s-largest-bacterial-cellulose-plant.php"
-featured_image: "https://images.unsplash.com/photo-1581091012184-3955906507e0?w=1024&q=80"
+source: "BIOWEG"
+source_url: "https://bioweg.com/bioweg-to-build-europes-largest-bacterial-cellulose-plant-backed-by-series-a-of-e-30-million/"
+featured_image: "/images/news/2026-09-18-Bioweg_cellulose_plant"
 sitemap:
   priority: 0.7
 ---
@@ -31,5 +31,4 @@ BIOWEG's pilot site in Quakenbrück remains operational throughout construction:
 
 BIOWEG's ingredients are already in commercial use, and Elsdorf is being built to meet increasing demand for them. In agriculture, the company's microplastics-free fertiliser coatings, seed coatings and extrusion aids deliver the required functionality at up to 70 percent lower dosage than conventional synthetic alternatives in some formulations, lowering cost-in-use under industrial conditions. In cosmetics, personal care and home care, its bacterial cellulose-based ingredients provide texture enhancement, rheology control, suspending properties, film-forming and sensory effects from a fully bio-based, biodegradable input. Both are supported by BIOWEG's in-house formulation team, which develops each ingredient against the customer's specific use case and carries reformulation work in-house — a differentiator the company weighs equally with scale.
 
-Source: bioplastics MAGAZINE, September 11, 2026
 EOF
