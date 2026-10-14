@@ -19,7 +19,10 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
 
 ## Overview
 
@@ -27,7 +30,7 @@ Roquette Frères is a global leader in plant-based ingredients and bioplastics, 
 
 The company's commitment to sustainable, plant-based solutions has positioned it as a strategic player in the global transition toward circular bioeconomy principles. Roquette's extensive portfolio of plant-derived ingredients and biopolymers serves diverse industries including food, pharmaceuticals, cosmetics, packaging, textiles, and automotive sectors.
 
-## Starch-Based Bioplastics Platform
+## Products and Materials
 
 ### Gaialene Brand and Product Range
 
@@ -64,7 +67,7 @@ Roquette's extensive experience in plant processing enables sustainable bioplast
 - Support for agricultural communities and sustainable farming practices
 - Ability to leverage seasonal crop variations and optimize feedstock costs
 
-## Production and Manufacturing Operations
+## Production Facilities and Capacity
 
 ### Global Facility Network
 
@@ -170,8 +173,6 @@ Roquette operates one of the world's largest and most geographically diversified
 - Sustainable alternatives in deodorants, wipes, and hygiene products
 - Environmentally responsible product positioning
 
-## Industry Position and Competitive Advantages
-
 ### Market Leadership
 
 Roquette's position as one of the world's top-10 bioplastics companies reflects significant competitive advantages:
@@ -215,7 +216,7 @@ Roquette has established strategic partnerships and joint ventures supporting bi
 - Industry recognition for innovation in plant-based materials
 - Participation in industry sustainability initiatives and standards development
 
-## Sustainability and Environmental Profile
+## Sustainability and Certifications
 
 ### Renewable Sourcing
 
@@ -239,7 +240,7 @@ Roquette's plant-based approach provides significant environmental benefits:
 - Continuous improvement in manufacturing environmental performance
 - Support for circular economy infrastructure development
 
-## Financial Profile and Strategic Position
+## Recent Developments
 
 ### Company Structure and Ownership
 
@@ -256,8 +257,6 @@ Roquette Frères is privately held and controlled by the founding Roquette famil
 - Continuous capital investment in facility expansion and technology
 - R&D spending supporting innovation in plant-based materials
 - Strategic acquisitions and partnerships expanding bioplastics capabilities
-
-## Future Outlook and Growth Strategy
 
 ### Capacity Expansion Plans
 
@@ -284,7 +283,10 @@ Roquette is investing in bioplastics capacity expansion to meet growing market d
 
 Roquette is positioned to become a leading global bioplastics supplier, leveraging its 90+ year heritage in plant-based materials, diversified facility network, and commitment to sustainable innovation. The company's focus on renewable feedstocks, advanced technology, and customer partnership positions it to capture significant growth in the expanding global bioplastics market.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
-*Last updated: February 14, 2026*
-*Information sourced from Roquette Frères corporate website, industry publications, and company announcements*
+## Sources
+
+1. Roquette Frères corporate website

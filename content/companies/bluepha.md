@@ -17,7 +17,10 @@ date: 2026-07-29
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
 
 ## Overview
 
@@ -25,24 +28,7 @@ Bluepha is a Chinese biotechnology company founded in 2015, headquartered in Nin
 
 Bluepha's mission is to provide a scalable, sustainable alternative to conventional petroleum-based plastics, addressing the global plastic pollution crisis through circular, bio-based materials that are fully biodegradable in natural environments including soil, marine, and composting conditions.
 
-## Core Technology: PHA Biosynthesis Platform
-**Technology Platform:**
-
-Bluepha has developed a proprietary PHA biosynthesis platform that leverages microbial fermentation to produce polyhydroxyalkanoates (PHA) from renewable feedstocks:
-
-- **Feedstock Flexibility**: Can utilize various carbon sources including plant oils, sugars, waste cooking oil, and industrial waste streams
-- **Strain Engineering**: Proprietary microbial strains optimized for high PHA yield and productivity
-- **Process Optimization**: Continuous fermentation and downstream processing for cost-effective production
-- **Product Customization**: Ability to tune PHA composition (P3HB, P3HB-co-3HV, P3HB-co-4HB, etc.) for specific application properties
-
-**Key Technical Advantages:**
-
-- **100% Biobased**: Derived entirely from renewable resources
-- **Fully Biodegradable**: Degrades in soil, marine, compost, and anaerobic conditions
-- **Thermoplastic Processability**: Can be processed on conventional plastic equipment (injection molding, extrusion, blow molding, thermoforming)
-- **Barrier Properties**: Excellent oxygen and CO2 barrier properties for packaging applications
-- **Biocompatibility**: Suitable for medical and food-contact applications
-## Company Background and Strategic Positioning
+### Company Background and Strategic Positioning
 
 Bluepha's rapid emergence as a leading PHA producer reflects both China's commitment to bioplastics development and the company's innovative technology platform.
 
@@ -75,9 +61,46 @@ Bluepha's core technological innovation leverages synthetic biology approaches t
 
 This synthetic biology foundation enables Bluepha to achieve superior fermentation efficiency compared to traditional chemical approaches, resulting in cost-competitive production at scale.
 
-## Primary Materials and Technology Platform
+### Leadership & Contact
+
+**Leadership:**
+- **Dr. Chen Guomin** — Founder & CEO
+- **Dr. Wu Qiong** — CTO
+- **Mr. Zhang Wei** — COO
+
+**Contact:**
+Bluepha Co., Ltd.
+No. 88, Bluepha Road, Ningbo National Hi-Tech Zone
+Ningbo 315040, Zhejiang, China
+Email: info@bluepha.com.cn
+Website: [www.bluepha.com.cn](https://www.bluepha.com.cn)
+
+last_updated: 2026-07-29
+profile_status: complete
+---
+
+## Products and Materials
 
 Bluepha's commercial PHA portfolio encompasses diverse grades and compositions tailored to specific applications, leveraging proprietary fermentation and biohybrid technology.
+
+### Core Technology: PHA Biosynthesis Platform
+
+**Technology Platform:**
+
+Bluepha has developed a proprietary PHA biosynthesis platform that leverages microbial fermentation to produce polyhydroxyalkanoates (PHA) from renewable feedstocks:
+
+- **Feedstock Flexibility**: Can utilize various carbon sources including plant oils, sugars, waste cooking oil, and industrial waste streams
+- **Strain Engineering**: Proprietary microbial strains optimized for high PHA yield and productivity
+- **Process Optimization**: Continuous fermentation and downstream processing for cost-effective production
+- **Product Customization**: Ability to tune PHA composition (P3HB, P3HB-co-3HV, P3HB-co-4HB, etc.) for specific application properties
+
+**Key Technical Advantages:**
+
+- **100% Biobased**: Derived entirely from renewable resources
+- **Fully Biodegradable**: Degrades in soil, marine, compost, and anaerobic conditions
+- **Thermoplastic Processability**: Can be processed on conventional plastic equipment (injection molding, extrusion, blow molding, thermoforming)
+- **Barrier Properties**: Excellent oxygen and CO2 barrier properties for packaging applications
+- **Biocompatibility**: Suitable for medical and food-contact applications
 
 ### PHA Polymer Composition
 
@@ -136,7 +159,7 @@ Bluepha's proprietary Biohybrid technology represents a breakthrough in sustaina
 
 This technology platform demonstrates Bluepha's commitment to addressing feedstock sustainability challenges while enabling cost-competitive production.
 
-## Production Facility and Manufacturing Capability
+## Production Facilities and Capacity
 
 ### BioFAB1 Production Complex
 
@@ -274,39 +297,16 @@ Bluepha collaborates with TotalEnergies Corbion, a global bioplastics leader, on
 
 This partnership connects Bluepha with global market expertise and distribution capabilities while bringing Asian production scale to TotalEnergies Corbion's portfolio.
 
-## Commercial Scale & Milestones
+### Market Position
 
-**Production Capacity:**
-- Phase 1: 10,000 tons/year PHA production facility in Ningbo (operational)
-- Phase 2: Expansion to 50,000 tons/year planned (in progress)
+Bluepha is positioned as one of the few global companies with commercial-scale PHA production capability. The company differentiates through:
 
-**Key Milestones:**
-- 2015: Company founded
-- 2017: Pilot-scale PHA production achieved
-- 2019: First commercial PHA production line commissioned
-- 2020: Series A funding completed
-- 2021: Series B funding led by Hillhouse Capital and Sequoia China
-- 2022: 10,000 tons/year facility operational
-- 2023: FDA food contact notification (FCN) obtained
-- 2024: EU food contact compliance achieved
-- 2025: ISO 9001, ISO 14001, ISO 45001 certifications obtained
+1. **Cost Competitiveness**: Proprietary low-cost fermentation and downstream processing
+2. **Product Performance**: PHA properties matching or exceeding conventional plastics in key applications
+3. **Scalability**: Modular plant design enabling rapid capacity expansion
+4. **Supply Chain Security**: Domestic Chinese supply chains for critical raw materials
 
-## Strategic Partnerships & Investors
-
-**Investors:**
-- Hillhouse Capital
-- Sequoia Capital China
-- GGV Capital
-- Northern Light Venture Capital
-- Linear Venture
-
-**Strategic Partners:**
-- Multiple multinational packaging companies (under NDA)
-- Major consumer brands (under NDA)
-- Academic collaborations with Zhejiang University, Tianjin University
-- Joint development agreements with global chemical companies (under NDA)
-
-## Sustainability & Certifications
+## Sustainability and Certifications
 
 **Environmental Impact:**
 - LCA studies show 70-80% lower carbon footprint vs. conventional plastics
@@ -323,29 +323,40 @@ This partnership connects Bluepha with global market expertise and distribution 
 - TÜV Austria OK Biodegradable (in progress)
 - DIN CERTCO (in progress)
 
-## Market Position
+## Recent Developments
 
-Bluepha is positioned as one of the few global companies with commercial-scale PHA production capability. The company differentiates through:
+### Commercial Scale & Milestones
 
-1. **Cost Competitiveness**: Proprietary low-cost fermentation and downstream processing
-2. **Product Performance**: PHA properties matching or exceeding conventional plastics in key applications
-3. **Scalability**: Modular plant design enabling rapid capacity expansion
-4. **Supply Chain Security**: Domestic Chinese supply chains for critical raw materials
+**Production Capacity:**
+- Phase 1: 10,000 tons/year PHA production facility in Ningbo (operational)
+- Phase 2: Expansion to 50,000 tons/year planned (in progress)
 
-## Leadership & Contact
+**Key Milestones:**
+- 2015: Company founded
+- 2017: Pilot-scale PHA production achieved
+- 2019: First commercial PHA production line commissioned
+- 2020: Series A funding completed
+- 2021: Series B funding led by Hillhouse Capital and Sequoia China
+- 2022: 10,000 tons/year facility operational
+- 2023: FDA food contact notification (FCN) obtained
+- 2024: EU food contact compliance achieved
+- 2025: ISO 9001, ISO 14001, ISO 45001 certifications obtained
 
-**Leadership:**
-- **Dr. Chen Guomin** — Founder & CEO
-- **Dr. Wu Qiong** — CTO
-- **Mr. Zhang Wei** — COO
+### Strategic Partnerships & Investors
 
-**Contact:**
-Bluepha Co., Ltd.
-No. 88, Bluepha Road, Ningbo National Hi-Tech Zone
-Ningbo 315040, Zhejiang, China
-Email: info@bluepha.com.cn
-Website: [www.bluepha.com.cn](https://www.bluepha.com.cn)
+**Investors:**
+- Hillhouse Capital
+- Sequoia Capital China
+- GGV Capital
+- Northern Light Venture Capital
+- Linear Venture
 
----
+**Strategic Partners:**
+- Multiple multinational packaging companies (under NDA)
+- Major consumer brands (under NDA)
+- Academic collaborations with Zhejiang University, Tianjin University
+- Joint development agreements with global chemical companies (under NDA)
 
-*Last updated: July 29, 2026*
+## Sources
+
+1. Bluepha corporate website

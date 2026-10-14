@@ -23,16 +23,17 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
-logo: /images/logos/totalenergies-corbion.png
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
+logo: /images/logos/totalenergies-corbion.png
 
 ## Overview
 
 Total Corbion PLA is a strategic 50/50 joint venture between TotalEnergies and Corbion, established in 2017 to develop and commercialize PLA biopolymers at large scale. The company was rebranded as TotalEnergies Corbion in 2023 following TotalEnergies' corporate restructuring. Headquartered in Amsterdam, Netherlands, the joint venture operates one of the world's largest commercial PLA production facilities in Rayong, Thailand, with 75,000 MT/year capacity operational since December 2018.
 
 The company is developing an ambitious expansion program with a planned 100,000 MT/year facility in Grandpuits, France, which will establish TotalEnergies Corbion as one of the world's largest integrated PLA producers with combined capacity of 175,000 MT/year. The company's focus on 100% biobased Luminy PLA derived from renewable sugarcane provides significant environmental benefits with 85% CO2 reduction compared to conventional plastics.
-
-## Joint Venture Structure and Strategic Importance
 
 ### 50/50 Partnership Model
 
@@ -56,7 +57,7 @@ The joint venture combines complementary capabilities:
 - Shared commitment to circular bioeconomy transition
 - Aligned strategic vision for sustainable biopolymer growth
 
-## Luminy PLA Technology Platform
+## Products and Materials
 
 ### Luminy Brand Portfolio
 
@@ -227,8 +228,6 @@ TotalEnergies Corbion produces comprehensive PLA grades under the **Luminy brand
 - Engineering applications using 3D printing technology
 - Rapid prototyping and small-volume manufacturing
 
-## Industry Position and Competitive Strategy
-
 ### Competitive Advantages
 
 **Scale and Capacity**:
@@ -269,7 +268,7 @@ TotalEnergies Corbion produces comprehensive PLA grades under the **Luminy brand
 - Partnership with converters on application development
 - Academic and research institution partnerships
 
-## Sustainability and Environmental Credentials
+## Sustainability and Certifications
 
 ### Biodegradability and Compostability
 
@@ -301,7 +300,7 @@ TotalEnergies Corbion produces comprehensive PLA grades under the **Luminy brand
 - Support for industrial composting infrastructure development
 - Participation in circular economy standards and initiatives
 
-## Financial and Strategic Profile
+## Recent Developments
 
 ### Joint Venture Benefits
 
@@ -314,8 +313,6 @@ TotalEnergies Corbion produces comprehensive PLA grades under the **Luminy brand
 - TotalEnergies' global distribution and customer relationships
 - Corbion's specialty biopolymer market expertise
 - Combined market reach supporting diverse customer segments
-
-## Future Outlook and Growth Strategy
 
 ### Capacity Expansion Roadmap
 
@@ -345,7 +342,10 @@ TotalEnergies Corbion produces comprehensive PLA grades under the **Luminy brand
 
 TotalEnergies Corbion is positioned to become a leading global PLA producer, leveraging the complementary capabilities of its two parent companies. The planned France facility expansion will establish the joint venture as one of the world's largest integrated PLA producers with significant capacity in both Asia and Europe. The company's focus on 100% biobased, verified renewable feedstocks and commitment to circular economy principles position it to capture substantial growth in the expanding global bioplastics market.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
-*Last updated: February 14, 2026*
-*Information sourced from TotalEnergies Corbion corporate website, company announcements, and industry publications*
+## Sources
+
+1. Total Corbion PLA / TotalEnergies Corbion corporate website

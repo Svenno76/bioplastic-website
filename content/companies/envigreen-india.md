@@ -21,6 +21,8 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
 ## Overview
@@ -31,7 +33,7 @@ Operating from Bengaluru, India's technology and innovation hub, Envigreen has e
 
 Envigreen's technology platform emphasizes complete biodegradability through natural fermentation of starch and vegetable oil components, creating materials that decompose in standard composting environments without releasing harmful toxins or microplastics. This approach differs from partially bio-based or chemically-derived biodegradable materials, positioning Envigreen's products as "organic" substitutes that truly return to natural systems.
 
-## Primary Technologies and Products
+## Products and Materials
 
 Envigreen's core technology centers on fermentation and chemical processing of natural starch and vegetable oil derivatives into complete biopolymers suitable for thin-film and injection-molded applications.
 
@@ -81,6 +83,36 @@ Envigreen's production process emphasizes natural fermentation and simple chemis
 4. **Blending:** Combination of starch and oil components
 5. **Processing:** Film formation or molding into products
 6. **Quality testing:** Compostability certification and validation
+
+## Production Facilities and Capacity
+
+Envigreen operates production facilities in Bengaluru, leveraging the city's manufacturing infrastructure and proximity to agricultural feedstock supplies.
+
+### Bengaluru Production Complex
+
+**Facility Infrastructure:**
+- Fermentation equipment for starch and oil processing
+- Chemical synthesis and blending systems
+- Film extrusion and bag manufacturing
+- Quality assurance laboratories
+- Warehousing and logistics
+- Administrative facilities
+
+### Production Capacity and Operations
+
+- **Annual capacity:** 1,000 metric tons
+- **Product range:** Multiple bag sizes and styles
+- **Customization:** Branded and specialty products
+- **Operating efficiency:** Continuous production operations
+- **Expansion readiness:** Capacity for scaling with additional equipment
+
+### Supply Chain
+
+Envigreen maintains supply relationships for:
+- **Starch feedstocks:** Agricultural supplies of corn, cassava, potato starch
+- **Vegetable oils:** Sustainable oil sourcing for biopolymer production
+- **Additives:** Quality and processing additives
+- **Packaging:** Distribution packaging for finished products
 
 ## Market Segments and Applications
 
@@ -133,37 +165,7 @@ Envigreen targets international markets with single-use plastic restrictions:
 - Corporate social responsibility programs
 - Supply chain sustainability improvements
 
-## Production Facilities and Capacity
-
-Envigreen operates production facilities in Bengaluru, leveraging the city's manufacturing infrastructure and proximity to agricultural feedstock supplies.
-
-### Bengaluru Production Complex
-
-**Facility Infrastructure:**
-- Fermentation equipment for starch and oil processing
-- Chemical synthesis and blending systems
-- Film extrusion and bag manufacturing
-- Quality assurance laboratories
-- Warehousing and logistics
-- Administrative facilities
-
-### Production Capacity and Operations
-
-- **Annual capacity:** 1,000 metric tons
-- **Product range:** Multiple bag sizes and styles
-- **Customization:** Branded and specialty products
-- **Operating efficiency:** Continuous production operations
-- **Expansion readiness:** Capacity for scaling with additional equipment
-
-### Supply Chain
-
-Envigreen maintains supply relationships for:
-- **Starch feedstocks:** Agricultural supplies of corn, cassava, potato starch
-- **Vegetable oils:** Sustainable oil sourcing for biopolymer production
-- **Additives:** Quality and processing additives
-- **Packaging:** Distribution packaging for finished products
-
-## Industry Position and Partnerships
+### Industry Position and Partnerships
 
 Envigreen occupies a growing position in India's emerging bioplastics sector as one of the first-generation commercial manufacturers.
 
@@ -200,7 +202,7 @@ Envigreen participates in:
 - **Scaling capability:** Demonstrated manufacturing at commercial scale
 - **Sustainability credentials:** True biodegradability vs. questionable alternatives
 
-## Regional Significance
+### Regional Significance
 
 Envigreen represents India's emerging capability in bioplastics manufacturing and the country's transition toward sustainable materials.
 
@@ -236,7 +238,7 @@ Envigreen exemplifies India's potential to develop indigenous bioplastics soluti
 - **Competitiveness:** Challenging import-dependent model
 - **Technology development:** Building indigenous innovation capability
 
-## Sustainability and Environmental Credentials
+## Sustainability and Certifications
 
 Envigreen's products and business model align fundamentally with environmental sustainability objectives.
 
@@ -273,7 +275,9 @@ Envigreen's products pursue relevant certifications:
 - **Toxicity:** Absence of harmful substances in materials
 - **Renewable content:** Bio-based material certifications
 
-## Financial Profile
+## Recent Developments
+
+### Financial Profile
 
 Envigreen operates as a private bioplastics manufacturing company with growth-stage economics.
 
@@ -299,7 +303,7 @@ Envigreen operates as a product manufacturer with B2B and B2C channels:
 - **Path to profitability:** Single product (bags) with volume scaling
 - **Capital requirements:** Modest compared to large-scale biopolymer producers
 
-## Future Outlook and Growth Opportunities
+### Future Outlook and Growth Opportunities
 
 Envigreen's position in India's expanding bioplastics market positions the company for significant growth.
 
@@ -354,9 +358,11 @@ Envigreen could benefit from:
 
 Envigreen aspires to establish itself as a leading Indian bioplastics manufacturer, supporting India's transition toward sustainable materials while demonstrating indigenous innovation in advanced biopolymers. The company's success would position India as a competitive bioplastics manufacturer globally while supporting the country's single-use plastic ban implementation.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
-**Last updated:** February 14, 2026
+* February 14, 2026
 
 **Sources:**
 - [Envigreen Biotech India](http://envigreen.in/)
@@ -365,3 +371,7 @@ Envigreen aspires to establish itself as a leading Indian bioplastics manufactur
 - [Bioplastics and the Future - Deltora Biopolymers](https://www.deltorabiopolymers.com/bioplastics-and-the-future-how-indian-companies-are-driving-sustainable-change/)
 - [India Bioplastics Market Outlook to 2030](https://www.kenresearch.com/industry-reports/india-bioplastics-market)
 - [Start Your Bioplastics Production Business](https://www.solutionbuggy.com/blog/indias-bioplastics-industry-key-startup-trends-for-2025)
+
+## Sources
+
+1. Envigreen Biotech India corporate website

@@ -19,8 +19,11 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
-logo: "/images/logos/jiangsu-supla-bioplastics.png"
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
+logo: "/images/logos/jiangsu-supla-bioplastics.png"
 
 ## Overview
 
@@ -29,8 +32,6 @@ Jiangsu Supla Bioplastics Co., Ltd. represents a major Chinese success story in 
 Operating a dedicated facility covering approximately 100,000 square meters on a site with total investment exceeding 1.2 billion RMB, Supla manufactures bio-based, fully-degradable PLA materials serving diverse global markets from single-use food service items to packaging films, agricultural applications, and industrial uses. The company's consistent recognition at international bioplastics conferences—winning multiple awards at consecutive European Bioplastics Conferences—demonstrates its technological competitiveness and commitment to advancing PLA technology globally.
 
 Supla's rapid growth from startup in 2012 to major producer reflects China's strategic emphasis on sustainable materials development, abundant agricultural feedstock availability, manufacturing capabilities, and supportive government policies. The company exemplifies the emergence of Chinese bioplastics manufacturers capable of competing with established global players while driving innovation in PLA applications and manufacturing processes.
-
-## Company Background and Establishment
 
 ### Founding and Corporate History
 
@@ -76,47 +77,7 @@ Supla's development aligned with China's strategic emphasis on:
 
 This supportive policy environment enabled Supla's rapid scaling and investment.
 
-## Production Facility and Infrastructure
-
-### Suqian Manufacturing Complex
-
-**Facility Overview:**
-- **Established:** Operational since 2012
-- **Location:** Suqian, Jiangsu Province, China
-- **Land Area:** Approximately 100,000 square meters
-- **Total Investment:** Over 1.2 billion RMB
-- **Strategic Positioning:** Major industrial zone with infrastructure
-
-**Facility Components:**
-- PLA production reactors and polymerization equipment
-- Advanced manufacturing and processing systems
-- Quality assurance and analytical laboratories
-- Warehouse and logistics infrastructure
-- Environmental compliance and treatment systems
-- Research and development facilities
-
-**Manufacturing Capabilities:**
-- Industrial-scale PLA production and processing
-- Multiple product formulation capability
-- Quality control and specifications achievement
-- Supply chain reliability and consistency
-- Customer technical support and service
-
-### Capacity Development and Expansion
-
-**Current Operational Scale:**
-Supla maintains significant operational PLA production capacity, serving diverse global markets continuously since 2012.
-
-**Long-Term Expansion Target:**
-- **Vision:** 160,000 MT/year capacity within 10 years
-- **Timeline:** Phased expansion toward target
-- **Investment:** Substantial capital for facility expansion
-- **Pathway:** Incremental capacity additions and efficiency improvements
-- **Market Alignment:** Demand growth supporting expansion
-
-This ambitious capacity target, if achieved, would position Supla among the world's three largest PLA producers.
-
-## PLA Technology and Product Portfolio
+## Products and Materials
 
 ### Polylactic Acid Chemistry and Production
 
@@ -187,6 +148,46 @@ Supla's PLA production relies on lactic acid supply from fermentation pathways:
 - Cost-competitive renewable feedstock sourcing
 - Geographic flexibility enabling supply security
 - Support for agricultural community development
+
+## Production Facilities and Capacity
+
+### Suqian Manufacturing Complex
+
+**Facility Overview:**
+- **Established:** Operational since 2012
+- **Location:** Suqian, Jiangsu Province, China
+- **Land Area:** Approximately 100,000 square meters
+- **Total Investment:** Over 1.2 billion RMB
+- **Strategic Positioning:** Major industrial zone with infrastructure
+
+**Facility Components:**
+- PLA production reactors and polymerization equipment
+- Advanced manufacturing and processing systems
+- Quality assurance and analytical laboratories
+- Warehouse and logistics infrastructure
+- Environmental compliance and treatment systems
+- Research and development facilities
+
+**Manufacturing Capabilities:**
+- Industrial-scale PLA production and processing
+- Multiple product formulation capability
+- Quality control and specifications achievement
+- Supply chain reliability and consistency
+- Customer technical support and service
+
+### Capacity Development and Expansion
+
+**Current Operational Scale:**
+Supla maintains significant operational PLA production capacity, serving diverse global markets continuously since 2012.
+
+**Long-Term Expansion Target:**
+- **Vision:** 160,000 MT/year capacity within 10 years
+- **Timeline:** Phased expansion toward target
+- **Investment:** Substantial capital for facility expansion
+- **Pathway:** Incremental capacity additions and efficiency improvements
+- **Market Alignment:** Demand growth supporting expansion
+
+This ambitious capacity target, if achieved, would position Supla among the world's three largest PLA producers.
 
 ## Market Segments and Applications
 
@@ -272,33 +273,6 @@ Textile industry sustainability initiatives and consumer demand for bio-based fi
 - High-performance applications
 - Emerging application development
 
-## International Recognition and Awards
-
-### European Bioplastics Conference Achievement
-
-**Distinctive Competitive Recognition:**
-
-Supla has achieved remarkable international recognition as one of the few Chinese bioplastics companies winning awards at consecutive European Bioplastics Conferences—the industry's most prestigious technology competition:
-
-**Award History:**
-- **Multiple Prizes:** Winning awards at successive European Bioplastics Conferences
-- **Competitive Context:** Only company from China achieving multiple awards
-- **Significance:** Demonstrates technology competitiveness with global producers
-- **Industry Recognition:** Validates innovation and manufacturing excellence
-
-This recognition positions Supla as a technology leader comparable with established global PLA manufacturers.
-
-### Quality and Market Validation
-
-**Market Position Indicators:**
-- Customer satisfaction and long-term relationships
-- Geographic market presence across Europe, Asia, Americas
-- Supply chain reliability and consistency
-- Technical expertise and customer support
-- Emerging market trust and adoption
-
-## Competitive Position and Market Differentiation
-
 ### Scale and Production Efficiency
 
 **Manufacturing Competitiveness:**
@@ -335,7 +309,7 @@ This recognition positions Supla as a technology leader comparable with establis
 - Skilled manufacturing workforce
 - Rapid scaling and adaptation capability
 
-## Sustainability and Environmental Performance
+## Sustainability and Certifications
 
 ### Renewable Feedstock Sourcing
 
@@ -375,7 +349,30 @@ Supla supports development of composting infrastructure in China and globally th
 **Complete Material Lifecycle:**
 From renewable feedstock sourcing through compostable end-of-life, Supla's PLA materials provide environmental benefits throughout their complete lifecycle compared to conventional petrochemical plastics.
 
-## Financial Profile and Business Model
+## Recent Developments
+
+### European Bioplastics Conference Achievement
+
+**Distinctive Competitive Recognition:**
+
+Supla has achieved remarkable international recognition as one of the few Chinese bioplastics companies winning awards at consecutive European Bioplastics Conferences—the industry's most prestigious technology competition:
+
+**Award History:**
+- **Multiple Prizes:** Winning awards at successive European Bioplastics Conferences
+- **Competitive Context:** Only company from China achieving multiple awards
+- **Significance:** Demonstrates technology competitiveness with global producers
+- **Industry Recognition:** Validates innovation and manufacturing excellence
+
+This recognition positions Supla as a technology leader comparable with established global PLA manufacturers.
+
+### Quality and Market Validation
+
+**Market Position Indicators:**
+- Customer satisfaction and long-term relationships
+- Geographic market presence across Europe, Asia, Americas
+- Supply chain reliability and consistency
+- Technical expertise and customer support
+- Emerging market trust and adoption
 
 ### Revenue Model
 
@@ -393,8 +390,6 @@ As an established PLA producer since 2012 with significant operational capacity 
 ### Investment and Financial Resources
 
 Supla's original 1.2+ billion RMB investment and continued expansion planning indicate access to capital and financial resources supporting growth objectives.
-
-## Future Outlook and Strategic Vision
 
 ### Capacity Expansion Roadmap (2026-2035)
 
@@ -445,9 +440,9 @@ Jiangsu Supla Bioplastics aspires to establish itself as one of the world's lead
 
 The company's vision encompasses achieving 160,000 MT/year production capacity, establishing market leadership in Asia and competitive presence globally, and advancing PLA technology and applications across food service, packaging, textiles, and industrial uses. By combining manufacturing excellence, technological innovation, and commitment to sustainability, Supla will position itself as a defining company in the global transition from petrochemical to renewable-based biopolymers.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
-
-*Last updated: February 14, 2026*
 
 **Sources:**
 - [Jiangsu Supla Bioplastics Official Website](https://www.supla-china.com/)
@@ -457,3 +452,7 @@ The company's vision encompasses achieving 160,000 MT/year production capacity, 
 - [Bioplastics Manufacturers in China: Top 10 Picks](https://www.chinaimportal.com/blog/bioplastic-manufacturers/)
 - [Polylactic Acid Market Analysis - Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/bio-polylactic-acid-pla-market)
 - [Sulzer's Bioplastics Technology for PLA - Chemical Engineering](https://www.chemengonline.com/sulzers-bioplastics-technology-selected-for-new-pla-plant-in-china/)
+
+## Sources
+
+1. Jiangsu Supla Bioplastics corporate website

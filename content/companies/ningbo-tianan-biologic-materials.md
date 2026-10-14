@@ -20,7 +20,10 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
 
 ## Overview
 
@@ -29,8 +32,6 @@ Ningbo Tianan Biologic Materials Co., Ltd. holds a distinctive position as the w
 Operating a dedicated production facility at Beilun Port in Ningbo, Tianan Biologic manufactures 2,000 metric tons annually of PHBV biopolymers under the Enmat brand, serving global markets across packaging, agriculture, disposables, and specialty applications. The company's products are certified for both industrial composting (EN 13432) and marine biodegradation (OK Biodegradable Marine), positioning Tianan Biologic as a pioneer in addressing ocean plastic pollution and advancing circular economy principles.
 
 Tianan Biologic's two-decade operational history, proprietary water-based PHA extraction technology, global certifications, and established customer relationships distinguish it as a proven, reliable manufacturer in the emerging global bioplastics supply chain. The company's consistent production, technical expertise, and commitment to environmental sustainability have established it as an essential player in the global transition toward biodegradable alternatives to conventional plastics.
-
-## Company Background and Establishment
 
 ### Founding and Early Development
 
@@ -69,7 +70,7 @@ This pioneering achievement established Tianan Biologic as an innovation leader 
 
 Tianan Biologic's longevity and operational consistency in a developing industry provide significant competitive advantages in terms of proven reliability, technical expertise, and customer confidence.
 
-## Primary Materials and Product Portfolio
+## Products and Materials
 
 ### PHBV Biopolymer Composition and Properties
 
@@ -135,7 +136,7 @@ While specific feedstock sourcing details are proprietary, Tianan Biologic utili
 - Agricultural support and community development
 - Circular economy principles
 
-## Production Facility and Manufacturing Capability
+## Production Facilities and Capacity
 
 ### Beilun Port Production Complex
 
@@ -236,47 +237,6 @@ Agricultural plastic films present significant environmental challenges due to s
 - Custom material formulations
 - Emerging application development
 
-## Global Certifications and Environmental Standards
-
-### Industrial Composting Certification
-
-**EN 13432 Certification:**
-Tianan Biologic's Enmat PHBV materials are certified for industrial composting:
-
-**Certification Characteristics:**
-- **Degradation Timeline:** Complete degradation in 180 days under industrial composting conditions
-- **Residue:** No toxic residues
-- **Nutrient Return:** Biodegrades to natural compost components
-- **Infrastructure Compatibility:** Suitable for certified industrial composting facilities
-- **Global Recognition:** European standard applicable worldwide
-
-This certification validates the biodegradability of Tianan Biologic's products and enables integration into established composting infrastructure.
-
-### Marine Biodegradation Certification
-
-**OK Biodegradable Marine (TÜV Austria):**
-Tianan Biologic's Enmat Y1000P PHBV holds marine biodegradation certification:
-
-**Significance:**
-- **Ocean Degradation:** Capability to biodegrade in marine environments
-- **Pollution Reduction:** Addresses ocean plastic pollution challenges
-- **Environmental Leadership:** Demonstrates commitment to marine ecosystem protection
-- **Regulatory Alignment:** Meets emerging marine biodegradation standards
-- **Consumer Confidence:** Provides credibility for environmental claims
-
-Marine biodegradation certification is increasingly important as ocean plastic pollution receives regulatory and consumer attention globally.
-
-### Additional Certifications
-
-**Quality and Environmental Certifications:**
-- ISO 9001 (Quality Management)
-- ISO 14001 (Environmental Management)
-- Food contact compliance certifications
-- Regional regulatory compliance certifications
-- Supply chain sustainability documentation
-
-## Competitive Position and Market Differentiation
-
 ### Technology Leadership
 
 **Proprietary Water-Based Extraction:**
@@ -315,8 +275,6 @@ Tianan Biologic's proprietary technology provides sustained competitive advantag
 - Logistics efficiency through major port
 - Integration into regional supply chains
 
-## Strategic Partnerships and Market Relationships
-
 ### Global Customer Base
 
 **Market Presence:**
@@ -345,26 +303,44 @@ Tianan Biologic serves a diverse global customer base across packaging, agricult
 - Technology sharing and best practices
 - Market research and trend identification
 
-## Financial Profile and Business Model
+## Sustainability and Certifications
 
-### Revenue Model
+### Industrial Composting Certification
 
-**B2B Polymer Sales:**
-- PHBV resin sales to converters and manufacturers
-- Volume-based pricing structure
-- Premium positioning for sustainable materials
-- Long-term supply agreements
-- Technical service and support
+**EN 13432 Certification:**
+Tianan Biologic's Enmat PHBV materials are certified for industrial composting:
 
-### Market Position and Scale
+**Certification Characteristics:**
+- **Degradation Timeline:** Complete degradation in 180 days under industrial composting conditions
+- **Residue:** No toxic residues
+- **Nutrient Return:** Biodegrades to natural compost components
+- **Infrastructure Compatibility:** Suitable for certified industrial composting facilities
+- **Global Recognition:** European standard applicable worldwide
 
-As a 2,000 MT/year producer serving global markets, Tianan Biologic operates at significant commercial scale with established revenue streams and profitable operations.
+This certification validates the biodegradability of Tianan Biologic's products and enables integration into established composting infrastructure.
 
-### Profitability and Financial Stability
+### Marine Biodegradation Certification
 
-While specific financial disclosures remain private, Tianan Biologic's 26-year operational history, consistent production, and established market position indicate financial stability and sustainable profitability.
+**OK Biodegradable Marine (TÜV Austria):**
+Tianan Biologic's Enmat Y1000P PHBV holds marine biodegradation certification:
 
-## Sustainability and Environmental Impact
+**Significance:**
+- **Ocean Degradation:** Capability to biodegrade in marine environments
+- **Pollution Reduction:** Addresses ocean plastic pollution challenges
+- **Environmental Leadership:** Demonstrates commitment to marine ecosystem protection
+- **Regulatory Alignment:** Meets emerging marine biodegradation standards
+- **Consumer Confidence:** Provides credibility for environmental claims
+
+Marine biodegradation certification is increasingly important as ocean plastic pollution receives regulatory and consumer attention globally.
+
+### Additional Certifications
+
+**Quality and Environmental Certifications:**
+- ISO 9001 (Quality Management)
+- ISO 14001 (Environmental Management)
+- Food contact compliance certifications
+- Regional regulatory compliance certifications
+- Supply chain sustainability documentation
 
 ### Complete Biodegradability
 
@@ -398,7 +374,24 @@ While specific financial disclosures remain private, Tianan Biologic's 26-year o
 **Complete Material Lifecycle:**
 From renewable feedstock sourcing through biodegradation, Tianan Biologic's PHBV materials demonstrate environmental benefits throughout their complete lifecycle compared to conventional petrochemical plastics.
 
-## Future Outlook and Growth Strategy
+## Recent Developments
+
+### Revenue Model
+
+**B2B Polymer Sales:**
+- PHBV resin sales to converters and manufacturers
+- Volume-based pricing structure
+- Premium positioning for sustainable materials
+- Long-term supply agreements
+- Technical service and support
+
+### Market Position and Scale
+
+As a 2,000 MT/year producer serving global markets, Tianan Biologic operates at significant commercial scale with established revenue streams and profitable operations.
+
+### Profitability and Financial Stability
+
+While specific financial disclosures remain private, Tianan Biologic's 26-year operational history, consistent production, and established market position indicate financial stability and sustainable profitability.
 
 ### Market Expansion and Capacity Growth (2026-2035)
 
@@ -449,9 +442,9 @@ Tianan Biologic aspires to remain the world's leading PHBV biopolymer producer w
 
 The company's proven track record, proprietary technology, global certifications, and established customer relationships position it as a reliable, innovative partner in the global bioplastics supply chain. As regulatory pressures intensify and market demand accelerates, Tianan Biologic is positioned to grow its production capacity and market leadership while remaining committed to environmental stewardship through sustainable material production and complete product biodegradability.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
-
-*Last updated: February 14, 2026*
 
 **Sources:**
 - [Ningbo Tianan Biologic Material Co., Ltd. - BPI World](https://products.bpiworld.org/companies/ningbo-tianan-biologic-material-co-ltd)
@@ -460,3 +453,7 @@ The company's proven track record, proprietary technology, global certifications
 - [Enmat Y1000P PHBV - Renewable Carbon News](https://renewable-carbon.eu/news/enmat-y1000p-phbv-certified-ok-biodegradable-marine/)
 - [Plastic Packaging Material That Is Both Sustainable and Biodegradable](https://www.resourcewise.com/blog/chemicals-blog/plastic-packaging-material-that-is-both-sustainable-and-biodegrades)
 - [Polyhydroxyalkanoate (PHA) Companies - Markets and Markets](https://www.marketsandmarkets.com/ResearchInsight/pha-market.asp)
+
+## Sources
+
+1. Ningbo Tianan Biologic Materials corporate website

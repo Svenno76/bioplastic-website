@@ -20,8 +20,11 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
-logo: "/images/logos/bio-on.png"
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
+logo: "/images/logos/bio-on.png"
 
 ## Overview
 
@@ -31,7 +34,7 @@ The company's core technology centered on fermentation-based production of PHAs 
 
 Bio-On became notable in the bioplastics industry for proving that high-purity PHAs could be economically manufactured from agricultural waste streams. The company's research and development efforts attracted attention from major consumer goods companies, including a partnership with Unilever for specialty cosmetic and personal care applications. Despite the promise of its technology and strategic partnerships, Bio-On faced financial challenges in 2019, ultimately leading to its declaration of bankruptcy in December 2019 by the Bologna court. The company's assets, including intellectual property and production facilities, remained in liquidation proceedings for several years until acquisition by MAIP Group in March 2023.
 
-## Primary Technologies and Products
+## Products and Materials
 
 Bio-On's primary technology platform centered on advanced fermentation-based synthesis of polyhydroxyalkanoates (PHAs), particularly focusing on polyhydroxybutyrate (PHB) and related copolymers. The company's proprietary process enabled the direct conversion of crude glycerol—a waste by-product of biodiesel production—into high-purity PHA polymers without requiring energy-intensive upstream refinement steps. This technological approach represented a significant advancement in waste valorization and circular bioeconomy principles.
 
@@ -40,6 +43,16 @@ The company's flagship product line was Minerv PHA, a family of biodegradable an
 Bio-On's fermentation technology leveraged selected microbial cultures to convert simple sugars and organic compounds derived from agricultural feedstocks into PHA precursors, which were then polymerized into commercial-grade materials. The company explored multiple feedstock pathways, including direct utilization of glycerol from biodiesel plants and investigation of used cooking oil as a carbon source for PHA synthesis. This feedstock flexibility provided significant cost advantages and environmental benefits by utilizing waste streams that would otherwise require disposal or lower-value applications.
 
 The Minerv PHA product family included standard formulations optimized for different applications, as well as specialized variants such as Minerv Supertoys, developed specifically for toy and recreational equipment applications. The company also produced custom formulations and compounds to meet specific customer requirements in high-performance applications. These products maintained full biodegradability while offering mechanical properties comparable to conventional petrochemical plastics in many applications.
+
+## Production Facilities and Capacity
+
+Bio-On's primary production facility was located in Castel San Pietro Terme, a municipality in the province of Bologna in the Emilia-Romagna region of northern Italy. The facility integrated research, development, and commercial-scale manufacturing operations, creating a fully vertically integrated operation from feedstock supply through finished product delivery. The production complex included fermentation vessels, polymer synthesis equipment, processing and compounding systems, and attached laboratories for quality assurance and product development.
+
+The demonstration-scale facility achieved approximately 1,000 metric tons per year (MT/year) of Minerv PHA production at its peak operational capacity, a scale sufficient for specialty and high-value applications but limiting for large-volume, price-sensitive markets. The facility design emphasized flexibility, enabling production of multiple Minerv PHA formulations and custom compounds to serve diverse customer applications. Advanced fermentation and polymerization equipment, combined with in-house laboratory facilities, enabled the company to maintain strict quality control and conduct continuous process optimization.
+
+The facility's strategic location in Emilia-Romagna provided advantages including proximity to agricultural feedstock sources, biodiesel production facilities supplying glycerol waste streams, and established chemical manufacturing infrastructure. The region's industrial heritage in chemical processing provided access to skilled workforce, specialized suppliers, and established logistics networks for both raw material procurement and finished product distribution throughout Europe.
+
+At the time of bankruptcy in December 2019, the Bologna facility remained operational and fully intact with all equipment, intellectual property, and production capabilities available. The facility represented a complete bioplastics production system capable of scaling to significantly higher capacity with capital investment and operational optimization. The production assets remained in place throughout the bankruptcy and liquidation proceedings (2019-2023) until acquisition by MAIP Group in March 2023.
 
 ## Market Segments and Applications
 
@@ -53,17 +66,7 @@ Design and high-performance applications formed an additional market segment, wi
 
 The toy and recreational equipment sector was specifically addressed through Minerv Supertoys formulations optimized for safety, mechanical robustness, and full biodegradability. This product line addressed growing regulatory pressures regarding plastic toy materials and aligned with toy manufacturers' sustainability objectives. Bio-On's development of Minerv Supertoys demonstrated its capacity for application-specific material engineering and its ability to navigate stringent regulatory requirements for consumer products.
 
-## Production Facilities and Capacity
-
-Bio-On's primary production facility was located in Castel San Pietro Terme, a municipality in the province of Bologna in the Emilia-Romagna region of northern Italy. The facility integrated research, development, and commercial-scale manufacturing operations, creating a fully vertically integrated operation from feedstock supply through finished product delivery. The production complex included fermentation vessels, polymer synthesis equipment, processing and compounding systems, and attached laboratories for quality assurance and product development.
-
-The demonstration-scale facility achieved approximately 1,000 metric tons per year (MT/year) of Minerv PHA production at its peak operational capacity, a scale sufficient for specialty and high-value applications but limiting for large-volume, price-sensitive markets. The facility design emphasized flexibility, enabling production of multiple Minerv PHA formulations and custom compounds to serve diverse customer applications. Advanced fermentation and polymerization equipment, combined with in-house laboratory facilities, enabled the company to maintain strict quality control and conduct continuous process optimization.
-
-The facility's strategic location in Emilia-Romagna provided advantages including proximity to agricultural feedstock sources, biodiesel production facilities supplying glycerol waste streams, and established chemical manufacturing infrastructure. The region's industrial heritage in chemical processing provided access to skilled workforce, specialized suppliers, and established logistics networks for both raw material procurement and finished product distribution throughout Europe.
-
-At the time of bankruptcy in December 2019, the Bologna facility remained operational and fully intact with all equipment, intellectual property, and production capabilities available. The facility represented a complete bioplastics production system capable of scaling to significantly higher capacity with capital investment and operational optimization. The production assets remained in place throughout the bankruptcy and liquidation proceedings (2019-2023) until acquisition by MAIP Group in March 2023.
-
-## Industry Position and Partnerships
+### Industry Position and Partnerships
 
 Bio-On established itself as an innovative player in the emerging PHA bioplastics sector, distinguishing itself through advanced fermentation technology and waste-derived feedstock utilization. The company's 2015 acquisition of the "Certificate of Material Excellence" from Material ConneXion represented significant industry recognition, positioning Minerv PHA alongside globally recognized sustainable materials. This certification enhanced the company's credibility with architects, designers, and premium product manufacturers seeking genuinely biodegradable materials with verified environmental credentials.
 
@@ -73,7 +76,7 @@ Bio-On actively engaged with regulatory bodies and standardization organizations
 
 The company also collaborated with academic institutions on research and development initiatives, leveraging university expertise in microbiology, polymer chemistry, and bioprocess engineering. These academic partnerships supported continued technology advancement and provided recruitment pathways for technical talent. The company's integrated research facility enabled it to maintain its technological edge and respond quickly to customer requirements and market opportunities.
 
-## Regional Significance
+### Regional Significance
 
 Bio-On occupied a unique position as a European leader in PHA bioplastics technology development, with particular significance within Italy and the broader European bioplastics ecosystem. The company's location in Emilia-Romagna, a region with strong chemical and advanced materials manufacturing traditions, positioned it within a cluster of innovation. As one of Italy's few indigenous bioplastics producers, Bio-On represented significant potential for Italian industrial development and leadership in high-technology, circular economy sectors.
 
@@ -81,7 +84,7 @@ The company's emphasis on agricultural waste utilization and feedstock sourcing 
 
 Within the broader European bioplastics landscape, Bio-On represented technological and commercial diversity. While most major PLA producers were concentrated in North America or Asia, Bio-On developed a distinct PHA technology pathway, reducing European dependence on imported bioplastics and creating a regional innovation hub. The company's presence supported European regulatory efforts to promote bioplastics adoption and supported the narrative of European leadership in sustainable materials technology.
 
-## Sustainability and Environmental Credentials
+## Sustainability and Certifications
 
 Bio-On's entire business model centered on circular bioeconomy principles, with environmental sustainability integrated throughout the value chain. The core sustainability advantage lay in feedstock utilization: Bio-On's fermentation process converted biodiesel by-products (particularly glycerol) into valuable biopolymers, eliminating waste disposal requirements and creating economic value from streams that would otherwise require environmental management or low-value applications. This waste valorization approach exemplified circular economy principles by converting a previously discarded material into a premium product.
 
@@ -91,7 +94,9 @@ The use of renewable feedstocks derived from agricultural and industrial waste s
 
 Bio-On actively pursued environmental certifications and third-party validations of its sustainability claims. Certifications supporting industrial compostability (EN 13432) and marine biodegradability where applicable provided independent verification of environmental performance. The company's participation in Material ConneXion's global sustainable materials database reflected third-party assessment of the material's environmental attributes and suitability for architects and designers prioritizing sustainability.
 
-## Financial Profile and Company Structure
+## Recent Developments
+
+### Financial Profile and Company Structure
 
 Bio-On was established as a private Italian company with initial funding from venture capital and strategic investors focused on advanced materials and biotechnology. The company expanded its capital base through subsequent funding rounds supporting technology development and facility construction. By the late 2010s, Bio-On had achieved significant technological maturity and established commercial operations, but remained challenged by capital intensity of scaling production to economically competitive volumes.
 
@@ -101,7 +106,7 @@ In July 2019, Bio-On became the subject of allegations by U.S. hedge fund Quinte
 
 The company's assets, including the production facility, intellectual property portfolio, fermentation technology, and patents, were ultimately acquired by MAIP Group (headquartered in Turin, Italy) in March 2023. MAIP Group's acquisition suggested potential resurrection of Bio-On's technology and operations under new ownership, though specific details regarding operational plans and capital investment commitments were not publicly disclosed at the time of acquisition.
 
-## Future Outlook and Strategic Direction
+### Future Outlook and Strategic Direction
 
 Under MAIP Group ownership (as of March 2023), Bio-On's technology and assets enter a new phase with potential for operational resumption and scaled commercialization. MAIP Group's acquisition of the complete production facility, intellectual property, and patents indicates confidence in the underlying technology and market potential. The viability of resuming commercial operations depends on MAIP Group's capital investment commitments, strategic positioning of PHA technology within the acquirer's portfolio, and market conditions for PHA bioplastics at the time of operational restart.
 
@@ -109,6 +114,8 @@ The broader PHA market continues expanding with increased regulatory support for
 
 Key uncertainties include MAIP Group's strategic direction for the acquired assets, capital investment levels, timeline for operational resumption, and competitive positioning relative to other PHA producers and technology platforms. Success would require competitive cost structure to enable penetration of larger volume markets while maintaining focus on high-value specialty applications where biodegradability provides premium pricing. The acquisition by MAIP Group represents a potential turning point, though future success remains contingent on strategic execution and favorable market conditions.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
 **Last updated**: February 14, 2026
@@ -120,3 +127,7 @@ Key uncertainties include MAIP Group's strategic direction for the acquired asse
 - [A new big discovery from the Bio-on laboratories: also from the used cooking oil comes the bioplastic](https://www.globenewswire.com/news-release/2018/09/10/1568266/0/en/A-new-big-discovery-from-the-Bio-on-laboratories-also-from-the-used-cooking-oil-comes-the-bioplastic.html)
 - [Bio-on is being acquired by Maip Group](https://www.plasticsnews.com/news/bio-being-acquired-maip-group/)
 - [Fourth auction to be held for assets Italian PHA-maker Bio-on](https://www.sustainableplastics.com/news/fourth-auction-be-held-assets-italian-pha-maker-bio)
+
+## Sources
+
+1. Bio-On corporate website

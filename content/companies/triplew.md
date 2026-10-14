@@ -15,13 +15,31 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
+---
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
 ## Overview
 
 TripleW is a circular chemistry pioneer founded in 2016 by Amir Oranim and Tal Shapira, based in Netanya, Israel. The company transforms food waste into high-purity lactic acid and PLA (polylactic acid) bioplastics through proprietary fermentation technology. TripleW addresses both waste management and bioplastic production challenges by creating valuable products from food waste streams that would otherwise be discarded.
 
-## Core Technology: Circulac® Lactic Acid Process
+## Products and Materials
+
+**Circulac® Lactic Acid and Lactate Salts**:
+- High-purity building block for biopolymers
+- Ingredient for consumer products
+- Chemical intermediate for various applications
+
+**PLA Bioplastics**:
+- Produced from Circulac® lactic acid
+- Used for packaging applications
+- Personal care and home care formulations
+- Food-grade quality bioplastic
+
+### Core Technology: Circulac® Lactic Acid Process
 
 **Fermentation Process**:
 - Food waste is separated and ground into pumpable slurry
@@ -35,24 +53,7 @@ TripleW is a circular chemistry pioneer founded in 2016 by Amir Oranim and Tal S
 - 75% lower carbon footprint than virgin lactic acid
 - Scalable fermentation technology
 
-## Primary Products
-
-**Circulac® Lactic Acid and Lactate Salts**:
-- High-purity building block for biopolymers
-- Ingredient for consumer products
-- Chemical intermediate for various applications
-
-**PLA Bioplastics**:
-- Produced from Circulac® lactic acid
-- Used for packaging applications
-- Personal care and home care formulations
-- Food-grade quality bioplastic
-
-## Major Achievement: World's First Food Waste PLA
-
-In September 2025, TripleW and partner Sulzer produced the world's first commercial PLA bioplastic entirely from food waste. The resulting bioplastic was used by Sulapac to create cosmetic packaging prototypes, demonstrating commercial viability of food waste-based PLA.
-
-## Industry Applications
+## Market Segments and Applications
 
 - **Packaging**: Containers, bags, film, rigid packaging
 - **Personal Care**: Beauty and hygiene product packaging
@@ -60,30 +61,36 @@ In September 2025, TripleW and partner Sulzer produced the world's first commerc
 - **Food and Beverage**: Food contact packaging materials
 - **Industrial Applications**: Technical and specialty applications
 
-## Strategic Partnerships
+### Strategic Partnerships
 
 - Partnership with Sulzer for industrial-scale PLA production
 - Collaboration with Sulapac for packaging applications
 - Partnerships with major consumer goods companies
 
-## Market Context
+### Market Context
 
 - Addresses regulatory trends banning virgin plastic use
 - Solves dual problems: waste management and sustainable material production
 - Competes with virgin and bio-derived lactic acid on cost and sustainability
 - Enables full circular economy from waste to high-value material
 
-## Recent Milestones
+## Recent Developments
 
 - €16.5 million Series B financing for expansion
 - Construction of industrial-scale fermentation facilities
 - Partnership with Sulzer for PLA polymerization
 - First commercial food waste-based PLA production
 
-## Future Vision
+### Major Achievement: World's First Food Waste PLA
+
+In September 2025, TripleW and partner Sulzer produced the world's first commercial PLA bioplastic entirely from food waste. The resulting bioplastic was used by Sulapac to create cosmetic packaging prototypes, demonstrating commercial viability of food waste-based PLA.
+
+### Future Vision
 
 TripleW aims to scale food waste-to-bioplastic production globally, establishing multiple fermentation and polymerization facilities to meet growing demand for circular, waste-based bioplastics while creating significant positive environmental impact.
 
 ---
 
-*Last updated: 2026-02-14*
+## Sources
+
+1. TripleW corporate website

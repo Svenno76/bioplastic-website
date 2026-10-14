@@ -20,15 +20,16 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
 ---
+
 
 ## Overview
 
 Cardia Bioplastics is an Australian developer and manufacturer of biodegradable and compostable bioplastic resins, headquartered in Melbourne, Victoria. Founded in 2002, the company has established itself as a specialist in sustainable biopolymer technology serving the Asia-Pacific region and expanding global markets. With R&D operations in Melbourne and manufacturing partnerships in China and Malaysia, Cardia produces advanced bioplastic formulations meeting stringent biodegradability and compostability standards.
 
 The company's focus on certified compostable materials and bio-based polymer chemistry positions Cardia as a recognized innovator in sustainable packaging solutions, supporting major brands in their transition toward circular economy business models and reduced environmental impact.
-
-## Company Heritage and Market Position
 
 ### Australian Innovation Foundation
 
@@ -44,7 +45,7 @@ The company's focus on certified compostable materials and bio-based polymer che
 - Integration into regional supply chains and distribution networks
 - Support for emerging market sustainability requirements
 
-## Bioplastic Technology Platform
+## Products and Materials
 
 ### Compostable Biohybrid Resins
 
@@ -105,7 +106,7 @@ Cardia's proprietary biohybrid resins represent an advanced approach to composta
 - Agricultural application capabilities
 - Cost-effective sustainable material options
 
-## Production and Manufacturing Operations
+## Production Facilities and Capacity
 
 ### Global Manufacturing Network
 
@@ -140,29 +141,6 @@ Cardia's proprietary biohybrid resins represent an advanced approach to composta
 - Third-party verification of compostability claims
 - Food contact compliance testing where required
 - Continuous improvement in production processes
-
-## Certifications and Standards Compliance
-
-### Compostability Certifications
-
-**International Certifications**:
-- EN 13432 (European standard for industrial composting)
-- ASTM D6400 (North American standard for compostable plastics)
-- Japanese Greenpla standard certification
-- AS 4736 (Australian and New Zealand compostability standard)
-
-**Certification Significance**:
-- Comprehensive global compostability recognition
-- Support for international customers and market access
-- Compliance with major retail and brand requirements
-- Third-party verification of environmental claims
-
-### Environmental Standards
-
-- Bio-based content certification where applicable
-- Food contact compliance certifications
-- ISO quality and management system certifications
-- Environmental responsibility verifications
 
 ## Market Segments and Applications
 
@@ -215,8 +193,6 @@ Cardia's proprietary biohybrid resins represent an advanced approach to composta
 - Consumer goods components
 - Industrial and technical applications
 
-## Industry Position and Competitive Advantages
-
 ### Technology Differentiation
 
 **Biohybrid Innovation**:
@@ -253,7 +229,28 @@ Cardia's proprietary biohybrid resins represent an advanced approach to composta
 - Food service industry relationships
 - Agricultural sector partnerships
 
-## Sustainability and Environmental Profile
+## Sustainability and Certifications
+
+### Compostability Certifications
+
+**International Certifications**:
+- EN 13432 (European standard for industrial composting)
+- ASTM D6400 (North American standard for compostable plastics)
+- Japanese Greenpla standard certification
+- AS 4736 (Australian and New Zealand compostability standard)
+
+**Certification Significance**:
+- Comprehensive global compostability recognition
+- Support for international customers and market access
+- Compliance with major retail and brand requirements
+- Third-party verification of environmental claims
+
+### Environmental Standards
+
+- Bio-based content certification where applicable
+- Food contact compliance certifications
+- ISO quality and management system certifications
+- Environmental responsibility verifications
 
 ### Renewable and Biodegradable Focus
 
@@ -277,7 +274,7 @@ Cardia's proprietary biohybrid resins represent an advanced approach to composta
 - Marine environment: Specialty formulations for ocean-safe applications
 - Soil conditions: Specific formulations for agricultural applications
 
-## Future Outlook and Growth Strategy
+## Recent Developments
 
 ### Market Expansion Plans
 
@@ -312,7 +309,10 @@ Cardia's proprietary biohybrid resins represent an advanced approach to composta
 
 Cardia Bioplastics is positioned to become a leading provider of certified compostable bioplastics in the Asia-Pacific region and expanding globally. The company's focus on proprietary biohybrid technology, comprehensive certifications, and commitment to sustainable materials positions it to capture significant growth in the expanding global bioplastics market. Continued investment in product innovation, manufacturing partnerships, and customer relationships will support Cardia's evolution into a major global bioplastics supplier.
 
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
-*Last updated: February 14, 2026*
-*Information sourced from Cardia Bioplastics corporate website, company announcements, and industry publications*
+## Sources
+
+1. Cardia Bioplastics corporate website

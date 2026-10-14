@@ -16,13 +16,17 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
+last_updated: 2026-10-14
+profile_status: complete
+---
+profile_status: complete
 ---
 
 ## Overview
 
 TotalEnergies is a global energy company with over 100,000 employees with strategic focus on bioplastics and sustainable polymers. For more than ten years, TotalEnergies' R&D teams have developed bioenergies expertise through research in lignocellulose (plant waste) and microalgae utilization. In 2016, the company formed TotalEnergies Corbion, a joint venture with Corbion (world leader in lactic acid), to develop, produce, and market PLA (polylactic acid) - a leading bioplastic.
 
-## Bioplastics Division: TotalEnergies Corbion
+### Bioplastics Division: TotalEnergies Corbion
 
 **Joint Venture Overview**:
 - Formed in 2016 with Corbion (lactic acid world leader)
@@ -39,7 +43,9 @@ TotalEnergies is a global energy company with over 100,000 employees with strate
 - Goal: Become global leader in PLA bioplastics
 - Partnerships with major converters and brand owners
 
-## Research and Development
+## Products and Materials
+
+### Research and Development
 
 **R&D Focus Areas**:
 - Lignocellulose (plant waste) conversion to bioplastics feedstocks
@@ -52,6 +58,47 @@ TotalEnergies is a global energy company with over 100,000 employees with strate
 - Participation in Futurol consortium
 - Participation in BioTfueL consortium
 - Academic and industrial partnerships
+
+## Production Facilities and Capacity
+
+### Feedstock Sources
+
+- **Sugarcane**: Primary feedstock for lactic acid production
+- **Starch**: Alternative bio-based feedstocks
+- **Recycled Materials**: Circular feedstocks for recycled polymers
+- **Plant Waste**: Lignocellulose utilization research
+
+## Market Segments and Applications
+
+### Products and Applications
+
+**PLA Bioplastics Applications**:
+- Beverage and food packaging
+- Fiber and textile applications
+- Consumer goods packaging
+- Molded foam products
+- Specialized applications
+
+### Strategic Advantages
+
+- Strong position in lactic acid supply chain through Corbion partnership
+- Global distribution and marketing capabilities
+- R&D investment in next-generation bioplastics
+- Commitment to circular economy and waste valorization
+- Partnerships with leading converters and consumers
+
+### Geographic Presence
+
+Global operations with headquarters in Paris, France. TotalEnergies Corbion operates production facilities and serves customers across Europe, Americas, and Asia.
+
+## Sustainability and Certifications
+
+- Development of bio-based alternatives to fossil polymers
+- Circular economy focus through advanced recycling
+- Reduction of virgin plastic consumption
+- Support for global bioplastics industry growth
+
+---
 
 ## Recent Developments
 
@@ -70,41 +117,6 @@ TotalEnergies is a global energy company with over 100,000 employees with strate
 - Multi Trade Group partnership for Middle East market development
 - Expanding bioplastics adoption globally
 
-## Products and Applications
+## Sources
 
-**PLA Bioplastics Applications**:
-- Beverage and food packaging
-- Fiber and textile applications
-- Consumer goods packaging
-- Molded foam products
-- Specialized applications
-
-## Feedstock Sources
-
-- **Sugarcane**: Primary feedstock for lactic acid production
-- **Starch**: Alternative bio-based feedstocks
-- **Recycled Materials**: Circular feedstocks for recycled polymers
-- **Plant Waste**: Lignocellulose utilization research
-
-## Strategic Advantages
-
-- Strong position in lactic acid supply chain through Corbion partnership
-- Global distribution and marketing capabilities
-- R&D investment in next-generation bioplastics
-- Commitment to circular economy and waste valorization
-- Partnerships with leading converters and consumers
-
-## Geographic Presence
-
-Global operations with headquarters in Paris, France. TotalEnergies Corbion operates production facilities and serves customers across Europe, Americas, and Asia.
-
-## Sustainability Commitments
-
-- Development of bio-based alternatives to fossil polymers
-- Circular economy focus through advanced recycling
-- Reduction of virgin plastic consumption
-- Support for global bioplastics industry growth
-
----
-
-*Last updated: 2026-02-14*
+1. TotalEnergies corporate website

@@ -17,6 +17,8 @@ draft: false
 sitemap:
   priority: 0.7
 logo: "/images/logos/releaf.png"
+last_updated: 2026-10-14
+profile_status: complete
 ---
 
 ## Overview
@@ -25,9 +27,25 @@ ReLeaf is the commercial brand for Avantium's PEF (polyethylene furanoate) techn
 
 PEF is produced from FDCA (furandicarboxylic acid), which Avantium manufactures from plant-based sugars through its catalytic YXY® process. The resulting polymer offers superior performance characteristics compared to PET while being completely fossil-free and compatible with existing recycling infrastructure.
 
-## Core Technology: YXY® Process
+### Relationship to Avantium
+
+- **Brand**: ReLeaf = Avantium's PEF commercial brand
+- **Technology**: YXY® = Avantium's FDCA production technology
+- **Commercialization**: Avantium handles polymer supply; partners handle conversion
+- **Stock listing**: Avantium listed on Euronext Amsterdam/Brussels (AVTX)
+
+### Strategic Importance
+
+ReLeaf represents Avantium's primary commercialization pathway for its YXY® Technology, targeting the $50+ billion global PET market with a bio-based, higher-performing, recyclable alternative.
+
+last_updated: 2026-10-14
+profile_status: complete
+---
+
+## Products and Materials
 
 ### FDCA Production
+
 Avantium's patented YXY® Technology converts plant-based fructose into FDCA (furandicarboxylic acid), the key building block for PEF:
 
 **Process Steps:**
@@ -57,8 +75,6 @@ Avantium's patented YXY® Technology converts plant-based fructose into FDCA (fu
 - **Lower carbon footprint** vs. fossil-based PET
 - **No food contact migration issues**
 
-## ReLeaf Brand Applications
-
 ### Packaging Solutions
 
 **Beverage Bottles:**
@@ -79,62 +95,39 @@ Avantium's patented YXY® Technology converts plant-based fructose into FDCA (fu
 - Refillable packaging systems
 
 ### Textile Applications
+
 - **Apparel fibers**: PEF-based polyester textiles
 - **Technical textiles**: High-performance requirements
 - **Blends**: With cotton, wool, other bio-based fibers
 
 ### Film & Specialty
+
 - **Packaging films**: High-barrier flexible packaging
 - **Electronics**: Barrier films for displays
 - **Medical**: Sterile packaging applications
 
-## Value Chain Integration
+## Market Segments and Applications
 
 ### Avantium YXY® Technology (Amsterdam, NL)
+
 - Pilot plant in Geleen, Netherlands
 - Commercial FDCA plant under development in Delfzijl
 - Technology licensing model
 
 ### Bottle Manufacturing Partners
+
 - **Gepack** (Portugal) — injection stretch blow molding
 - **Amcor** — rigid packaging development
 - **Other converters** — evaluating PEF processing
 
 ### Brand Owners & Fillers
+
 - **Frubaça** (Portugal) — functional beverage shots
 - **Hoogesteger** — capacity reservation agreement
 - **Coca-Cola, Danone, others** — evaluation partnerships
 
-## Commercial Milestones
-
-### 2024-2025 Achievements
-- **RecyClass validation**: PEF/PET bottles fully recyclable in PET stream
-- **Amcor partnership**: Joint development of PEF rigid packaging
-- **Hoogesteger agreement**: Capacity reservation for releaf® supply
-- **Gepack/Frubaça collaboration**: PEF bottles for functional beverage shots
-
-### Near-term Targets
-- **Delfzijl FDCA plant**: Commercial start-up (target 2026+)
-- **Scale-up**: From pilot to commercial volumes
-- **Brand launches**: First consumer products with releaf®
-
-## Environmental Benefits
-
-### Lifecycle Assessment
-- **~50-70% lower GHG emissions** vs. fossil PET (depending on MEG source)
-- **Bio-based carbon content**: Up to 100% (with bio-MEG)
-- **Circularity**: Recyclable in existing infrastructure
-- **Non-toxic**: No antimony catalysts, no acetaldehyde migration
-
-### End-of-Life
-- **Mechanical recycling**: Compatible with PET recycling (validated)
-- **Chemical recycling**: Depolymerization to monomers possible
-- **Biodegradation**: Not compostable (durable polymer), but recyclable
-- **No microplastic persistence**: Recyclable circular pathway
-
-## Market Position
-
 ### Competitive Advantages
+
 1. **Only commercial 100% bio-based PET alternative** with superior properties
 2. **Drop-in compatibility** with existing PET production equipment
 3. **Validated recyclability** in current infrastructure
@@ -142,23 +135,43 @@ Avantium's patented YXY® Technology converts plant-based fructose into FDCA (fu
 5. **Proven technology** at pilot scale
 
 ### Target Markets
+
 - **Premium beverages**: Where barrier performance justifies premium
 - **Sustainability-driven brands**: Meeting recycled/bio-based content targets
 - **Regulatory compliance**: EU PPWR, SUPD requirements
 - **Circular economy leaders**: Closed-loop packaging systems
 
-## Company Context
+## Sustainability and Certifications
 
-### Relationship to Avantium
-- **Brand**: ReLeaf = Avantium's PEF commercial brand
-- **Technology**: YXY® = Avantium's FDCA production technology
-- **Commercialization**: Avantium handles polymer supply; partners handle conversion
-- **Stock listing**: Avantium listed on Euronext Amsterdam/Brussels (AVTX)
+### Lifecycle Assessment
 
-### Strategic Importance
-ReLeaf represents Avantium's primary commercialization pathway for its YXY® Technology, targeting the $50+ billion global PET market with a bio-based, higher-performing, recyclable alternative.
+- **~50-70% lower GHG emissions** vs. fossil PET (depending on MEG source)
+- **Bio-based carbon content**: Up to 100% (with bio-MEG)
+- **Circularity**: Recyclable in existing infrastructure
+- **Non-toxic**: No antimony catalysts, no acetaldehyde migration
 
----
+### End-of-Life
 
-*Last updated: February 14, 2026*
-*Information sourced from Avantium corporate communications, ReLeaf brand materials, press releases, and industry publications*
+- **Mechanical recycling**: Compatible with PET recycling (validated)
+- **Chemical recycling**: Depolymerization to monomers possible
+- **Biodegradation**: Not compostable (durable polymer), but recyclable
+- **No microplastic persistence**: Recyclable circular pathway
+
+## Recent Developments
+
+### 2024-2025 Achievements
+
+- **RecyClass validation**: PEF/PET bottles fully recyclable in PET stream
+- **Amcor partnership**: Joint development of PEF rigid packaging
+- **Hoogesteger agreement**: Capacity reservation for releaf® supply
+- **Gepack/Frubaça collaboration**: PEF bottles for functional beverage shots
+
+### Near-term Targets
+
+- **Delfzijl FDCA plant**: Commercial start-up (target 2026+)
+- **Scale-up**: From pilot to commercial volumes
+- **Brand launches**: First consumer products with releaf®
+
+## Sources
+
+1. ReLeaf corporate website
