@@ -12,7 +12,7 @@ primary_materials: "Polylactic acid (PLA), polybutylene succinate (PBS), modifie
 market_segments: "Garbage bags, shopping bags, food packaging, disposable tableware, 3D printing, electrical products, biodegradable consumer goods"
 publicly_listed: true
 stock_ticker: "Listed 2021 (China)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

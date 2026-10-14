@@ -12,7 +12,7 @@ primary_materials: "Bio-based polymers, specialty additives, fluorochemicals, ad
 market_segments: "Packaging, automotive, construction, healthcare, industrial applications, renewable materials"
 publicly_listed: true
 stock_ticker: "Euronext:AKE"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

@@ -10,8 +10,8 @@ founded: "1983"
 employees: "700+"
 primary_materials: "PET, PE, PP, PS, PC, PA, PLA, Biopolymers"
 market_segments: "Packaging, Automotive, Textiles, Medical, Agriculture, Plastics Processing Industry"
-publicly_listed: no
-date: '2026-06-19'
+publicly_listed: false
+date: 2026-06-19
 draft: false
 sitemap:
   priority: 0.8

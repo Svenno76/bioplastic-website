@@ -17,7 +17,7 @@ production_capacity:
     capacity: "1,000 MT/year"
     location: "Bengaluru, Karnataka, India"
     status: "Operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

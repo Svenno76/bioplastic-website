@@ -10,9 +10,9 @@ founded: "2010s"
 employees: "50-100"
 primary_materials: "Plant-based compostable bioplastics (corn starch, sugarcane), hemp biocomposites, recycled materials"
 market_segments: "Automotive components, food service packaging, consumer goods, industrial applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "OTC:OWPC"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

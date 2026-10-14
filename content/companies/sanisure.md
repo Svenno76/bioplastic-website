@@ -9,7 +9,7 @@ website: "https://sanisure.com"
 founded: "Unknown"
 employees: "500+"
 primary_focus: ["Single-Use Components", "Bioprocessing Solutions", "Custom Assemblies", "Sterile Manufacturing Systems"]
-market_segments: ["Biopharmaceuticals", "Vaccine Manufacturing", "Cell and Gene Therapy", "Advanced Therapeutics"]
+market_segments: "Biopharmaceuticals, Vaccine Manufacturing, Cell and Gene Therapy, Advanced Therapeutics"
 publicly_listed: false
 date: 2026-02-14
 draft: false

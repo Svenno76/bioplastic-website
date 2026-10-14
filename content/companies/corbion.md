@@ -10,10 +10,10 @@ founded: "1919"
 employees: "800+"
 primary_materials: "PLA (Polylactic Acid), lactic acid, lactide monomers, biochemicals"
 market_segments: "Packaging, food and beverage, agriculture, medical devices, electronics, home & personal care, pharmaceuticals"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "Euronext:CRBN"
 joint_ventures: "Total Corbion PLA (50/50 partnership with TotalEnergies)"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

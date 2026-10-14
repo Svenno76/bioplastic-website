@@ -11,8 +11,8 @@ employees: "6,200+"
 primary_materials: "Polyolefins, bio-based polyethylene, bio-PP, specialty plastics, circular polymers"
 market_segments: "Packaging, automotive, construction, electrical and electronics, consumer goods"
 publicly_listed: false
-stock_ticker: ".nan"
-date: '2026-02-13'
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

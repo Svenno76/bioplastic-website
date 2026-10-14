@@ -16,7 +16,7 @@ production_capacity:
     capacity: "75,000 MT/year"
     location: "Nakhon Sawan Province, Thailand"
     status: "Under construction, completion 2025"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

@@ -12,7 +12,7 @@ website: https://www.nefu.edu.cn/
 primary_materials: Bamboo cellulose-based bioplastic
 market_segments: Automotive, appliances, construction, packaging, engineering
 publicly_listed: false
-date: '2026-01-02'
+date: 2026-01-02
 draft: false
 sitemap:
   priority: 0.8

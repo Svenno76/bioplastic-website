@@ -8,9 +8,9 @@ short_description: Monash University researchers have developed customizable bio
 website: "https://www.monash.edu"
 primary_materials: Polyhydroxyalkanoates (PHA)
 market_segments: Packaging, Medical, Agriculture
-publicly_listed: no
-stock_ticker: "ASX:MQG"
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

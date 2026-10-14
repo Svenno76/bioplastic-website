@@ -9,7 +9,7 @@ website: "https://www.riken.jp/en/research/labs/cems/"
 founded: "2013"
 employees: "200+"
 primary_focus: ["Supramolecular Plastics", "Ocean-Degradable Materials", "Biomass Polymers", "Materials Science Research"]
-market_segments: ["Advanced Materials", "Packaging", "Marine Environment", "Circular Economy"]
+market_segments: "Advanced Materials, Packaging, Marine Environment, Circular Economy"
 publicly_listed: false
 date: 2026-02-14
 draft: false

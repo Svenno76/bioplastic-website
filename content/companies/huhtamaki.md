@@ -12,7 +12,7 @@ primary_materials: "Molded fiber, plastic packaging, sustainable materials, biod
 market_segments: "Food service packaging, home and away food packaging, commercial food packaging, sustainable packaging"
 publicly_listed: true
 stock_ticker: "HEX:HUHTAMAKI"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

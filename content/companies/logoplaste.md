@@ -17,6 +17,7 @@ sitemap:
   priority: 0.8
 noindex: false
 nofollow: false
+date: 2026-10-14
 draft: false
 logo: /images/logos/logoplaste.png
 company_type: "Converter / Packaging"

@@ -10,9 +10,9 @@ founded: "1865"
 employees: "112,000"
 primary_materials: "PBAT, ecoflex®, ecovio®, Ultramid® BMB, Ultradur® BMB"
 market_segments: "Packaging, agriculture, electrical and electronics, food contact applications, organic waste collection"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "XETRA:BAS"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

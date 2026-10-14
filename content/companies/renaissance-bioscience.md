@@ -9,7 +9,7 @@ website: "https://renaissancebioscience.com"
 founded: "Unknown"
 employees: "50+"
 primary_focus: ["Yeast Bioengineering", "Fermentation Technology", "Bioplastic Building Blocks", "Sustainable Chemistry"]
-market_segments: ["Packaging", "Personal Care", "Consumer Goods", "Health Products"]
+market_segments: "Packaging, Personal Care, Consumer Goods, Health Products"
 publicly_listed: false
 date: 2026-02-14
 draft: false

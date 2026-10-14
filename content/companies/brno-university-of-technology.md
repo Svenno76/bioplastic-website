@@ -10,8 +10,8 @@ founded: "1899"
 employees: "1000+"
 primary_materials: "Biopolymers, biodegradable composites, PLA, PHA, biocomposites for 3D printing, tissue engineering materials"
 market_segments: "Research, education, materials development, industrial partnerships, bioplastics testing, biocomposites"
-publicly_listed: no
-date: '2026-02-14'
+publicly_listed: false
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

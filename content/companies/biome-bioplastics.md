@@ -10,9 +10,9 @@ founded: "2000s"
 employees: "50-100"
 primary_materials: "Starch-based bioplastics, biodegradable polymers, high-temperature bioplastics, lignin-based materials, custom polymer blends"
 market_segments: "Packaging, flexible films, coatings, non-woven materials, agricultural applications, biodegradable tree shelters, injection molded products"
-publicly_listed: no
+publicly_listed: true
 stock_ticker: "AIM:BIOM"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

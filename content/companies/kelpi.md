@@ -11,9 +11,9 @@ employees: "11-50"
 primary_materials: "Seaweed-derived biopolymers"
 market_segments: "Sustainable packaging, single-use plastic replacement, food packaging, cosmetics, personal care"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 funding: "Series A ($9.51M raised, 17 investors)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

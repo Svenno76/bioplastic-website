@@ -12,7 +12,7 @@ primary_materials: "Biodegradable polymer blends, natural materials, biobased fe
 market_segments: "Flexible films, rigid packaging, injection molding, bags, foodservice products, compostable plastics"
 publicly_listed: true
 stock_ticker: "NTIC (NASDAQ)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

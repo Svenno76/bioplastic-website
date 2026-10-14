@@ -15,7 +15,7 @@ publicly_listed: true
 stock_ticker: TYO:3407
 employees: 46,000+
 annual_turnover: $17.5B
-date: '2026-01-05'
+date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.8

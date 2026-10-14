@@ -10,13 +10,13 @@ employees: "100-150 (direct); 5,000+ farmers (supply chain)"
 primary_materials: "Cassava starch, cassava flour, industrial cassava products, sorbitol (cassava-based)"
 market_segments: "Food industry (beverage, bakery, confectionery, seasoning), industrial applications (ceramics, textiles, tiles), potential bioplastics feedstock"
 publicly_listed: false
-stock_ticker:
-production_capacity:
+stock_ticker: ""
+production_capacity: 
   - biopolymer: "Cassava starch"
     capacity: "10,000 MT/year"
     location: "Ado-Awaye, Oyo State, Nigeria"
     status: "Operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

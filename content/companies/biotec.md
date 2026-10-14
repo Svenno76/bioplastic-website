@@ -10,8 +10,8 @@ founded: "1992"
 employees: "100+"
 primary_materials: "PLA compounds, Potato starch-based polymers, Bio-based polyesters, Biodegradable compounds, Cellulose-based bioplastics"
 market_segments: "Packaging, Pharmaceuticals, Cosmetics, Food Industry, Agriculture, Healthcare, Automotive"
-publicly_listed: no
-date: '2026-06-19'
+publicly_listed: false
+date: 2026-06-19
 draft: false
 sitemap:
   priority: 0.8

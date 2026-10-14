@@ -12,7 +12,7 @@ primary_materials: "Advanced silicas, zeolites, catalyst supports, functionalize
 market_segments: "Plastics production, bioplastic catalysis, sustainable chemistry, renewable fuels, chemical processing, air purification"
 publicly_listed: true
 stock_ticker: "ECVT (NASDAQ)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

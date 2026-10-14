@@ -12,7 +12,7 @@ primary_materials: "Polyurethanes, MDI precursors, amines, specialty chemicals, 
 market_segments: "Polyurethanes, performance products, advanced materials, chemicals"
 publicly_listed: true
 stock_ticker: "NYSE:HUN"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

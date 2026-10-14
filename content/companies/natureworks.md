@@ -10,12 +10,12 @@ founded: "1997"
 employees: "201-500"
 primary_materials: "PLA (Polylactic Acid) - Ingeo brand"
 market_segments: "Packaging, food serviceware, health and personal care, durable products (home, appliance, electronics), 3D printing, fibers and textiles"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "PLA (Ingeo)"
     capacity: "140,000+ tons/year"
     location: "Blair, Nebraska, USA"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

@@ -9,7 +9,7 @@ website: "https://bioweg.com"
 founded: "2019"
 employees: "50+"
 primary_focus: ["Bacterial Cellulose Production", "Biodegradable Polymers", "Microplastic Alternatives", "Biotechnology"]
-market_segments: ["Cosmetics", "Personal Care", "Home Care", "Agriculture"]
+market_segments: "Cosmetics, Personal Care, Home Care, Agriculture"
 publicly_listed: false
 date: 2026-02-14
 draft: false

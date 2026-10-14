@@ -20,7 +20,7 @@ production_capacity:
     capacity: "30,000-100,000 MT/year"
     location: "Bengbu, Anhui Province, China"
     status: "Operational with expansion targeting"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

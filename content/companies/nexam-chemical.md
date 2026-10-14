@@ -10,9 +10,9 @@ founded: "2005"
 employees: "30+"
 primary_materials: "NEXIMID® (polyimide), Reactive Recycling® additives, Lightweighting agents, PLA modifiers, chain extenders for biopolyesters"
 market_segments: "Packaging, insulation, e-commerce, pipe manufacturing, foam production, high-performance plastics, food packaging"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "STO:NEXAM"
-date: '2026-06-19'
+date: 2026-06-19
 draft: false
 sitemap:
   priority: 0.8

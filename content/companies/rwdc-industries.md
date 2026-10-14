@@ -10,12 +10,12 @@ founded: "2015"
 employees: "50-150"
 primary_materials: "PHA (Polyhydroxyalkanoate) - Solon® brand, medium-chain-length PHA (mcl-PHA)"
 market_segments: "Single-use packaging, food service, beverage service, consumer goods, flexible and rigid packaging, fibers, nonwovens, marine applications"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "PHA (Solon®)"
     capacity: "Commercial production with expansion planned"
     location: "Athens, Georgia, USA and Singapore operations"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

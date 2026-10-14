@@ -11,9 +11,9 @@ employees: "3000+"
 primary_materials: "Biopolymers, agricultural waste products (starch, cellulose, glycerol), bio-based additives"
 market_segments: "Single-use plastics, carrier bags, kitchen waste bags, packaging films, mulch films, cutlery products, biodegradable testing and certification"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 production_capacity: "Laboratory and pilot scale (full-scale commercialization in progress)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

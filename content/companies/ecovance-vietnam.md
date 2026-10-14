@@ -21,7 +21,7 @@ production_capacity:
     capacity: "59,500 MT/year"
     location: "Dinh Vu Industrial Zone, Hai Phong, Vietnam"
     status: "Under construction, completion Q3 2025"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

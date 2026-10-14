@@ -12,7 +12,7 @@ primary_materials: "Polyamides, specialty polymers, additives, advanced material
 market_segments: "Automotive, aerospace, construction, electronics, healthcare, industrial applications"
 publicly_listed: true
 stock_ticker: "Euronext:SOLB"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

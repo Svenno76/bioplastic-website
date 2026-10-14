@@ -10,12 +10,12 @@ founded: "2010s"
 employees: "30-80"
 primary_materials: "Seaweed-derived bioplastics (alginate-based, agar-based), edible resins, SEA Technology™"
 market_segments: "Hospitality, food service, sustainable packaging, consumer goods, beverage service, event catering, premium food packaging"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Seaweed-based edible and compostable bioplastics"
     capacity: "Commercial production with partnership scaling"
     location: "United States"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

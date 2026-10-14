@@ -10,14 +10,14 @@ founded: "1949"
 employees: "1,000+"
 primary_materials: "PHBH (Poly(3-hydroxybutyrate-co-3-hydroxyhexanoate)) - Green Planet brand"
 market_segments: "Packaging, food service (straws, cups, cutlery), retail (shopping bags), marine environment applications, cosmetics, textiles"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "TSE:4118"
 production_capacity:
   - biopolymer: "PHBH (Green Planet)"
     capacity: "20,000 MT/year"
     location: "Takasago, Japan"
     status: "Capacity expansion completed January 2024"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

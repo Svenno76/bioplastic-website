@@ -16,7 +16,7 @@ production_capacity:
     capacity: "Commercial scale production and expansion"
     location: "Chile, Peru, Colombia, Argentina, Brazil, Mexico, USA (distributed network)"
     status: "Operational across multiple countries"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

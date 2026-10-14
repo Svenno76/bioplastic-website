@@ -11,8 +11,8 @@ employees: "1,200+"
 primary_materials: "Not applicable - equipment manufacturer (produces injection molding systems, not plastic materials)"
 market_segments: "Beverage packaging, food packaging, closures, preforms, industrial plastic processing"
 publicly_listed: false
-stock_ticker: ".nan"
-date: '2026-02-13'
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

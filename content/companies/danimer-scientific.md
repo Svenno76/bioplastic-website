@@ -10,14 +10,14 @@ founded: "2009"
 employees: "100+"
 primary_materials: "PHA (Nodax™) from canola oil feedstock"
 market_segments: "Packaging, food service, agriculture, cosmetics, consumer products"
-publicly_listed: no
-stock_ticker: "NASDAQ:DNMR (delisted)"
+publicly_listed: false
+stock_ticker: ""
 production_capacity:
   - biopolymer: "PHA (Nodax)"
     capacity: "20,000,000 lbs/year (planned)"
     location: "United States"
     status: "Not operational due to bankruptcy"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

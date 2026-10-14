@@ -11,7 +11,7 @@ employees: "200-500"
 primary_materials: "BioMEG (Bio-Monoethylene Glycol), BioMPG (Bio-Monopropylene Glycol), lignin products, renewable functional fillers, bio-PET components"
 market_segments: "Packaging, plastics, rubber, cosmetics, personal care, durable goods, polyester resins, polyurethane applications"
 publicly_listed: false
-stock_ticker: "HEL:UPM1V (parent company UPM-Kymmene)"
+stock_ticker: ""
 production_capacity:
   - biopolymer: "BioMEG and renewable biochemicals"
     capacity: "Commercial scale"
@@ -21,7 +21,7 @@ production_capacity:
     capacity: "220,000 MT/year target"
     location: "Leuna, Germany"
     status: "Under construction, commercial start H2 2025"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

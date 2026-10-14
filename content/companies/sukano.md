@@ -12,7 +12,7 @@ primary_materials: Colour masterbatches, additive masterbatches, compounds for p
 market_segments: Packaging, durable goods, building and construction, healthcare,
   textiles, compostable packaging, bioplastics processing
 founded: '1988'
-date: '2026-01-05'
+date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.8

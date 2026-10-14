@@ -12,7 +12,7 @@ primary_materials: "PET, polyethylene, polypropylene, specialty polymers, bio-ba
 market_segments: "Packaging, fibers, automotive, construction, consumer goods, industrial applications"
 publicly_listed: true
 stock_ticker: "SET:IVL"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

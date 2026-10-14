@@ -15,7 +15,7 @@ market_segments: refining, petrochemicals, chemical recycling, circular economy,
   control, life sciences
 publicly_listed: true
 stock_ticker: EVK.DE
-date: '2026-06-25'
+date: 2026-06-25
 draft: false
 sitemap:
   priority: 0.8

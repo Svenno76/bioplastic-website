@@ -12,7 +12,7 @@ primary_materials: "Performance materials, polyolefins, functional plastics, bio
 market_segments: "Automotive, electronics, packaging, healthcare, industrial applications"
 publicly_listed: true
 stock_ticker: "TSE:4183"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

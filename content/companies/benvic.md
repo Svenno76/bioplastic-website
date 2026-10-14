@@ -11,9 +11,9 @@ employees: "201-500"
 primary_materials: "PVC, PLA (Plantura), PHA, Polyolefins, TPE"
 market_segments: "Building and construction, automotive, aerospace, cabling, pharmaceutical, packaging, fluid transport, medical, healthcare, agriculture"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 parent_company: "International Chemical Investors Group (acquired 2022)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

@@ -12,7 +12,7 @@ primary_materials: "Bioplastics (PLA, bio-PE), recycled polymers, conventional p
 market_segments: "Flexibles packaging, rigid packaging, healthcare, food and beverage, personal care, industrial applications"
 publicly_listed: true
 stock_ticker: "ASX:AMC, NYSE:AMCR"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

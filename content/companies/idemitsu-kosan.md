@@ -12,7 +12,7 @@ primary_materials: "Bio-based chemicals, biomass plastics, recycled polymers, re
 market_segments: "Automotive, packaging, textiles, chemical raw materials, sustainable polymers"
 publicly_listed: true
 stock_ticker: "5019 (Tokyo Stock Exchange)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

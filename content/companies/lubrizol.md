@@ -8,9 +8,9 @@ short_description: Lubrizol Corporation is an American specialty chemicals compa
 website: "https://www.lubrizol.com"
 primary_materials: Bio-based TPU (ESTANE® ECO, Pearlthane™ ECO), Carbopol® BioSense polymer, engineered polymers, thermoplastic polyurethane (TPU)
 market_segments: Automotive, personal care, pharmaceuticals, medical devices, footwear, adhesives, additive manufacturing, textiles, coatings, industrial applications
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

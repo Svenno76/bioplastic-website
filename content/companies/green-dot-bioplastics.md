@@ -15,7 +15,7 @@ production_capacity:
   - biopolymer: "Biodegradable bioplastic compounds"
     capacity: "Commercial scale production"
     location: "Emporia, Kansas, USA"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

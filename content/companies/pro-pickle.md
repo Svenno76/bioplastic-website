@@ -8,9 +8,9 @@ short_description: Pro-Pickle, also known as Professional Pickleball Partners, i
 website: "https://pro-pickle.com"
 primary_materials: Wheat straw, rice husk (biobased composite materials), polypropylene (in paddles)
 market_segments: Sports equipment (pickleball), recreational sports
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

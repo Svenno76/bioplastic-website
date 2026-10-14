@@ -17,7 +17,7 @@ production_capacity:
     capacity: "Pilot-scale development"
     location: "Bangalore, India"
     status: "R&D and demonstration scale"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

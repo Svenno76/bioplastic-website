@@ -17,7 +17,7 @@ production_capacity:
     capacity: "200,000 MT/year"
     location: "Map Ta Phut Industrial Estate, Rayong Province, Thailand"
     status: "Under construction, completion 2028"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

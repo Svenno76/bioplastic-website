@@ -10,13 +10,13 @@ founded: "2020"
 employees: "20-50"
 primary_materials: "PolyEarthylene (bio-based polyolefin resin - polyethylene and polypropylene based)"
 market_segments: "Packaging, food service, consumer goods, landscaping, agriculture, automotive, durable products, industrial applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "NASDAQ:VRDE"
 production_capacity:
   - biopolymer: "PolyEarthylene"
     capacity: "Manufacturing in development"
     location: "California, USA"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

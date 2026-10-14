@@ -10,9 +10,9 @@ employees: "201-500"
 primary_materials: "Recycled polymers, bio-based polymers, compostable polymers (BASF ecoflex, ecovio), seaweed-based polymers (Loliware)"
 market_segments: "Packaging, flexible films, rigid containers, injection molding, fiber applications, sustainable manufacturing"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 parent_company: "Ravago Group"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

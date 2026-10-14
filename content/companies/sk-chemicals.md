@@ -10,13 +10,13 @@ founded: "1969"
 employees: "500-1,000"
 primary_materials: "PLA, BioPBS, ECOTRION (PO3G biopolyol), biodegradable copolyesters"
 market_segments: "Packaging, fibers and textiles, food service, automotive, consumer goods, polyurethane applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "KRX:011170"
 production_capacity:
   - biopolymer: "PLA and BioPBS"
     capacity: "Commercial production globally"
     location: "South Korea and international facilities"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

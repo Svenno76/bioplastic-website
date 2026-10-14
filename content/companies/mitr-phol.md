@@ -12,7 +12,7 @@ primary_materials: "Sugar cane, starch, biomass"
 market_segments: "Bioplastics packaging, food containers, cutlery, bags, biodegradable polymers, bio-ethylene"
 publicly_listed: true
 stock_ticker: "MITR (Thailand Stock Exchange)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

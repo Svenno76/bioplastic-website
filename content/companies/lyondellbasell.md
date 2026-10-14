@@ -12,7 +12,7 @@ primary_materials: "Polyethylene, polypropylene, polyurethane precursors, advanc
 market_segments: "Packaging, automotive, construction, healthcare, consumer goods, industrial applications"
 publicly_listed: true
 stock_ticker: "NYSE:LYB"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

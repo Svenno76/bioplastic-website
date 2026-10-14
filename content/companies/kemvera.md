@@ -11,8 +11,8 @@ employees: "Not specified"
 primary_materials: "Bio-based feedstocks (corn ethanol), CO₂-derived feedstocks"
 market_segments: "Specialty chemicals, sustainable manufacturing, footwear, disinfectants, adhesives"
 publicly_listed: false
-stock_ticker:
-date: '2026-02-27'
+stock_ticker: ""
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

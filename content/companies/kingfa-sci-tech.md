@@ -10,9 +10,9 @@ founded: "1993"
 employees: "10,000+"
 primary_materials: "PLA, PBAT, PBS, PGA, Starch-based bioplastics, ECOPOND biodegradable compounds"
 market_segments: "Compostable packaging, agricultural films, food service items, consumer goods, automotive, electronics"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "SSE:600143"
-date: '2026-06-29'
+date: 2026-06-29
 draft: false
 sitemap:
   priority: 0.8

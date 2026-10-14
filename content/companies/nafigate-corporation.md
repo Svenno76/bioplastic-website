@@ -10,8 +10,8 @@ founded: "2011"
 employees: "10-15"
 primary_materials: "PHA (Polyhydroxyalkanoates), P3HB, nanofibers, bio-based polymers from used cooking oil"
 market_segments: "Cosmetics, bioplastics, packaging, microplastic replacements, specialty materials"
-publicly_listed: no
-date: '2026-02-14'
+publicly_listed: false
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

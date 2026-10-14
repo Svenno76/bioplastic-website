@@ -12,7 +12,7 @@ primary_materials: "Cellulosic biopolymers (Treva), advanced polymers, specialty
 market_segments: "Packaging, textiles, apparel, automotive, construction, personal care, industrial applications"
 publicly_listed: true
 stock_ticker: "NYSE:EMN"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

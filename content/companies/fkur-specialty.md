@@ -10,12 +10,12 @@ founded: "2003"
 employees: "50-150"
 primary_materials: "Bioplastic compounds, bio-based and biodegradable polymers, PLA/PBAT/PBS blends"
 market_segments: "Injection molding, extrusion, film, fibers, consumer goods, packaging, agriculture, industrial applications"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Bioplastic compounds and formulations"
     capacity: "Commercial production"
     location: "Willich, Germany; Cedar Park, Texas; Pune, India (SKYi FKuR JV)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

@@ -10,13 +10,13 @@ founded: "2002"
 employees: "8,500-9,000"
 primary_materials: "Bio-PE (from sugarcane ethanol), conventional polyethylene, polypropylene"
 market_segments: "Packaging, automotive, textiles, consumer goods, industrial applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "B3:BRKM5"
 production_capacity:
   - biopolymer: "Bio-PE (I'm green™)"
     capacity: "275,000 tons/year"
     location: "Brazil, USA, Europe"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

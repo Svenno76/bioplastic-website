@@ -8,9 +8,9 @@ short_description: FARREL POMINI is the Continuous Mixer Business Unit of HF MIX
 website: "https://www.farrel-pomini.com"
 primary_materials: PLA, PHA, PBS
 market_segments: packaging, recycling
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

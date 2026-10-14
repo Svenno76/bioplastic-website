@@ -11,9 +11,9 @@ employees: "51-200"
 primary_materials: "Pyrolysis oil from mixed plastic waste, circular aromatics, naphtha"
 market_segments: "Chemical recycling, plastic waste valorization, circular economy, petrochemical feedstock"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 funding: "Investment from Shell, Borouge International, and other strategic partners"
-date: '2026-07-29'
+date: 2026-07-29
 draft: false
 sitemap:
   priority: 0.8

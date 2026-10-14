@@ -9,9 +9,9 @@ short_description: Global equipment provider specializing in compounding and ext
 website: \"https://www.coperion.com\"
 primary_materials: PET, polyolefins, PLA, PHA, engineering plastics, masterbatches, bio-based and biodegradable polymers
 market_segments: Plastics, chemical, food processing, pharmaceutical, recycling, minerals, bio-plastics
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

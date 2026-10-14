@@ -12,7 +12,7 @@ primary_materials: "Captured CO₂, water, renewable electricity, e-Naphtha, e-C
 market_segments: "Sustainable aviation fuels, e-fuels, bioplastics feedstocks, circular plastics, carbon-negative materials"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

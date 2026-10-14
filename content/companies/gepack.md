@@ -13,7 +13,7 @@ employees: 150+
 primary_materials: PET, PEF, rPET, PP
 market_segments: beverage packaging, food packaging, pharmaceutical packaging, cosmetics
 publicly_listed: false
-date: '2026-07-02'
+date: 2026-07-02
 draft: false
 sitemap:
   priority: 0.8

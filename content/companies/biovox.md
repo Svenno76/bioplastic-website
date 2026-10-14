@@ -10,7 +10,7 @@ founded: ""
 primary_materials: "PLA, PHA, medical-grade bioplastics"
 market_segments: "Medical technology, pharmaceuticals, laboratory, healthcare"
 publicly_listed: false
-date: '2026-10-14'
+date: 2026-10-14
 draft: false
 sitemap:
   priority: 0.8

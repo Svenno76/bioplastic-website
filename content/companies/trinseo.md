@@ -12,7 +12,7 @@ primary_materials: "TPE (Thermoplastic Elastomers), TPU (Thermoplastic Urethane)
 market_segments: "Footwear and fashion, packaging, automotive, industrial applications, consumer goods"
 publicly_listed: true
 stock_ticker: "NYSE:TSE"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

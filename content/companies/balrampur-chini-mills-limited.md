@@ -10,14 +10,14 @@ founded: "1933 (sugar business); 2025 (biopolymers)"
 employees: "1,000+"
 primary_materials: "PLA (Polylactic Acid) from sugarcane-derived feedstock - Balrampur Bioyug brand"
 market_segments: "Packaging (rigid and flexible), food service ware, medical devices, agriculture, textiles, durable goods"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "NSE:BCML"
 production_capacity:
   - biopolymer: "PLA (Balrampur Bioyug)"
     capacity: "75,000 MT/year"
     location: "Kumbhi, Uttar Pradesh, India"
     status: "Under construction, expected commissioning October 2026"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

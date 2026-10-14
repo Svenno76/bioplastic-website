@@ -15,7 +15,7 @@ publicly_listed: true
 stock_ticker: NYSE:CE
 employees: 13,300+
 annual_turnover: $9.7B
-date: '2026-01-05'
+date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.8

@@ -10,12 +10,12 @@ founded: "2010s"
 employees: "20-50"
 primary_materials: "Biodegradable plastic pellets and granules (PLA, PBAT, PBS, custom blends)"
 market_segments: "Injection molding, extrusion, film, fiber production, consumer goods manufacturing, packaging, textiles, industrial applications"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Biodegradable plastic pellets"
     capacity: "Commercial supply with growing capacity"
     location: "United Kingdom"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

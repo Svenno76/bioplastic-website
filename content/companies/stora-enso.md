@@ -21,7 +21,7 @@ production_capacity:
   capacity: Pilot plant
   location: Langerbrugge, Belgium (near Ghent)
   status: Technology validation, commercialization planned 2026
-date: '2026-01-05'
+date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.8

@@ -10,10 +10,10 @@ founded: "1989"
 employees: "600+"
 primary_materials: "Mater-Bi (starch-based bioplastics), biopolyesters, bio-based 1,4-butanediol (BDO), biolubricants (Matrol-Bi), biodegradable cosmetic ingredients"
 market_segments: "Packaging, agriculture, retail, waste collection, automotive, food services, marine applications"
-publicly_listed: no
+publicly_listed: false
 parent_company: "Versalis (acquired April 2023)"
 production_facilities: "Terni, Bottrighe, Patrica (France), Dagö (Estonia), Porto Torres (Matrìca joint venture)"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

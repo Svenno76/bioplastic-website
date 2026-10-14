@@ -10,12 +10,12 @@ founded: "2010s"
 employees: "50-100"
 primary_materials: "PHA (Polyhydroxyalkanoate) from crop waste - watermelon, cantaloupe, pumpkin, and other crop residues"
 market_segments: "Packaging, agriculture, food service, biodegradable applications"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "PHA from crop waste"
     capacity: "Industrial-scale capacity (can produce annually equivalent of global current bioplastics output)"
     location: "Vincennes, Indiana, USA"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

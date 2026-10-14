@@ -9,7 +9,7 @@ website: "https://www.carbios.com"
 founded: "2011"
 employees: "200+"
 primary_focus: ["Enzymatic Recycling", "PET Biorecycling", "Circular Economy", "Biotechnology"]
-market_segments: ["Plastics Recycling", "Packaging", "Textiles", "Circular Economy"]
+market_segments: "Plastics Recycling, Packaging, Textiles, Circular Economy"
 publicly_listed: true
 stock_ticker: "CARB"
 date: 2026-02-14

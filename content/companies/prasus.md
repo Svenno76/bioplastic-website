@@ -13,7 +13,7 @@ market_segments: "Automotive (floor tiles at Expo 2025), convenience store bags 
 publicly_listed: false
 stock_ticker: ""
 parent_company: "Prime Polymer Co., Ltd. (Mitsui Chemicals group)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

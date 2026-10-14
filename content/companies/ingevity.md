@@ -12,7 +12,7 @@ primary_materials: "Caprolactone (Capa®), polyol, specialty additives, sustaina
 market_segments: "Bags and films, rigid packaging, paper coatings, personal care, adhesives"
 publicly_listed: true
 stock_ticker: "NGVT (NASDAQ)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

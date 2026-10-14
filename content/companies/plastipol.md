@@ -10,8 +10,8 @@ founded: "2000"
 employees: "4-50"
 primary_materials: "Biodegradable plastics, recycled materials, PLA, PHA, PE, PP, PS, ABS"
 market_segments: "Packaging, consumer products, industrial applications, thermal processing, injection molding"
-publicly_listed: no
-date: '2026-02-14'
+publicly_listed: false
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

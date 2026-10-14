@@ -16,7 +16,7 @@ production_capacity:
     capacity: "1,000 MT/year"
     location: "Castel San Pietro Terme, Bologna"
     status: "Operational (at time of bankruptcy, December 2019)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

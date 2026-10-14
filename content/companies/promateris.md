@@ -10,13 +10,13 @@ founded: "1957"
 employees: "132"
 primary_materials: "Compostable bioplastics, corn starch, PLA, PBAT, bio-based polyester, biodegradable films"
 market_segments: "Packaging, retail, waste management, food service, agriculture, industrial applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "BVB:PPL"
 production_capacity:
   - biopolymer: "Compostable bioplastics"
     capacity: "Multiple manufacturing lines"
     location: "Buftea, Romania"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

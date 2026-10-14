@@ -16,7 +16,7 @@ publicly_listed: true
 stock_ticker: FWB:WCH
 employees: 16,600+
 annual_turnover: $6.14B
-date: '2026-01-05'
+date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.8

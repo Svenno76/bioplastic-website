@@ -8,9 +8,9 @@ short_description: Teknor Apex is a leading custom compounder specializing in su
 website: "https://www.teknorapex.com"
 primary_materials: PLA, PHA, Bio-based polyesters, PETek®
 market_segments: Packaging, Consumer, Automotive, Medical, Industrial
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

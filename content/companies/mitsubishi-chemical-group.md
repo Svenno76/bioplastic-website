@@ -10,13 +10,13 @@ founded: "1933"
 employees: "1,000+"
 primary_materials: "BioPBS (polybutylene succinate), DURABIO (bio-based transparent plastic from isosorbide), copolyesters"
 market_segments: "Packaging, fibers and textiles, food service, automotive, medical, electronics, consumer goods"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "TSE:4188"
 production_capacity:
   - biopolymer: "BioPBS and DURABIO"
     capacity: "Commercial production globally"
     location: "Japan and international facilities"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

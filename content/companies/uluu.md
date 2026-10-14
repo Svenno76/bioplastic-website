@@ -10,12 +10,12 @@ founded: "2015"
 employees: "20-50"
 primary_materials: "PHA (Polyhydroxyalkanoates) from seaweed fermentation, particularly PHBV (poly-3-hydroxybutyrate-co-3-hydroxyvalerate)"
 market_segments: "Flexible and rigid packaging, textiles and fibers, fashion and apparel, cosmetics, consumer goods, automotive components"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "PHA from seaweed (demonstration plant planned)"
     capacity: "Scaling from pilot to commercial production"
     location: "Indonesia (demonstration facility planned), operations in Australia"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

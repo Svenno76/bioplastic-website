@@ -11,9 +11,9 @@ employees: "51-200"
 primary_materials: "PHA (Polyhydroxyalkanoates) - 100% biobased, biodegradable polymer"
 market_segments: "Packaging, disposable tableware, agricultural films, medical applications, 3D printing"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 funding: "Series B (led by Hillhouse Capital, Sequoia China, and others)"
-date: '2026-07-29'
+date: 2026-07-29
 draft: false
 sitemap:
   priority: 0.8
@@ -24,15 +24,8 @@ sitemap:
 Bluepha is a Chinese biotechnology company founded in 2015, headquartered in Ningbo, Zhejiang Province. The company specializes in the development and commercialization of polyhydroxyalkanoates (PHA), a family of 100% biobased and fully biodegradable polymers produced through microbial fermentation from renewable resources such as plant oils, sugars, and waste streams.
 
 Bluepha's mission is to provide a scalable, sustainable alternative to conventional petroleum-based plastics, addressing the global plastic pollution crisis through circular, bio-based materials that are fully biodegradable in natural environments including soil, marine, and composting conditions.
-<<<<<<< HEAD
 
 ## Core Technology: PHA Biosynthesis Platform
-
-=======
-
-## Core Technology: PHA Biosynthesis Platform
-
->>>>>>> 0af9613 (Add PCR plastic guide blog post (23))
 **Technology Platform:**
 
 Bluepha has developed a proprietary PHA biosynthesis platform that leverages microbial fermentation to produce polyhydroxyalkanoates (PHA) from renewable feedstocks:
@@ -49,8 +42,6 @@ Bluepha has developed a proprietary PHA biosynthesis platform that leverages mic
 - **Thermoplastic Processability**: Can be processed on conventional plastic equipment (injection molding, extrusion, blow molding, thermoforming)
 - **Barrier Properties**: Excellent oxygen and CO2 barrier properties for packaging applications
 - **Biocompatibility**: Suitable for medical and food-contact applications
-<<<<<<< HEAD
-
 ## Company Background and Strategic Positioning
 
 Bluepha's rapid emergence as a leading PHA producer reflects both China's commitment to bioplastics development and the company's innovative technology platform.
@@ -125,6 +116,11 @@ Bluepha's commercial PHA portfolio encompasses diverse grades and compositions t
 - Suitable for medical and high-performance applications
 - Applications: sutures, tissue engineering, specialized films
 - Compostability: Industrial and marine degradable
+
+**Product Forms:**
+- Pellets (injection molding, extrusion, blow molding grades)
+- Masterbatches (color, additive masterbatches)
+- Filaments (3D printing)
 
 ### Biohybrid Technology Platform
 
@@ -258,6 +254,14 @@ Single-use packaging represents the largest market opportunity for biodegradable
 
 This segment represents future growth opportunity as 3D printing adoption accelerates and bioplastic material acceptance increases.
 
+### Medical Applications
+
+**Medical Use Cases:**
+- Surgical sutures
+- Drug delivery systems
+- Tissue engineering scaffolds
+- Wound dressings
+
 ### TotalEnergies Corbion Partnership
 
 **Strategic Alliance:**
@@ -269,51 +273,6 @@ Bluepha collaborates with TotalEnergies Corbion, a global bioplastics leader, on
 - Supply chain integration opportunities
 
 This partnership connects Bluepha with global market expertise and distribution capabilities while bringing Asian production scale to TotalEnergies Corbion's portfolio.
-=======
-
-## Product Portfolio
-
-**Bluepha PHA Resins:**
-
-- **Bluepha P3HB**: Homopolymer with high crystallinity, suitable for rigid packaging and disposable tableware
-- **Bluepha P3HB-co-3HV (PHBV)**: Copolymer with improved toughness and flexibility, suitable for films and packaging
-- **Bluepha P3HB-co-4HB (PHB4HB)**: Copolymer with enhanced elasticity and toughness, suitable for medical and high-performance applications
-- **Bluepha Compounds**: Pre-compounded grades with additives for specific processing requirements (nucleating agents, plasticizers, nucleating agents)
-
-**Product Forms:**
-- Pellets (injection molding, extrusion, blow molding grades)
-- Masterbatches (color, additive masterbatches)
-- Filaments (3D printing)
-
-## Commercial Applications
-
-**Packaging:**
-- Rigid food containers and trays
-- Flexible films and bags
-- Bottles and caps
-- Blister packaging
-- Coatings for paper/cardboard
-
-**Disposable Tableware:**
-- Cutlery, plates, cups
-- Straws and stirrers
-- Food service items
-
-**Agricultural Films:**
-- Mulch films
-- Seedling bags
-- Controlled-release fertilizer coatings
-
-**Medical Applications:**
-- Surgical sutures
-- Drug delivery systems
-- Tissue engineering scaffolds
-- Wound dressings
-
-**3D Printing:**
-- PHA filaments for FDM printing
-- Biodegradable support materials
->>>>>>> 0af9613 (Add PCR plastic guide blog post (23))
 
 ## Commercial Scale & Milestones
 

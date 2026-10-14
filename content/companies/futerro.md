@@ -10,7 +10,7 @@ founded: "1992"
 employees: "100-200"
 primary_materials: "PLA (Polylactic Acid - Futeon brand), lactic acid, lactide"
 market_segments: "Packaging, fibers and textiles, food service, automotive, medical applications, agricultural films"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "PLA (Futeon)"
     capacity: "100,000 MT/year"
@@ -23,7 +23,7 @@ production_capacity:
     capacity: "75,000 MT/year"
     location: "France facility (planned)"
     status: "Under development"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

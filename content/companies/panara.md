@@ -9,8 +9,8 @@ founded: "2001"
 employees: "20-50"
 primary_materials: "PHA (Polyhydroxyalkanoates), PLA (Polylactic Acid), bio-based blends, Nonoilen biopolymer"
 market_segments: "Packaging, injection molding, 3D printing, flexible films, industrial applications"
-publicly_listed: no
-date: '2026-02-14'
+publicly_listed: false
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

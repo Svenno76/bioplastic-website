@@ -10,8 +10,8 @@ founded: "2019"
 employees: "20+"
 primary_materials: "Vegan chitosan, CHITOBE®, CHITOBELA®, Bio-based biopolymers, Microplastic alternatives"
 market_segments: "Cosmetics, Personal Care, Skin Care, Hair Care, Color Cosmetics"
-publicly_listed: no
-date: '2026-06-19'
+publicly_listed: false
+date: 2026-06-19
 draft: false
 sitemap:
   priority: 0.8

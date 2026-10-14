@@ -9,7 +9,7 @@ website: "https://www.triplew.co"
 founded: "2016"
 employees: "100+"
 primary_focus: ["Waste-to-Lactic Acid Conversion", "PLA Bioplastics Production", "Fermentation Technology", "Circular Chemistry"]
-market_segments: ["Packaging", "Personal Care", "Home Care", "Food and Beverage", "Industrial"]
+market_segments: "Packaging, Personal Care, Home Care, Food and Beverage, Industrial"
 publicly_listed: false
 date: 2026-02-14
 draft: false

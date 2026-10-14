@@ -16,7 +16,7 @@ production_capacity:
     capacity: "500+ MT/year"
     location: "Philippines facilities"
     status: "Operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

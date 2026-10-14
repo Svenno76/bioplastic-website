@@ -16,7 +16,7 @@ production_capacity:
     capacity: "2,000 MT/year"
     location: "Beilun Port, Ningbo, Zhejiang Province, China"
     status: "Operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

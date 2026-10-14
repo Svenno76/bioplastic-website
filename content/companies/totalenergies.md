@@ -9,7 +9,7 @@ website: "https://totalenergies.com"
 founded: "2000"
 employees: "100,000+"
 primary_focus: ["Bioplastics Production", "PLA Manufacturing", "Biofuels", "Circular Polymers"]
-market_segments: ["Bioplastics", "Polymers", "Energy", "Chemicals"]
+market_segments: "Bioplastics, Polymers, Energy, Chemicals"
 publicly_listed: true
 stock_ticker: "TTEF"
 date: 2026-02-14

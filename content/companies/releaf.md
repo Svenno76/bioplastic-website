@@ -12,7 +12,7 @@ market_segments: "Packaging, bottles, textiles, films, beverage containers, food
 publicly_listed: false
 stock_ticker: ""
 parent_company: "Avantium N.V."
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.7

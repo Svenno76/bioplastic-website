@@ -11,9 +11,9 @@ employees: "11-50"
 primary_materials: "γ-PGA (Gamma Polyglutamic Acid) - 100% biobased, biodegradable polymer"
 market_segments: "Cosmetics, personal care, agriculture, hygiene, superabsorbents"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 funding: "Series B (led by Pointe Angels)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

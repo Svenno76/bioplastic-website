@@ -12,7 +12,7 @@ primary_materials: "PVC, specialty polymers, polyethylene, polypropylene, chemic
 market_segments: "Building and construction, industrial products, specialty polymers, housing materials"
 publicly_listed: true
 stock_ticker: "NYSE:WLK"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

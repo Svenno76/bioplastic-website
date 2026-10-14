@@ -12,7 +12,7 @@ primary_materials: "Agri-based feedstocks, biomass, corn, sugarcane derivatives,
 market_segments: "Biofuels, bioplastics, renewable chemicals, sustainable transportation, PLA, PHA"
 publicly_listed: true
 stock_ticker: "BSE: 522205, NSE: PRAJIND"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

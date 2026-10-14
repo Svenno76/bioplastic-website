@@ -12,7 +12,7 @@ primary_materials: "Pyrolysis oil, liquefied waste plastic (LWP), hydrocarbon fe
 market_segments: "Chemical recycling, plastic waste processing, circular plastics, petrochemical feedstock"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-07-03'
+date: 2026-07-03
 draft: false
 sitemap:
   priority: 0.8

@@ -8,9 +8,9 @@ short_description: TotalEnergies Corbion is a 50/50 joint venture between TotalE
 website: "https://totalenergies-corbion.com"
 primary_materials: PLA, rPLA, lactide monomers
 market_segments: packaging, consumer goods, agriculture, automotive, electronics, textiles, 3D printing, injection molding
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

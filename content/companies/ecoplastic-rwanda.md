@@ -11,13 +11,13 @@ employees: "52-87"
 primary_materials: "Recycled plastic (HDPE, LDPE, PP, PET), post-consumer and post-industrial plastic waste, plastic feedstocks"
 market_segments: "Plastic waste collection and processing, recycled plastic product manufacturing, agriculture (tubing, bags), construction, industrial applications, institutional waste management"
 publicly_listed: false
-stock_ticker:
-production_capacity:
+stock_ticker: ""
+production_capacity: 
   - biopolymer: "Recycled plastic processing and transformation"
     capacity: "88 MT/year (collection); significant production output"
     location: "Kigali, Rwanda"
     status: "Operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

@@ -11,9 +11,9 @@ employees: "150-200 (chemistry and polymer science faculty and researchers)"
 primary_materials: "Bio-based polymers, advanced macromolecular materials, polymer composites, bioplasticizers, enzymatic degradation materials"
 market_segments: "Higher education, bioplastics research, polymer technology development, spinout companies commercialization, international research collaboration"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 production_capacity: "Research and development stage (commercialization through spinout companies)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

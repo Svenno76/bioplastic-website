@@ -11,9 +11,9 @@ employees: "Not specified"
 primary_materials: "Research and development in sustainable chemistry, bioplastics, bio-based materials"
 market_segments: "Research, startups, innovation, sustainable chemistry, circular economy, bioplastics"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 parent_organization: "DECHEMA (Gesellschaft für Chemische Technik und Biotechnologie)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

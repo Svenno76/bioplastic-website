@@ -11,8 +11,8 @@ employees: "11-50"
 primary_materials: "Cellulose fibers from sustainably managed forests"
 market_segments: "Supplements, nutraceuticals, food & beverage, personal care, spirits"
 publicly_listed: false
-stock_ticker:
-date: '2026-02-27'
+stock_ticker: ""
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

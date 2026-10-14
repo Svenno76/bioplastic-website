@@ -13,6 +13,7 @@ discovery_status: found
 sitemap:
   priority: 0.7
 logo: /images/logos/solena-materials.png
+date: 2026-10-14
 draft: false
 company_type: "Biotechnology"
 ---

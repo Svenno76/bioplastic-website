@@ -9,9 +9,9 @@ website: "https://www.aimplas.net"
 founded: "1990"
 employees: "100+"
 primary_focus: ["Materials Testing", "Biodegradation Research", "Recycling Technology", "Certification Services"]
-market_segments: ["Bioplastics Industry", "Packaging", "Waste Management"]
+market_segments: "Bioplastics Industry, Packaging, Waste Management"
 publicly_listed: false
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

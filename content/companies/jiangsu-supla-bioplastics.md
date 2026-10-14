@@ -15,7 +15,7 @@ production_capacity:
     capacity: "Current operational; targeting 160,000 MT/year within 10 years"
     location: "Suqian, Jiangsu Province, China"
     status: "Operational and expanding"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

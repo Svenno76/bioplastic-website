@@ -16,7 +16,7 @@ production_capacity:
     capacity: "30,000 MT/year target (under construction); pilot and commercial scale operational"
     location: "Beijing China-German Industrial Park; Yichang, Hubei Province"
     status: "NGIB development facility and 10 kt/annum plant operational; major expansion underway"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

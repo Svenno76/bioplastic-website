@@ -13,7 +13,7 @@ employees: 80+
 primary_materials: Fruit juices, functional beverages, PEF bottles, rPET
 market_segments: beverages, functional drinks, juice, health & wellness
 publicly_listed: false
-date: '2026-07-02'
+date: 2026-07-02
 draft: false
 sitemap:
   priority: 0.8

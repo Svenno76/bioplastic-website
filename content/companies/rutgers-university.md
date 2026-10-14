@@ -8,9 +8,9 @@ short_description: Rutgers University is a research institution conducting advan
 website: "https://www.rutgers.edu"
 primary_materials: Biodegradable polymers, plant-based biopolymers, polymer-peptide conjugates, carbon-derived plastic monomers
 market_segments: Medical devices, tissue engineering, food packaging, pharmaceutical delivery systems
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

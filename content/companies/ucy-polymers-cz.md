@@ -10,6 +10,7 @@ change_status: active
 discovery_status: found
 sitemap:
   priority: 0.7
+date: 2026-10-14
 draft: false
 logo: /images/logos/ucy-polymers-cz.png
 company_type: "Recycling & Recovery"

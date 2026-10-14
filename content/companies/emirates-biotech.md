@@ -10,13 +10,13 @@ founded: "2020s"
 employees: "50-100"
 primary_materials: "PLA (Polylactic Acid) - Embio brand"
 market_segments: "Packaging (flexible and rigid), fibers, nonwovens, food service, 3D printing, automotive, consumer goods, industrial applications"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "PLA (Embio)"
     capacity: "160,000 MT/year (two phases of 80,000 MT/year each)"
     location: "KEZAD Free Zone, Abu Dhabi, UAE"
     status: "Under construction, operational target early 2028"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

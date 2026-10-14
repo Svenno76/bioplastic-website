@@ -19,7 +19,7 @@ production_capacity:
     capacity: "100,000 MT/year"
     location: "Grandpuits, France"
     status: "Planned, target 2027+"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

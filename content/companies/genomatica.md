@@ -10,8 +10,8 @@ founded: "2000"
 employees: "200+"
 primary_materials: "BDO (1,4-Butanediol), Branched alcohols, Bio-Nylon intermediates, Butadiene, Lactic acid precursors"
 market_segments: "Textiles, Packaging, Personal Care, Automotive, Cosmetics, Consumer Goods"
-publicly_listed: no
-date: '2026-06-19'
+publicly_listed: false
+date: 2026-06-19
 draft: false
 sitemap:
   priority: 0.8

@@ -15,7 +15,7 @@ production_capacity:
   - biopolymer: "Starch-based bioplastics and bio-based polymers"
     capacity: "Multiple facilities with significant combined capacity"
     location: "Lestrem, France (headquarters); global facilities in Europe, North America, Asia"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

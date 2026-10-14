@@ -10,12 +10,12 @@ founded: "2020"
 employees: "20-50"
 primary_materials: "Seaweed-based biopolymers (proprietary formulation), natural seaweed films, seaweed coatings, seaweed-derived paper"
 market_segments: "Food packaging, food contact applications, pharmaceutical packaging, fashion and apparel, consumer goods, paper industry, specialty applications"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Seaweed-based biopolymers and films"
     capacity: "Commercial production and scaling"
     location: "India"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

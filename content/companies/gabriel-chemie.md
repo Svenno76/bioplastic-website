@@ -11,8 +11,8 @@ employees: "201-500"
 primary_materials: "Masterbatches, color concentrates, polymer additives (for bioplastics and conventional polymers)"
 market_segments: "Bioplastics, medical products, automotive, consumer goods, packaging, fiber applications, industrial plastics"
 publicly_listed: false
-stock_ticker:
-date: '2026-02-27'
+stock_ticker: ""
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

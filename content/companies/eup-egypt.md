@@ -11,13 +11,13 @@ employees: "150-250"
 primary_materials: "PLA (Polylactic Acid), PBAT (Polybutylene Adipate Terephthalate), starch, calcium carbonate (CaCO3), bio-based and renewable components"
 market_segments: "Food packaging, shopping bags, biodegradable products, packaging materials, food service, industrial applications"
 publicly_listed: false
-stock_ticker:
-production_capacity:
+stock_ticker: ""
+production_capacity: 
   - biopolymer: "BiONext bioplastic compounds"
     capacity: "180,000 MT/year"
     location: "Egypt"
     status: "Operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

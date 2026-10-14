@@ -16,7 +16,7 @@ market_segments: Transportation fuels, aviation, polymers & chemicals, renewable
   circular economy
 publicly_listed: true
 stock_ticker: 'HEL: NESTE'
-date: '2026-07-03'
+date: 2026-07-03
 draft: false
 sitemap:
   priority: 0.8

@@ -15,7 +15,7 @@ market_segments: Bioeconomy, Agricultural waste valorization, Biomaterials, Circ
   economy
 publicly_listed: false
 stock_ticker: ''
-date: '2026-06-28'
+date: 2026-06-28
 draft: false
 sitemap:
   priority: 0.8

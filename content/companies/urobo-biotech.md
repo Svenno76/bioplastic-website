@@ -11,9 +11,9 @@ employees: "10-25"
 primary_materials: "Bioplastics (PLA, PBAT, PHAs) waste streams for conversion"
 market_segments: "Bioplastic waste processing, fine chemicals, biofuels, industrial biotechnology, circular economy solutions"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 production_capacity: "Pilot and development stage (full-scale facilities under development)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

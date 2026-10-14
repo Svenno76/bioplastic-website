@@ -8,9 +8,9 @@ short_description: Power2Polymers pioneers sustainable, high-performance polymer
 website: "https://www.power2polymers.com"
 primary_materials: Polyoxymethylene (POM)-based polymers
 market_segments: Lubricants, industrial adhesives, sealants, packaging, coatings
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

@@ -10,13 +10,13 @@ founded: "2000s"
 employees: "100-300"
 primary_materials: "PET (polyethylene terephthalate), bio-based PET, recycled PET (rPET), polyester resins"
 market_segments: "Packaging (bottles, films), textiles and fibers, photovoltaic materials, specialty polyester applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "SZSE:301216"
 production_capacity:
   - biopolymer: "PET (virgin and recycled)"
     capacity: "3,000 MT/year existing; 50,000 MT/year recycling (joint venture with Carbios, planned 2026+)"
     location: "Haining, Zhejiang Province, China"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

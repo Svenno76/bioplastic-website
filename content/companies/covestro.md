@@ -12,7 +12,7 @@ primary_materials: "Polyurethane (PU), Polycarbonate (PC), bio-based polymers, C
 market_segments: "Automotive, aviation, construction, electronics, healthcare, packaging"
 publicly_listed: true
 stock_ticker: "ISIN:DE0006062144"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

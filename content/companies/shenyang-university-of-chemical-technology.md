@@ -10,7 +10,7 @@ primary_materials: "Bamboo cellulose-based bioplastic, polymer synthesis, green 
 market_segments: "Automotive, appliances, construction, packaging, engineering, academic research, chemical industry"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

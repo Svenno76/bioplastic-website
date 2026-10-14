@@ -10,9 +10,9 @@ founded: "2004"
 employees: "50+"
 primary_materials: "Polystyrene (PS), Styrene monomer, Pyrolysis oil, Recycled plastic feedstock"
 market_segments: "Packaging, Recycling, Chemicals, Advanced Recycling"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "OSL:AGLX"
-date: '2026-06-19'
+date: 2026-06-19
 draft: false
 sitemap:
   priority: 0.8

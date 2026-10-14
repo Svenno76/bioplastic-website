@@ -10,8 +10,8 @@ founded: "2008"
 employees: "50-100"
 primary_materials: "Corn starch, biodegradable polymers, compostable films, natural composites, PLA, bio-based additives"
 market_segments: "Food packaging, retail bags, garbage bags, agricultural applications, industrial packaging"
-publicly_listed: no
-date: '2026-02-14'
+publicly_listed: false
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

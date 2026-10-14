@@ -8,9 +8,9 @@ short_description: Terra Sol Studio is an Australian design studio specializing 
 website: "https://terrasolstudio.com"
 primary_materials: PHA, Bioplastics
 market_segments: design, product development, sustainable packaging
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

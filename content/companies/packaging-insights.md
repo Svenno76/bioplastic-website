@@ -8,9 +8,9 @@ short_description: Packaging Insights is a digital platform specializing in prov
 website: "https://www.packaginginsights.com"
 primary_materials: Unknown
 market_segments: Packaging industry, with a focus on bioplastic packaging trends and innovations
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

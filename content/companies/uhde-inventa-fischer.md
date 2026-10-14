@@ -6,7 +6,7 @@ website: "https://www.thyssenkrupp-uhde.com"
 primary_materials: "PLA, polyester, polyamide, biopolymer plant technology"
 market_segments: "Chemical Engineering, Polymer Plant Construction, Bioplastics Technology, Licensing"
 publicly_listed: false
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

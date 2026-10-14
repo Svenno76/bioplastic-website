@@ -14,7 +14,7 @@ primary_materials: FSC-certified paperboard, Bio-based polyethylene (from UPM Bi
 market_segments: Food packaging, Dairy, Beverages, Sustainable packaging
 publicly_listed: false
 stock_ticker: ''
-date: '2026-06-28'
+date: 2026-06-28
 draft: false
 sitemap:
   priority: 0.8

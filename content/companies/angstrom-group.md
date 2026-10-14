@@ -10,7 +10,7 @@ founded: "1985"
 primary_materials: "Cleanroom systems and controlled environment equipment"
 market_segments: "Bioplastics manufacturing, biopharmaceuticals, medical research"
 publicly_listed: false
-date: '2026-10-14'
+date: 2026-10-14
 draft: false
 sitemap:
   priority: 0.8

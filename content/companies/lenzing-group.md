@@ -10,13 +10,13 @@ founded: "1938"
 employees: "1,000+"
 primary_materials: "Cellulosic fibers - Lyocell (TENCEL™), Modal (LENZING™), Viscose (LENZING™), wood-based renewable materials"
 market_segments: "Textiles, nonwovens, hygiene products, agricultural applications, packaging, apparel, home textiles, industrial applications"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "VIE:LNZ"
 production_capacity:
   - biopolymer: "Cellulosic fibers (integrated)"
     capacity: "Multiple facilities globally"
     location: "Lenzing (Austria), Purwakarta (Indonesia), Nanjing (China), Heilongjiang (China), Shandung (China)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

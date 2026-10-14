@@ -11,8 +11,8 @@ employees: "25,440+"
 primary_materials: "Recycled PET (rPET), recycled HDPE (rHDPE), bio-based materials, biodegradable plastics, paper-based bottles"
 market_segments: "Packaging (food, beverage, cosmetics, home care, pharmaceuticals, personal care)"
 publicly_listed: false
-stock_ticker: ".nan"
-date: '2026-02-13'
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

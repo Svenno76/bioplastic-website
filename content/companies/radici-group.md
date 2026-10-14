@@ -8,9 +8,9 @@ short_description: RadiciGroup is a diversified Italian chemical company special
 website: "https://www.radicigroup.com"
 primary_materials: Polyamide 6, Polyamide 6.6, Polyamide 6.10, Polyamide 6.12, Polyester (including Raditer®), Thermoplastic elastomers (Heraflex®), Acetal copolymers (Heraform®), Polyphenylene sulfide (Raditeck®), Recycled nylon 6 (Renycle®)
 market_segments: Automotive, Electrical/Electronics, Consumer Goods, Industrial Applications, Apparel, Sportswear, Furnishings, Home Appliances, Construction, Railways
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

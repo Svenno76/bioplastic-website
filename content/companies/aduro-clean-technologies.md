@@ -12,7 +12,7 @@ primary_materials: "Polyethylene (PE), polypropylene (PP), polystyrene (PS), rec
 market_segments: "Chemical recycling, petrochemicals, biofuels, agricultural plastics, industrial waste management"
 publicly_listed: true
 stock_ticker: "CSE: ACT, NASDAQ: ADUR, Frankfurt: 4A0"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

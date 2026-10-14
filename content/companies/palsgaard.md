@@ -8,9 +8,9 @@ short_description: Danish producer of emulsifiers and functional additives. Deve
 website: "https://www.palsgaard.com"
 primary_materials: Plant-based emulsifiers and stabilizers, sustainable polymer additives including anti-static and anti-fog agents
 market_segments: Food, packaging, polymers/plastics, personal care
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

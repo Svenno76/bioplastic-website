@@ -10,12 +10,12 @@ founded: "2010s"
 employees: "50-150"
 primary_materials: "Compostable films, multi-ply laminates (20-80% bio-based), high-barrier packaging materials"
 market_segments: "Food packaging (dry food, fresh produce, meat, coffee, snacks), fashion/apparel, e-commerce, consumer goods, industrial packaging"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Compostable films and laminates"
     capacity: "Commercial production with expansion"
     location: "United States, Europe, Australia facilities"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

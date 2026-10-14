@@ -12,7 +12,7 @@ primary_materials: "Microalgal biomass, Omega-3 oils, algal biopolymers, circula
 market_segments: "Bioplastics feedstocks, aquaculture nutrition, pet food, circular economy, sustainable fermentation, whisky industry valorization"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

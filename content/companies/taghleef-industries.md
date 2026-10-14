@@ -9,9 +9,9 @@ short_description: Global manufacturer of BOPP, CPP, and bio-based/biodegradable
 website: "https://www.ti-films.com"
 primary_materials: BOPP (biaxially oriented polypropylene), CPP (cast polypropylene), BoPLA (biaxially oriented polylactic acid), NATIVIA® biodegradable/compostable films, bio-based films
 market_segments: Flexible packaging, labeling, graphic arts, technical applications, food packaging (snacks, confectionery, bakery, fresh produce), industrial packaging
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

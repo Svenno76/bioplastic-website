@@ -10,9 +10,9 @@ founded: "2000"
 employees: "300+"
 primary_materials: "PEF (polyethylene furanoate), FDCA (2,5-furandicarboxylic acid), plant-based polymers"
 market_segments: "packaging, food & beverage, textiles, cosmetics"
-publicly_listed: yes
+publicly_listed: true
 stock_ticker: "AVTX.AS"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

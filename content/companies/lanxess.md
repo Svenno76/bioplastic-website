@@ -12,7 +12,7 @@ primary_materials: "Engineering plastics, specialty polymers, elastomers, advanc
 market_segments: "Automotive, construction, electronics, industrial applications, consumer goods"
 publicly_listed: true
 stock_ticker: "ISIN:DE0005470405"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

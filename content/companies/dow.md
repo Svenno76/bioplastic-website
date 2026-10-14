@@ -12,7 +12,7 @@ primary_materials: "Polyethylene, polypropylene, polyurethane precursors, specia
 market_segments: "Packaging, automotive, construction, electronics, healthcare, industrial applications"
 publicly_listed: true
 stock_ticker: "NYSE:DOW"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

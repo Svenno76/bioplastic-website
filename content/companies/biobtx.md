@@ -9,7 +9,7 @@ website: "https://biobtx.com"
 founded: "2018"
 employees: "50+"
 primary_focus: ["Chemical Recycling", "Renewable Aromatics", "Waste Plastic Processing", "Catalytic Pyrolysis"]
-market_segments: ["Chemical Industry", "Plastics Manufacturing", "Circular Economy"]
+market_segments: "Chemical Industry, Plastics Manufacturing, Circular Economy"
 publicly_listed: false
 date: 2026-02-14
 draft: false

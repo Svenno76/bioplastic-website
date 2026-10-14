@@ -11,8 +11,8 @@ employees: "201-500"
 primary_materials: "Bioplastics, cellulose-based polymers, epoxy resins, biodegradable composites"
 market_segments: "Materials research, microelectronics, medical devices, sustainable electronics, packaging"
 publicly_listed: false
-stock_ticker:
-date: '2026-02-27'
+stock_ticker: ""
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

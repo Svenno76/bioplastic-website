@@ -18,7 +18,7 @@ employees: 1,500
 annual_turnover: $451.7M
 founded: '1950'
 global_operations: Production sites in Japan, UK, and USA
-date: '2026-01-05'
+date: 2026-01-05
 draft: false
 sitemap:
   priority: 0.8

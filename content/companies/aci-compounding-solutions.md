@@ -20,7 +20,7 @@ production_facilities:
     materials: "Compounds for multiple applications"
   - location: "Tunisia"
     materials: "Compounds for multiple applications"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

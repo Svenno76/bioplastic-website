@@ -10,8 +10,8 @@ founded: "1993"
 employees: "100+"
 primary_materials: "Biodegradable plastics, oxobiodegradable polymers, polyethylene, polypropylene, PLA, PBAT"
 market_segments: "Retail packaging, waste collection, food packaging, industrial bags, agriculture"
-publicly_listed: no
-date: '2026-02-14'
+publicly_listed: false
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

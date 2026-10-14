@@ -11,7 +11,7 @@ primary_materials: "Engineering solutions for chemical recycling and bioplastics
 market_segments: "Energy transition, chemical recycling, circular economy"
 publicly_listed: true
 stock_ticker: "ENXTE:TE"
-date: '2026-10-14'
+date: 2026-10-14
 draft: false
 sitemap:
   priority: 0.8

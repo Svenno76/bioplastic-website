@@ -12,6 +12,7 @@ change_status: active
 discovery_status: found
 sitemap:
   priority: 0.8
+date: 2026-10-14
 draft: false
 logo: /images/logos/mondi.png
 company_type: "Converter / Packaging"

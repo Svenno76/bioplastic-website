@@ -12,7 +12,7 @@ primary_materials: "Bio-based polyolefins (Bio-PE, Bio-PP), engineering plastics
 market_segments: "Packaging, automotive, electrical and electronics, medical devices, construction, agriculture"
 publicly_listed: true
 stock_ticker: "Tadawul:2010"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

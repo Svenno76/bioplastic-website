@@ -15,7 +15,7 @@ production_capacity:
   - biopolymer: "Custom bioplastic compounds"
     capacity: "Commercial scale production and formulation"
     location: "Caen, Normandy, France"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

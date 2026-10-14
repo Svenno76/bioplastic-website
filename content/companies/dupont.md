@@ -12,7 +12,7 @@ primary_materials: "Engineering polymers, specialty polymers, specialty chemical
 market_segments: "Electronics, automotive, construction, healthcare, industrial applications, packaging"
 publicly_listed: true
 stock_ticker: "NYSE:DD"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

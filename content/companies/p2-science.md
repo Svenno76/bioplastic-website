@@ -8,9 +8,9 @@ short_description: P2 Science is a green chemistry technology company that devel
 website: "https://p2science.com"
 primary_materials: bio-polyurethanes, PICE polymers, plant-based liquid polymers
 market_segments: personal care, cosmetics, fragrances, performance materials, textiles, footwear, apparel, coatings, adhesives
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

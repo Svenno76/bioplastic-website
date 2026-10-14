@@ -12,7 +12,7 @@ primary_materials: "PHA (polyhydroxyalkanoate) from Pongamia oil, home-compostab
 market_segments: "Packaging (coffee cups, straws, cutlery), agriculture films, medical, compostable bags, single-use plastic alternatives"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

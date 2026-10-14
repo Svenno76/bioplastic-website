@@ -11,9 +11,9 @@ employees: "30-50"
 primary_materials: "Cassava starch, bio-based polymers (PLA), bioplastics compounds, natural materials"
 market_segments: "Research and development, 3D printing materials, bioplastics innovation, climate solutions, bioplastics education"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 production_capacity: "Research and pilot scale (innovation and commercialization development)"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

@@ -11,9 +11,9 @@ employees: "51-200"
 primary_materials: "Sorona (polyester fiber), Susterra (plant-based building blocks), Zemea (biodegradable polymer), BioPTMEG (bio-based polyether)"
 market_segments: "Apparel, carpeting, cosmetics, food packaging, footwear, outdoor apparel, coatings, inks, functional fluids, spandex, polyurethanes, thermoplastic elastomers"
 publicly_listed: false
-stock_ticker:
+stock_ticker: ""
 parent_company: "Huafon Group (acquired DuPont Biomaterials)"
-date: '2026-02-27'
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

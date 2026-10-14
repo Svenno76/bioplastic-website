@@ -16,7 +16,7 @@ production_capacity:
   - biopolymer: "Compostable bioplastic resins"
     capacity: "Commercial scale production"
     location: "China and Malaysia manufacturing facilities"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

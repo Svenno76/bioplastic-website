@@ -11,7 +11,7 @@ primary_materials: "Plastic films, protective packaging, food packaging films, p
 market_segments: "Food and beverage packaging, protective packaging, healthcare, e-commerce, industrial applications"
 publicly_listed: true
 stock_ticker: "NYSE:SEE"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

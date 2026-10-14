@@ -10,12 +10,12 @@ founded: "2010s"
 employees: "20-50"
 primary_materials: "Seaweed-based bioplastics (PLA and PHA alternatives)"
 market_segments: "Single-use packaging (straws, cups, utensils), food service, beverage applications, food packaging"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Seaweed-based bioplastics"
     capacity: "Commercial production"
     location: "United States"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

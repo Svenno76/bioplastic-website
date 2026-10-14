@@ -16,7 +16,7 @@ production_capacity:
     capacity: "200,000 tons/year planned capacity"
     location: "Rotterdam, Netherlands"
     status: "Under development, target 2030 operational"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

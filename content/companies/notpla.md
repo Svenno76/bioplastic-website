@@ -10,12 +10,12 @@ founded: "2015"
 employees: "20-50"
 primary_materials: "100% natural seaweed coating (non-chemically modified), seaweed-based packaging materials"
 market_segments: "Food service packaging, takeaway containers, food contact applications, e-commerce packaging, sustainable consumer goods"
-publicly_listed: no
+publicly_listed: false
 production_capacity:
   - biopolymer: "Seaweed-based coatings and films"
     capacity: "Commercial production"
     location: "London, United Kingdom"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

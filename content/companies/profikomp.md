@@ -16,7 +16,7 @@ primary_materials: Bioplastic testing, compost analysis, biowaste treatment, env
 market_segments: Waste management, composting infrastructure, bioplastics research,
   environmental certification, industrial testing
 publicly_listed: false
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

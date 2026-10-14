@@ -12,7 +12,7 @@ primary_materials: "Specialty additives, colorants, pigments, advanced polymers,
 market_segments: "Plastics and coatings, natural resources, catalysis and energy, care chemicals"
 publicly_listed: true
 stock_ticker: "SIX:CLN"
-date: '2026-02-13'
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

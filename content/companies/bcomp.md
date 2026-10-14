@@ -10,7 +10,7 @@ founded: "2011"
 primary_materials: "Natural fibre reinforcements, bio-based composites"
 market_segments: "Automotive, aerospace, motorsport, consumer goods"
 publicly_listed: false
-date: '2026-10-14'
+date: 2026-10-14
 draft: false
 sitemap:
   priority: 0.8

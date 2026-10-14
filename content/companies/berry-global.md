@@ -11,8 +11,8 @@ employees: "40,000+"
 primary_materials: "Biobased polyethylene (bio-PE), biobased polypropylene (bio-PP), compostable plastics, recycled polymers, conventional plastic packaging"
 market_segments: "Consumer packaging, healthcare, food service, agriculture, personal care, industrial applications"
 publicly_listed: false
-stock_ticker: ".nan"
-date: '2026-02-13'
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

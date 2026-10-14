@@ -8,9 +8,9 @@ short_description: Concordia University is a research institution in Montreal wi
 website: "https://www.concordia.ca"
 primary_materials: Bioplastics (unspecified types)
 market_segments: Chemicals, agriculture, clean energy
-publicly_listed: no
-stock_ticker: 
-date: '2026-02-13'
+publicly_listed: false
+stock_ticker: ""
+date: 2026-02-13
 draft: false
 sitemap:
   priority: 0.8

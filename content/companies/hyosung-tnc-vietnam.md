@@ -21,7 +21,7 @@ production_capacity:
     capacity: "200,000 MT/year"
     location: "Vietnam (multiple facilities)"
     status: "Target capacity by 2030+"
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

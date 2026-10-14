@@ -11,8 +11,8 @@ employees: "51-200"
 primary_materials: "Polypropylene (PP) - bio-based, bio-circular, and recycled variants"
 market_segments: "Automotive, healthcare, electrical appliances, textiles, packaging, household products, life sciences"
 publicly_listed: false
-stock_ticker:
-date: '2026-02-27'
+stock_ticker: ""
+date: 2026-02-27
 draft: false
 sitemap:
   priority: 0.8

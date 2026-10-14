@@ -12,7 +12,7 @@ primary_materials: "Regenerated cellulose fibers, next-generation textile fibers
 market_segments: "Textiles, apparel, nonwovens, sustainable fashion, circular textiles"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8

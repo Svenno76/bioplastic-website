@@ -12,7 +12,7 @@ primary_materials: "Plant-based and algae-derived polyurethane (bioPU), Bio-Isoâ
 market_segments: "Footwear, textiles, apparel, phone cases, consumer products, industrial applications"
 publicly_listed: false
 stock_ticker: ""
-date: '2026-02-14'
+date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
