@@ -1,6 +1,6 @@
 ---
 title: Panara
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Nitra, Slovakia"
 status: Active
 short_description: "Panara is a Slovak biopolymer company based in Nitra, specializing in the development and production of PHA/PLA blend bioplastics. The company commercialized Nonoilen, a 100% bio-based compostable material, and has received strategic investment from Alpla Group positioning it as a leading Central European biopolymer innovator."

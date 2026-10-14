@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/kemvera.png
 title: Kemvera
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "United States"
 status: Active
 short_description: "Kemvera is a sustainable chemistry company developing advanced catalytic technologies to convert bio-based and CO₂-derived feedstocks into affordable, drop-in chemicals with performance equivalent to petroleum-based alternatives. The company focuses on leveraging domestically sourced corn ethanol to produce bio-acetic acid and bio-ethyl acetate."

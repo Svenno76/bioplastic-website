@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/exxonmobil.png
 title: "ExxonMobil"
-company_type: Technology Company
+company_type: "Technology & Equipment; Recycling & Recovery; Biotechnology"
 headquarters: "Texas, United States"
 status: "Active"
 short_description: "Global energy and chemical company investing in bioplastics research, advanced recycling, and synthetic biology applications."

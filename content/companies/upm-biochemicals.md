@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/upm-biochemicals.jpg
 title: "UPM Biochemicals"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Lappeenranta, Finland"
 status: "Active"
 short_description: "UPM Biochemicals is a specialized division of UPM-Kymmene Oyj producing wood-based renewable biochemicals including BioMEG (bio-based monoethylene glycol) and lignin products. Founded in 2015, UPM Biochemicals operates a biorefinery in Lappeenranta and is developing the world's largest industrial-scale biorefinery in Leuna, Germany, targeting 220,000 MT/year capacity by 2025-2026 for bio-based polymers and chemicals."

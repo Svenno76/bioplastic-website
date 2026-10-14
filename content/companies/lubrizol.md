@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/lubrizol.png
 title: Lubrizol
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: United States
 status: Active
 short_description: Lubrizol Corporation is an American specialty chemicals company founded in 1928 that produces additives and ingredients for various industries includi...

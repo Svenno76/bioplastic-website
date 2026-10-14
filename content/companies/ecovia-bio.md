@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ecovia-bio.png
 title: Ecovia Bio
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Livonia, Michigan, USA"
 status: Active
 short_description: "Ecovia Bio is a University of Michigan spinout developing and commercializing 100% biobased, biodegradable gamma polyglutamic acid (γ-PGA) biopolymers. The company produces AzuraBase and AzuraGel product families for cosmetics, personal care, agriculture, and hygiene applications."

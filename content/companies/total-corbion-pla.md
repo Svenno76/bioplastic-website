@@ -1,6 +1,6 @@
 ---
 title: "Total Corbion PLA / TotalEnergies Corbion"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Amsterdam, Netherlands"
 status: "Active"
 short_description: "Total Corbion PLA is a 50/50 joint venture between TotalEnergies and Corbion, established in 2017 and rebranded as TotalEnergies Corbion in 2023. Operating one of the world's largest PLA manufacturing facilities in Thailand with 75,000 MT/year capacity and developing a major 100,000 MT/year facility in France, the company produces Luminy brand PLA biopolymers from 100% renewable sugarcane with 85% CO2 reduction."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/lg-chem.png
 title: LG Chem
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: Seoul, South Korea
 status: Active
 short_description: Largest Korean chemical company and major bioplastics manufacturer

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/erg-bio.jpg
 title: Erg Bio
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: United States
 status: Active
 short_description: Erg Bio is a biotechnology company that converts waste biomass into fermentable sugars, synthetic aviation fuels, and industrial chemicals using its p...

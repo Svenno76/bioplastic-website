@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/westlake.png
 title: Westlake Corporation
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Houston, Texas, USA"
 status: Active
 short_description: "American diversified manufacturer producing polyvinyl chloride (PVC), specialty polymers, chemicals, and housing materials for industrial applications"

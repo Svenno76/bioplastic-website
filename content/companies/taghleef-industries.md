@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/taghleef-industries.jpg
 title: Taghleef Industries
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: Dubai, United Arab Emirates
 founded: '1986'
 status: Active

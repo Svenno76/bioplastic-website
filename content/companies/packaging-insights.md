@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/packaging-insights.png
 title: Packaging Insights
-company_type: Technology Company
+company_type: "Industry Body / Consulting"
 headquarters: United Kingdom
 status: Active
 short_description: Packaging Insights is a digital platform specializing in providing comprehensive news, insights, and developments related to packaging, including biop...

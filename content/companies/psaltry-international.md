@@ -1,6 +1,6 @@
 ---
 title: Psaltry International Limited
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Ado-Awaye, Oyo State, Nigeria"
 status: Active
 short_description: "Psaltry International Limited is Nigeria's leading cassava starch processor and producer of high-quality food-grade cassava starch and flour. With two production lines generating 10,000 tonnes annually and workforce of 5,000+ farmers, the company has pioneered cassava industrial value chains while establishing the capacity for potential bioplastics feedstock development from cassava starch and agricultural waste products."

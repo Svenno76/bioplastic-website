@@ -1,7 +1,7 @@
 ---
 logo: "/images/logos/treetotextile-ab.png"
 title: TreeToTextile AB
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Stockholm, Sweden"
 status: Active
 short_description: "TreeToTextile AB is a Swedish clean technology company developing next-generation cellulose fiber technology from sustainably managed forests. The company's innovative process reduces carbon emissions by 70-90% compared to conventional fiber production, with majority investment from Lenzing AG, the world's leading cellulose fiber producer."

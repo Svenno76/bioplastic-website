@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ecovyst.png
 title: Ecovyst
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Philadelphia, Pennsylvania, USA"
 status: Active
 short_description: "Ecovyst is a leading provider of advanced materials, specialty catalysts, and regeneration services. The company's Advanced Silicas business provides catalyst supports and functionalized silicas essential for producing high-performance plastics, bioplastics, and enabling sustainable chemistry applications."

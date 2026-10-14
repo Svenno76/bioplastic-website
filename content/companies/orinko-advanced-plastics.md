@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/orinko-advanced-plastics.png
 title: Orinko Advanced Plastics
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Hefei, Anhui, China"
 status: Active
 short_description: "Orinko Advanced Plastics is a Chinese innovator specializing in high-performance modified polymer materials including biodegradable PLA (polylactic acid) and advanced bioplastics. Founded in 2008 and publicly listed in 2021, the company operates four production and R&D bases across China with 500,000+ tons total production capacity serving packaging, 3D printing, and consumer products."

@@ -1,6 +1,6 @@
 ---logo: /images/logos/neste.png
 title: Neste
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: Espoo, Finland
 status: Active
 short_description: Global leader in renewable diesel, sustainable aviation fuel, and

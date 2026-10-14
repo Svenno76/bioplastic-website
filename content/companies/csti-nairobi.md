@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/csti-nairobi.png
 title: Centre for Science & Technology Innovations (CSTI)
-company_type: Research Institute
+company_type: "Academic / Research"
 headquarters: "Nairobi, Kenya"
 status: Active
 short_description: "CSTI is a Kenya-based research institute specializing in sustainable manufacturing and bioplastics development, operating as a project of the University of Nairobi's Institute for Climate Change and Adaptation and the Kenya National Academy of Sciences. The institute focuses on community-informed bioplastics innovation including cassava-based PLA filament development, wearable biosensors, and emerging African-led biotechnology solutions for climate and circular economy challenges."

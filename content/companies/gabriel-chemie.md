@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/gabriel-chemie.png
 title: Gabriel-Chemie Group
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: "Gumpoldskirchen, Austria"
 status: Active
 short_description: "Gabriel-Chemie is a leading European producer of masterbatches, color concentrates, and polymer additives for bioplastics and conventional polymers. With 70+ years of experience, the company develops sustainable additive solutions for UV protection, flame retardancy, and performance enhancement in bioplastic applications."

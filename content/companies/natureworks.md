@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/natureworks.png
 title: NatureWorks
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Plymouth, Minnesota, USA"
 status: Active
 short_description: "NatureWorks is the world's largest producer of polylactic acid (PLA) biopolymer under the brand name Ingeo. Headquartered in Plymouth, Minnesota, the company was founded in 1997 and employs 201-500 people. NatureWorks produces renewable, compostable PLA for packaging, fibers, and durable applications."

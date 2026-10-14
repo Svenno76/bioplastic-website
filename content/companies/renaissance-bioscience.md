@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/renaissance-bioscience.png
 title: "Renaissance BioScience"
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Canada"
 status: "Active"
 short_description: "Canadian biotechnology company specializing in bioengineered yeast for fermentation of sustainable bioplastic building blocks."

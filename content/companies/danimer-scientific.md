@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/danimer-scientific.png
 title: Danimer Scientific
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Georgia, United States"
 status: Chapter 11 Bankruptcy
 short_description: "Danimer Scientific was a U.S.-based manufacturer of Nodax PHA (polyhydroxyalkanoate) biodegradable biopolymers derived from canola oil. Founded in 2009, the company was a pioneer in commercializing marine-degradable and compostable bioplastics for packaging, food service, and consumer applications. However, the company filed for Chapter 11 bankruptcy in March 2025 due to significant business challenges."

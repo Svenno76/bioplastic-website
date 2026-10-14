@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/carbon-cell.png
 title: "Carbon Cell"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "London, United Kingdom"
 status: "Active"
 short_description: "Carbon Cell is an innovative UK-based company specializing in patent-pending biochar-based expandable foam technology. The company develops plastic-free, carbon-negative foam materials as drop-in replacements for conventional polymer foams (EPS, EPP, PUR/PIR) used in packaging and insulation. Carbon Cell's technology combines biochar with natural binders creating lightweight, thermally insulative, compostable materials that lock in carbon while eliminating persistent plastic waste."

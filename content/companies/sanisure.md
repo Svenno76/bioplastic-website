@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/sanisure.png
 title: "SaniSure"
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "United States"
 status: "Active"
 short_description: "Global leader in designing and manufacturing single-use bioprocessing solutions for pharmaceutical, vaccine, and cell therapy manufacturing."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/nafigate-corporation.png
 title: NAFIGATE Corporation
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Prague, Czech Republic"
 status: Active
 short_description: "NAFIGATE Corporation is a Czech biotechnology and nanotechnology company specializing in developing innovative PHA bioplastics from waste cooking oil. The company operates proprietary Hydal technology for converting used cooking oil into biodegradable polyhydroxyalkanoate (PHA) biopolymers with applications in cosmetics, packaging, and specialty materials."

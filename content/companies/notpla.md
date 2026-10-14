@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/notpla.png
 title: Notpla
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "London, United Kingdom"
 status: Active
 short_description: "Notpla is a London-based sustainable packaging company founded in 2015 specializing in 100% natural seaweed coatings for food contact applications. The company's proprietary seaweed-based materials are non-chemically modified, home-compostable in 6 weeks, verified under the EU Single-Use Plastic Directive, and have won Innovation of the Year awards. Notpla serves food service, e-commerce, and consumer goods sectors globally."

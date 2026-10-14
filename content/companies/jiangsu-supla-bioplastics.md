@@ -1,6 +1,6 @@
 ---
 title: Jiangsu Supla Bioplastics
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Suqian, Jiangsu Province, China"
 status: Active
 short_description: "Jiangsu Supla Bioplastics is a leading Chinese polylactic acid (PLA) manufacturer established in 2012 with facilities in Suqian, Jiangsu Province. The company produces full-degradable PLA materials with planned capacity reaching 160,000 MT/year, serving diverse applications from tableware and food trays to packaging films and textiles. Supla has won international recognition at the European Bioplastics Conference and demonstrates China's capability in world-scale sustainable biopolymer manufacturing."

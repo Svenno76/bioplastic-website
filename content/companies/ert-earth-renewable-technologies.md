@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ert-earth-renewable-technologies.png
 title: "ERT Bioplastics (Earth Renewable Technologies)"
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "São Paulo, Brazil"
 status: "Active"
 short_description: "ERT Bioplastics is a Brazilian manufacturer of compostable food serviceware including cutlery, cups, plates, and straws using Luminy® PLA from TotalEnergies Corbion. The company produces CascaBrasil brand products, positioning Brazil at the forefront of compostable food service packaging innovation."

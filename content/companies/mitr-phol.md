@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/mitr-phol.jpg
 title: Mitr Phol
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bangkok, Thailand"
 status: Active
 short_description: "Mitr Phol is Thailand's largest and world's third-largest sugar producer. The company is expanding into bioplastics production, creating biodegradable plastics from sugar and starch. With partnerships with Marubeni and Braskem for bio-ethylene production, Mitr Phol is leveraging its sugar feedstock to manufacture sustainable packaging alternatives."

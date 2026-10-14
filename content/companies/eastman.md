@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/eastman.png
 title: Eastman Chemical Company
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Kingsport, Tennessee, USA"
 status: Active
 short_description: "American specialty chemicals and advanced materials manufacturer producing cellulosic biopolymers, advanced polymers, and sustainable material solutions"

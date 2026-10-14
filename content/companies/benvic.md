@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/benvic.png
 title: Benvic
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Chevigny-Saint-Sauveur, France"
 status: Active
 short_description: "Benvic is a global expert in tailor-made thermoplastic compounds, including bioplastic and bio-based alternatives. The company develops, produces, and markets PVC-based compounds and expanded its portfolio to include PLA, PHA, polyolefin-based, and TPE-based compounds under the Plantura brand."

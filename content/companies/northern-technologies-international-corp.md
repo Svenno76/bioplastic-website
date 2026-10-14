@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/northern-technologies-international-corp.png
 title: Northern Technologies International Corp
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bloomington, Minnesota, USA"
 status: Active
 short_description: "Northern Technologies International Corporation (NTIC) is a specialty materials and biopolymer manufacturer. Through its Natur-Tec brand, NTIC develops proprietary blends of biodegradable polymers and natural materials to create biobased, compostable plastics. Products include flexible films, rigid injection-molded materials, and engineered plastics for packaging and consumer applications."

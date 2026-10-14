@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/blue-ocean-closures-boc.png
 title: Blue Ocean Closures (BOC)
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Karlstad, Sweden"
 status: Active
 short_description: "Blue Ocean Closures is a sustainable packaging technology startup that manufactures fiber-based closures and caps from sustainably managed forest cellulose. The company's proprietary sintering technology creates completely plastic-free, recyclable, and ocean biodegradable closure solutions for food, nutraceuticals, and beverages."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/zerocircle.png
 title: Zerocircle
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "India"
 status: Active
 short_description: "Zerocircle is an innovative Indian material science company founded in 2020, pioneering seaweed-based biopolymers as sustainable alternatives to petroleum-derived plastics. The company develops 100% natural, fully biodegradable films, coatings, and wood-free papers from sustainably harvested seaweed with proprietary formulation technology. Zerocircle's home-compostable, ocean-safe products serve food packaging, pharmaceuticals, fashion, and consumer goods sectors across Asia and beyond."

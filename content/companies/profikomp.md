@@ -1,6 +1,6 @@
 ---logo: /images/logos/profikomp.png
 title: ProfiKomp Environmental Technologies
-company_type: Testing/Certification
+company_type: "Industry Body / Consulting"
 headquarters: Gödöllő, Hungary
 status: Active
 short_description: ProfiKomp Environmental Technologies is a leading Hungarian biowaste

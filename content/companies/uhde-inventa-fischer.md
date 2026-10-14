@@ -1,6 +1,6 @@
 ---
 title: "Uhde Inventa-Fischer"
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Berlin, Germany and Domat/Ems, Switzerland"
 website: "https://www.thyssenkrupp-uhde.com"
 primary_materials: "PLA, polyester, polyamide, biopolymer plant technology"

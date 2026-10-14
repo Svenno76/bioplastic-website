@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/loliware.png
 title: Loliware
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "New York, United States"
 status: Active
 short_description: "Loliware Inc. is an award-winning materials technology company specializing in seaweed-derived edible and compostable bioplastics. The company has developed proprietary SEA Technology™ for converting seaweed polymers into food-safe, home-compostable straws, cups, utensils, and films that are carbon negative at scale. Loliware serves hospitality, food service, and consumer goods markets with innovative edible packaging solutions."

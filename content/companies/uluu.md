@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/uluu.jpg
 title: Uluu
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Melbourne, Australia (Operations: Indonesia)"
 status: Active
 short_description: "Uluu is an innovative Australian bioplastics company founded in 2015, pioneering the production of seaweed-based polyhydroxyalkanoates (PHA) biopolymers. The company has raised AU$16M (US$10.5M) in Series A funding to scale production and establish a demonstration facility in Indonesia. Uluu's climate-positive seaweed-derived bioplastics are home-compostable and marine-biodegradable, serving packaging, textiles, and consumer goods markets while supporting sustainable livelihoods for women seaweed farmers."

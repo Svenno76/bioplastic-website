@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/emirates-biotech.png
 title: Emirates Biotech
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Abu Dhabi, United Arab Emirates"
 status: Under Construction
 short_description: "Emirates Biotech is building the world's largest polylactic acid (PLA) production facility in the UAE with a planned capacity of 160,000 tonnes per year across two phases. Located in the KEZAD free zone with deep seaport access, the facility will produce Embio branded PLA biopolymers and drive the region's transition to circular economy sustainable materials."

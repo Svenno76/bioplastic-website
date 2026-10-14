@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/carbios.png
 title: "CARBIOS"
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: "Clermont-Ferrand, France"
 status: "Active"
 short_description: "Biotechnology company pioneering enzyme-based PET biorecycling, converting plastic waste into virgin-quality materials through enzymatic depolymerization."

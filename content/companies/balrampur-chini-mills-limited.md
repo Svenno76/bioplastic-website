@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/balrampur-chini-mills-limited.png
 title: Balrampur Chini Mills Limited
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Kumbhi, Uttar Pradesh, India"
 status: Active (Under Construction - Commissioning October 2026)
 short_description: "Balrampur Chini Mills Limited (BCML) is a leading Indian sugar producer and publicly listed company (NSE:BCML) launching India's first integrated sugar-to-PLA facility. The facility in Kumbhi, Uttar Pradesh will produce Balrampur Bioyug brand PLA with 75,000 MT/year capacity, representing a Rs 2,850 crores investment. First commissioning expected October 2026."

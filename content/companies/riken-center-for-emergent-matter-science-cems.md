@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/riken-center-for-emergent-matter-science-cems.png
 title: "RIKEN Center for Emergent Matter Science (CEMS)"
-company_type: Research Institute
+company_type: "Academic / Research"
 headquarters: "Saitama, Japan"
 status: "Active"
 short_description: "Leading Japanese research center developing advanced ocean-degradable and recyclable bioplastics using supramolecular chemistry."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/bluepha.png
 title: Bluepha
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Ningbo, China"
 status: Active
 short_description: "Bluepha is a Chinese biotechnology company developing and commercializing 100% biobased, biodegradable polyhydroxyalkanoates (PHA) bioplastics produced from renewable resources."

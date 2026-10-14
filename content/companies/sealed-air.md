@@ -1,6 +1,6 @@
 ---
 title: Sealed Air Corporation
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Charlotte, North Carolina, USA"
 status: Active
 short_description: "American protective packaging and food packaging company producing innovative solutions for product protection and food safety globally"

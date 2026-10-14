@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/bioweg.png
 title: "BIOWEG"
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Monheim, Germany"
 status: "Active"
 short_description: "German biotechnology company developing high-performance biodegradable microplastic alternatives through precision fermentation and green chemistry."

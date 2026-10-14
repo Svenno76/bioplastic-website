@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/bluealp.png
 title: BlueAlp
-company_type: Chemical Recycling Technology
+company_type: "Recycling & Recovery"
 headquarters: "Eindhoven, Netherlands"
 status: Active
 short_description: "BlueAlp is a Dutch chemical recycling technology company that converts mixed plastic waste into high-quality pyrolysis oil, which serves as feedstock for new plastics production. Their continuous rotary kiln pyrolysis technology is proven at commercial scale."

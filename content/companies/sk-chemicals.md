@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/sk-chemicals.png
 title: SK Chemicals
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Seoul, South Korea"
 status: Active
 short_description: "SK Chemicals is a major South Korean chemical company founded in 1969 and publicly listed on the Korea Exchange. A pioneer in PLA and biodegradable polymers, SK Chemicals is world's No. 2 copolyester producer. The company mass-produces ECOTRION (PO3G biopolyol), 100% bio-based from fermented plants, and develops waste plastic recycling innovations."

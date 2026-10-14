@@ -1,6 +1,6 @@
 ---
 title: Entec Polymers
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Orlando, Florida, USA"
 status: Active
 short_description: "Entec Polymers is a leading distributor and converter of thermoplastic resins across the Americas, specializing in recycled, bio-based, and compostable polymer solutions. The company partners with major manufacturers like BASF and Loliware to provide sustainable biopolymer options for converters and manufacturers."

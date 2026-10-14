@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/plastipol.png
 title: Plastipol
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Szczecin, Poland"
 status: Active
 short_description: "Plastipol is a Polish plastics processing and compounder company based in Szczecin, specializing in manufacturing biodegradable and recycled plastic products. The company offers advanced thermoplastic compounding capabilities and serves customers across Europe with innovative bioplastic solutions."

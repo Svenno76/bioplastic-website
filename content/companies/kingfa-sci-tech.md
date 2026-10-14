@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/kingfa-sci-tech.png
 title: Kingfa Sci. & Tech.
-company_type: Bioplastic Producer
+company_type: "Compounder"
 headquarters: "Guangzhou, Guangdong, China"
 status: Active
 short_description: "Asia's largest modified plastics company and global leader in advanced materials. Produces biodegradable and compostable bioplastic compounds under the ECOPOND brand, including PLA, PBAT, PBS, and PGA-based materials for packaging, agriculture, and consumer applications."

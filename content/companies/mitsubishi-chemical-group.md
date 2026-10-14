@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/mitsubishi-chemical-group.png
 title: Mitsubishi Chemical
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Tokyo, Japan"
 status: Active
 short_description: "Mitsubishi Chemical is a major Japanese chemical company (founded 1933) specializing in bioplastics including BioPBS (biodegradable polybutylene succinate) and DURABIO (transparent bio-based engineering plastic from isosorbide). Listed on Tokyo Stock Exchange, the company produces world-class No. 2 copolyester materials for diverse applications."

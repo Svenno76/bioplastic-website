@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/c2c.jpg
 title: C2C
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Lublin, Poland"
 status: Active
 short_description: "C2C is a Polish biodegradable packaging manufacturer based in Lublin, founded in 2008. The company specializes in producing fully compostable films and bags made from corn starch and other natural composites, with innovative bacteriostatic and oxobiodegradable formulations for food and industrial packaging applications."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/green-dot-bioplastics.png
 title: "Green Dot Bioplastics"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Emporia, Kansas, USA"
 status: "Active"
 short_description: "Green Dot Bioplastics is a Kansas-based material science company founded in 2011, specializing in patented thermoplastic starch technology and biodegradable polymer blends. The company develops and produces sustainable bioplastic materials including PBAT, PBS, PLA, and innovative starch-based compounds demonstrating industrial, backyard, soil, and marine biodegradability. Green Dot serves packaging, textiles, consumer goods, and specialty application markets."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/radici-group.png
 title: Radici Group
-company_type: Compounder
+company_type: "Compounder"
 headquarters: Italy
 status: Active
 short_description: RadiciGroup is a diversified Italian chemical company specializing in the production of polyamide and polyester engineering polymers, chemical interme...

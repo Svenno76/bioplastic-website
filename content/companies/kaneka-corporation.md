@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/kaneka-corporation.png
 title: Kaneka Corporation
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Tokyo, Japan"
 status: Active
 short_description: "Kaneka Corporation is a major Japanese chemical and materials company founded in 1949 and publicly listed on the Tokyo Stock Exchange. The company pioneered PHBH (polyhydroxybutyrate-co-hydroxyhexanoate) biopolymers and operates the Takasago production facility producing Green Planet brand PHA with expanded capacity of 20,000 MT/year as of January 2024. Kaneka's PHBH achieved the challenging capability of seawater biodegradation, making it unique in addressing marine plastic pollution."

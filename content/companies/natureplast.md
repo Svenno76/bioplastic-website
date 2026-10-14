@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/natureplast.png
 title: "NaturePlast"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Caen, Normandy, France"
 status: "Active"
 short_description: "NaturePlast is a leading European bioplastics innovator established in 2007, headquartered in Caen, Normandy, France. The company maintains one of Europe's broadest portfolios of bio-based and biodegradable polymers, developing over 200 new formulations annually. NaturePlast specializes in custom bioplastic compound design, production, and commercialization, serving global markets with solutions incorporating plant-based feedstocks and industrial byproducts. The company also operates through subsidiary BioPolyNov, a leading R&D entity."

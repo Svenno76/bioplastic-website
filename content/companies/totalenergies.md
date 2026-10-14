@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/totalenergies.png
 title: "TotalEnergies"
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: "Paris, France"
 status: "Active"
 short_description: "Global energy company with significant bioplastics research and production through TotalEnergies Corbion joint venture for PLA bioplastics."

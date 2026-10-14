@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/moviplast.png
 title: Moviplast
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Bucharest, Romania"
 status: Active
 short_description: "Moviplast is a Romanian plastic bags and flexible packaging manufacturer established in 1993, based in Bucharest. The company produces biodegradable, oxobiodegradable, and conventional plastic bags with a strong focus on sustainable packaging solutions, serving markets across Eastern Europe, Western Europe, and Nordic countries."

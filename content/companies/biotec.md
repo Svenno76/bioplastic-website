@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/biotec.jpg
 title: Biotec
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Emmerting, Germany"
 status: Active
 short_description: "Biotec is a German compounder specializing in the production of biodegradable and bio-based plastic compounds, developing customized bioplastic formulations for packaging, agriculture, and technical applications."

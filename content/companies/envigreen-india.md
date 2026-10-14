@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/envigreen-india.png
 title: "Envigreen Biotech India"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bengaluru, Karnataka, India"
 status: "Active"
 short_description: "Envigreen Biotech India Private Ltd produces India's first 100% biodegradable plastic substitute through fermentation of natural starch and vegetable oil derivatives. Founded in 2016 by Qatar-based NRI Ashwath Hegde, the company operates production facilities in Bengaluru with 1,000 metric tons annual capacity, manufacturing compostable bags certified by global standards."

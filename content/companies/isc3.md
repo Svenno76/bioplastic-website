@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/isc3.png
 title: ISC3 (International Sustainable Chemistry Collaborative Centre)
-company_type: Research Institute
+company_type: "Academic / Research"
 headquarters: "Frankfurt am Main, Germany"
 status: Active
 short_description: "ISC3 is an international research and innovation hub fostering the transition of the chemical sector to sustainable chemistry. Hosted by DECHEMA, ISC3 supports startups and innovators in bioplastics, circular economy materials, and sustainable chemical technologies."

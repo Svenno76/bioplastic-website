@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/greenitio.png
 title: Greenitio
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: "Singapore"
 status: Active
 short_description: "Greenitio develops high-performance, bio-based specialty ingredients that replace petrochemical and microplastic-based materials in cosmetics and personal care, using a patented green chemistry platform powered by AI-driven molecular design."

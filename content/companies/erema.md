@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/erema.png
 title: EREMA
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Ansfelden, Austria"
 status: Active
 short_description: "EREMA Group is a world-leading manufacturer of plastic recycling equipment and technologies, developing innovative machinery for processing post-consumer and post-industrial plastic waste, including bioplastics."

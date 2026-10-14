@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/monash-university.png
 title: Monash University
-company_type: University
+company_type: "Academic / Research"
 headquarters: Australia
 status: Active
 short_description: Monash University researchers have developed customizable bioplastic films using polyhydroxyalkanoates (PHA) produced by soil microbes fed on food was...

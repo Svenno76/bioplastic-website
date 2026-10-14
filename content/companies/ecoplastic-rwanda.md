@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ecoplastic-rwanda.png
 title: EcoPlastic Rwanda
-company_type: Recycler
+company_type: "Recycling & Recovery"
 headquarters: "Kigali, Rwanda"
 status: Active
 short_description: "EcoPlastic Rwanda is a pioneering plastic recycling and production company operating within Rwanda's world-leading plastic waste reduction framework. Established in 2011, EcoPlastic collects 88 tonnes of plastic waste annually from multiple sources, transforms collected plastics through recycling processes, and produces new raw materials for conversion into agricultural, construction, and industrial products, supporting Rwanda's global leadership in plastic pollution reduction."

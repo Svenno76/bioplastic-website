@@ -2,7 +2,7 @@
 logo: "/images/logos/european-commission.png"
 
 title: European Commission
-company_type: Consulting
+company_type: "Industry Body / Consulting"
 headquarters: Brussels, Belgium
 status: Active
 fields_of_interest: Bioplastics policy, sustainability regulations, circular economy,

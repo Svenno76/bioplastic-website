@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/alpla.png
 title: ALPLA
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Hard, Austria"
 status: Active
 short_description: "Global leader in plastic packaging manufacturing specializing in sustainable solutions including recycled plastics, bio-based materials, and paper bottles"

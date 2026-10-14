@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/alterra.png
 title: Alterra
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: "Akron, Ohio, USA"
 status: Active
 short_description: "Developer, operator, and licensor of patented thermochemical liquefaction technology that converts hard-to-recycle plastic waste back into its original building blocks. Operating a commercial showcase facility processing 60 tons/day in Akron, Ohio."

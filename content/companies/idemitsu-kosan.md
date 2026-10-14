@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/idemitsu-kosan.png
 title: Idemitsu Kosan
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Tokyo, Japan"
 status: Active
 short_description: "Idemitsu Kosan is a major Japanese petroleum and chemical company developing bio-based and recycled plastics. The company produces biomass-derived chemicals and polymers, operates chemical recycling facilities through Chemical Recycling Japan, and partners globally to build renewable plastic supply chains."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/dupont.png
 title: DuPont
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Wilmington, Delaware, USA"
 status: Active
 short_description: "American multinational advanced materials company producing engineering polymers, specialty chemicals, and biomaterials including Sorona biopolymer"

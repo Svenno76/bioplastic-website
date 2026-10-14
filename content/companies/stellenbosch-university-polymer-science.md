@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/stellenbosch-university-polymer-science.jpg
 title: Stellenbosch University - Department of Chemistry and Polymer Science
-company_type: University
+company_type: "Academic / Research"
 headquarters: "Stellenbosch, Western Cape, South Africa"
 status: Active
 short_description: "Stellenbosch University's Department of Chemistry and Polymer Science is South Africa's premier academic institution for polymer research and education, conducting cutting-edge research in bioplastics, polymer synthesis, biodegradable materials, and advanced macromolecular architectures. The department hosts the largest polymer science research effort in South Africa and has spawned multiple spinout companies commercializing bioplastics innovations."

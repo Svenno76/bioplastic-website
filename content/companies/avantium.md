@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/avantium.png
 title: Avantium
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: "Amsterdam, Netherlands"
 status: Active
 short_description: "Avantium is a chemical technology company headquartered in Amsterdam, Netherlands, developing innovative plant-based polymers and circular chemistry solutions. Founded in 2000 as a Shell spin-off, Avantium employs 300+ people and specializes in commercializing PEF (polyethylene furanoate) and FDCA technologies."

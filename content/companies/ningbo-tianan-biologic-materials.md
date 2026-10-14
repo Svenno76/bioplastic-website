@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ningbo-tianan-biologic-materials.png
 title: Ningbo Tianan Biologic Materials
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Ningbo, Zhejiang Province, China"
 status: Active
 short_description: "Ningbo Tianan Biologic Materials Co., Ltd. is the world's largest producer of PHBV (polyhydroxybutyrate-co-valerate) biopolymers with 2,000 MT/year production capacity. Established in 2000 and located in Ningbo's Beilun Port industrial zone, the company pioneered water-based PHA extraction technology in 2004 and produces biodegradable polymers certified for industrial composting and marine degradation, serving packaging, agriculture, and specialty applications globally."

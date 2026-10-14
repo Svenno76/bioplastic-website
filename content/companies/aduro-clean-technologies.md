@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/aduro-clean-technologies.png
 title: Aduro Clean Technologies
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: "Sarnia, Ontario, Canada"
 status: "Active"
 short_description: "Aduro Clean Technologies is a Canadian developer of patented Hydrochemolytic™ water-based chemical recycling technology. Founded in 2012, the company converts waste plastics into high-value chemicals and circular feedstocks, targeting recycling and petrochemical industries. Listed on Canadian Securities Exchange (ACT) and Nasdaq (ADUR)."

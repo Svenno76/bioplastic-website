@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/string-bio-india.png
 title: "String Bio"
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Bangalore, Karnataka, India"
 status: "Active (Well-funded)"
 short_description: "String Bio is an Indian synthetic biology company converting methane into valuable products including biodegradable polymers and bioplastics. Founded in 2012, the company has raised $20.1M to develop proprietary fermentation technology that converts renewable or waste methane into monomers for biodegradable polymers, positioning itself as an innovator in next-generation biopolymer feedstocks."

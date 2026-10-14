@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/huhtamaki.png
 title: Huhtamaki Oyj
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Espoo, Finland"
 status: Active
 short_description: "Finnish global packaging company producing sustainable and eco-friendly food and beverage packaging solutions with operations across 30+ countries"

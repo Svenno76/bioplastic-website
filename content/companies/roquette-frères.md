@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/roquette-frères.png
 title: "Roquette Frères"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Lestrem, France"
 status: "Active"
 short_description: "Roquette Frères is a global leader in plant-based ingredients and bioplastics, headquartered in Lestrem, France. Founded in 1933, the company produces over 650 products from renewable plant materials, including starch-based biopolymers marketed under the Gaialene brand. With 11,000+ employees and operations across five continents, Roquette is a top-10 global bioplastics company."

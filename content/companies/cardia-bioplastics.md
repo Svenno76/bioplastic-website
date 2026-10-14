@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/cardia-bioplastics.png
 title: "Cardia Bioplastics"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Melbourne, Victoria, Australia"
 status: "Active"
 short_description: "Cardia Bioplastics is an Australian developer and manufacturer of biodegradable and compostable bioplastic resins headquartered in Melbourne. Founded in 2002, the company produces both compostable biohybrid resins and specialty bio-based polymers for packaging, food service, and agricultural applications. With R&D in Melbourne and manufacturing in China and Malaysia, Cardia serves Asia-Pacific and global markets with certified compostable solutions."

@@ -12,7 +12,7 @@ sitemap:
   priority: 0.7
 draft: false
 logo: /images/logos/ucy-polymers-cz.png
-company_type: Recycler
+company_type: "Recycling & Recovery"
 ---
 
 UCY Polymers CZ s.r.o. operates a PET recycling facility in Plzen, Czech Republic. The company was acquired by Indorama Ventures (a global sustainable chemicals producer) in February 2022 as part of IVL's strategy to expand recycling capacity in Central Europe. The acquisition involved an 85% equity stake, with UCY Ventures Group retaining a minority share.

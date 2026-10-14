@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/futerro.png
 title: Futerro
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Battice, Belgium"
 status: Active
 short_description: "Futerro is a Belgian bioplastics company specializing in PLA production and the lactic acid value chain. Founded in 1992, Futerro uniquely masters the entire PLA lifecycle from lactic acid production through commercial PLA polymers. Operating a Belgium demo plant and China production facility with 100,000 MT/year capacity, Futerro is developing a mega-expansion in France with 175,000 MT/year additional capacity."

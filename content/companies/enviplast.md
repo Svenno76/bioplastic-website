@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/enviplast.png
 title: "ENVIPLAST Biopolymer"
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Indonesia"
 status: "Active"
 short_description: "ENVIPLAST is Indonesia's leading pioneer in bio-based and biodegradable polymer compounds derived from cassava starch, corn starch, and other natural agricultural feedstocks. Established in 2009, the company has grown into a major regional bioplastics producer with a global export footprint spanning Asia, the Middle East, Americas, Europe, Africa, and Australia, specializing in compostable materials for packaging applications."

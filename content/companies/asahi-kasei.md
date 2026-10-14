@@ -1,6 +1,6 @@
 ---
 title: Asahi Kasei Corporation
-company_type: Compounder
+company_type: "Compounder"
 headquarters: Tokyo, Japan
 status: Active
 short_description: Multinational Japanese chemical company producing bio-based chemicals

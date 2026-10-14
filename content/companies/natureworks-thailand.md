@@ -1,6 +1,6 @@
 ---
 title: "NatureWorks Thailand"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Nakhon Sawan Province, Thailand"
 status: "Under Construction"
 short_description: "NatureWorks Thailand is a joint venture between Cargill (USA) and PTT Global Chemical (Thailand) developing a fully-integrated Ingeo PLA biopolymer manufacturing facility in Nakhon Sawan Province with 75,000 MT/year production capacity. Scheduled to commence operations in 2025, the facility will produce polylactic acid (PLA) from renewable sugarcane sourced within a 50-kilometer radius, positioning Thailand as a major global PLA production center and supporting Asia-Pacific bioplastics market growth."

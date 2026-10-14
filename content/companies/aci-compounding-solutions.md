@@ -1,6 +1,6 @@
 ---
 title: ACI Compounding Solutions
-company_type: Compounder
+company_type: "Compounder"
 headquarters: "Guarda, Portugal"
 status: Active
 short_description: "Global compounder producing specialized polymer compounds including bio-based and sustainable formulations. Acquired by Westlake Corporation in 2025 to strengthen its global compounds portfolio."

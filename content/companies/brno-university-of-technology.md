@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/brno-university-of-technology.png
 title: Brno University of Technology
-company_type: University
+company_type: "Academic / Research"
 headquarters: "Brno, Czech Republic"
 status: Active
 short_description: "Brno University of Technology (BUT) is the Czech Republic's second-largest technical university with 17,000 students and 8 faculties. The Faculty of Chemistry operates a dedicated Materials Research Centre and bioplastics laboratory focused on developing, testing, and optimizing bio-based and biodegradable polymeric materials and composites for industrial applications."

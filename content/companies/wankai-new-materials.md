@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/wankai-new-materials.jpg
 title: Wankai New Materials
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Haining, Zhejiang Province, China"
 status: Active
 short_description: "Wankai New Materials Co., Ltd. is a leading Chinese polyethylene terephthalate (PET) producer and pioneering bioplastics innovator. Headquartered in Haining, Zhejiang Province, the company produces 3M MT/year of PET materials and is expanding into sustainable biopolymers through a strategic partnership with Carbios for enzymatic PET recycling. The joint venture targets 50,000 MT/year PET recycling capacity by 2026, positioning Wankai as a key player in circular PET and sustainable polyester innovation."

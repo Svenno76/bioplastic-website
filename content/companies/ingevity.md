@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ingevity.png
 title: Ingevity Corporation
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "North Charleston, South Carolina, USA"
 status: Active
 short_description: "Ingevity Corporation is a specialty materials and chemical manufacturer and world leader in caprolactone technology. The company's Capa® family of biodegradable polymers are used in bags, films, rigid packaging, and paper coatings. Operating in 31 countries with 2,050+ employees."

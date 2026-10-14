@@ -1,6 +1,6 @@
 ---
 title: "ReLeaf"
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: "Gorinchem, Netherlands"
 status: Active
 short_description: "ReLeaf is Avantium's brand for PEF (polyethylene furanoate) — a 100% plant-based, recyclable bioplastic made from plant-based feedstock. PEF is a sustainable alternative to conventional PET with superior barrier properties, fossil-free and fully circular."

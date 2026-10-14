@@ -1,6 +1,6 @@
 ---logo: /images/logos/evonik.png
 title: Evonik Industries
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: Essen, Germany
 status: Active
 short_description: Evonik is one of the world's leading specialty chemicals companies,

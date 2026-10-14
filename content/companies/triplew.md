@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/triplew.png
 title: "TripleW"
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: "Netanya, Israel"
 status: "Active"
 short_description: "Circular chemistry pioneer transforming food waste into lactic acid and PLA bioplastics through advanced fermentation technology."

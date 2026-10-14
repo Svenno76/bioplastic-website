@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/clariant.png
 title: Clariant
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Muttenz, Basel, Switzerland"
 status: Active
 short_description: "Swiss specialty chemicals company producing additives, colorants, advanced materials, and solutions for plastics, coatings, and industrial applications"

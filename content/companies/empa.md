@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/empa.png
 title: Empa (Swiss Federal Laboratories for Materials Science and Technology)
-company_type: Research Institute
+company_type: "Academic / Research"
 headquarters: "Dübendorf, Switzerland"
 status: Active
 short_description: "Empa is a Swiss federal research institute conducting application-oriented materials science and technology research. The organization develops sustainable bioplastics, biodegradable polymers, and advanced materials including cellulose-based bioplastics, recycled circuit boards, and bio-based composites."

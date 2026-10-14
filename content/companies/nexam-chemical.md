@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/nexam-chemical.png
 title: Nexam Chemical
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: "Lund, Sweden"
 status: Active
 short_description: "Nexam Chemical is a global leader in polymer additives that enhance the performance, sustainability, and recyclability of plastics. The company specializes in innovative reactive recycling and lightweighting technologies for bioplastics."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/totalenergies-corbion.png
 title: TotalEnergies Corbion
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: Netherlands
 status: Active
 short_description: TotalEnergies Corbion is a 50/50 joint venture between TotalEnergies and Corbion, headquartered in the Netherlands, and a global leader in producing L...

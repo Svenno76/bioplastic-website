@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/agilyx.png
 title: Agilyx
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: "Tigard, Oregon, USA"
 status: Active
 short_description: "Agilyx ASA is a pioneering technology provider specializing in advanced chemical recycling solutions for plastic waste, with a focus on polystyrene depolymerization through its proprietary Styrenyx technology."

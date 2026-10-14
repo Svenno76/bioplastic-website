@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/praj-industries.jpg
 title: Praj Industries
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Pune, India"
 status: Active
 short_description: "Praj Industries is an Indian industrial biotech leader developing biofuels and bioplastics technologies. Founded 1983, the company has established India's first biopolymer demonstration facility and develops PLA and PHA bioplastics through advanced fermentation and strain engineering with ~1000 customer references globally."

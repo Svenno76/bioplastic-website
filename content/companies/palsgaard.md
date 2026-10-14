@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/palsgaard.jpg
 title: Palsgaard
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: Denmark
 status: Active
 short_description: Danish producer of emulsifiers and functional additives. Develops bio-based additives for improving bioplastic processing and performance characterist...

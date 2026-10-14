@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ptt-mcc-biochem.png
 title: "PTT MCC Biochem"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bangkok, Thailand"
 status: "Active"
 short_description: "PTT MCC Biochem is a Thai-Japanese joint venture between PTT Global Chemical and Mitsubishi Chemical, established in the 2010s and headquartered in Bangkok. Specializing in BioPBS (bio-based polybutylene succinate) production, the company operates a 20,000 MT/year facility commercialized in 2017. PTT MCC Biochem produces biodegradable polyesters from renewable feedstocks including corn, sugarcane, and cassava, serving Southeast Asian and global bioplastics markets."

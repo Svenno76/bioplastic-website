@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/futamura.png
 title: Futamura Chemical Company
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: Nagoya, Japan
 status: Active
 short_description: Major producer of regenerated cellulose films including NatureFlex

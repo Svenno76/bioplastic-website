@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/covationbio.png
 title: Covation Biomaterials
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Newark, Delaware, USA"
 status: Active
 short_description: "Covation Biomaterials is a biobased materials company delivering high-performance bio-based polymers and feedstocks for apparel, carpeting, cosmetics, and packaging. The company offers sustainable alternatives to petroleum-based materials including Sorona®, Susterra®, Zemea®, and the newly launched BioPTMEG."

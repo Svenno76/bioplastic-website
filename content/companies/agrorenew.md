@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/agrorenew.png
 title: AgroRenew
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Vincennes, Indiana, USA"
 status: Active
 short_description: "AgroRenew is a bioplastics manufacturer transforming agricultural crop waste from melon farms into 100% biodegradable PHA bioplastics. Founded by Katie L. Southern (Chief Science Officer) and Brian Southern (CEO), the company broke ground on an $83 million facility in Knox County, Indiana."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/northeast-forestry-university.png
 title: Northeast Forestry University
-company_type: University
+company_type: "Academic / Research"
 headquarters: Harbin, China
 status: Active
 short_description: Northeast Forestry University is an academic institution researching

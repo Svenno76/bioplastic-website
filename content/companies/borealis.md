@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/borealis.png
 title: Borealis
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Vienna, Austria"
 status: Active
 short_description: "Leading European polyolefins and specialty plastics producer developing bio-based and circular solutions with operations across 40+ countries"

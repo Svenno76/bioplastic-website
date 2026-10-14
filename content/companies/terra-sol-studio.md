@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/terra-sol-studio.png
 title: Terra Sol Studio
-company_type: Consulting
+company_type: "Industry Body / Consulting"
 headquarters: Australia
 status: Active
 short_description: Terra Sol Studio is an Australian design studio specializing in sustainable product development and commercialization. Partnering with EcoPHA Biotech,...

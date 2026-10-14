@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/verde-bioresins.jpg
 title: Verde Bioresins
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Fullerton, California, USA"
 status: Active
 short_description: "Verde Bioresins is a NASDAQ-listed bioplastics company (NASDAQ:VRDE) founded in 2020 and headquartered in Fullerton, California. The company specializes in the development and manufacturing of PolyEarthylene™, a proprietary bio-based, recyclable, and landfill-biodegradable polyolefin resin compatible with standard polymer processing equipment. Verde went public via SPAC merger in June 2023."

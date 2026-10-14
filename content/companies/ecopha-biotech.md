@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ecopha-biotech.png
 title: Ecopha Biotech
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Melbourne, Australia (originally Malaysia, 2008)"
 status: Active
 short_description: "Ecopha Biotech is a leading developer and producer of polyhydroxyalkanoates (PHA) bioplastics made from renewable resources including sugar and vegetable oils. The company achieved a world-first by producing marine-safe PHB from pongamia oil and is expanding into Asian markets with a Chinese joint venture."

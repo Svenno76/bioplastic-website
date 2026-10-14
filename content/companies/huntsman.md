@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/huntsman.jpg
 title: Huntsman Corporation
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "The Woodlands, Texas, USA"
 status: Active
 short_description: "American specialty chemicals and advanced materials company producing polyurethanes, performance products, and advanced chemicals for diverse industries"

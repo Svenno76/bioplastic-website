@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/one-world-products.png
 title: One World Products
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Midland, Michigan, USA"
 status: Transitioning to Isiah Enterprises
 short_description: "One World Products is transitioning to Isiah Enterprises as the company evolves under the leadership of NBA legend Isiah Thomas. Headquartered in Midland, Michigan, the company acquired Eco Bio Plastics and produces plant-based compostable bioplastics and hemp biocomposites. The company serves automotive components, food service packaging, and industrial applications. For current information, see Isiah Enterprises profile (OTC:OWPC)."

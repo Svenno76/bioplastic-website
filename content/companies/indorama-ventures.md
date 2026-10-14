@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/indorama-ventures.png
 title: Indorama Ventures
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bangkok, Thailand"
 status: Active
 short_description: "Thai petrochemical company producing polyethylene terephthalate (PET), specialty polymers, and developing bio-based and recycled polymer solutions"

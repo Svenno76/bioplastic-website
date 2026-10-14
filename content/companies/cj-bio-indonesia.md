@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/cj-bio-indonesia.png
 title: "CJ Bio Indonesia"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Pasuruan, East Java, Indonesia"
 status: "Active"
 short_description: "CJ Bio Indonesia, a subsidiary of South Korea's CJ CheilJedang, operates the region's largest polyhydroxyalkanoate (PHA) production facility in Pasuruan with 5,000 MT/year capacity commercialized in 2022. Specializing in amorphous PHA biopolymers derived from natural feedstocks, the company represents a major regional investment in advanced biodegradable materials and supports ambitious Southeast Asian capacity expansion plans targeting 65,000 MT by 2025 and 300,000 MT by 2030."

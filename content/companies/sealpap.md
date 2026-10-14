@@ -11,7 +11,7 @@ sitemap:
   priority: 0.7
 draft: false
 logo: "/images/logos/sealpap.png"
-company_type: "Technology Company"
+company_type: "Converter / Packaging"
 founded: "2015"
 status: "Active"
 employees: "10-50"

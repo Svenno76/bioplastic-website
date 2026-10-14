@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/rutgers-university.png
 title: Rutgers University
-company_type: University
+company_type: "Academic / Research"
 headquarters: United States
 status: Active
 short_description: Rutgers University is a research institution conducting advanced research in bioplastics and sustainable materials. Key initiatives include developing...

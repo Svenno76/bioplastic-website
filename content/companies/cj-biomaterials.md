@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/cj-biomaterials.png
 title: "CJ Biomaterials"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Seoul, South Korea"
 status: "Active"
 short_description: "CJ Biomaterials is a specialized bioplastics division of CJ CheilJedang, a major South Korean food and chemical company. Founded in the 2000s, CJ Biomaterials produces PHA (polyhydroxyalkanoate) biopolymers using proprietary fermentation technology. With current operations in Indonesia (5,000 MT/year) and South Korea (11,000 MT/year compounding), CJ is planning mega-capacity expansion to 50,000+ MT/year, positioning it as a major global PHA producer."

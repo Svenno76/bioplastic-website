@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/stora-enso.png
 title: Stora Enso
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: Helsinki, Finland & Stockholm, Sweden
 status: Active
 short_description: Leading renewable materials company pioneering PEF bioplastics

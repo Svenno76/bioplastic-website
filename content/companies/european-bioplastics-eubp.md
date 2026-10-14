@@ -1,6 +1,6 @@
 ---logo: /images/logos/european-bioplastics-eubp.png
 title: European Bioplastics (EUBP)
-company_type: Testing/Certification
+company_type: "Industry Body / Consulting"
 headquarters: Berlin, Germany
 status: Active
 short_description: European industry association representing the bioplastics sector,

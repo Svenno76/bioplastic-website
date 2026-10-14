@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/lanxess.png
 title: LANXESS
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Cologne, Germany"
 status: Active
 short_description: "German specialty chemicals company producing polymers, advanced materials, and bio-based compounds for diverse industrial and consumer applications"

@@ -105,31 +105,23 @@
         </p>
         {{ end }}
 
-        <!-- Policy/Government, Non-Profits, Consulting - Fields of Interest -->
-        {{ if or (eq .Params.company_type "Policy/Government Organization") (eq .Params.company_type "Non-Profit Foundation/NGO") (eq .Params.company_type "Consulting/Advisory Firm") }}
+        <!-- Industry Body / Consulting - Fields of Interest -->
+        {{ if eq .Params.company_type "Industry Body / Consulting" }}
           {{ if .Params.fields_of_interest }}
           <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
             <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Fields of Interest:</p>
             <p style="color: #475569; font-size: 0.9rem;">{{ .Params.fields_of_interest }}</p>
           </div>
           {{ end }}
-        <!-- Equipment Manufacturers - Product Types -->
-        {{ else if eq .Params.company_type "Equipment Manufacturer" }}
-          {{ if .Params.product_types }}
-          <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
-            <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Equipment:</p>
-            <p style="color: #475569; font-size: 0.9rem;">{{ .Params.product_types }}</p>
-          </div>
-          {{ end }}
-        <!-- Technology Companies - Technologies -->
-        {{ else if eq .Params.company_type "Technology Company" }}
+        <!-- Technology & Equipment - Technologies -->
+        {{ else if eq .Params.company_type "Technology & Equipment" }}
           {{ if .Params.technologies }}
           <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
             <p style="font-size: 0.85rem; color: #64748b; font-weight: 500; margin-bottom: 0.5rem;">Technologies:</p>
             <p style="color: #475569; font-size: 0.9rem;">{{ .Params.technologies }}</p>
           </div>
           {{ end }}
-        <!-- Other Companies - Primary Materials -->
+        <!-- All other companies - Primary Materials -->
         {{ else }}
           {{ if .Params.primary_materials }}
           <div style="margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
@@ -181,9 +173,8 @@
         }
       });
       const sortedTypes = Array.from(allTypes).sort();
-      const filteredTypes = sortedTypes.filter(type => type !== 'Biotechnology Company');
 
-      filteredTypes.forEach(type => {
+      sortedTypes.forEach(type => {
         const button = document.createElement('button');
         button.className = 'filter-btn';
         button.onclick = function() { filterByType(type); };

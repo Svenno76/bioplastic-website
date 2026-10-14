@@ -1,6 +1,6 @@
 ---logo: /images/logos/tetra-pak.png
 title: Tetra Pak
-company_type: Technology Company
+company_type: "Converter / Packaging"
 headquarters: Lund, Sweden
 status: Active
 short_description: Tetra Pak is a world-leading food packaging and processing company

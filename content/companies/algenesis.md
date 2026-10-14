@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/algenesis.png
 title: Algenesis
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "San Diego, California, United States"
 status: "Active"
 short_description: "Algenesis is a biotechnology company developing plant-based and algae-derived polyurethane materials under its flagship Soleic® brand. Founded in 2016 by three UC San Diego professors, the company specializes in renewable, fully biodegradable bioPolyurethane (bioPU) made from algae and non-food plants, targeting footwear, textiles, and consumer products markets."

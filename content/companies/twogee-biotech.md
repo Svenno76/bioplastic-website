@@ -1,6 +1,6 @@
 ---logo: /images/logos/twogee-biotech.png
 title: Twogee Biotech
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: Martinsried, Munich, Germany
 status: Active
 short_description: Twogee Biotech is a German biotechnology company developing enzymatic

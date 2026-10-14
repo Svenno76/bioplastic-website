@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ecovance-vietnam.png
 title: "Ecovance Vietnam"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Hai Phong, Vietnam"
 status: "Active"
 short_description: "Ecovance Vietnam, a joint venture of SKC Group (South Korea), Daesang, and LX International, is developing the world's largest PBAT (polybutylene adipate terephthalate) biodegradable plastic manufacturing facility in Hai Phong's Dinh Vu Industrial Zone. With an investment of approximately USD 100 million and an annual production capacity of 70,000 tons of PBAT plus 59,500 tons of PBS, the facility is expected to begin full operations in September 2025, positioning Vietnam as a global leader in biodegradable plastics production."

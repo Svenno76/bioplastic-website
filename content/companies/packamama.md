@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/packamama.png
 title: Packamama
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Australia, UK, Belgium, South Africa (multi-national)"
 status: Active
 short_description: "Packamama is an Australian sustainable wine packaging innovator producing lightweight, recyclable PET bottles and developing plant-based PEF bioplastic alternatives through partnership with Avantium's Releaf technology. The company reduces wine packaging carbon footprint through flat bottle design and bioplastics integration."

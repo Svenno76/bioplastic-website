@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/csir-south-africa.png
 title: CSIR - Council for Scientific and Industrial Research
-company_type: Research Institute
+company_type: "Academic / Research"
 headquarters: "Pretoria, South Africa"
 status: Active
 short_description: "CSIR is South Africa's premier national research institute, developing pioneering 100% biodegradable and compostable bioplastics from renewable agricultural feedstocks. The organization has created proprietary technology producing bioplastics that degrade within 180 days in landfill conditions and 90 days in compost, winning UNEP recognition for environmental innovation."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/econest-philippines.png
 title: "EcoNest Philippines"
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Philippines"
 status: "Active"
 short_description: "EcoNest Philippines is the first bioplastic research & development and manufacturing company in the Philippines specializing in regenerative materials innovation. The company develops and produces biodegradable and compostable bioplastics from indigenous Philippine agricultural feedstocks including cassava, maize, and bagasse, with a product portfolio spanning maize cups, cassava bags, bagasse containers, and plantable cards. EcoNest demonstrates Philippines' emerging capability in specialty bioplastics manufacturing and circular bioeconomy development."

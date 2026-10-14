@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/eu-commission-towards-chemical-and-materials-consulting.png
 title: Towards Chemical and Materials Consulting
-company_type: Consulting
+company_type: "Industry Body / Consulting"
 headquarters: Brussels, Belgium
 status: Active
 website: https://www.towardschemandmaterials.com/

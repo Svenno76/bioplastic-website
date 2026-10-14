@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ecopha-biotech.png
 title: EcoPHA Biotech
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Sydney, Australia"
 status: Active
 short_description: "EcoPHA Biotech (EcoPHA) is an Australian biotechnology company that has achieved a world-first in producing PHA (polyhydroxyalkanoate) bioplastics from non-edible Pongamia oil. The company uses Pongamia tree seeds grown on marginal land to produce home-compostable, biodegradable bioplastics."

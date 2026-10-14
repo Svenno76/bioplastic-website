@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/shenyang-university-of-chemical-technology.png
 title: Shenyang University of Chemical Technology
-company_type: University
+company_type: "Academic / Research"
 headquarters: "Shenyang, Liaoning, China"
 status: Active
 short_description: "Shenyang University of Chemical Technology (SYUCT) is a leading Chinese academic institution specializing in chemical engineering and materials science. It collaborates with Northeast Forestry University on breakthrough bamboo cellulose-based bioplastics research using non-toxic alcohol solvent processes."

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/genomatica.jpg
 title: Genomatica
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "San Diego, California, USA"
 status: Active
 short_description: "Genomatica is a leading biotechnology company that develops and licenses biological manufacturing processes for sustainable chemicals, enabling the production of plant-based alternatives to fossil fuel-derived materials used in bioplastics and other applications."

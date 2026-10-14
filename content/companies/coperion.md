@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/coperion.png
 title: Coperion
-company_type: Equipment Provider
+company_type: "Technology & Equipment"
 headquarters: Stuttgart, Germany
 founded: '1879'
 status: Active

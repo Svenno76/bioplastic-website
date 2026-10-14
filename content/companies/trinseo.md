@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/trinseo.png
 title: Trinseo
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Berwyn, Pennsylvania, USA"
 status: Active
 short_description: "Global specialty polymers and bioplastics manufacturer producing TPE, TPU, and bio-based polymer solutions for footwear, packaging, and industrial applications"

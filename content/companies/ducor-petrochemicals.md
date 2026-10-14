@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/ducor-petrochemicals.png
 title: Ducor Petrochemicals
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Rozenburg, the Netherlands"
 status: Active
 short_description: "Ducor Petrochemicals is a polypropylene producer specializing in bio-based, bio-circular, and recycled variants of polypropylene. The company produces sustainable polymers under ISCC PLUS certification for healthcare, automotive, electrical, textile, and packaging applications."

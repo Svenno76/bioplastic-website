@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/basf.png
 title: BASF
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Ludwigshafen, Germany"
 status: Active
 short_description: "BASF is the world's leading chemical company headquartered in Ludwigshafen, Germany with over 112,000 employees and approximately 380 production sites worldwide. A pioneer in biopolymers for over 30 years, BASF produces certified compostable and bio-based polymers."

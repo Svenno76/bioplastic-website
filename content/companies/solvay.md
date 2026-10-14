@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/solvay.png
 title: Solvay
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Brussels, Belgium"
 status: Active
 short_description: "Belgian specialty chemicals and advanced materials company producing polyamides, polymers, additives, and sustainable material solutions"

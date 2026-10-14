@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/sabic.jpg
 title: SABIC
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Riyadh, Saudi Arabia"
 status: Active
 short_description: "Saudi Basic Industries Corporation - global chemical and plastics leader producing bio-based polyolefins, engineering plastics, and specialties across 140+ countries"

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/pro-pickle.jpg
 title: Pro-Pickle
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: United States
 status: Active
 short_description: Pro-Pickle, also known as Professional Pickleball Partners, is a company specializing in manufacturing customizable pickleball paddles and accessories...

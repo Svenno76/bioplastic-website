@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/bbca-group.png
 title: BBCA Group
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bengbu, Anhui Province, China"
 status: Active
 short_description: "BBCA (Biochemical) Group is one of the world's largest lactic acid and polylactic acid (PLA) producers, headquartered in Bengbu, China. With a lactic acid production capacity of 80,000-180,000 MT/year and PLA capacity targeting 100,000+ MT/year, BBCA operates a vertically-integrated biorefinery converting renewable feedstocks into biochemical building blocks. Strategic partnerships with Galactic and FUTERRO position BBCA as a key player in Asia's expanding bioplastics supply chain."

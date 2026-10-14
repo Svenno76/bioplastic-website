@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/dow.png
 title: Dow Inc.
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Midland, Michigan, USA"
 status: Active
 short_description: "Major chemical and plastics company producing polyolefins, polyurethanes, specialty polymers, and advanced materials for diverse industrial applications"

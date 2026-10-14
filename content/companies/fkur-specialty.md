@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/fkur-specialty.png
 title: FKuR
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Willich, Germany"
 status: Active
 short_description: "FKuR is a German bioplastics specialist founded in 2003 through collaboration with Fraunhofer Institute UMSICHT. Based in Willich with global presence (Texas USA, Pune India JV), FKuR produces biocompatible and biodegradable bioplastic compounds. The company offers 7,000+ m² facilities and 20+ years of bioplastics development expertise."

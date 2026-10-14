@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/kelpi.png
 title: Kelpi
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bath, United Kingdom"
 status: Active
 short_description: "Kelpi is a UK-based biotech company developing premium bioplastics from seaweed. The company creates compostable, marine-safe bioplastics with superior water barrier properties to replace single-use fossil fuel plastics in packaging applications."

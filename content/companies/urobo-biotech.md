@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/urobo-biotech.png
 title: Urobo Biotech
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Stellenbosch, South Africa"
 status: Active
 short_description: "Urobo Biotech is a South African biotech company specializing in transforming end-of-life bioplastic waste into valuable bioproducts through innovative enzymatic and microbiological processes. Founded as a Stellenbosch University spin-out in 2023, the company is pioneering waste-to-value technology that enables selective breakdown of bioplastics without prior sorting."

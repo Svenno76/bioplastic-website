@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/phabuilder.png
 title: PhaBuilder
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Beijing, China"
 status: Active
 short_description: "PhaBuilder is a leading Chinese synthetic biology company developing advanced polyhydroxyalkanoate (PHA) biopolymers using proprietary halophilic microorganism engineering. Founded in 2021 by Tsinghua University researchers and led by Professor Guoqiang Chen, PhaBuilder is constructing a 30,000 MT/year Next Generation Industrial Biotechnology (NGIB) facility and operating production plants in Beijing and Yichang, positioning itself as a global leader in engineered PHA manufacturing."

@@ -1,6 +1,6 @@
 ---logo: /images/logos/gepack.png
 title: Gepack
-company_type: Technology Company
+company_type: "Converter / Packaging"
 headquarters: Leiria, Portugal
 status: Active
 short_description: Gepack is a Portuguese bottle manufacturer specializing in PET

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/covestro.png
 title: Covestro
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Leverkusen, Germany"
 status: Active
 short_description: "German polymer manufacturer producing polyurethane, polycarbonate, and bio-based materials, including CO₂-derived plastics and renewable raw materials"

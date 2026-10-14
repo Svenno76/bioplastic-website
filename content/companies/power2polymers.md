@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/power2polymers.png
 title: Power2Polymers
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: Germany
 status: Active
 short_description: Power2Polymers pioneers sustainable, high-performance polymer products for specialty applications including lubricants, industrial adhesives, and seal...

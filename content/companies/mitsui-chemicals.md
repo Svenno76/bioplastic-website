@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/mitsui-chemicals.png
 title: Mitsui Chemicals
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Tokyo, Japan"
 status: Active
 short_description: "Japanese chemical company producing performance materials, functional plastics, and bio-based polymers including bioplastics for diverse industrial applications"

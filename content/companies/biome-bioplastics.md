@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/biome-bioplastics.png
 title: Biome Bioplastics
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Southampton, United Kingdom"
 status: Active
 short_description: "UK-based developer of high-performance biodegradable and bio-based plastics built on 20 years of development. Produces 100% biodegradable and compostable bioplastic resins for packaging, horticulture, films, coatings, and consumer products with enhanced environmental credentials."

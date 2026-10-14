@@ -11,7 +11,7 @@ sitemap:
   priority: 0.7
 draft: false
 logo: /images/logos/verdofoam.png
-company_type: Bioplastic Producer
+company_type: "Biotechnology"
 ---
 
 Verdofoam is a Netherlands-based biotech company producing 100% bio-based foam made from PLA (polylactic acid). Verdofoam provides a sustainable and fully renewable alternative to traditional EPS foam for packaging, insulation, and industrial applications.

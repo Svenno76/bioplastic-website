@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/braskem-siam.png
 title: "Braskem Siam Company Limited"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Map Ta Phut, Rayong Province, Thailand"
 status: "Under Development"
 short_description: "Braskem Siam Company Limited is a joint venture between Braskem (Brazil) and SCG Chemicals (Thailand) developing a 200,000 MT/year bio-based polyethylene facility in Map Ta Phut Industrial Estate, Rayong Province, Thailand. The facility will produce I'm green bio-based polyethylene from ethanol derived from sugarcane, expected to be operational by 2028, establishing Thailand as Asia's first bio-ethylene production center and supporting global demand for sustainable polymers with up to one million tons per year of CO₂ reduction potential."

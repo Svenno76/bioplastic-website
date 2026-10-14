@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/norsk-e-fuel.png
 title: Norsk e-Fuel
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Oslo, Norway"
 status: Active
 short_description: "Norsk e-Fuel is a Norwegian sustainable chemistry company developing Power-to-Liquid (PtL) technology to convert captured CO₂ and water into synthetic fuels and feedstocks. The company partners with Braskem to produce e-Naphtha for bioplastics applications, enabling the creation of carbon-neutral plastics from captured atmospheric CO₂."

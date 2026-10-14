@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/amcor.png
 title: Amcor
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Melbourne, Victoria, Australia"
 status: Active
 short_description: "World's largest packaging company producing sustainable, recyclable, and bio-based flexible and rigid packaging solutions for diverse industries"

@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/mialgae.png
 title: MiAlgae
-company_type: Technology Company
+company_type: "Biotechnology"
 headquarters: "Edinburgh, Scotland, UK"
 status: Active
 short_description: "MiAlgae is a Scottish biotechnology company developing circular bio-materials from whisky industry byproducts. The company uses nutrient-rich pot ale (whisky distillation wastewater) to cultivate microalgae, producing sustainable Omega-3 oils and algal biomass for bioplastics applications."

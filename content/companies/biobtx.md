@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/biobtx.png
 title: "BioBTX"
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: "Groningen, Netherlands"
 status: "Active"
 short_description: "Chemical technology company developing renewable aromatics from plastic waste using proprietary catalytic pyrolysis technology."

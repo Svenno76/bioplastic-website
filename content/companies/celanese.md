@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/celanese.png
 title: Celanese Corporation
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: Dallas, Texas, USA
 status: Active
 short_description: Global chemistry and specialty materials company producing biodegradable

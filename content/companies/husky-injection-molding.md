@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/husky-injection-molding.jpg
 title: Husky Technologies
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: "Bolton, Ontario, Canada"
 status: Active
 short_description: "Canadian manufacturer of injection molding equipment and systems for plastics processing, with focus on PET beverage packaging and circular solutions"

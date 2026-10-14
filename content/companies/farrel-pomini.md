@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/farrel-pomini.png
 title: Farrel Pomini
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: United States
 status: Active
 short_description: FARREL POMINI is the Continuous Mixer Business Unit of HF MIXING GROUP, specializing in the research, design, and manufacture of continuous mixing sys...

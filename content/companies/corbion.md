@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/corbion.png
 title: Corbion
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Amsterdam, Netherlands"
 status: Active
 short_description: "Corbion is a Dutch biochemical company headquartered in Amsterdam, founded in 1919. The company is a leading producer of high-purity lactic acid and lactide monomers for PLA production through its 50/50 joint venture Total Corbion PLA, which operates a 75,000 tons/year PLA plant in Thailand."

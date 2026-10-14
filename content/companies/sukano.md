@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/sukano.png
 title: Sukano AG
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: Schindellegi, Switzerland
 status: Active
 short_description: Family-owned world leader in colour and additive masterbatches

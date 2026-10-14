@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/exxtend.png
 title: Exxtend (ExxonMobil Advanced Recycling Technology)
-company_type: Technology Company
+company_type: "Recycling & Recovery"
 headquarters: "Baytown, Texas, USA (ExxonMobil)"
 status: Active
 short_description: "Exxtend is ExxonMobil's proprietary advanced recycling technology that breaks down plastic waste at the molecular level to produce certified circular polymers with virgin-equivalent performance. The technology enables plastic-to-plastic recycling for PE, PP, and other polymers at industrial scale."

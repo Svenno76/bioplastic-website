@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/novamont.png
 title: Novamont
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Novara, Italy"
 status: Active
 short_description: "Novamont is an Italian chemical company headquartered in Novara, Italy, specializing in the production of biochemicals and biodegradable bioplastics. Founded in 1989, Novamont employs 600+ people and is a leader in compostable packaging solutions through its Mater-Bi product line."

@@ -1,6 +1,6 @@
 ---
 title: "Bio-On"
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Bologna, Italy"
 status: "Bankruptcy (Assets Acquired by MAIP Group, March 2023)"
 short_description: "Italian PHA bioplastics producer specializing in Minerv PHA biodegradable polymers from agricultural waste and biodiesel by-products. Company declared bankrupt in 2019; assets acquired by MAIP Group in March 2023."

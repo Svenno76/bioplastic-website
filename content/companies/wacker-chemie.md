@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/wacker-chemie.png
 title: Wacker Chemie AG
-company_type: Additive Producer
+company_type: "Additive Producer"
 headquarters: Munich, Germany
 status: Active
 short_description: Global chemical company specializing in additives for biopolymers,

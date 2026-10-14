@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/promateris.png
 title: Promateris
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: "Buftea, Romania"
 status: Active
 short_description: "Promateris is Romania's leading manufacturer of biodegradable and compostable packaging, headquartered in Buftea near Bucharest. Founded in 1957 as Prodplast, the company rebranded as Promateris in 2020 to reflect its focus on sustainable bio-based and compostable packaging solutions for the circular economy across Central and Eastern Europe."

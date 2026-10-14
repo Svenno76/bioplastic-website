@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/braskem.png
 title: Braskem
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "São Paulo, Brazil"
 status: Active
 short_description: "Braskem is a leading petrochemical company and the world's largest producer of bio-based polyethylene (I'm green bio-PE) from sugarcane ethanol. Founded in 2002, Braskem operates production facilities across Brazil, USA, and Europe with approximately 9,000 employees."

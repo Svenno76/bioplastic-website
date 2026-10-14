@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/rwdc-industries.png
 title: RWDC Industries
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Athens, Georgia, United States (Singapore headquarters)"
 status: Active
 short_description: "RWDC Industries is a leading advanced bioplastics manufacturer producing polyhydroxyalkanoate (PHA) biopolymers under the Solon® brand. Founded in 2015 with operations in Athens, Georgia and Singapore, the company has raised $133M in Series B funding to commercialize proprietary marine-degradable PHA technology from renewable feedstocks. Solon® bioplastics are fully biodegradable in soil, water, and marine environments, serving packaging, food service, and consumer goods markets."

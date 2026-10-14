@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/hyosung-tnc-vietnam.jpg
 title: "Hyosung TNC Vietnam"
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: "Vietnam"
 status: "Under Development"
 short_description: "Hyosung TNC (South Korea) is investing USD 1 billion to establish the world's first vertically-integrated bio-spandex production system in Vietnam, beginning with Bio-BDO production using Geno's proven fermentation technology. The company will produce 50,000 MT/year of Bio-BDO starting in H1 2026, with plans to scale to 200,000 MT/year capacity across multiple facilities. The facility achieves 90% carbon avoidance vs. coal-based conventional BDO and establishes Vietnam as a global center for renewable spandex fiber production."

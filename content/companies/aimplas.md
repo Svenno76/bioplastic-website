@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/aimplas.png
 title: AIMPLAS
-company_type: Technology Company
+company_type: "Industry Body / Consulting"
 headquarters: "Valencia, Spain"
 status: Active
 short_description: "Leading plastic technology centre specializing in bioplastics testing, recycling, and biodegradation research with over 35 years of industry experience."

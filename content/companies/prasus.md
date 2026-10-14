@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/prasus.png
 title: Prasus
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Tokyo, Japan"
 status: Active
 short_description: "Prasus™ is a mass-balanced bio-polypropylene (bio-PP) resin produced by Prime Polymer (Mitsui Chemicals group). It combines bio-based polyethylene and recycled polyethylene allocated under the mass balance approach, enabling fully bio-based and circular polypropylene for demanding applications like automotive, packaging, and construction."

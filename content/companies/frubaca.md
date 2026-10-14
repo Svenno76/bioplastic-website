@@ -1,6 +1,6 @@
 ---logo: /images/logos/frubaca.png
 title: Frubaça
-company_type: Converter
+company_type: "Converter / Packaging"
 headquarters: Vila Nova de Gaia, Portugal
 status: Active
 short_description: Frubaça is a Portuguese juice and beverage producer specializing

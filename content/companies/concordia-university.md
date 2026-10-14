@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/concordia-university.jpg
 title: Concordia University
-company_type: University
+company_type: "Academic / Research"
 headquarters: Canada
 status: Active
 short_description: Concordia University is a research institution in Montreal with advanced biomanufacturing facilities focused on synthetic biology and bioprocessing fo...

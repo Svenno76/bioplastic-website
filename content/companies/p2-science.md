@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/p2-science.png
 title: P2 Science
-company_type: Technology Company
+company_type: "Technology & Equipment"
 headquarters: United States
 status: Active
 short_description: P2 Science is a green chemistry technology company that develops proprietary processes like PIOz™ and PICE to convert renewable feedstocks such as pin...

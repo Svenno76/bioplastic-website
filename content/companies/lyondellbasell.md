@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/lyondellbasell.png
 title: LyondellBasell Industries
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Houston, Texas, USA"
 status: Active
 short_description: "Major petrochemicals and polymers company producing polyolefins, polyurethane precursors, and developing advanced polymer solutions for diverse industries"

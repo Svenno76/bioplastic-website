@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/lenzing-group.png
 title: Lenzing Group
-company_type: Bioplastic Producer
+company_type: "Polymer Producer"
 headquarters: "Lenzing, Austria"
 status: Active
 short_description: "Lenzing Group is a global leader in specialty cellulosic fiber production headquartered in Lenzing, Austria, and founded in 1938. Publicly listed on the Vienna Stock Exchange (VIE:LNZ), Lenzing operates the world's largest integrated pulp and viscose fiber production site. The company produces TENCEL™ Lyocell, LENZING™ Modal, and LENZING™ Viscose fibers—fully biodegradable, wood-based materials serving textiles, nonwovens, hygiene, packaging, and agricultural applications."

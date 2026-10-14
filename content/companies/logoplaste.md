@@ -19,7 +19,7 @@ noindex: false
 nofollow: false
 draft: false
 logo: /images/logos/logoplaste.png
-company_type: Technology Company
+company_type: "Converter / Packaging"
 ---
 
 ## Overview

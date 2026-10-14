@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/teknor-apex.png
 title: Teknor Apex
-company_type: Compounder
+company_type: "Compounder"
 headquarters: United States
 status: Acquired
 short_description: Teknor Apex is a leading custom compounder specializing in sustainable polymer solutions, including bioplastics and bio-based materials. The company o...

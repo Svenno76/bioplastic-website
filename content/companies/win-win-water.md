@@ -12,7 +12,7 @@ sitemap:
   priority: 0.6
 draft: false
 logo: /images/logos/win-win-water.png
-company_type: Technology Company
+company_type: "Converter / Packaging"
 ---
 
 Win Win Water has launched 100% plant-based, biodegradable bottled water. All packaging - bottle, label, and lid - is crafted entirely from Luminy PLA by TotalEnergies Corbion, made from sustainably farmed sugarcane. The bottles are designed for rapid biodegradation and break down within 90 days in commercial composting facilities. Win Win Water provides naturally alkaline electrolyte spring water.

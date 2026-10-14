@@ -1,7 +1,7 @@
 ---
 logo: /images/logos/blue-circle-olefins.png
 title: "Blue Circle Olefins"
-company_type: Technology Company
+company_type: "Polymer Producer"
 headquarters: "Rotterdam, Netherlands"
 status: "Active"
 short_description: "Blue Circle Olefins is developing the world's first commercial-scale circular methanol-to-olefins production facility in Rotterdam, Netherlands. Founded in 2022, the company produces 100% circular ethylene and propylene as drop-in replacements for fossil-based olefins. Using innovative feedstock conversion from waste plastics, agricultural residues, and biogas with green hydrogen and captured CO₂, Blue Circle targets 80%+ lifecycle GHG reduction vs. conventional polyolefins."
