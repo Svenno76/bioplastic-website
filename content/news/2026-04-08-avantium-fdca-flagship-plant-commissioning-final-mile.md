@@ -2,8 +2,7 @@
 title: 'Avantium''s FDCA Flagship Plant: The World''s First Commercial PEF Facility
   Enters Its Final Commissioning Phase'
 date: 2026-04-08
-categories:
-- Plant Announcement
+category: Plant Announcement
 tags:
 - bio-based
 - fdca

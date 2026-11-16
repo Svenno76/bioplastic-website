@@ -4,7 +4,7 @@ date: 2026-07-29
 draft: false
 summary: "BlueAlp and BioBTX have partnered to combine BlueAlp's pyrolysis technology with BioBTX's ICCP catalytic process, creating an integrated system to convert mixed plastic waste into circular aromatics at commercial scale in Delfzijl."
 tags: ["Chemical Recycling", "Pyrolysis", "Circular Economy", "Partnership", "Netherlands", "BioBTX", "BlueAlp"]
-category: "Technology"
+category: Technology
 company: ["BioBTX", "BlueAlp"]
 source: "BlueAlp"
 source_url: "https://www.bluealp.nl/bluealp-and-biobtx-partner-to-advance-circular-aromatics-from-plastic-waste"

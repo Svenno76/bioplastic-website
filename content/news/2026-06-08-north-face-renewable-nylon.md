@@ -4,7 +4,7 @@ date: 2026-06-08T10:00:00+02:00
 draft: false
 summary: "Four companies partner to supply renewable nylon fiber for The North Face products in Japan, using Neste RE as feedstock for mass-balanced nylon 66 production starting August 2026."
 tags: ["Mass Balance", "Textiles"]
-category: "Partnerships"
+category: Partnerships
 company: ["Neste", "Goldwin", "Idemitsu Kosan", "Toray Industries", "The North Face"]
 source: "Neste"
 source_url: "https://www.neste.com/news/neste-goldwin-idemitsu-and-toray-partner-to-supply-renewable-nylon-fiber-for-the-north-face-brand"

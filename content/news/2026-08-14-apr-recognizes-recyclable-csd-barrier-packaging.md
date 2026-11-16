@@ -1,10 +1,10 @@
 ---
 title: "APR Recognizes Recyclable CSD Barrier Packaging with Up to 5% MXD6, Expanding Lightweight PET Solutions"
 date: 2026-08-14T00:00:00+02:00
+category: Technology
 lastmod: 2026-08-15T19:35:00+00:00
 author: "Sven Cammerer"
 description: "The Association of Plastic Recyclers recognizes recyclable PET barrier packaging with up to 5% MXD6, enabling lightweight carbonated soft drink bottles while maintaining PET stream compatibility."
-categories: ["News"]
 tags: ["APR", "Association of Plastic Recyclers", "MXD6", "Barrier Packaging", "PET Recycling", "Carbonated Soft Drinks", "Husky", "Mitsubishi Gas Chemical", "REPI", "Co-injection"]
 slug: "apr-recognizes-recyclable-csd-barrier-packaging-5-percent-mxd6"
 featured_image: "/images/news/apr-recognizes-recyclable-csd-barrier-hero.png"

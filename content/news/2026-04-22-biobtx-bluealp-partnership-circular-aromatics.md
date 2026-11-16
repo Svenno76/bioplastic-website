@@ -4,7 +4,7 @@ date: 2026-04-22
 draft: false
 summary: "Dutch chemical recycling technology company BlueAlp has been chosen to supply its patented pyrolysis system for BioBTX's PETRA plant, creating an integrated two-step process that converts mixed plastic waste into renewable aromatics at commercial scale."
 tags: ["Chemical Recycling", "Pyrolysis", "Circular Economy", "Partnership", "Netherlands"]
-category: "Technology"
+category: Technology
 company: ["BioBTX", "BlueAlp"]
 source: "BlueAlp"
 source_url: "https://www.bluealp.nl/bluealp-and-biobtx-partner-to-advance-circular-aromatics-from-plastic-waste"

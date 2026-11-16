@@ -11,7 +11,7 @@ tags:
 - bio-based
 - bioplastics
 - compostable
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - European Bioplastics
 company_type:

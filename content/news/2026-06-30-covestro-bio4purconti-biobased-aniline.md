@@ -4,7 +4,7 @@ date: 2026-06-30T00:00:00+02:00
 draft: false
 summary: "Covestro leads the Bio4PURConti consortium, an EU-funded project aiming to develop the world's first continuous fermentation process for bio-based aniline, a key precursor for MDI and polyurethanes, with potential to significantly reduce the carbon footprint of a major chemical building block."
 tags: ["Polyurethanes", "Bio-based", "Investment"]
-category: "Technology"
+category: Technology
 company: ["Covestro"]
 source: "Covestro / FAPU"
 source_url: "https://www.fapu.de/en/2026/06/covestro-takes-bio-based-aniline-production-process-to-next-level-as-eu-funded-project-kicks-off/"

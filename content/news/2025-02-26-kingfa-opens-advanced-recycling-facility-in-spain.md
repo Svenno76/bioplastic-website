@@ -10,7 +10,7 @@ tags:
 - bioplastics
 - chemical-recycling
 - circular-economy
-category: Facility Launch
+category: Plant Announcement
 company:
 - Kingfa Sci. & Tech.
 source: Kingfa Sci. & Tech.

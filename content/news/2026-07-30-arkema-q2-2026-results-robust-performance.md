@@ -1,10 +1,10 @@
 ---
 title: "Arkema Delivers Robust Q2 2026 Results Amid Middle East Crisis"
 date: 2026-07-30T00:00:00+02:00
+category: Financial Results
 lastmod: 2026-08-16T14:00:00+00:00
 author: "Sven Cammerer"
 description: "Arkema reported second-quarter 2026 EBITDA of €391 million, up 7.4% year-on-year, with margin improving to 16.1% despite Middle East conflict driving raw material cost inflation."
-categories: ["News"]
 tags: ["Arkema", "Q2 2026 Results", "EBITDA", "Financial Results", "Specialty Chemicals", "Thierry Le Hénaff", "Adhesive Solutions", "Coating Solutions", "Advanced Materials", "Primary Materials", "Bio-based"]
 slug: "arkema-q2-2026-results-robust-performance"
 featured_image: "/images/news/arkema-q2-2026-results-hero.png"

@@ -4,7 +4,7 @@ date: 2026-04-14
 draft: false
 summary: "Through close collaboration between Duynie, Granulous, and The Compound Company, three biodegradable compounds have been manufactured from brewery co-products, creating a circular materials loop that turns beer production side streams into sustainable alternatives to fossil-based plastics."
 tags: ["Granulous", "Duynie", "The Compound Company", "brewery grains", "circular economy", "biodegradable compounds", "injection moulding"]
-category: "Partnership"
+category: Partnerships
 company: ["Granulous", "Duynie", "The Compound Company"]
 source: "Granulous"
 source_url: "https://www.granulous.com/news/beautiful-collaboration-between-duynie-the-compound-company-and-granulous"

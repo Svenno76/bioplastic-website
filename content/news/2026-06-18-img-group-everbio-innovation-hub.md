@@ -4,7 +4,7 @@ date: 2026-06-18T10:00:00+02:00
 draft: false
 summary: "IMG Group inaugurates the Everbio Innovation Hub in Portalegre, Portugal, combining subsidiaries Evertis, Selenis, Renascis and Renewis in a €15M R&D platform for recycled and bio-based polymer materials."
 tags: ["Circular Economy", "R&D Investment", "PET Recycling", "Bio-based"]
-category: "Plant Announcement"
+category: Plant Announcement
 company: ["IMG Group"]
 source: "IMG Group"
 source_url: "https://www.recyclingtoday.com/news/img-group-launches-everbio-innovation-hub-for-circular-polymers/"

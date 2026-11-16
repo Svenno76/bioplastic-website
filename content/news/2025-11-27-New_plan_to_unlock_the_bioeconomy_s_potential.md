@@ -10,7 +10,7 @@ summary: The European Commission has adopted a new Bioeconomy Strategy, explicit
 tags:
 - bio-based
 - bioplastics
-category: Regulatory & Policy
+category: Policy & Regulation
 company: European Commission
 company_type: Research Institute
 source: European Commission Newsroom

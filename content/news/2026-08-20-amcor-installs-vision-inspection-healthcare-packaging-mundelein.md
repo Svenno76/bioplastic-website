@@ -4,7 +4,7 @@ date: 2026-08-20T00:00:00+02:00
 draft: false
 summary: "Amcor announces installation of automated manufacturing lines and 100% vision inspection systems for healthcare bag production at its Mundelein, Illinois facility, delivering exceptional package quality and full manufacturing traceability."
 tags: ["Amcor", "Healthcare Packaging", "Vision Inspection", "Automation", "Medical Packaging", "Manufacturing", "Quality Control"]
-category: "Plant Announcement"
+category: Plant Announcement
 company: ["Amcor"]
 source: "Amcor"
 source_url: "https://www.amcor.com/media/news/mundelein-healthcare-automation"

@@ -4,7 +4,7 @@ date: 2025-10-15
 draft: false
 summary: "Granulous launches a development project co-funded by the EU to create nutrient-containing bio-based materials for agricultural applications and a proprietary cost-effective polymer solution, aiming to expand into international markets with innovative material technologies."
 tags: ["Granulous", "agricultural materials", "bio-based", "EU funding", "sustainable farming", "compostable"]
-category: "Product Launch"
+category: Product Launch
 company: ["Granulous"]
 source: "Granulous"
 source_url: "https://www.granulous.com/news/granulous-launches-new-development-project-to-advance-sustainable-agricultural-materials"

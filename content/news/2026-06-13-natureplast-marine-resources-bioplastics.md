@@ -13,7 +13,7 @@ tags:
 - circular-economy
 - construction
 - pla
-category: Company News
+category: Technology
 company: NaturePlast
 source: natureplast.eu
 source_url: https://natureplast.eu/natureplast-2025-valorise-les-ressources-marines/

@@ -4,7 +4,7 @@ date: 2026-05-26T10:00:00+02:00
 draft: false
 summary: "Avantium partners with Dutch technical textile specialist Heynen Systems to develop releaf® PEF-based comfort foam and textile prototypes for bedding and upholstery, targeting Interzum Forum Italy showcase in June 2026."
 tags: ["PEF", "Textiles"]
-category: "Partnerships"
+category: Partnerships
 company: ["Avantium", "Heynen Systems"]
 source: "Avantium"
 source_url: "https://newsroom.avantium.com/avantium-and-heynen-systems-explore-application-of-pef-in-bedding-and-upholstery/"

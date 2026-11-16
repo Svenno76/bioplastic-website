@@ -4,7 +4,7 @@ date: 2026-04-02
 draft: false
 summary: "The U.S. Department of Health and Human Services and ARPA-H announce a $144 million federal initiative focused on detecting, understanding, and addressing microplastics in the human body, signaling recognition of microplastics as a public health challenge. RWDC Industries welcomes the initiative as validation for its Solon® PHA biopolymer solutions."
 tags: ["RWDC Industries", "microplastics", "HHS", "ARPA-H", "Solon PHA", "public health", "biodegradable"]
-category: "Technology"
+category: Technology
 company: ["RWDC Industries"]
 source: "RWDC Industries"
 source_url: "https://www.rwdc-industries.com/fight-against-microplastics"

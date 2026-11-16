@@ -4,7 +4,7 @@ date: 2026-07-13T10:00:00+02:00
 draft: false
 summary: "TotalEnergies Corbion commercially launches Luminy FOAM 50F, a high melt strength PLA grade for extrusion foamed packaging that delivers 70% carbon footprint reduction versus XPS."
 tags: ["PLA", "Polystyrene Alternative", "Foam Packaging", "Food Packaging"]
-category: "Product Launch"
+category: Product Launch
 company: ["TotalEnergies Corbion"]
 source: "TotalEnergies Corbion"
 source_url: "https://totalenergies-corbion.com/a-new-polystyrene-alternative-low-carbon-circular-pla-foam/"

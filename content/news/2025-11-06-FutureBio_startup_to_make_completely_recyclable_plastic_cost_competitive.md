@@ -3,9 +3,7 @@ title: FutureBio startup to make completely recyclable plastic cost competitive
 company: FutureBio Inc.
 date: 2025-12-15
 link: https://www.futurebio.net/news
-category:
-- Investment & Funding
-- Product Launch
+category: Investment & Funding
 sitemap:
   priority: 0.7
 tags:

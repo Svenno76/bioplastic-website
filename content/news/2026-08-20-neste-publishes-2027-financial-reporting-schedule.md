@@ -4,7 +4,7 @@ date: 2026-08-20T00:00:00+02:00
 draft: false
 summary: "Neste announces its 2027 financial reporting schedule amid record renewable fuel margins, but the company has quietly deprioritized its sustainable chemicals and polymers division, delaying investments and scaling back the bioplastics ambitions that once positioned it as a circular economy leader."
 tags: ["Neste", "Financial Reporting", "Renewable Diesel", "Sustainable Aviation Fuel", "Bioplastics", "Circular Polymers", "Chemical Recycling", "Investor Relations"]
-category: "Market Analysis"
+category: Market Analysis
 company: ["Neste"]
 source: "Neste Corporation"
 source_url: "https://www.neste.com/news/nestes-financial-reporting-in-2027"

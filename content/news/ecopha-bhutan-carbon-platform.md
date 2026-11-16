@@ -1,10 +1,10 @@
 ---
 title: "Ecopha Unveils Bhutan Carbon Platform: A Carbon-Negative Circular Bioeconomy Model"
 date: 2026-08-05T05:11:23+00:00
+category: Product Launch
 lastmod: 2026-08-13T14:15:00+00:00
 author: "Sven Cammerer"
 description: "Ecopha Biotech introduces the Bhutan Carbon Platform, a pioneering carbon-negative circular bioeconomy model connecting carbon removal, sustainable aviation fuel, and EcoPHA bioplastics production in the Himalayan kingdom."
-categories: ["News"]
 tags: ["Ecopha", "Bhutan", "Carbon Negative", "Circular Bioeconomy", "PHA Bioplastics", "Sustainable Aviation Fuel", "Carbon Removal"]
 slug: "ecopha-bhutan-carbon-platform"
 featured_image: "/images/news/ecopha-bhutan-carbon-platform-hero.png"

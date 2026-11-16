@@ -4,7 +4,7 @@ date: 2026-07-28
 draft: false
 summary: "Dutch circular chemistry pioneer BioBTX has taken a positive final investment decision for its PETRA plant in Delfzijl, marking the culmination of a 14-year journey from concept to commercial-scale facility that will convert mixed plastic waste into renewable aromatics."
 tags: ["Chemical Recycling", "Circular Economy", "Aromatics", "Plastic Waste", "Netherlands"]
-category: "Technology"
+category: Technology
 company: ["BioBTX"]
 source: "BioBTX"
 source_url: "https://biobtx.com/fid/"

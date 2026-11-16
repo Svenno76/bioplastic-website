@@ -4,7 +4,7 @@ date: 2026-06-10T10:00:00+02:00
 draft: false
 summary: "Evonik launches comprehensive Purocel™ product line including catalysts and adsorbents to improve pyrolysis oil quality for steam cracker feedstock, enabling efficient chemical recycling at industrial scale."
 tags: ["Chemical Recycling", "Pyrolysis Oil", "Catalyst", "Circular Economy"]
-category: "Technology"
+category: Technology
 company: ["Evonik"]
 source: "Evonik"
 source_url: "https://www.evonik.com/en/news/press-releases/2026/06/Evonik-facilitates-the-chemical-recycling-of-plastics.html"

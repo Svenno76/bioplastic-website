@@ -7,7 +7,7 @@ sitemap:
 summary: Leaf Bio has secured regulatory approval in China for its Polyethylene Furanoate
   (PEF) material, authorizing its use in direct food contact packaging applications.
 tags: []
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - Leaf Bio
 company_type:

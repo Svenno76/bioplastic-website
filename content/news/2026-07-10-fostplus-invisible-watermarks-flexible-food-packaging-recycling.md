@@ -4,7 +4,7 @@ date: 2026-07-10T10:00:00+02:00
 draft: false
 summary: "Fost Plus leads large-scale trial using Digimarc and Pellenc ST digital watermark technology to sort flexible food packaging from non-food streams, targeting EU 2030 recycled content mandates."
 tags: ["Advanced Recycling", "Digital Watermarks", "Flexible Packaging", "Food Contact", "HolyGrail 2.0"]
-category: "Technology"
+category: Technology
 company: ["Fost Plus", "Digimarc", "Pellenc ST", "Mondelēz International", "Ferrero", "PepsiCo", "pladis"]
 source: "Fost Plus"
 source_url: "https://fostplus.prezly.com/belgium-becomes-the-first-country-in-europe-to-test-a-sorting-technology-designed-to-turn-crisp-bags-biscuit-wrappers-and-snack-packaging-into-new-food-packaging"

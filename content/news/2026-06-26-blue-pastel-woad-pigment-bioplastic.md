@@ -11,7 +11,7 @@ tags:
 - circular-economy
 - construction
 - pla
-category: R&D Partnership
+category: Partnerships
 company:
 - NaturePlast
 - Blue&Pastel

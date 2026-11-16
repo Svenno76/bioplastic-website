@@ -4,7 +4,7 @@ date: 2026-07-16
 draft: false
 summary: "Avantium N.V. spins out its electrochemical CO₂ conversion platform Volta Technology into independent company Carbeau, backed by €35.2M funding from GKT, Invest-NL, Al Baleed Petrochemical, and NOM. Avantium retains 32.7% stake."
 tags: ["Avantium", "Carbeau", "Volta Technology", "CO2 conversion", "electrochemical", "spinout", "funding"]
-category: "Technology"
+category: Technology
 company: ["Avantium", "Carbeau", "GKT", "Invest-NL", "Al Baleed Petrochemical", "NOM"]
 source: "Avantium Newsroom"
 featured_image: "/images/news/avantium-carbeau-volta-spinout-1024.jpg"

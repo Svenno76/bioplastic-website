@@ -4,7 +4,7 @@ date: 2026-06-01T10:00:00+02:00
 draft: false
 summary: "Avantium's updated Life Cycle Assessment confirms releaf® PEF reduces greenhouse gas emissions by up to 88% compared to conventional PET in 500 mL beverage bottles, with industrial data validating recyclability in PET streams."
 tags: ["PEF", "Life Cycle Assessment", "Carbon Footprint"]
-category: "Technology"
+category: Technology
 company: ["Avantium"]
 source: "Avantium"
 source_url: "https://newsroom.avantium.com/avantium-publishes-updated-life-cycle-assessment-confirming-up-to-88-lower-carbon-emissions-for-releaf/"

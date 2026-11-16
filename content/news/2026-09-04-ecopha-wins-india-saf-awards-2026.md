@@ -4,7 +4,7 @@ date: 2026-09-04T11:58:25+00:00
 draft: false
 summary: "Ecopha Biotech awarded 'Best SAF Feedstock Solutions — International' at India SAF Awards 2026, recognizing its integrated bioeconomy platform and Pongamia-based sustainable aviation fuel feedstock technology."
 tags: ["SAF", "Sustainable Aviation Fuel", "Pongamia", "Ecopha Biotech", "Bio-Based Chemicals", "Circular Bioeconomy", "Decarbonisation"]
-category: "Technology"
+category: Technology
 company: ["Ecopha Biotech"]
 source: "Ecopha Biotech"
 source_url: "https://ecopha.bio/ecopha-winner-india-saf-awards-2026-best-feedstock-solutions/"

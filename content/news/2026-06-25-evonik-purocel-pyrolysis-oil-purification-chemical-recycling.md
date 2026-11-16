@@ -4,7 +4,7 @@ date: 2026-06-25
 draft: false
 summary: "Evonik Industries launches Purocel™, a comprehensive portfolio of catalysts and adsorbents designed to purify pyrolysis oil from mixed plastic waste into steam-cracker-ready feedstock, enabling chemical recycling at industrial scale."
 tags: ["Evonik", "Purocel", "chemical-recycling", "pyrolysis-oil"]
-category: "Product Launch"
+category: Product Launch
 company: ["Evonik"]
 source: "Evonik Industries"
 source_url: "https://corporate.evonik.cn/en/media/news/evonik-advances-pyrolysis-oil-capability-with-launch-of-purocel-series-274240.html"

@@ -4,7 +4,7 @@ date: 2026-03-17
 draft: false
 summary: "Austrian recycling technology leader EREMA and the All India Plastics Manufacturers Association have launched a new Recycling Skill Centre at AMTEC in Mumbai, creating India's first hands-on training facility for plastic recycling operators and supervisors."
 tags: ["Mechanical Recycling", "Training", "India", "Skills", "Circular Economy"]
-category: "Technology"
+category: Technology
 company: ["EREMA", "AIPMA"]
 source: "EREMA"
 source_url: "https://www.erema.com/en/public-relations-news/erema-and-aipma-open-new-recycling-training-centre-in-mumbai/"

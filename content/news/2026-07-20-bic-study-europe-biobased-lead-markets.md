@@ -1,10 +1,10 @@
 ---
 title: "BIC Publishes Landmark Study on Europe's Bio-Based Lead Markets"
 date: 2026-07-20T00:00:00+02:00
+category: Market Analysis
 lastmod: 2026-08-16T12:00:00+00:00
 author: "Sven Cammerer"
 description: "The Bio-based Industries Consortium (BIC) has released a comprehensive two-part study mapping Europe's lead markets for bio-based products across chemicals, plastics and polymers, fibre-based packaging, and textiles — arguing that targeted demand-side policies are essential to unlock the continent's industrial potential."
-categories: ["News"]
 tags: ["Bio-based Industries Consortium", "BIC", "Bio-based Products", "Lead Markets", "EU Bioeconomy", "Demand-Side Policy", "Circular Bioeconomy", "Philippe Mengal"]
 slug: "bic-study-europe-biobased-lead-markets"
 featured_image: "/images/news/bic-study-biobased-lead-markets-hero.png"

@@ -4,7 +4,7 @@ date: 2024-03-26
 draft: false
 summary: "PTT MCC Biochem and Nordic Bioproducts Group sign an MOU to combine BioPBS™ with AaltoCell™ cellulosic fibers, targeting home-compostable coffee capsules, cutlery, and containers with superior heat resistance and bio-based content."
 tags: ["PTT MCC Biochem", "Nordic Bioproducts Group", "BioPBS", "AaltoCell", "coffee capsules", "home compostable", "cellulosic fibers"]
-category: "Partnership"
+category: Partnerships
 company: ["PTT MCC Biochem", "Nordic Bioproducts Group", "Mitsubishi Chemical"]
 source: "PTT MCC Biochem"
 source_url: "https://www.pttmcc.com/press-releases/ptt-mcc-biochem-co-ltd-and-nordic-bioproducts-group-unite-in-strategic-partnership"

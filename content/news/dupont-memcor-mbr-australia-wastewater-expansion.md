@@ -1,10 +1,10 @@
 ---
 title: "DuPont's MemCor MBR Selected for Australia's Largest Inland Wastewater Treatment Expansion"
 date: 2026-08-10T22:00:00+00:00
+category: Technology
 lastmod: 2026-08-13T14:17:00+00:00
 author: "Sven Cammerer"
 description: "Australia's largest inland wastewater treatment facility selects DuPont's MemCor membrane bioreactor (MBR) technology for a major expansion, advancing water security in a drought-prone region."
-categories: ["News"]
 tags: ["DuPont", "MemCor", "MBR", "Membrane Bioreactor", "Wastewater Treatment", "Australia", "Water Security", "Water Technology"]
 slug: "dupont-memcor-mbr-australia-wastewater-expansion"
 featured_image: "/images/news/dupont-memcor-mbr-australia-hero.png"

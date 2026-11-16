@@ -4,7 +4,7 @@ date: 2026-06-24T10:00:00+02:00
 draft: false
 summary: "The EU-funded PLASTICE project has assembled a transportable pilot reactor for microwave-assisted pyrolysis, now being shipped to Spain for testing on real-world plastic waste streams at COGERSA's facility in Asturias."
 tags: ["Advanced Recycling", "Pyrolysis", "Chemical Recycling", "EU Project", "Pilot Plant", "Mixed Plastic Waste"]
-category: "Plant Announcement"
+category: Plant Announcement
 company: ["PLASTICE", "University of Amsterdam", "COGERSA", "CIRCE"]
 source: "PLASTICE project"
 source_url: "https://plastice.eu/"

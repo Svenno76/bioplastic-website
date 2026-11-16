@@ -4,7 +4,7 @@ date: 2026-07-29
 draft: false
 summary: "Zeopore and BioBTX have achieved a breakthrough in catalyst and process synergy, significantly increasing the yield of circular aromatics from plastic waste through their combined technologies."
 tags: ["Chemical Recycling", "Catalyst", "Circular Economy", "BioBTX", "Zeopore", "Netherlands"]
-category: "Technology"
+category: Technology
 company: ["BioBTX", "Zeopore"]
 source: "BioBTX"
 source_url: "https://biobtx.com/zeopore-en-biobtx-verhogen-de-opbrengst-van-circulaire-aromaten-uit-afvalplastics-dankzij-doorbraak-in-katalysator-en-processynergie/"

@@ -9,7 +9,7 @@ summary: Kingfa Sci. & Tech. has signed a strategic cooperation agreement with B
 tags:
 - bio-based
 - bioplastics
-category: Partnership
+category: Partnerships
 company:
 - Kingfa Sci. & Tech.
 source: Kingfa Sci. & Tech.

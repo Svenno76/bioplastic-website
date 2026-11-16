@@ -10,7 +10,7 @@ summary: Austrian manufacturer Lenzing is urging European policymakers to classi
 tags:
 - pla
 - textiles
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - Lenzing
 company_type:

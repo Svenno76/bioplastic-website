@@ -1,10 +1,10 @@
 ---
 title: "DoD Awards $42 Million Across 25 Projects to Build Distributed U.S. Bioindustrial Manufacturing Base"
 date: 2024-09-13T07:59:00+00:00
+category: Investment & Funding
 lastmod: 2026-08-13T14:19:00+00:00
 author: "Sven Cammerer"
 description: "The U.S. Department of Defense announces 12 new awards under the Distributed Bioindustrial Manufacturing Program (DBIMP), bringing total investment to $42 million across 25 projects aimed at establishing a resilient, domestic bioindustrial supply chain for critical materials."
-categories: ["News"]
 tags: ["Department of Defense", "DoD", "DBIMP", "Distributed Bioindustrial Manufacturing", "Bioindustrial Manufacturing", "Biomanufacturing", "Defense Industrial Base", "Erg Bio", "Bioeconomy", "Supply Chain Resilience"]
 slug: "dod-dbimp-12-awards-distributed-bioindustrial-manufacturing"
 featured_image: "/images/news/dod-dbimp-bioindustrial-manufacturing-hero.png"

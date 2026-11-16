@@ -4,7 +4,7 @@ date: 2023-09-05T16:46:36+00:00
 draft: false
 summary: "Lummus Technology and RWDC Industries sign binding Joint Development and Commercial Cooperation Agreement to rapidly expand manufacturing and global licensing of polyhydroxyalkanoates (PHA)."
 tags: ["PHA", "Polyhydroxyalkanoates", "RWDC Industries", "Lummus Technology", "Biodegradable", "Solon PHA", "Circular Economy"]
-category: "Partnerships"
+category: Partnerships
 company: ["RWDC Industries", "Lummus Technology"]
 source: "RWDC Industries"
 source_url: "https://www.rwdc-industries.com/lummus-and-rwdc-announce-agreement-to-accelerate-and-scale-pha-production"

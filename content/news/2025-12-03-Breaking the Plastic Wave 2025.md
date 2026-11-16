@@ -11,7 +11,7 @@ summary: New landmark report reveals plastic pollution
 tags:
 - bioplastics
 - circular-economy
-category: Regulatory & Policy
+category: Policy & Regulation
 source: The Pew Charitable Trusts
 ---
 

@@ -4,7 +4,7 @@ date: 2026-09-11T12:00:00+00:00
 draft: false
 summary: "Research presented at the European Respiratory Society Congress reveals microplastics in respiratory systems of 70% of patients studied, with significantly higher burden in lung cancer cases, reinforcing the medical imperative for transition to bio-based, biodegradable materials."
 tags: ["Microplastics", "Health Impact", "Lung Cancer", "Biopolymers", "Polyglutamic Acid", "Ecovia Bio"]
-category: "Health & Environment"
+category: Health & Environment
 company: ["Ecovia Bio"]
 source: "Ecovia Bio"
 source_url: "https://ecovia-bio.com/industry-radar-new-study-links-microplastics-to-lung-cancer-why-we-need-material-transition-now/"

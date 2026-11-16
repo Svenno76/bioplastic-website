@@ -2,8 +2,7 @@
 title: EU consortium concludes BioSupPack project with industrial-ready PHB from brewery
   waste
 date: 2026-04-09
-categories:
-- News
+category: Technology
 tags:
 - circular-economy
 - enzymatic-recycling

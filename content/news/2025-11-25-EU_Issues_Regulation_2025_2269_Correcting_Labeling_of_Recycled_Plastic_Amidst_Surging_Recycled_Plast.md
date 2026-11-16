@@ -9,7 +9,7 @@ summary: EU Commission Regulation 2025/2269 corrects rules on labeling of recycl
 tags:
 - bioplastics
 - recycled-content
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - European Commission
 company_type: Government Body

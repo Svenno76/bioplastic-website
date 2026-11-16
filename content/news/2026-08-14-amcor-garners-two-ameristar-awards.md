@@ -1,10 +1,10 @@
 ---
 title: "Amcor Garners Two AmeriStar Awards for Recyclable Refill Pouch and Reclosable Healthcare Pouch"
 date: 2026-08-14T00:00:00+02:00
+category: Technology
 lastmod: 2026-08-15T19:40:00+00:00
 author: "Sven Cammerer"
 description: "Amcor wins two AmeriStar awards from the Institute of Packaging Professionals for its AmPrima recycle-ready 150ml refill pouch and Amcor HealthCare reclosable pouch, highlighting advances in flexible packaging sustainability and functionality."
-categories: ["News"]
 tags: ["Amcor", "AmeriStar Awards", "Institute of Packaging Professionals", "IoPP", "Recyclable Packaging", "Refill Pouch", "Healthcare Packaging", "Flexible Packaging", "AmPrima"]
 slug: "amcor-garners-two-ameristar-awards"
 featured_image: "/images/news/amcor-ameristar-awards-hero.png"

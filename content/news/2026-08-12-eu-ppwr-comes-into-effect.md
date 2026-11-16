@@ -1,10 +1,10 @@
 ---
 title: "EU's PPWR Comes Into Effect as Packaging Industry Innovates and Navigates Compliance"
 date: 2026-08-12T00:00:00+02:00
+category: Policy & Regulation
 lastmod: 2026-08-15T19:30:00+00:00
 author: "Sven Cammerer"
 description: "The EU Packaging and Packaging Waste Regulation (PPWR) generally applies from August 12, 2026, reshaping packaging strategies across the value chain with requirements for recyclability, reuse, and evidence-based compliance."
-categories: ["News"]
 tags: ["PPWR", "EU Regulation", "Packaging Waste", "Recyclability", "Circular Economy", "Compliance", "Extended Producer Responsibility"]
 slug: "eu-ppwr-comes-into-effect"
 featured_image: "/images/news/eu-ppwr-comes-into-effect-hero.png"

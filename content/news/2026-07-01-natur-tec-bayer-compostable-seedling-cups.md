@@ -4,7 +4,7 @@ date: 2026-07-01T10:00:00+02:00
 draft: false
 summary: "Natur-Tec India and Bayer sign MOU to develop biodegradable seedling cups compatible with crop protection products, eliminating single-use plastic nursery waste across India and globally."
 tags: ["Compostable", "Agriculture", "Seedling Cups", "Biodegradable", "Natur-Tec"]
-category: "Partnerships"
+category: Partnerships
 company: ["Natur-Tec", "Bayer"]
 source: "Natur-Tec"
 source_url: "https://www.naturtec.com/news/natur-tec-india-and-bayer-develop-compostable-seedling-cups"

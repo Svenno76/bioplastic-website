@@ -4,7 +4,7 @@ date: 2023-05-08
 draft: false
 summary: "Trinseo and RWDC Industries announce an exclusive partnership to develop PHA dispersion technology for water-based barrier coatings in paper and paperboard packaging, targeting recyclable and compostable alternatives to polyethylene laminates and fluorochemicals."
 tags: ["RWDC Industries", "Trinseo", "PHA dispersion", "barrier coatings", "paper packaging", "compostable", "fluorochemicals"]
-category: "Partnership"
+category: Partnerships
 company: ["RWDC Industries", "Trinseo"]
 source: "RWDC Industries"
 source_url: "https://www.rwdc-industries.com/trinseo-and-rwdc-industries-announce-pha-dispersion-partnership"

@@ -4,7 +4,7 @@ date: 2026-06-30T00:00:00+02:00
 draft: false
 summary: "Covestro leads a 10-partner European consortium to develop the world's first continuous fermentation process for bio-based aniline, a key precursor for MDI and polyurethanes, backed by €7 million in EU funding."
 tags: ["Polyurethanes", "Bio-based", "Fermentation", "EU Funding"]
-category: "Technology"
+category: Technology
 company: ["Covestro"]
 source: "Covestro"
 source_url: "https://www.covestro.com/en/media/newsroom/press-releases"

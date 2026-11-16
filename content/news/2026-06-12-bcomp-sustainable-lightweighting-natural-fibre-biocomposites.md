@@ -15,7 +15,7 @@ tags:
 - bio-pp
 - construction
 - textiles
-category: Company News
+category: Technology
 company: Bcomp
 source: bcomp.com
 source_url: https://www.bcomp.com/

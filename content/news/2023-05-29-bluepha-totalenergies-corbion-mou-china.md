@@ -4,7 +4,7 @@ date: 2023-05-29
 draft: false
 summary: "Bluepha and TotalEnergies Corbion have signed a memorandum of understanding to combine Bluepha® PHA with Luminy® PLA technology, aiming to accelerate market adoption of high-performance biopolymer solutions in China."
 tags: ["Bluepha", "TotalEnergies Corbion", "PHA", "PLA", "China", "biopolymer", "MOU"]
-category: "Partnership"
+category: Partnerships
 company: ["Bluepha", "TotalEnergies Corbion"]
 source: "Bluepha"
 source_url: "https://www.bluepha-en.com/post/bluepha-and-totalenergies-corbion-enhance-cooperation-on-biomaterials-applications-in-china"

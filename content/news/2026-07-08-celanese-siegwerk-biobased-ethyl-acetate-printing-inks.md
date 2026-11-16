@@ -4,7 +4,7 @@ date: 2026-07-08T10:00:00+02:00
 draft: false
 summary: "Celanese and Siegwerk collaborate to supply biobased ethyl acetate with 50% renewable content as drop-in solvent for printing inks, advancing Siegwerk's SustainUP program and HorizonNOW 2030 strategy."
 tags: ["Biobased Solvents", "Printing Inks", "Packaging", "Ethyl Acetate", "Sustainability"]
-category: "Partnerships"
+category: Partnerships
 company: ["Celanese", "Siegwerk"]
 source: "Celanese"
 source_url: "https://www.celanese.com/news-media/press-releases/celanese-and-siegwerk-collaborate-on-biobased-ethyl-acetate-for-sustainable-printing-inks"

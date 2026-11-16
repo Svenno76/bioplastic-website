@@ -4,7 +4,7 @@ date: 2026-05-20T10:00:00+02:00
 draft: false
 summary: "BASF expands its certified home-compostable ecovio® biopolymer portfolio with new barrier structures for flexible packaging, enabling both paper and plastic substrates with organic or paper recycling end-of-life."
 tags: ["Compostable", "Packaging", "Bio-Based"]
-category: "Product Launch"
+category: Product Launch
 company: ["BASF"]
 source: "BASF"
 source_url: "https://www.basf.com/global/en/media/news-releases/2026/04/p-26-083"

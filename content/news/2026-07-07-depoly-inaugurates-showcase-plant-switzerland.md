@@ -4,7 +4,7 @@ date: 2026-07-07T10:00:00+02:00
 draft: false
 summary: "Swiss circular materials company DePoly opens first industrial-scale depolymerization facility in Monthey, processing 500 tonnes/year as blueprint for 50,000 tonne commercial plant."
 tags: ["Chemical Recycling", "PET", "Depolymerization", "Circular Economy", "Switzerland"]
-category: "Plant Announcement"
+category: Plant Announcement
 company: ["DePoly"]
 source: "DePoly"
 source_url: "https://depoly.ch/en/news/depoly-inaugurates-its-showcase-plant-in-switzerland"

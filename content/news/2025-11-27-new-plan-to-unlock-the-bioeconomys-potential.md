@@ -6,7 +6,7 @@ sitemap:
   priority: 0.7
 summary: The European Commission has adopted a new Bioeconomy Strategy
 tags: []
-category: Regulatory & Policy
+category: Policy & Regulation
 company: European Commission
 source: European Commission Newsroom
 ---

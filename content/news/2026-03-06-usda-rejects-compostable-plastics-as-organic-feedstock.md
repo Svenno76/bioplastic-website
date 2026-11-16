@@ -10,7 +10,7 @@ tags:
 - compostable
 - pha
 - pla
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - USDA
 - Bioplastics Industry

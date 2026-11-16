@@ -4,7 +4,7 @@ date: 2022-10-28
 draft: false
 summary: "Green Dot Bioplastics announces a breakthrough in compostable packaging with new Terratek® BD injection molding grades that enable fully compostable living hinges — a component that has long stymied sustainable packaging development."
 tags: ["Green Dot Bioplastics", "Terratek BD", "compostable", "living hinge", "injection molding"]
-category: "Product Launch"
+category: Product Launch
 company: ["Green Dot Bioplastics"]
 source: "Green Dot Bioplastics"
 source_url: "https://www.greendotbioplastics.com/green-dot-bioplastics-achieves-a-compostable-living-hinge/"

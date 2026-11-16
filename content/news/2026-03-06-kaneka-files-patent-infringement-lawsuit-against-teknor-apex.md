@@ -9,7 +9,7 @@ summary: Kaneka Corporation has initiated legal action against Danimer Scientifi
   technologies.
 tags:
 - pha
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - Kaneka Corporation
 - Danimer Scientific

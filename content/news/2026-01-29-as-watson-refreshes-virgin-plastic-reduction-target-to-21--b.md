@@ -12,7 +12,7 @@ tags:
 - packaging
 - pbat
 - recycled-content
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - AS Watson
 company_type:

@@ -6,7 +6,7 @@ summary: The European Union introduces stricter regulations on single-use plasti
   creating new opportunities for bioplastic alternatives.
 tags:
 - bioplastics
-category: Regulatory & Policy
+category: Policy & Regulation
 company:
 - European Commission
 company_type: Government Body
