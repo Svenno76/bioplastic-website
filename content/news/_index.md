@@ -19,4 +19,4 @@ Welcome to our news section where we share weekly updates, insights, and develop
 - **Research Breakthroughs**: Latest scientific developments and studies
 - **Market Analysis**: Trends, investments, and business developments
 - **Policy & Regulation**: Changes in environmental policies affecting bioplastics
-- **Company News**: Updates from leading bioplastics manufacturers
+- **Company & Product News**: Launches, plants, and updates from leading bioplastics manufacturers
