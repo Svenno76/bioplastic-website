@@ -3,7 +3,8 @@ title: "FDA Confirms Food-Grade rHDPE and rPP Using Coperion Recycling Technolog
 date: 2026-06-18
 draft: false
 summary: "Coperion has received a Letter of No Objection from the FDA for its HDPE and PP recycling technology, opening the door to food-grade recyclates made on twin-screw extruders with EcoFresh silo degassing."
-tags: ["Chemical Recycling", "Mechanical Recycling", "Food Grade", "HDPE", "PP", "FDA"]
+tags: ["Chemical Recycling"]
+
 category: Technology
 company: ["Coperion"]
 source: "Coperion"

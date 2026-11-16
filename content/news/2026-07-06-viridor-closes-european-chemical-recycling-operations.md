@@ -3,7 +3,8 @@ title: "Viridor Closes European Chemical Recycling Operations in Oslo, Skive and
 date: 2026-07-06T10:00:00+02:00
 draft: false
 summary: "Viridor announces closure of all European chemical recycling operations by end of June 2026, citing weak recycled polymer demand, cheap virgin plastic, and policy uncertainty despite achieving 70-75% dry yields."
-tags: ["Chemical Recycling", "Pyrolysis", "Policy", "Circular Economy", "Viridor", "Quantafuel"]
+tags: ["Chemical Recycling", "Pyrolysis", "Circular Economy"]
+
 category: M&A
 company: ["Viridor"]
 source: "Viridor"

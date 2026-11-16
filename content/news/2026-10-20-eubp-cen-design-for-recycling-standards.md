@@ -3,7 +3,8 @@ title: "European Bioplastics Welcomes CEN Design-for-Recycling Standards"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "European Bioplastics has welcomed the publication of new CEN technical specifications for packaging design-for-recycling, calling them a practical step toward harmonised circularity assessment."
-tags: ["European Bioplastics", "CEN", "Design for Recycling", "Packaging"]
+tags: ["Packaging"]
+
 category: Policy & Regulation
 featured_image: "/images/news/eubp-cen-design-for-recycling-standards.jpg"
 ---

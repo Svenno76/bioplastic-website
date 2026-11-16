@@ -3,7 +3,7 @@ title: "Notpla and innocent Bring Edible Ooho Packaging to Ginger Shot Range"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Seaweed-based packaging pioneer Notpla has partnered with juice brand innocent to trial its edible Ooho packaging across the ginger shot range."
-tags: ["Notpla", "Seaweed Packaging", "Edible Packaging", "Partnerships"]
+tags: ["Packaging", "Recycled Content", "Biodegradable"]
 category: Partnerships
 featured_image: "/images/news/notpla-innocent-ooho-ginger-shots.jpg"
 ---

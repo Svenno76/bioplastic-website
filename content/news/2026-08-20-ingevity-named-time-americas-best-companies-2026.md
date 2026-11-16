@@ -3,7 +3,7 @@ title: "Ingevity Named to TIME's America's Best Companies 2026 List for Employee
 date: 2026-08-20T00:00:00+02:00
 draft: false
 summary: "Ingevity Corporation earns recognition on TIME's America's Best Companies 2026 list, developed with Statista, based on employee satisfaction, financial performance, and sustainability transparency across environmental, social, and governance factors."
-tags: ["Ingevity", "Corporate Recognition", "Sustainability", "Employee Satisfaction", "Financial Performance", "ESG"]
+tags: ["Bioplastics", "Biodegradable"]
 category: Market Analysis
 company: ["Ingevity"]
 source: "Ingevity Corporation"

@@ -3,7 +3,8 @@ title: "TotalEnergies Corbion Raises PLA Prices on Sustained Cost Pressure"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "The joint venture, one of the world's two largest PLA producers, announced a price increase across its Luminy PLA grades, citing rising operational and feedstock costs."
-tags: ["TotalEnergies Corbion", "PLA", "Pricing", "Luminy"]
+tags: ["PLA"]
+
 category: Market Analysis
 featured_image: "/images/news/totalenergies-corbion-pla-price-increase.jpg"
 ---

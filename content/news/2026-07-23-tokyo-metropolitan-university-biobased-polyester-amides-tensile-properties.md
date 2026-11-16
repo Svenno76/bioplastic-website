@@ -3,7 +3,8 @@ title: "Tokyo Metropolitan University Develops Biobased Poly(ester amide)s with 
 date: 2026-07-23T10:00:00+02:00
 draft: false
 summary: "Researchers at Tokyo Metropolitan University, in collaboration with Osaka Research Institute and University of Shiga Prefecture, have developed chemically recyclable biobased poly(ester amide)s from inedible biorenewables that exceed the mechanical properties of conventional polyethylene and polypropylene."
-tags: ["Biobased", "Materials", "Chemical Recycling", "Polyester", "Polyamide", "Research"]
+tags: ["Chemical Recycling"]
+
 category: Technology
 company: ["Tokyo Metropolitan University", "Osaka Research Institute of Industrial Science and Technology", "University of Shiga Prefecture"]
 source: "EurekAlert! / Tokyo Metropolitan University"

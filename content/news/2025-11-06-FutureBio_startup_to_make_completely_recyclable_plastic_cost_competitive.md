@@ -6,9 +6,7 @@ link: https://www.futurebio.net/news
 category: Investment & Funding
 sitemap:
   priority: 0.7
-tags:
-- bioplastics
----
+tags: ["bioplastics"]
 
 ### Expert Analysis: FutureBio Inc. Advances Cost-Competitive, Recyclable Bioplastics
 

@@ -3,7 +3,8 @@ title: "Amcor and Dow Launch Strategic Collaboration to Accelerate Low-Carbon Pa
 date: 2026-09-17T00:00:00+00:00
 draft: false
 summary: "Global packaging leader Amcor and materials science giant Dow announce strategic collaboration combining Amcor's manufacturing expertise with Dow's low-carbon polyethylene to help brands achieve Scope 3 emissions targets through drop-in packaging solutions."
-tags: ["Low-Carbon Packaging", "Scope 3 Emissions", "Polyethylene", "Carbon Footprint", "Amcor", "Dow", "Partnerships"]
+tags: ["Carbon Footprint"]
+
 category: Partnerships
 company: ["Amcor", "Dow"]
 source: "Amcor"

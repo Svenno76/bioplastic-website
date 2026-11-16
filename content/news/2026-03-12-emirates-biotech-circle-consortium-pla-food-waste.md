@@ -3,7 +3,8 @@ title: "Emirates Biotech Joins European CIRCLE Consortium to Produce PLA from Fo
 date: 2026-03-12
 draft: false
 summary: "Emirates Biotech joins the €27 million CIRCLE consortium funded by the Circular Bio-based Europe Joint Undertaking under Horizon Europe, aiming to demonstrate an industrial biorefinery that converts food waste into high-value bio-based chemicals including polylactic acid (PLA)."
-tags: ["Emirates Biotech", "CIRCLE consortium", "PLA", "food waste", "Horizon Europe", "biorefinery", "Sulzer", "Volkswagen"]
+tags: ["PLA", "biorefinery"]
+
 category: Partnerships
 company: ["Emirates Biotech"]
 source: "Emirates Biotech"

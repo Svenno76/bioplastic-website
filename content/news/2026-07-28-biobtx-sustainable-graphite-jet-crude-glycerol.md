@@ -3,7 +3,8 @@ title: "BioBTX Develops Sustainable Graphite and Jet Fuel from Crude Glycerol"
 date: 2026-07-28
 draft: false
 summary: "BioBTX, together with NC State University, NREL, and BIRLA Carbon, has developed a novel production route converting crude glycerol into sustainable aviation fuel and synthetic graphite via its ICCP technology."
-tags: ["Chemical Recycling", "Sustainable Aviation Fuel", "Graphite", "Glycerol", "Bio-based", "Circular Economy"]
+tags: ["Chemical Recycling", "Sustainable Aviation Fuel", "Bio-based", "Circular Economy"]
+
 category: Technology
 company: ["BioBTX"]
 source: "BioBTX"

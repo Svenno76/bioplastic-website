@@ -3,7 +3,8 @@ title: "Agilyx Moves on GreenDot Acquisition of French EPR Scheme Léko"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Agilyx's subsidiary GreenDot has acquired French extended producer responsibility scheme Léko, strengthening its position in the European circular plastics value chain."
-tags: ["Agilyx", "GreenDot", "EPR", "Chemical Recycling", "France"]
+tags: ["Chemical Recycling"]
+
 category: Partnerships
 featured_image: "/images/news/agilyx-greendot-leko-acquisition.jpg"
 ---

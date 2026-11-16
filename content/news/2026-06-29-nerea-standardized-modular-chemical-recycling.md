@@ -3,7 +3,8 @@ title: "Technip Energies, Alterra and Neste launch Nerea — a standardized modu
 date: 2026-06-29T00:00:00+02:00
 draft: false
 summary: "Technip Energies, Alterra and Neste commercially launch Nerea, a standardized modular solution for chemical recycling of plastic waste that transitions from bespoke engineering to a productized delivery model for faster, more predictable project deployment."
-tags: ["Chemical Recycling", "Technology", "Partnerships"]
+tags: ["Chemical Recycling"]
+
 category: Technology
 company: ["Technip Energies", "Alterra", "Neste"]
 source: "Technip Energies / Alterra / Neste joint press release"

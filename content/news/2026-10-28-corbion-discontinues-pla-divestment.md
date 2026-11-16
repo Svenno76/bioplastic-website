@@ -3,7 +3,8 @@ title: "Corbion Discontinues PLA Divestment, Keeping TotalEnergies Corbion JV in
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Corbion ends the planned sale of its stake in the TotalEnergies Corbion PLA joint venture after bids undervalued the business, removing a key M&A overhang from the bioplastics sector."
-tags: ["Corbion", "PLA", "Mergers and Acquisitions", "Investment", "Market Analysis"]
+tags: ["PLA"]
+
 category: M&A
 featured_image: "/images/news/corbion-pla-divestment-discontinued.jpg"
 ---

@@ -7,9 +7,7 @@ category: M&A
 sitemap:
   priority: 0.7
 noindex: true
-tags:
-- bioplastics
----
+tags: ["bioplastics"]
 
 Honeywell successfully completed the spin-off of its Advanced Materials business, now operating as Solstice Advanced Materials, on October 30, 2025. This strategic move is part of Honeywell's broader plan to establish three independent, focused market-leading companies, with further separations for its Automation and Aerospace businesses slated for the second half of 2026. Solstice Advanced Materials officially began trading on the Nasdaq Stock Market under the ticker symbol "SOLS".
 

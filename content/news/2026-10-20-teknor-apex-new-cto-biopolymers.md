@@ -3,7 +3,7 @@ title: "Teknor Apex Appoints New Chief Technology Officer"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Teknor Apex has appointed a new Chief Technology Officer, tasking the role with accelerating innovation across its specialty compound portfolio."
-tags: ["Teknor Apex", "Compounding", "Leadership"]
+tags: ["Biobased Content", "Carbon Footprint", "Consumer Goods"]
 category: Technology
 featured_image: "/images/news/teknor-apex-new-cto-biopolymers.jpg"
 ---

@@ -3,7 +3,8 @@ title: "Bluepha and TotalEnergies Corbion Sign MOU to Accelerate PLA/PHA Solutio
 date: 2023-05-29
 draft: false
 summary: "Bluepha and TotalEnergies Corbion have signed a memorandum of understanding to combine Bluepha® PHA with Luminy® PLA technology, aiming to accelerate market adoption of high-performance biopolymer solutions in China."
-tags: ["Bluepha", "TotalEnergies Corbion", "PHA", "PLA", "China", "biopolymer", "MOU"]
+tags: ["PHA", "PLA"]
+
 category: Partnerships
 company: ["Bluepha", "TotalEnergies Corbion"]
 source: "Bluepha"

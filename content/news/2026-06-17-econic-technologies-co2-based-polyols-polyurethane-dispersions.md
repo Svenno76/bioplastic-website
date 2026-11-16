@@ -3,7 +3,7 @@ title: "Econic Technologies Develops CO2-Based Polyols for Polyurethane Dispersi
 date: 2026-06-17T10:00:00+02:00
 draft: false
 summary: "UK-based Econic Technologies has developed a patented catalyst process that incorporates captured CO2 into polyols for polyurethane dispersions, enabling up to 30% carbon footprint reduction while maintaining or improving product performance."
-tags: ["CCU", "Polyurethane", "Polyols", "Carbon Capture", "Coatings", "Adhesives"]
+tags: ["Drop In Replacement", "Carbon Footprint", "Construction"]
 category: Technology
 company: ["Econic Technologies"]
 source: "Econic Technologies"

@@ -3,7 +3,8 @@ title: "Plastipak Opens New PET Material Centre in Verbania, Italy"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "The new facility strengthens Plastipak's European PET recycling and material development capabilities."
-tags: ["Plastipak", "PET", "Recycling", "Italy"]
+tags: ["PET"]
+
 category: Plant Announcement
 featured_image: "/images/news/plastipak-pet-material-center-verbania.jpg"
 ---

@@ -3,7 +3,8 @@ title: "Biopolymer Innovation Award 2026 opens submissions for breakthrough bio-
 date: 2026-06-11T00:00:00+02:00
 draft: false
 summary: "The Biopolymer Innovation Award 2026 has opened submissions, recognizing breakthrough innovations in bio-based and biodegradable polymers across packaging, textiles, agriculture and medical applications."
-tags: ["PHA", "PLA", "Innovation"]
+tags: ["PHA", "PLA"]
+
 category: Technology
 company: []
 source: "Biopolymer Congress organizers"

@@ -3,7 +3,8 @@ title: "Ecovia Bio Closes Series B Funding Round Led by Pointe Angels to Expand 
 date: 2026-07-29
 draft: false
 summary: "Ecovia Bio has closed a Series B funding round led by Pointe Angels to scale up its manufacturing capacity for bio-based materials, accelerating the commercialization of its sustainable polymer technologies."
-tags: ["Funding", "Series B", "Manufacturing", "Bio-based Materials", "Ecovia Bio", "Pointe Angels"]
+tags: ["Ecovia Bio"]
+
 category: Technology
 company: ["Ecovia Bio"]
 source: "Ecovia Bio"

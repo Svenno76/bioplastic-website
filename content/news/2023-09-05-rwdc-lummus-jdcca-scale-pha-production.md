@@ -3,7 +3,8 @@ title: "Lummus Technology and RWDC Industries Deepen Partnership to Scale PHA Pr
 date: 2023-09-05
 draft: false
 summary: "Lummus Technology and RWDC Industries progress from an MOU to a binding Joint Development and Commercial Cooperation Agreement to rapidly expand manufacturing and global licensing of polyhydroxyalkanoates (PHA), combining Lummus's process technology expertise with RWDC's PHA production capabilities."
-tags: ["RWDC Industries", "Lummus Technology", "PHA", "polyhydroxyalkanoates", "Joint Development Agreement", "biopolymer", "scaling"]
+tags: ["PHA"]
+
 category: Partnerships
 company: ["RWDC Industries", "Lummus Technology"]
 source: "RWDC Industries"

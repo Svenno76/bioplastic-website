@@ -3,7 +3,8 @@ title: "BIOWEG to Build Europe's Largest Bacterial Cellulose Plant in Germany"
 date: 2026-09-11T12:29:05+02:00
 draft: false
 summary: "German deep-tech company BIOWEG will begin construction of Europe's largest bacterial cellulose plant in Q4 2026, with first commercial volumes expected in 2028, backed by €35 million in total funding."
-tags: ["Bacterial Cellulose", "Microplastics Replacement", "Biodegradable", "BIOWEG", "Fermentation"]
+tags: ["Biodegradable", "Fermentation"]
+
 category: Plant Announcement
 company: ["BIOWEG"]
 source: "BIOWEG"

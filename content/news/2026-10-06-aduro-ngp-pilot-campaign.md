@@ -3,7 +3,8 @@ title: "Aduro Clean Technologies Completes Longest Continuous Run of Hydrotherma
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Aduro completed a 120-hour continuous campaign on real post-consumer plastic waste, validating its technology platform's readiness for commercial deployment."
-tags: ["Aduro Clean Technologies", "Chemical Recycling", "Hydrothermal", "Pilot Plant"]
+tags: ["Chemical Recycling"]
+
 category: Technology
 featured_image: "/images/news/aduro-ngp-pilot-campaign.jpg"
 ---

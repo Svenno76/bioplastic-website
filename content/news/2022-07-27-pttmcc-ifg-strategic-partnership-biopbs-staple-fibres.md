@@ -3,7 +3,8 @@ title: "PTT MCC Biochem and International Fibres Group Announce Strategic Market
 date: 2022-07-27
 draft: false
 summary: "PTT MCC Biochem and International Fibres Group announce a strategic marketing partnership to promote novel BioPBS™-based staple fibres, combining PTTMCC's bio-based polybutylene succinate technology with IFG's staple fibre manufacturing expertise."
-tags: ["PTT MCC Biochem", "International Fibres Group", "BioPBS", "staple fibres", "nonwoven", "compostable"]
+tags: ["compostable"]
+
 category: Partnerships
 company: ["PTT MCC Biochem", "International Fibres Group", "Mitsubishi Chemical"]
 source: "PTT MCC Biochem"

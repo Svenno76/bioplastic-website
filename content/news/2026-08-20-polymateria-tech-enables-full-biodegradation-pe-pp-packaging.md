@@ -3,7 +3,8 @@ title: "Polymateria Technology Enables Full Biodegradation of PE and PP Packagin
 date: 2026-08-20T00:00:00+02:00
 draft: false
 summary: "New research published in Nature's npj Materials Degradation demonstrates that Polymateria's biotransformation technology enables polyethylene and polypropylene packaging to fully biodegrade in open terrestrial environments within two years, leaving no microplastics or toxic residues."
-tags: ["Biodegradation", "Polymateria", "Polyethylene", "Polypropylene", "Biotransformation", "Packaging", "Circular Economy"]
+tags: ["Polypropylene", "Packaging", "Circular Economy"]
+
 category: Technology
 company: ["Polymateria", "Imperial College London", "SIRIM"]
 source: "Packaging Insights"

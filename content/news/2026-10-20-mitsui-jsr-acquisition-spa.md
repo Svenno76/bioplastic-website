@@ -3,7 +3,7 @@ title: "Mitsui Chemicals Signs SPA for JSR Acquisition"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Mitsui Chemicals has signed a share purchase agreement for the acquisition of JSR Corporation, a deal that would reshape Japan's materials sector."
-tags: ["Mitsui Chemicals", "JSR", "Acquisition", "Japan"]
+tags: ["Bioplastics"]
 category: M&A
 featured_image: "/images/news/mitsui-jsr-acquisition-spa.jpg"
 ---

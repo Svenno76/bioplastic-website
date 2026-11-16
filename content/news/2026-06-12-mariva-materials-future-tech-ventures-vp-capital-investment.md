@@ -3,7 +3,8 @@ title: "Mariva Materials secures investment from Future Tech Ventures and VP Cap
 date: 2026-06-12T00:00:00+02:00
 draft: false
 summary: "Dutch materials innovator Mariva Materials B.V. welcomes Future Tech Ventures and VP Capital as new investors to scale its bio-based performance fibre platform, targeting applications in sportswear, outdoor apparel and technical textiles."
-tags: ["Bio-based", "Textiles", "Investment", "Performance Fibres"]
+tags: ["Bio-based", "Textiles"]
+
 category: Investment & Funding
 company: ["Mariva Materials"]
 source: "Mariva Materials / Duurzaam Beleggen"

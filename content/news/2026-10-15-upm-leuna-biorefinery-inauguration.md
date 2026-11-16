@@ -3,7 +3,8 @@ title: "UPM Inaugurates German Biorefinery to Supply Renewable Chemical Building
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "The Finnish forest industry company UPM has opened its first biorefinery at Leuna in Germany, marking a significant step in the transition from fossil to renewable chemical feedstocks."
-tags: ["UPM", "Biorefinery", "Renewable Chemicals", "Germany"]
+tags: ["Biorefinery"]
+
 category: Plant Announcement
 featured_image: "/images/news/upm-leuna-biorefinery-inauguration.jpg"
 ---

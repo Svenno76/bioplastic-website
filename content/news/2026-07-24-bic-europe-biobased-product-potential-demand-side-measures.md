@@ -3,7 +3,8 @@ title: "Bio-based Industries Consortium Maps Europe's Biobased Product Potential
 date: 2026-07-24T10:00:00+02:00
 draft: false
 summary: "The Bio-based Industries Consortium (BIC) releases a two-part study mapping lead markets for bio-based products across chemicals, plastics, fibres, and textiles, while outlining policy measures needed to unlock Europe's industrial potential."
-tags: ["Biobased", "Policy", "Market Analysis", "Chemicals", "Textiles", "Packaging"]
+tags: ["Textiles", "Packaging"]
+
 category: Market Analysis
 company: ["Bio-based Industries Consortium (BIC)"]
 source: "Bio-based Industries Consortium (BIC)"

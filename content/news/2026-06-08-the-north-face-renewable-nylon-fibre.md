@@ -3,7 +3,8 @@ title: "The North Face plans to use renewable nylon fibre in apparel from August
 date: 2026-06-08T00:00:00+02:00
 draft: false
 summary: "A four-company consortium led by Neste has established a renewable nylon supply chain for The North Face products in Japan, with Goldwin, Idemitsu and Toray converting Neste RE renewable feedstock into high-performance nylon fibre for autumn 2026 collections."
-tags: ["PA", "Textiles", "Partnerships", "Renewable Feedstocks", "Mass Balance"]
+tags: ["Textiles", "Mass Balance"]
+
 category: Product Launch
 company: ["The North Face", "Neste", "Goldwin", "Idemitsu Kosan", "Toray Industries"]
 source: "Neste"

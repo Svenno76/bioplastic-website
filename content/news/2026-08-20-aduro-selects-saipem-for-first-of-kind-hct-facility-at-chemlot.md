@@ -3,7 +3,8 @@ title: "Aduro Selects Saipem for Engineering and Procurement Support for First-o
 date: 2026-08-20T00:00:00+02:00
 draft: false
 summary: "Aduro Clean Technologies appoints Saipem to provide engineering and procurement services for its first commercial-scale Hydrochemolytic™ Technology plant at Chemelot, Netherlands, advancing chemical recycling of polyolefin waste toward industrial deployment."
-tags: ["Chemical Recycling", "Hydrochemolytic Technology", "Saipem", "Chemelot", "Plant Announcement", "Circular Economy"]
+tags: ["Chemical Recycling", "Circular Economy"]
+
 category: Plant Announcement
 company: ["Aduro Clean Technologies", "Saipem"]
 source: "Aduro Clean Technologies"

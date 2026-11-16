@@ -3,7 +3,8 @@ title: "Aduro and ECOCE Complete Phase 1 Feedstock Mapping, Advance Mexico Plast
 date: 2026-08-05T23:17:19+00:00
 draft: false
 summary: "Aduro Clean Technologies and ECOCE announce completion of Phase 1 feedstock mapping for their Mexico‑based collaboration, moving the hydrochemolytic (HCT) plastic‑waste‑to‑chemicals technology closer to pilot testing."
-tags: ["Chemical recycling", "Feedstock", "Partnership", "Mexico", "HCT"]
+tags: ["Chemical recycling", "Feedstock"]
+
 category: Technology
 company: ["Aduro Clean Technologies"]
 source: "Aduro Clean Technologies"

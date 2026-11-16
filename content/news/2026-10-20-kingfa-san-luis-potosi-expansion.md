@@ -3,7 +3,7 @@ title: "Kingfa Commits USD 50 Million to Mexican Compounding Expansion"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "The Chinese compounding specialist is investing USD 50 million to expand its San Luis Potosí facility, strengthening its North American production footprint."
-tags: ["Kingfa", "Compounding", "Mexico", "Investment"]
+tags: ["Automotive"]
 category: Investment & Funding
 featured_image: "/images/news/kingfa-san-luis-potosi-expansion.jpg"
 ---

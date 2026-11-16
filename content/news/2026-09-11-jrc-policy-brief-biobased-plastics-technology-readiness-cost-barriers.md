@@ -3,7 +3,8 @@ title: "JRC policy brief finds technology readiness and high cost remain key bar
 date: 2026-03-02T22:00:00+00:00
 draft: false
 summary: "European Commission Joint Research Centre policy brief shows bio-based plastics account for just 0.5% of global production, citing technology readiness and cost barriers as primary obstacles to wider adoption."
-tags: ["Bio-based plastics", "Policy", "Technology Readiness", "Cost barriers", "Circular economy", "JRC"]
+tags: ["Circular economy"]
+
 category: Policy & Regulation
 company: ["Joint Research Centre", "European Commission"]
 source: "Joint Research Centre / European Commission"

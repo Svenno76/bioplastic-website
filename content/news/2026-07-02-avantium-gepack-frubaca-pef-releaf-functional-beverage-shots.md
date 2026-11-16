@@ -3,7 +3,8 @@ title: "Avantium Partners with Gepack and Frubaça on PEF 'releaf®' Bottles for
 date: 2026-07-02
 draft: false
 summary: "Avantium N.V. partners with Portuguese bottle manufacturer Gepack and juice producer Frubaça to explore PEF (polyethylene furanoate) 'releaf®' in small-format bottles for functional beverage shots, demonstrating value-chain integration for sustainable packaging."
-tags: ["Avantium", "Gepack", "Frubaça", "releaf"]
+tags: ["Avantium", "Gepack", "releaf"]
+
 category: Partnerships
 company: ["Avantium", "Gepack", "Frubaça"]
 source: "Avantium Newsroom"

@@ -3,7 +3,7 @@ title: "Aduro Clean Technologies Europe Signs MOU with Ortessa Groep BV to Advan
 date: 2026-08-05T23:17:28+00:00
 draft: false
 summary: "Aduro Clean Technologies Europe and Ortessa Groep BV sign a memorandum of understanding to develop feedstock logistics for a first‑of‑a‑kind hydrochemolytic plant, supporting the scale‑up of plastic‑waste‑to‑chemicals technology."
-tags: ["Feedstock logistics", "MOU", "Ortessa Groep BV", "FOAK plant", "Hydrochemolytic"]
+tags: ["Carbon Footprint", "Construction", "Feedstock"]
 category: Technology
 company: ["Aduro Clean Technologies"]
 source: "Aduro Clean Technologies"

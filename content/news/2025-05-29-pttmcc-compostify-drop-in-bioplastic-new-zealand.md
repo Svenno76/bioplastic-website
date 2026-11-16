@@ -3,7 +3,8 @@ title: "PTTMCC Collaborates with Compostify on Drop-In Home-Compostable Bioplast
 date: 2025-05-29
 draft: false
 summary: "PTTMCC announces collaboration with Compostify, a New Zealand clean-tech innovator offering a patent-pending home-compostable bioplastic made from BioPBS, PLA, and biowaste that decomposes in soil within a year without industrial composting."
-tags: ["PTTMCC", "Compostify", "BioPBS", "PLA", "home compostable", "New Zealand", "drop-in bioplastic"]
+tags: ["PLA", "drop-in bioplastic"]
+
 category: Partnerships
 company: ["PTT MCC Biochem", "Compostify"]
 source: "PTT MCC Biochem"

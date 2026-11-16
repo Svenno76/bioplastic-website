@@ -3,7 +3,8 @@ title: "Kelpi Wins Double at Lloyds British Business Excellence Awards"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "The Bristol-based seaweed packaging startup took two titles at the Lloyds British Business Excellence Awards, adding to a run of recognition for its home-compostable films."
-tags: ["Kelpi", "Seaweed Packaging", "Awards", "Compostable", "Packaging"]
+tags: ["Compostable", "Packaging"]
+
 category: Certifications
 featured_image: "/images/news/kelpi-lloyds-business-awards.jpg"
 ---

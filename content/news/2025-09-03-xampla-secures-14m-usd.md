@@ -3,7 +3,7 @@ title: "Xampla Secures $14 Million to Scale Plant-Based Plastic Alternatives"
 date: 2025-09-03
 draft: false
 summary: "Materials innovation company Xampla raises $14 million Series A funding to replace 10 billion units of single-use plastic with its plant-based Morro™ materials over the next five years."
-tags: ["Xampla", "Investment", "Series A", "Morro Materials", "Plastic-Free", "Sustainable Packaging", "Emerald Technology Ventures", "BGF", "Matterwave Ventures"]
+tags: ["Biodegradable", "Compostable", "Packaging"]
 category: Investment & Funding
 company: "Xampla"
 company_type: "Materials Company"

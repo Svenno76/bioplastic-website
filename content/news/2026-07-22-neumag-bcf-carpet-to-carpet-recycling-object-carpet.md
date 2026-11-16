@@ -3,7 +3,8 @@ title: "Neumag BCF Technology Demonstrates Carpet-to-Carpet Recycling Without Vi
 date: 2026-07-22T10:00:00+02:00
 draft: false
 summary: "Barmag, Object Carpet, ITA Augsburg, and NGR have demonstrated that 100% recycled polyester from post-consumer carpet can be processed into new BCF yarn on Neumag systems without virgin polymer addition, proving a closed-loop carpet recycling pathway."
-tags: ["Advanced Recycling", "Polyester", "Textiles", "Circular Economy", "Carpet"]
+tags: ["Textiles", "Circular Economy"]
+
 category: Technology
 company: ["Barmag", "Object Carpet", "Institute for Textile Technology Augsburg", "Next Generation Recyclingmaschinen (NGR)"]
 source: "BARMAG / Textile World"

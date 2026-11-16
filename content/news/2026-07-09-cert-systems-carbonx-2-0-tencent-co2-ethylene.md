@@ -3,7 +3,7 @@ title: "CERT Systems Wins Tencent CarbonX 2.0 Award for CO2-to-Ethylene Technolo
 date: 2026-07-09T10:00:00+02:00
 draft: false
 summary: "Toronto-based CERT Systems selected as one of 16 global winners from 660 applicants for Tencent's CarbonX 2.0 initiative, receiving catalytic funding to scale single-step CO2 electrolysis to ethylene."
-tags: ["CCU", "Carbon Utilization", "Ethylene", "Electrolysis", "Climate Tech"]
+tags: ["Drop In Replacement", "Feedstock", "Textiles"]
 category: Technology
 company: ["CERT Systems"]
 source: "Tencent"

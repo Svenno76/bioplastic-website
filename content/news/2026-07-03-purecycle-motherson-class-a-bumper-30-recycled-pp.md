@@ -3,7 +3,8 @@ title: "PureCycle and Motherson Produce Class-A Automotive Bumper with 30% Recyc
 date: 2026-07-03T10:00:00+02:00
 draft: false
 summary: "PureCycle Technologies and Motherson achieve Class-A surface quality on automotive bumper prototype with 30% PureFive recycled polypropylene, advancing toward EU ELV 2032 mandates."
-tags: ["Chemical Recycling", "Polypropylene", "Automotive", "ELV Directive", "PureCycle"]
+tags: ["Chemical Recycling", "Polypropylene", "Automotive"]
+
 category: Product Launch
 company: ["PureCycle", "Motherson"]
 source: "PureCycle Technologies"

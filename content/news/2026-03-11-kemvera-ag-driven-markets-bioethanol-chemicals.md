@@ -3,7 +3,7 @@ title: "Kemvera Advances Bio-Based Chemicals from Corn Ethanol, Aligning with US
 date: 2026-03-11
 draft: false
 summary: "Kemvera's pilot reactor commissioning and commercial plant design mark significant progress toward producing bio-based acetic acid and ethyl acetate from corn ethanol, supporting U.S. agricultural markets and national bioeconomy goals."
-tags: ["Kemvera", "bio-based chemicals", "acetic acid", "ethyl acetate", "bioethanol", "USDA", "Iowa"]
+tags: ["Feedstock", "Bio Based", "Corn"]
 category: Technology
 company: ["Kemvera"]
 source: "Kemvera"

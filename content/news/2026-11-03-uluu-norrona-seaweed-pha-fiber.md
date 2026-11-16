@@ -3,7 +3,8 @@ title: "Uluu and Norrøna Partner on Seaweed-Based PHA Performance Fiber"
 date: 2026-11-16T10:00:00+01:00
 draft: false
 summary: "Australian startup Uluu has signed a partnership with Norwegian outdoor brand Norrøna to develop a seaweed-derived PHA performance fibre, marking the company's first move into textiles."
-tags: ["Uluu", "Norrøna", "PHA", "Seaweed", "Textiles", "Partnerships"]
+tags: ["PHA", "Textiles"]
+
 category: Partnerships
 featured_image: "/images/news/uluu-norrona-seaweed-pha-fiber.jpg"
 ---
