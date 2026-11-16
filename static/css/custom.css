@@ -490,6 +490,26 @@ a:hover {
   box-shadow: 0 4px 12px rgba(29, 77, 69, 0.15);
 }
 
+/* ===== NEWS ARTICLE TYPOGRAPHY ===== */
+/* Paragraph spacing: global reset in news/single.html kills default margins,
+   so article paragraphs get explicit breathing room here. */
+.news-content p {
+  margin: 0 0 1.5rem 0;
+}
+
+/* NZZ-style intermittent headings (Zwischentitel) inside news bodies */
+.news-content h2 {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--color-primary-dark);
+  line-height: 1.35;
+  margin: 2.75rem 0 1.25rem 0;
+}
+
+.news-content h2:first-child {
+  margin-top: 0;
+}
+
 /* ===== NEWS ARTICLE IMAGES ===== */
 .news-content img,
 article .news-content img,
