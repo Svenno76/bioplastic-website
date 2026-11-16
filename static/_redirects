@@ -3,3 +3,6 @@ https://www.bioplasticsportal.com/*  https://bioplasticsportal.com/:splat  301!
 
 # ISS-02: merged duplicate profile pongamia-oil → ecopha-biotech (relative target so it works on any domain, incl. the TEST deploy)
 /companies/pongamia-oil/  /companies/ecopha-biotech/  301
+
+# ISS-03: renamed Xampla story to spec filename convention (old URL had spaces + capitals)
+/news/2025-09-03_Xampla%20secures%2014m%20USD/  /news/2025-09-03-xampla-secures-14m-usd/  301
