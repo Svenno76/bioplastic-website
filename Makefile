@@ -1,6 +1,6 @@
-.PHONY: verify verify-build verify-news-filter verify-no-stale
+.PHONY: verify verify-build verify-news-filter verify-no-stale verify-tags
 
-verify: verify-build verify-news-filter verify-no-stale
+verify: verify-build verify-news-filter verify-no-stale verify-tags
 
 verify-build:
 	cd /tmp/bioplastics-website && hugo --gc --minify
@@ -15,3 +15,6 @@ verify-no-stale:
 	! grep -q '<select' /tmp/bioplastics-website/public/news/index.html
 	! grep -q 'filterPosts(' /tmp/bioplastics-website/public/news/index.html
 	! grep -q 'filterNews(' /tmp/bioplastics-website/public/news/index.html
+
+verify-tags:
+	scripts/check-tags.sh --all
