@@ -9,3 +9,12 @@
 [context.production.environment]
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+# TEST branch deploys (e.g. https://test--jolly-panda-8357f1.netlify.app):
+# build with the branch's own URL so no link/canonical points at production,
+# and mark the environment as non-production (robots + footer react to it).
+[context.branch-deploy]
+  command = "git submodule update --init --recursive && hugo --gc --minify --baseURL \"$DEPLOY_PRIME_URL\""
+
+[context.branch-deploy.environment]
+  HUGO_ENV = "testing"

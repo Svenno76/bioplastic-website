@@ -1,5 +1,5 @@
 # Netlify redirect: www → apex
 https://www.bioplasticsportal.com/*  https://bioplasticsportal.com/:splat  301!
 
-# ISS-02: merged duplicate profile pongamia-oil → ecopha-biotech
-/companies/pongamia-oil/  https://bioplasticsportal.com/companies/ecopha-biotech/  301
+# ISS-02: merged duplicate profile pongamia-oil → ecopha-biotech (relative target so it works on any domain, incl. the TEST deploy)
+/companies/pongamia-oil/  /companies/ecopha-biotech/  301

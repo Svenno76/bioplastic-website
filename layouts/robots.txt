@@ -1,5 +1,11 @@
+{{ if hugo.IsProduction }}
 User-agent: *
 Allow: /
 Disallow: /admin/
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}
+{{ else }}
+# TEST/preview deploys: keep every crawler out.
+User-agent: *
+Disallow: /
+{{ end }}

@@ -1,3 +1,8 @@
+{{ if not hugo.IsProduction }}
+<div style="background:#b45309;color:#ffffff;text-align:center;padding:0.5rem 1rem;font-weight:700;letter-spacing:0.5px;font-size:0.9rem;">
+  ⚠ TEST PREVIEW — this is not the live site
+</div>
+{{ end }}
 <footer style="background: linear-gradient(135deg, #2d5a4f 0%, #1a2a28 100%); color: white; padding: 3.5rem 2rem; margin-top: 4rem;">
   <div style="max-width: 70rem; margin: 0 auto;">
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 3rem; margin-bottom: 3rem;">
