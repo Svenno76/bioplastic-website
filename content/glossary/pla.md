@@ -1,6 +1,6 @@
 ---
-title: "PLA (Polylactic Acid)"
-description: "Definition of PLA (Polylactic Acid), the most widely used bioplastic. Learn about production from renewable resources, properties, compostability, and packaging applications."
+title: "PLA (Polylactic Acid): Properties, Producers & Applications"
+description: "PLA is the most used bioplastic. Its properties, how it is produced from corn and sugarcane, leading producers like NatureWorks, compostability, and packaging uses."
 aka: ["Polylactic Acid", "Polylactide"]
 term_type: "material"
 related: ["Biodegradable", "Compostable", "PHA", "PBAT"]

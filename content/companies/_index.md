@@ -1,6 +1,6 @@
 ---
-title: Company Profiles
-description: Comprehensive profiles of bioplastics manufacturers, technology companies, compounders, and converters. Explore industry leaders and emerging innovators.
+title: "Bioplastics Manufacturers & Suppliers Directory"
+description: "Directory of 200+ bioplastic manufacturers, suppliers, and compounders worldwide. Compare PBAT, PLA, PHA and starch-based producers by capacity, materials, and market."
 sitemap:
   priority: 0.8
 ---

@@ -1,6 +1,6 @@
 ---
 logo: /images/logos/ecovance-vietnam.png
-title: "Ecovance Vietnam"
+title: "Ecovance Vietnam: World's Largest PBAT Plant (SKC JV, Hai Phong)"
 company_type: "Polymer Producer"
 headquarters: "Hai Phong, Vietnam"
 status: "Active"

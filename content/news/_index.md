@@ -1,9 +1,8 @@
 ---
-title: News & Updates
-description: Latest bioplastics news, industry updates, policy changes, and company
-  developments. Stay informed about sustainable plastics innovations worldwide.
+title: "Bioplastics News: Industry Updates, Policy & Company Developments"
+description: "Daily bioplastics industry news: EPA and EU regulation updates, PLA and PBAT capacity expansions, company launches, and sustainable packaging developments worldwide."
 sitemap:
-  priority: 0.8
+  priority: 0.9
 tags:
 - bioplastics
 ---
