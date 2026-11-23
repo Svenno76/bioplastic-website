@@ -12,6 +12,7 @@ tags:
 - packaging
 - pbat
 category: Partnerships
+featured_image: "/images/news/2026-01-22-eastman-kolmar-korea-mou-biodegradable.jpg"
 company:
 - Eastman
 - Kolmar Korea
