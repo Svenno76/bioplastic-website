@@ -83,30 +83,48 @@
         {{ .Content }}
       </article>
 
-      <!-- Related Events Section -->
+      <!-- Other Upcoming Events: reuse the list page's date logic so only
+           genuinely upcoming events appear, sorted by start date -->
       {{ $current := .Title }}
-      {{ $relatedEvents := where .Site.RegularPages "Section" "events" | first 3 }}
-      {{ if gt (len $relatedEvents) 1 }}
+      {{ $now := now }}
+      {{ $nowInt := $now.Format "20060102" }}
+      {{ $upcoming := slice }}
+      {{ range where .Site.RegularPages "Section" "events" }}
+        {{ if ne .Title $current }}
+          {{ $keys := partial "event-date-keys.html" (dict "eventDate" .Params.event_date) }}
+          {{ $keyParts := split $keys "|" }}
+          {{ $sortKey := index $keyParts 0 }}
+          {{ $endDateInt := index $keyParts 1 }}
+          {{ if eq $sortKey "" }}
+            {{ $sortKey = "99991231" }}
+            {{ $endDateInt = "99991231" }}
+          {{ end }}
+          {{ if ge $endDateInt $nowInt }}
+            {{ $upcoming = $upcoming | append (dict "page" . "sortKey" $sortKey) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ $relatedEvents := sort $upcoming "sortKey" | first 3 }}
+      {{ if gt (len $relatedEvents) 0 }}
       <div style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #c2e5e1;">
         <h2 style="color: #2d5a4f; margin-bottom: 1.5rem;">Other Upcoming Events</h2>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
           {{ range $relatedEvents }}
-            {{ if ne .Title $current }}
-            <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">
+          {{ $page := .page }}
+            <a href="{{ $page.Permalink }}" style="text-decoration: none; color: inherit;">
               <div style="border: 1px solid #c2e5e1; border-radius: 12px; padding: 1.5rem; background: white; transition: all 0.3s; cursor: pointer; height: 100%; display: flex; flex-direction: column;">
-                <h3 style="color: #2d5a4f; margin-bottom: 0.5rem; font-size: 1.1rem;">{{ .Title }}</h3>
-                {{ if .Params.event_type }}
+                <h3 style="color: #2d5a4f; margin-bottom: 0.5rem; font-size: 1.1rem;">{{ $page.Title }}</h3>
+                {{ if $page.Params.event_type }}
                 <div style="display: inline-block; background: #e8f2f0; color: #2d5a4f; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.8rem; font-weight: 500; margin-bottom: 0.75rem; width: fit-content;">
-                  {{ .Params.event_type }}
+                  {{ $page.Params.event_type }}
                 </div>
                 {{ end }}
                 <div style="font-size: 0.9rem; color: #64748b; flex-grow: 1;">
-                  {{ if .Params.event_date }}<div style="margin-bottom: 0.5rem;">📅 {{ .Params.event_date }}</div>{{ end }}
-                  {{ if .Params.location }}<div>📍 {{ .Params.location }}</div>{{ end }}
+                  {{ if $page.Params.event_date }}<div style="margin-bottom: 0.5rem;">📅 {{ $page.Params.event_date }}</div>{{ end }}
+                  {{ if $page.Params.location }}<div>📍 {{ $page.Params.location }}</div>{{ end }}
                 </div>
               </div>
             </a>
-            {{ end }}
           {{ end }}
         </div>
       </div>

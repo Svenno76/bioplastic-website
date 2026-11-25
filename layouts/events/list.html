@@ -50,51 +50,15 @@
       {{ $now := now }}
       {{ $nowInt := $now.Format "20060102" }}
 
-      {{/* Create a slice with pages and their parsed dates */}}
+      {{/* Create a slice with pages and their parsed dates.
+          event_date is a free-text string (e.g. "May 5-6, 2026"); the
+          event-date-keys partial extracts year from the string itself,
+          so dates in any future year sort and expire correctly. */}}
       {{ range $pages }}
-        {{ $eventDate := .Params.event_date }}
-        {{ $sortKey := "" }}
-        {{ $endDateInt := "" }}
-
-        {{/* Parse the event_date string to extract month and approximate day */}}
-        {{ if $eventDate }}
-          {{/* Extract month name - matches patterns like "December 1-2, 2026" or "May 19-22, 2026" */}}
-          {{ $monthMap := dict "January" "01" "February" "02" "March" "03" "April" "04" "May" "05" "June" "06" "July" "07" "August" "08" "September" "09" "October" "10" "November" "11" "December" "12" }}
-
-          {{ range $monthName, $monthNum := $monthMap }}
-            {{ if in $eventDate $monthName }}
-              {{/* Extract the first day number (e.g., "1" from "1-2" or "19" from "19-22") */}}
-              {{ $dateParts := split $eventDate " " }}
-              {{ if ge (len $dateParts) 2 }}
-                {{ $dayPart := index $dateParts 1 }}
-                {{/* Remove trailing comma and extract first number */}}
-                {{ $dayPart = replace $dayPart "," "" }}
-                {{ if in $dayPart "-" }}
-                  {{/* Handle range like "1-2" or "19-22" */}}
-                  {{ $dayRange := split $dayPart "-" }}
-                  {{ $firstDay := index $dayRange 0 }}
-                  {{ $endDay := index $dayRange 1 }}
-                  {{/* Pad day to 2 digits */}}
-                  {{ if lt (len $firstDay) 2 }}
-                    {{ $firstDay = printf "0%s" $firstDay }}
-                  {{ end }}
-                  {{ if lt (len $endDay) 2 }}
-                    {{ $endDay = printf "0%s" $endDay }}
-                  {{ end }}
-                  {{ $sortKey = printf "2026%s%s" $monthNum $firstDay }}
-                  {{ $endDateInt = printf "2026%s%s" $monthNum $endDay }}
-                {{ else }}
-                  {{/* Handle single day */}}
-                  {{ if lt (len $dayPart) 2 }}
-                    {{ $dayPart = printf "0%s" $dayPart }}
-                  {{ end }}
-                  {{ $sortKey = printf "2026%s%s" $monthNum $dayPart }}
-                  {{ $endDateInt = printf "2026%s%s" $monthNum $dayPart }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
+        {{ $keys := partial "event-date-keys.html" (dict "eventDate" .Params.event_date) }}
+        {{ $keyParts := split $keys "|" }}
+        {{ $sortKey := index $keyParts 0 }}
+        {{ $endDateInt := index $keyParts 1 }}
 
         {{/* If no valid date found, use a far future date so it appears last (and is included) */}}
         {{ if eq $sortKey "" }}

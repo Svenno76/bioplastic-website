@@ -1,0 +1,43 @@
+{{- /*
+  event-date-keys.html — parses a free-text event_date string (e.g. "May 5-6, 2026")
+  into lexicographic sort keys consumed by the events list filter and the
+  "Other Upcoming Events" block on event singles.
+
+  Input:  dict "eventDate" (string)
+  Output: string "sortKey|endDateInt" formatted "YYYYMMDD|YYYYMMDD",
+          or "|" (both empty) when the date cannot be parsed.
+
+  The year is extracted from the event_date string itself (first 4-digit group)
+  — never hard-coded, so future years keep sorting and auto-expiring correctly.
+  Expected format per EVENTS_SECTION_SPEC.md §2: "Month DD-DD, YYYY" (or single day).
+*/ -}}
+{{- $d := .eventDate -}}
+{{- $sortKey := "" -}}
+{{- $endDateInt := "" -}}
+{{- if $d -}}
+  {{- $yr := findRE "[0-9]{4}" $d -}}
+  {{- $year := "" -}}
+  {{- if gt (len $yr) 0 }}{{- $year = index $yr 0 }}{{- end -}}
+  {{- $monthMap := dict "January" "01" "February" "02" "March" "03" "April" "04" "May" "05" "June" "06" "July" "07" "August" "08" "September" "09" "October" "10" "November" "11" "December" "12" -}}
+  {{- range $monthName, $monthNum := $monthMap -}}
+    {{- if and (eq $sortKey "") (in $d $monthName) -}}
+      {{- $dateParts := split $d " " -}}
+      {{- if ge (len $dateParts) 2 -}}
+        {{- $dayPart := index $dateParts 1 -}}
+        {{- $dayPart = replace $dayPart "," "" -}}
+        {{- if in $dayPart "-" -}}
+          {{- $dayRange := split $dayPart "-" -}}
+          {{- $firstDay := index $dayRange 0 -}}
+          {{- $endDay := index $dayRange 1 -}}
+          {{- if lt (len $firstDay) 2 }}{{- $firstDay = printf "0%s" $firstDay }}{{- end -}}
+          {{- if lt (len $endDay) 2 }}{{- $endDay = printf "0%s" $endDay }}{{- end -}}
+          {{- if $year }}{{- $sortKey = printf "%s%s%s" $year $monthNum $firstDay }}{{- $endDateInt = printf "%s%s%s" $year $monthNum $endDay }}{{- end -}}
+        {{- else -}}
+          {{- if lt (len $dayPart) 2 }}{{- $dayPart = printf "0%s" $dayPart }}{{- end -}}
+          {{- if $year }}{{- $sortKey = printf "%s%s%s" $year $monthNum $dayPart }}{{- $endDateInt = printf "%s%s%s" $year $monthNum $dayPart }}{{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- printf "%s|%s" $sortKey $endDateInt -}}

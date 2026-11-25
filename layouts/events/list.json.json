@@ -7,6 +7,7 @@
     "event_date" .Params.event_date
     "location" .Params.location
     "event_type" .Params.event_type
+    "region" (.Params.region | default "Global")
   ) -}}
 {{- end -}}
 {{- $.Scratch.Get "items" | jsonify -}}
