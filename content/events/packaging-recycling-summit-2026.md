@@ -7,7 +7,7 @@ location: "Rosemont, Illinois, USA"
 website: "https://www.packagingrecyclingsummit.com/"
 short_description: "Unites leaders across the circular packaging value chain including brand owners, material suppliers, reprocessors, retailers, and policymakers to explore solutions for advancing packaging recovery and circularity."
 draft: false
-date: '2026-01-05'
+date: '2025-10-25'
 ---
 
 ## Event Overview

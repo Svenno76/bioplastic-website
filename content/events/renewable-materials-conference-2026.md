@@ -7,7 +7,7 @@ location: "Siegburg/Cologne, Germany"
 website: "https://renewable-materials.eu/"
 short_description: "Leading conference on replacing fossil carbon with biomass, CO₂ utilization, and recycling solutions, featuring 400-500 participants, 75 presentations, and 20 panel discussions."
 draft: false
-date: '2026-01-05'
+date: '2025-11-02'
 ---
 
 ## Event Overview

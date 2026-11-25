@@ -7,7 +7,7 @@ location: "The Hague, Netherlands"
 website: "https://www.eubce.com/"
 short_description: "The 34th edition of Europe's premier biomass conference and exhibition, bringing together experts from academia and industry to explore biomass valorization, biorefining, and high-value biomaterials."
 draft: false
-date: '2026-01-05'
+date: '2025-09-01'
 ---
 
 ## Event Overview

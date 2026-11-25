@@ -7,7 +7,7 @@ location: "Jakarta, Indonesia"
 website: "https://www.eco-business.com/events/"
 short_description: "Regional summit focused on Southeast Asia's transition to circular plastics economy, featuring EPR implementation, recycling technologies, and sustainable solutions for ASEAN markets."
 draft: false
-date: '2026-01-05'
+date: '2025-09-15'
 ---
 
 ## Event Overview

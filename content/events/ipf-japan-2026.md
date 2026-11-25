@@ -7,7 +7,7 @@ location: "Chiba/Tokyo, Japan"
 website: "https://www.ipfjapan.jp/english/"
 short_description: "Asia's premier plastics and rubber industry exhibition, attracting 45,000+ visitors and showcasing the latest manufacturing technologies, materials innovation, and processing solutions."
 draft: false
-date: '2026-01-05'
+date: '2025-11-01'
 ---
 
 ## Event Overview

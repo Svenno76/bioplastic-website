@@ -7,7 +7,7 @@ location: "Munich, Germany"
 website: "https://www.bioplasticsmagazine.com/"
 short_description: "The world's premier conference focused exclusively on polylactic acid (PLA) bioplastics, offering a comprehensive overview of PLA production technologies, applications, and future prospects across all market segments."
 draft: false
-date: '2026-01-02'
+date: '2025-11-15'
 ---
 
 ## Event Overview

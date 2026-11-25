@@ -7,7 +7,7 @@ location: "Düsseldorf, Germany"
 website: "https://www.interpack.com/"
 short_description: "The world's leading packaging and processing trade fair featuring 1,000+ exhibitors, showcasing innovative materials including bio-based solutions, smart manufacturing, and design for recycling concepts."
 draft: false
-date: '2026-01-05'
+date: '2025-08-15'
 ---
 
 ## Event Overview

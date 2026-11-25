@@ -7,7 +7,7 @@ location: "Mexico City, Mexico"
 website: "https://www.plasticsrecyclinglatam.com/"
 short_description: "Latin America's leading event for circular economy and plastics recycling, featuring 3,000+ attendees and 250+ exhibitors focused on recycling innovations, EPR evolution, and chemical recycling advances."
 draft: false
-date: '2026-01-05'
+date: '2025-11-25'
 ---
 
 ## Event Overview

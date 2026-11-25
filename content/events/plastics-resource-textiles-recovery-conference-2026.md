@@ -7,7 +7,7 @@ location: "San Diego, California, USA"
 website: "https://www.plasticsrecycling.com/"
 short_description: "A unified conference combining plastics recycling, resource recovery, and textiles recovery with 3,000+ industry leaders, 250 exhibitors, and 60+ speakers focusing on circular economy solutions."
 draft: false
-date: '2026-01-05'
+date: '2025-09-25'
 ---
 
 ## Event Overview

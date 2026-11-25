@@ -7,7 +7,7 @@ location: "The Hague, Netherlands"
 website: "https://www.bioinnovationseurope.com/"
 short_description: "The only event dedicated to scaling industrial biomanufacturing in Europe, featuring pre-arranged 1-2-1 meetings designed to spark strategic partnerships and drive commercial deals."
 draft: false
-date: '2026-01-05'
+date: '2025-10-01'
 ---
 
 ## Event Overview

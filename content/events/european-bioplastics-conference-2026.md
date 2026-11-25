@@ -7,7 +7,7 @@ location: "Berlin, Germany"
 website: "https://www.european-bioplastics.org/events/ebc/"
 short_description: "The 21st edition of the premier European bioplastics conference, bringing together industry leaders, policymakers, and innovators to discuss market trends, regulations, and the future of bioplastics in Europe."
 draft: false
-date: '2026-01-02'
+date: '2025-09-10'
 ---
 
 ## Event Overview

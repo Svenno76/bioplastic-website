@@ -7,7 +7,7 @@ location: "Bangkok, Thailand"
 website: "https://www.interplasthailand.com/"
 short_description: "Thailand's premier plastics and polymer trade fair featuring a Green Zone with bioplastics products, sustainable packaging, eco-friendly machinery, and green chemistry innovations."
 draft: false
-date: '2026-01-05'
+date: '2025-10-05'
 ---
 
 ## Event Overview

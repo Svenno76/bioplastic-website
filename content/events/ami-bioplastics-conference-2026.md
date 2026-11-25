@@ -7,7 +7,7 @@ location: "Cleveland, Ohio, USA"
 website: "https://www.ami-events.com/"
 short_description: "North America's premier platform for the bioplastics supply chain, bringing together the entire value chain from raw materials to finished products, with focus on applications, processing, and market opportunities."
 draft: false
-date: '2026-01-02'
+date: '2025-11-20'
 ---
 
 ## Event Overview

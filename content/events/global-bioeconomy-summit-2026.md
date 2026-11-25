@@ -7,7 +7,7 @@ location: "Dublin, Ireland"
 website: "https://www.gov.ie/"
 short_description: "The 5th Global Bioeconomy Summit recognized as the leading global forum for bioeconomy policy, innovation, and cross-sector collaboration, bringing together political leaders and industry innovators."
 draft: false
-date: '2026-01-05'
+date: '2025-10-20'
 ---
 
 ## Event Overview

@@ -7,7 +7,7 @@ location: "Greater Noida, India"
 website: "https://biodegradableexpo.com/"
 short_description: "Major B2B platform for biodegradable and compostable products industry in India, bringing together manufacturers, suppliers, and businesses showcasing sustainable packaging and product solutions."
 draft: false
-date: '2026-01-05'
+date: '2025-10-15'
 ---
 
 ## Event Overview

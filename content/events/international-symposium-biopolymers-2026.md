@@ -7,7 +7,7 @@ location: "Dublin, Ireland"
 website: "https://www.ucd.ie/sbbs/isbp2026/"
 short_description: "20th edition of the premier biennial symposium dedicated to biopolymer research, production, processing, applications, and biodegradation, attracting international academic and industry researchers."
 draft: false
-date: '2026-01-05'
+date: '2025-09-20'
 ---
 
 ## Event Overview

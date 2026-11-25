@@ -7,7 +7,7 @@ location: "Barcelona, Spain"
 website: "https://magnusconferences.com/green-chemistry/"
 short_description: "6th edition of the international conference on green chemistry and renewable energy, exploring biopolymers, sustainable chemistry, and clean energy solutions for global sustainability."
 draft: false
-date: '2026-01-05'
+date: '2025-11-10'
 ---
 
 ## Event Overview

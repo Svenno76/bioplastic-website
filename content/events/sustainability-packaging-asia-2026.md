@@ -7,7 +7,7 @@ location: "Singapore"
 website: "https://www.sustainability-in-packaging.com/sustainability-in-packaging-asia"
 short_description: "Premier conference in Asia for sustainability and packaging professionals, featuring innovative sustainable packaging solutions, materials innovation, and regulatory compliance for the Asia-Pacific region."
 draft: false
-date: '2026-01-05'
+date: '2025-10-10'
 ---
 
 ## Event Overview

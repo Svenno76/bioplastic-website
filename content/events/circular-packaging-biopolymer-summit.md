@@ -7,7 +7,7 @@ location: "Amsterdam, Netherlands"
 website: "https://www.leadventgrp.com/"
 short_description: "Industry summit bringing together biopolymer manufacturers, chemical companies, and major associations to discuss circular packaging solutions and biopolymer innovations."
 draft: false
-date: '2026-01-05'
+date: '2025-11-05'
 ---
 
 ## Event Overview

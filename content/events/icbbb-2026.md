@@ -7,7 +7,7 @@ location: "Lisbon, Portugal"
 website: "https://conferenceindex.org/conferences/bioplastics"
 short_description: "Academic conference focusing on bioplastics research, biocomposites, and biorefining technologies, attracting researchers and industry professionals advancing sustainable materials science."
 draft: false
-date: '2026-01-05'
+date: '2025-11-18'
 ---
 
 ## Event Overview
