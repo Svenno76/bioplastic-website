@@ -18,16 +18,39 @@
 <div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
   <section style="padding: 0;">
 
-    <!-- Page Header -->
-    <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
-      <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">{{ .Title }}</h1>
-      {{ with .Params.description }}
-      <p style="font-size: 1.1rem; color: #6b7f7d; line-height: 1.5; max-width: 60rem;">{{ . }}</p>
+    <!-- Category counts (computed once; used by the overview chips and the filter buttons) -->
+    {{ $regular := where .Pages "Kind" "page" }}
+    {{ $catCounts := dict }}
+    {{ range $grp := $regular.GroupByParam "category" }}
+      {{ if $grp.Key }}
+        {{ $catCounts = merge $catCounts (dict $grp.Key (len $grp.Pages)) }}
       {{ end }}
+    {{ end }}
+    {{ $totalPosts := len $regular }}
+    {{ $chips := slice (dict "name" "all" "count" $totalPosts) }}
+    {{ range $name, $cnt := $catCounts }}
+      {{ $chips = $chips | append (dict "name" $name "count" $cnt) }}
+    {{ end }}
+
+    <!-- Page Header -->
+    <header style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
+      <h1 style="font-size: 2.2rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">{{ .Title }}</h1>
+      {{ with .Params.description }}
+      <p style="font-size: 1.05rem; color: #6b7f7d; line-height: 1.5; max-width: 60rem; margin-bottom: 1rem;">{{ . }}</p>
+      {{ end }}
+      <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center;">
+        {{ range sort $chips "count" "desc" }}
+        <button type="button" class="news-cat-chip" data-cat-chip="{{ .name }}" onclick="setFilter('category', '{{ .name }}')"
+                title="{{ if eq .name "all" }}Show all news{{ else }}Show the {{ .count }} {{ .name }} stories{{ end }}">
+          <span class="chip-label">{{ if eq .name "all" }}All{{ else }}{{ strings.FirstUpper .name }}{{ end }}</span>
+          <span class="chip-count"{{ if eq .name "all" }} id="all-cat-count"{{ end }}>{{ .count }}</span>
+        </button>
+        {{ end }}
+      </div>
     </header>
 
     <!-- Search Bar -->
-    <div style="margin-bottom: 1.5rem;">
+    <div style="margin-bottom: 1.25rem;">
       <input type="text" id="news-search" placeholder="Search news..."
              oninput="onSearchInput()"
              style="width: 100%; max-width: 400px; padding: 0.55rem 0.9rem 0.55rem 2.2rem; border: 1px solid #c0d0cc; border-radius: 8px; font-size: 0.85rem; color: #2d5a4f; background: white url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 16 16'%3E%3Cpath fill='%236b7f7d' d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'/%3E%3C/svg%3E&quot;) no-repeat left 0.8rem center;">
@@ -42,24 +65,25 @@
           All
         </button>
         {{ $allCategories := slice }}
-        {{ range .Pages }}
+        {{ range $regular }}
           {{ $cat := .Params.category }}
           {{ if $cat }}
             {{ $allCategories = $allCategories | append $cat }}
           {{ end }}
         {{ end }}
         {{ $uniqueCategories := $allCategories | uniq | sort }}
+
         {{ range $uniqueCategories }}
         <button onclick="setFilter('category', '{{ . }}')" class="category-filter" data-category="{{ . }}"
                 style="padding: 0.3rem 0.7rem; border: 1px solid #3d7a6f; background: white; color: #3d7a6f; border-radius: 14px; cursor: pointer; font-size: 0.75rem; transition: all 0.2s; font-weight: 500;">
-          {{ . }}
+          {{ . }}{{ with $cnt := index $catCounts . }}{{ if gt $cnt 0 }} <span style="opacity: 0.7;">({{ $cnt }})</span>{{ end }}{{ end }}
         </button>
         {{ end }}
       </div>
     </div>
 
     <!-- Company Type Filter Section -->
-    <div id="company-type-filter-section" style="margin-bottom: 1.5rem; padding: 1rem 1.25rem; background: #f7f9f8; border-radius: 8px; border: 1px solid #e0e8e6;">
+    <div id="company-type-filter-section" style="margin-bottom: 1rem; padding: 1rem 1.25rem; background: #f7f9f8; border-radius: 8px; border: 1px solid #e0e8e6;">
       <span style="font-size: 0.8rem; font-weight: 600; color: #2d5a4f; margin-right: 0.5rem;">Type:</span>
       <div id="company-type-buttons" style="display: inline-flex; flex-wrap: wrap; gap: 0.35rem;">
         <button onclick="setFilter('company_type', 'all')" class="company-type-filter active" data-company_type="all"
@@ -67,7 +91,7 @@
           All
         </button>
         {{ $allCompanyTypes := slice }}
-        {{ range .Pages }}
+        {{ range $regular }}
           {{ if .Params.company_type }}
             {{ $companyType := .Params.company_type }}
             {{ if eq (printf "%T" $companyType) "string" }}
@@ -85,64 +109,47 @@
         </button>
         {{ end }}
       </div>
-      <div id="active-filters" style="font-size: 0.8rem; color: #6b7f7d; margin-top: 0.75rem; font-weight: 500;">
-        Showing: <span id="filter-status" style="color: #2d5a4f;">All posts</span>
-      </div>
     </div>
 
     <!-- Posts Counter -->
-    <div id="posts-counter" style="margin-bottom: 2rem; padding: 0.75rem 0; color: #6b7f7d; font-size: 0.95rem; border-bottom: 1px solid #e0e8e6;">
-      <span id="visible-count" style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> of <span style="font-weight: 600; color: #2d5a4f;">{{ len .Pages }}</span> posts
+    <div id="posts-counter" style="margin-bottom: 1.5rem; padding: 0.25rem 0; color: #6b7f7d; font-size: 0.9rem;">
+      <span id="visible-count" style="font-weight: 600; color: #2d5a4f;">{{ len $regular }}</span> of <span id="total-count" style="font-weight: 600; color: #2d5a4f;">{{ len $regular }}</span> posts
     </div>
 
-    <!-- News List Grid — ALL posts rendered for client-side search -->
-    <div class="news-list" id="news-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2.5rem;">
-      {{ range .Pages.ByDate.Reverse }}
-      <article class="news-post" data-title="{{ .Title | lower }}" data-summary="{{ .Summary | lower }}" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}" data-companies="{{ jsonify .Params.company }}"
-               style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(26, 42, 40, 0.06); display: flex; flex-direction: column;">
+    <!-- News List Grid — ALL posts rendered up-front, cards carry their full text for client-side search -->
+    <div class="news-list" id="news-list">
+      {{ range $regular }}
+      {{ $plainSummary := "" }}{{ with .Description }}{{ $plainSummary = . | plainify }}{{ else }}{{ $plainSummary = .Summary | plainify }}{{ end }}
+      <article class="news-post news-card" data-title="{{ .Title | lower }}" data-summary="{{ $plainSummary | lower }}" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "," }}{{ end }}" data-category="{{ .Params.category }}" data-company_type="{{ .Params.company_type }}" data-companies="{{ jsonify .Params.company }}">
 
-        {{ if .Params.featured_image }}
-        <div style="width: 100%; height: 200px; overflow: hidden; background: #f7f9f8;">
-          {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 400 "height" 250) }}
-        </div>
-        {{ end }}
-
-        <div style="padding: 1.75rem; flex-grow: 1; display: flex; flex-direction: column;">
-          <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; font-size: 0.85rem;">
-            <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #6b7f7d; font-weight: 500;">
-              {{ .Date.Format "Jan 2, 2006" }}
-            </time>
-            {{ if .Params.category }}
-            <span style="background: #e8f2f0; color: #2d5a4f; padding: 0.3rem 0.7rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
-              {{ .Params.category }}
-            </span>
-            {{ end }}
-          </div>
-
-          <h2 style="font-size: 1.35rem; color: #2d5a4f; line-height: 1.3; margin-bottom: 0.75rem; font-weight: 700; letter-spacing: -0.5px;">
-            <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none; transition: color 0.3s;">{{ .Title }}</a>
-          </h2>
-
-          {{ if .Params.tags }}
-          <div class="post-tags" style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
-            {{ range .Params.tags }}
-            <span class="post-tag" style="background: #e8f2f0; color: #3d7a6f; padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 500;">
-              {{ . | title }}
-            </span>
-            {{ end }}
+        <a class="news-card-link" href="{{ .Permalink }}" aria-label="{{ .Title }}">
+          {{ if .Params.featured_image }}
+          <div class="news-card-media">
+            {{ partial "picture.html" (dict "src" .Params.featured_image "alt" .Title "width" 400 "height" 250) }}
           </div>
           {{ end }}
 
-          <p style="color: #6b7f7d; font-size: 0.95rem; line-height: 1.7; margin-bottom: 1.25rem; flex-grow: 1;">
-            {{ .Summary }}
-          </p>
+          <div class="news-card-body">
+            <div class="news-card-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+              {{ with .Params.category }}<span class="news-card-cat">{{ . }}</span>{{ end }}
+            </div>
 
-          <div style="display: flex; justify-content: flex-end; align-items: center; padding-top: 1rem; border-top: 1px solid #e0e8e6;">
-            <a href="{{ .Permalink }}" style="color: #3d7a6f; font-weight: 600; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.3s; text-decoration: none;">
-              Read more
-            </a>
+            <h2 class="news-card-title">{{ .Title }}</h2>
+
+            {{ if .Params.tags }}
+            <div class="news-tags">
+              {{ range first 4 .Params.tags }}<span>{{ . | title }}</span>{{ end }}
+            </div>
+            {{ end }}
+
+            {{ with $plainSummary }}
+            <p class="news-card-summary">{{ . }}</p>
+            {{ end }}
+
+            <span class="news-card-footer">Read more <span aria-hidden="true">→</span></span>
           </div>
-        </div>
+        </a>
       </article>
       {{ end }}
     </div>
@@ -205,29 +212,18 @@ function applyFilters() {
 
   // Update active buttons for categories
   document.querySelectorAll('.category-filter').forEach(btn => {
-    btn.classList.remove('active');
-    btn.style.background = 'white';
-    btn.style.color = '#3d7a6f';
+    btn.classList.toggle('active', btn.getAttribute('data-category') === currentCategoryFilter);
   });
-  const activeCategoryBtn = document.querySelector(`[data-category="${currentCategoryFilter}"]`);
-  if (activeCategoryBtn) {
-    activeCategoryBtn.classList.add('active');
-    activeCategoryBtn.style.background = '#3d7a6f';
-    activeCategoryBtn.style.color = 'white';
-  }
 
   // Update active buttons for company types
   document.querySelectorAll('.company-type-filter').forEach(btn => {
-    btn.classList.remove('active');
-    btn.style.background = 'white';
-    btn.style.color = '#d4a574';
+    btn.classList.toggle('active', btn.getAttribute('data-company_type') === currentCompanyTypeFilter);
   });
-  const activeCompanyTypeBtn = document.querySelector(`[data-company_type="${currentCompanyTypeFilter}"]`);
-  if (activeCompanyTypeBtn) {
-    activeCompanyTypeBtn.classList.add('active');
-    activeCompanyTypeBtn.style.background = '#d4a574';
-    activeCompanyTypeBtn.style.color = 'white';
-  }
+
+  // Header overview chips + filter buttons reflect the current category
+  document.querySelectorAll('[data-cat-chip]').forEach(btn => {
+    btn.classList.toggle('active', btn.getAttribute('data-cat-chip') === currentCategoryFilter);
+  });
 
   // Filter all posts with AND logic
   filteredCards = [];
@@ -269,17 +265,19 @@ function applyFilters() {
   // Update counter and status
   visibleCount.textContent = filteredCards.length;
 
-  let statusText = [];
-  if (currentCompanyFilter !== 'all') {
-    statusText.push(`Company: "${currentCompanyFilter}"`);
+  if (filterStatus) {
+    let statusText = [];
+    if (currentCompanyFilter !== 'all') {
+      statusText.push(`Company: "${currentCompanyFilter}"`);
+    }
+    if (currentCategoryFilter !== 'all') {
+      statusText.push(`Category: "${currentCategoryFilter}"`);
+    }
+    if (currentCompanyTypeFilter !== 'all') {
+      statusText.push(`Type: "${currentCompanyTypeFilter}"`);
+    }
+    filterStatus.textContent = statusText.length === 0 ? 'All categories' : statusText.join(' + ');
   }
-  if (currentCategoryFilter !== 'all') {
-    statusText.push(`"${currentCategoryFilter}"`);
-  }
-  if (currentCompanyTypeFilter !== 'all') {
-    statusText.push(`"${currentCompanyTypeFilter}"`);
-  }
-  filterStatus.textContent = statusText.length === 0 ? 'All posts' : statusText.join(' + ');
 
   // Show/hide no results
   noResults.style.display = filteredCards.length === 0 ? 'block' : 'none';
@@ -319,7 +317,7 @@ function nextPage() {
     currentPage++;
     renderPage();
     updateURL();
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    document.getElementById('news-list').scrollIntoView({ behavior: 'smooth' });
   }
 }
 
@@ -328,7 +326,7 @@ function prevPage() {
     currentPage--;
     renderPage();
     updateURL();
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    document.getElementById('news-list').scrollIntoView({ behavior: 'smooth' });
   }
 }
 
@@ -345,6 +343,9 @@ function updateURL() {
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
+  const totalEl = document.getElementById('total-count');
+  if (totalEl) { totalEl.textContent = document.querySelectorAll('.news-post').length; }
+
   // Restore all state from URL params
   const savedSearch = getQueryParam('q') || '';
   const savedCategory = getQueryParam('category') || 'all';
@@ -362,84 +363,151 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Apply filters (which calls renderPage)
   applyFilters();
-
-  // Hover effects
-  const categoryButtons = document.querySelectorAll('.category-filter');
-  const companyTypeButtons = document.querySelectorAll('.company-type-filter');
-
-  [categoryButtons, companyTypeButtons].forEach(buttonGroup => {
-    buttonGroup.forEach(btn => {
-      btn.addEventListener('mouseenter', function() {
-        if (!this.classList.contains('active')) { this.style.opacity = '0.8'; }
-      });
-      btn.addEventListener('mouseleave', function() {
-        if (!this.classList.contains('active')) { this.style.opacity = '1'; }
-      });
-    });
-  });
-
-  document.querySelectorAll('.news-post').forEach(card => {
-    card.addEventListener('mouseenter', function() {
-      this.style.transform = 'translateY(-6px)';
-      this.style.boxShadow = '0 12px 24px rgba(26, 42, 40, 0.12)';
-      this.style.borderColor = '#3d7a6f';
-    });
-    card.addEventListener('mouseleave', function() {
-      this.style.transform = 'translateY(0)';
-      this.style.boxShadow = '0 2px 8px rgba(26, 42, 40, 0.06)';
-      this.style.borderColor = '#e0e8e6';
-    });
-  });
 });
 </script>
 
 <style>
-.category-filter, .company-type-filter {
-  transition: all 0.2s ease;
+.news-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
 }
 
-.category-filter:hover, .company-type-filter:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(26, 42, 40, 0.1);
+.news-card {
+  background: white;
+  border: 1px solid #dde7e4;
+  border-radius: 14px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
-.category-filter.active {
-  background: #3d7a6f !important;
-  color: white !important;
+.news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(45, 90, 79, 0.13);
+  border-color: #3d7a6f;
 }
 
-.company-type-filter.active {
-  background: #d4a574 !important;
-  color: white !important;
+.news-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
-.news-post {
-  transition: all 0.3s ease;
+.news-card-media {
+  height: 180px;
+  overflow: hidden;
+  background: #eef4f2;
 }
 
-.news-post:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 12px 24px rgba(26, 42, 40, 0.12) !important;
-  border-color: #3d7a6f !important;
+.news-card-media img {
+  width: 100%;
+  height: 100% !important;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
 }
 
-.news-post:hover img {
-  transform: scale(1.05);
+.news-card:hover .news-card-media img {
+  transform: scale(1.04);
 }
 
-.post-tag {
-  cursor: pointer;
-  transition: all 0.2s;
+.news-card-body {
+  padding: 1.1rem 1.25rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
-.post-tag:hover {
-  background: #d4e8e5 !important;
+.news-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.55rem;
+  margin-bottom: 0.65rem;
+  font-size: 0.8rem;
+  color: #6b7f7d;
 }
 
-@media (max-width: 768px) {
-  #news-list {
-    grid-template-columns: 1fr !important;
-  }
+.news-card-cat {
+  background: #e8f2f0;
+  color: #2d5a4f;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.news-card-title {
+  font-size: 1.1rem;
+  line-height: 1.35;
+  color: #1f4a3f;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+}
+
+.news-tags {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.6rem;
+}
+
+.news-tags span {
+  background: #eef6f4;
+  color: #3d7a6f;
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.7rem;
+  font-weight: 500;
+}
+
+.news-card-summary {
+  color: #6b7f7d;
+  font-size: 0.87rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.news-card-footer {
+  margin-top: auto; /* pins to bottom so equal-height cards keep the link aligned */
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #d0dedd;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #3d7a6f;
+}
+
+.news-card:hover .news-card-footer { text-decoration: underline; }
+
+/* compact category buttons in the header strip */
+.news-cat-chip { font-weight: 600; color: #2d5a4f; }
+.news-cat-chip:hover { border-color: #3d7a6f; background: #f3faf8; }
+.news-cat-chip.active { background: #3d7a6f; border-color: #3d7a6f; color: white; }
+.news-cat-chip.active span { background: rgba(255,255,255,0.2); }
+
+@media (max-width: 900px) {
+  .news-list { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .news-list { grid-template-columns: 1fr; }
+  .news-card { max-width: 420px; margin-left: auto; margin-right: auto; width: 100%; }
+  .news-card h2 { font-size: 1.05rem; }
 }
 </style>
 
