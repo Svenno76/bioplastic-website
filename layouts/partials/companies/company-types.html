@@ -1,0 +1,87 @@
+{{/*
+  company-types.html — the type→module map for company pages.
+  Renders the module cards defined in /home/jarvis/bioplasticsportal/COMPANY_PAGE_SPEC.md §4.
+  Every module hides silently when its backing field is missing/empty.
+  Pattern: one flat module list; each card carries a 2-letter type code; a card renders
+  when its code appears in the company's normalized type key. (No union/sort gymnastics.)
+  Type codes: pp Polymer Producer · cb Converter / Packaging · tc Technology & Equipment ·
+  co Compounder · ar Academic / Research · bt Biotechnology · rr Recycling & Recovery ·
+  ap Additive Producer · ib Industry Body / Consulting
+*/}}
+{{ $raw := .Params.company_type }}
+{{ if not $raw }}{{ $raw = "" }}{{ end }}
+{{ $rawStr := "" }}
+{{ if reflect.IsSlice $raw }}
+  {{ $rawStr = delimit $raw ";" }}
+{{ else }}
+  {{ $rawStr = string $raw }}
+{{ end }}
+{{/* normalize: split on ";" and "/" is NOT split (only ";" joins legacy multi-types); strip quotes/space; drop empties */}}
+{{ $parts := split $rawStr ";" }}
+{{ $norm := slice }}
+{{ range $parts }}
+  {{ $v := trim . " \"" }}
+  {{ if $v }}{{ $norm = $norm | append $v }}{{ end }}
+{{ end }}
+
+{{/* type key = 2-letter code per exact type name (dict lookup — no case/substring fragility) */}}
+{{ $codes := dict
+  "Polymer Producer" "pp"
+  "Converter / Packaging" "cb"
+  "Technology & Equipment" "tc"
+  "Compounder" "co"
+  "Academic / Research" "ar"
+  "Biotechnology" "bt"
+  "Recycling & Recovery" "rr"
+  "Additive Producer" "ap"
+  "Industry Body / Consulting" "ib" }}
+{{ $key := "" }}
+{{ range $norm }}
+  {{ $code := index $codes . }}
+  {{ if $code }}{{ $key = print $key $code }}{{ end }}
+{{ end }}
+
+<div class="company-module-row" data-company-type="{{ delimit $norm ", " }}">
+  {{ $modules := slice
+    (dict "code" "pp" "field" "primary_materials" "icon" "🧬" "title" "Primary Materials & Trade Names")
+    (dict "code" "pp" "field" "production_capacity" "icon" "⚙️" "title" "Production Capacity by Biopolymer")
+    (dict "code" "pp" "field" "market_segments" "icon" "🎯" "title" "Market Segments")
+    (dict "code" "pp" "field" "certifications" "icon" "✅" "title" "Certifications")
+    (dict "code" "bt" "field" "primary_focus" "icon" "🔬" "title" "Technology Platform")
+    (dict "code" "bt" "field" "primary_materials" "icon" "🧬" "title" "Materials Made")
+    (dict "code" "bt" "field" "production_capacity" "icon" "⚙️" "title" "Capacity / Scale-Up")
+    (dict "code" "bt" "field" "funding_ownership" "icon" "💰" "title" "Funding & Ownership")
+    (dict "code" "co" "field" "primary_materials" "icon" "🧪" "title" "Base Polymers Compounded")
+    (dict "code" "co" "field" "products" "icon" "📦" "title" "Compound Brands")
+    (dict "code" "co" "field" "certifications" "icon" "✅" "title" "Certifications")
+    (dict "code" "co" "field" "market_segments" "icon" "🎯" "title" "Market Segments")
+    (dict "code" "cb" "field" "products" "icon" "📦" "title" "Products & Applications")
+    (dict "code" "cb" "field" "primary_materials" "icon" "🧬" "title" "Resins Used")
+    (dict "code" "cb" "field" "certifications" "icon" "✅" "title" "Certifications & Compliance")
+    (dict "code" "cb" "field" "market_segments" "icon" "🎯" "title" "Market Segments")
+    (dict "code" "tc" "field" "primary_focus" "icon" "🔧" "title" "Technology Offerings")
+    (dict "code" "tc" "field" "products" "icon" "⚙️" "title" "Product & Equipment Range")
+    (dict "code" "rr" "field" "primary_focus" "icon" "♻️" "title" "Process Routes")
+    (dict "code" "rr" "field" "production_capacity" "icon" "⚙️" "title" "Input/Output Capacity")
+    (dict "code" "rr" "field" "products" "icon" "📦" "title" "Output Materials")
+    (dict "code" "rr" "field" "certifications" "icon" "✅" "title" "Certifications")
+    (dict "code" "ap" "field" "primary_materials" "icon" "🧴" "title" "Additive Portfolio")
+    (dict "code" "ap" "field" "products" "icon" "📦" "title" "Grades & Brands")
+    (dict "code" "ap" "field" "certifications" "icon" "✅" "title" "Certifications")
+    (dict "code" "ap" "field" "market_segments" "icon" "🎯" "title" "Polymers Served")
+    (dict "code" "ar" "field" "primary_focus" "icon" "🔬" "title" "Research Focus")
+    (dict "code" "ar" "field" "fields_of_interest" "icon" "📋" "title" "Focus Areas")
+    (dict "code" "ib" "field" "primary_focus" "icon" "🏛️" "title" "Mission & Services")
+    (dict "code" "ib" "field" "fields_of_interest" "icon" "📋" "title" "Focus Areas")
+    (dict "code" "ib" "field" "market_segments" "icon" "🎯" "title" "Constituency") }}
+
+  {{ if and $key $modules }}
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+    {{ range $m := $modules }}
+      {{ if in $key $m.code }}
+        {{ partial "companies/company-module.html" (dict "page" $ "field" $m.field "icon" $m.icon "title" $m.title) }}
+      {{ end }}
+    {{ end }}
+  </div>
+  {{ end }}
+</div>

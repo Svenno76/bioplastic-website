@@ -1,4 +1,5 @@
----logo: /images/logos/ntcp-national-test-centre-circular-plastics.png
+---
+logo: /images/logos/ntcp-national-test-centre-circular-plastics.png
 title: NTCP (National Test Centre Circular Plastics)
 company_type: "Industry Body / Consulting"
 headquarters: Heerenveen, Netherlands

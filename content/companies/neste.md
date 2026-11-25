@@ -1,4 +1,5 @@
----logo: /images/logos/neste.png
+---
+logo: /images/logos/neste.png
 title: Neste
 company_type: "Polymer Producer"
 headquarters: Espoo, Finland

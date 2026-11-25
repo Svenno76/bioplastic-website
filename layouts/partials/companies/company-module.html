@@ -1,0 +1,74 @@
+{{/*
+  company-module.html — one data module card for a company profile.
+  Context (dict): page = the company page, field = param key, title = card title, icon = emoji
+  Renders nothing when the backing field is empty/missing (fields hide silently).
+  Handles BOTH front-matter shapes found in the corpus: YAML lists and comma-joined/prose strings.
+*/}}
+{{ $p := .page }}
+{{ $field := .field }}
+{{ $v := index $p.Params $field }}
+{{ if eq $field "funding_ownership" }}
+  {{ $v = "" }}
+  {{ if or $p.Params.funding $p.Params.parent_company }}{{ $v = "x" }}{{ end }}
+{{ end }}
+{{ if $v }}
+{{ $tones := dict
+  "primary_materials"   (dict "bg" "linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%)" "be" "#3d7a6f" "hd" "#2d5a4f")
+  "market_segments"     (dict "bg" "linear-gradient(135deg, #f3ede3 0%, #e8dcd0 100%)" "be" "#d4a574" "hd" "#6b5344")
+  "production_capacity" (dict "bg" "linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%)" "be" "#22c55e" "hd" "#166534")
+  "products"            (dict "bg" "linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%)" "be" "#ec4899" "hd" "#831843")
+  "certifications"      (dict "bg" "#f0fdf4" "be" "#22c55e" "hd" "#166534")
+  "primary_focus"       (dict "bg" "linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%)" "be" "#6366f1" "hd" "#3730a3")
+  "fields_of_interest"  (dict "bg" "linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%)" "be" "#6366f1" "hd" "#3730a3")
+  "funding_ownership"   (dict "bg" "linear-gradient(135deg, #fefce8 0%, #fef9c3 100%)" "be" "#ca8a04" "hd" "#713f12") }}
+{{ $tone := index $tones $field | default (dict "bg" "#ffffff" "be" "#3d7a6f" "hd" "#2d5a4f") }}
+<div style="background: {{ $tone.bg | safeCSS }}; border-left: 4px solid {{ $tone.be | safeCSS }}; padding: 1.5rem; border-radius: 8px;">
+  <h3 style="color: {{ $tone.hd }}; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">{{ .icon }} {{ .title }}</h3>
+
+  {{ if eq $field "production_capacity" }}
+    {{/* list of maps; tolerate a malformed string value by rendering it as a paragraph */}}
+    {{ if reflect.IsSlice $v }}
+      <div style="display: grid; gap: 0.75rem;">
+        {{ range $v }}
+        <div style="background: white; padding: 1rem; border-radius: 6px; border: 1px solid rgba(0,0,0,0.08);">
+          <div style="font-weight: 600; color: #334155;">{{ .biopolymer }}</div>
+          <div style="color: #475569; font-size: 0.95rem; margin-top: 0.25rem;">⚙️ {{ .capacity }}{{ with .location }} · 📍 {{ . }}{{ end }}</div>
+        </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p style="color: #475569; line-height: 1.6; margin: 0;">{{ $v }}</p>
+    {{ end }}
+
+  {{ else if eq $field "funding_ownership" }}
+    {{ with $p.Params.funding }}<p style="color: #475569; margin: 0 0 0.5rem 0;"><strong>Funding:</strong> {{ . }}</p>{{ end }}
+    {{ with $p.Params.parent_company }}<p style="color: #475569; margin: 0;"><strong>Part of:</strong> {{ partial "auto-link-content.html" (dict "Content" .) }}</p>{{ end }}
+
+  {{ else }}
+    {{/* list renderer for both shapes: string or list; short items = chips-like list, prose = paragraph */}}
+    {{ $items := slice }}
+    {{ if reflect.IsSlice $v }}
+      {{ range $v }}{{ with . }}{{ $items = $items | append (string .) }}{{ end }}{{ end }}
+    {{ else if findRE "," (string $v) }}
+      {{ range split (string $v) "," }}{{ $items = $items | append (trim . " ") }}{{ end }}
+    {{ else }}
+      {{ $items = slice (string $v) }}
+    {{ end }}
+
+    {{ $isProse := false }}
+    {{ range $items }}
+      {{ if gt (len .) 60 }}{{ $isProse = true }}{{ end }}
+    {{ end }}
+
+    {{ if $isProse }}
+      <p style="color: #475569; line-height: 1.6; margin: 0;">{{ partial "auto-link-content.html" (dict "Content" (delimit $items "; ")) }}</p>
+    {{ else }}
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        {{ range $items }}
+        <li style="padding: 0.3rem 0; color: #475569; border-bottom: 1px solid rgba(0,0,0,0.05);">✓ {{ partial "auto-link-content.html" (dict "Content" .) }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

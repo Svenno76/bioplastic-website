@@ -1,4 +1,5 @@
----logo: /images/logos/evonik.png
+---
+logo: /images/logos/evonik.png
 title: Evonik Industries
 company_type: "Recycling & Recovery"
 headquarters: Essen, Germany

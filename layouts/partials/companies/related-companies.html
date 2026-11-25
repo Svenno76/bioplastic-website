@@ -1,0 +1,39 @@
+{{/*
+  related-companies.html — rail: companies of the same company_type.
+  Excludes self; caps at 6 links. (Upgrade path per spec §5: rank by news co-coverage
+  once the news `company:` field has fuller coverage.)
+  Context (dict): page = the company page, ctype = company_type param (string or list).
+*/}}
+{{ $p := .page }}
+{{ $ctype := .ctype }}
+{{ $companyName := $p.Title }}
+{{ $typeLabel := "" }}
+{{ if reflect.IsSlice $ctype }}
+  {{ $typeLabel = index $ctype 0 }}
+{{ else }}
+  {{ $typeLabel = string $ctype }}
+{{ end }}
+
+{{ $peers := where (where $p.Site.RegularPages "Section" "companies") "Params.company_type" $typeLabel }}
+{{ if $peers }}
+<div style="background: #ffffff; border: 1px solid #e5e7eb; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem;">
+  <h3 style="color: #2d5a4f; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">🏭 Related Companies</h3>
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    {{ $shown := 0 }}
+    {{ range first 12 $peers }}
+      {{ if and (ne .Title $companyName) (lt $shown 6) }}
+        {{ $shown = add $shown 1 }}
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid #f1f5f9;">
+          <a href="{{ .Permalink }}" style="color: #2d5a4f; text-decoration: none; font-size: 0.9rem; font-weight: 500; line-height: 1.4; display: block;">
+            {{ .Title }}
+          </a>
+          <span style="color: #94a3b8; font-size: 0.75rem;">{{ $typeLabel }}</span>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  <a href="/companies/" style="display: inline-block; margin-top: 1rem; color: white; background: #3d7a6f; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
+    All Companies →
+  </a>
+</div>
+{{ end }}

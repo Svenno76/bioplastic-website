@@ -1,4 +1,5 @@
----title: Sestec
+---
+title: Sestec
 headquarters: Poland and Germany
 website: https://www.sestec.pl
 primary_materials: Bio-based adhesives (protein-based)

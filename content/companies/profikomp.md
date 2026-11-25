@@ -1,4 +1,5 @@
----logo: /images/logos/profikomp.png
+---
+logo: /images/logos/profikomp.png
 title: ProfiKomp Environmental Technologies
 company_type: "Industry Body / Consulting"
 headquarters: Gödöllő, Hungary

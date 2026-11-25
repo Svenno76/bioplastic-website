@@ -1,4 +1,5 @@
----title: Vioneo
+---
+title: Vioneo
 headquarters: Denmark / Germany
 founded: '2024'
 website: https://vioneo.com

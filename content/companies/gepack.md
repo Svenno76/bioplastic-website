@@ -1,4 +1,5 @@
----logo: /images/logos/gepack.png
+---
+logo: /images/logos/gepack.png
 title: Gepack
 company_type: "Converter / Packaging"
 headquarters: Leiria, Portugal

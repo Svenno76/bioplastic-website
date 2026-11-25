@@ -1,4 +1,5 @@
----title: Teysha Technologies
+---
+title: Teysha Technologies
 headquarters: Liverpool, United Kingdom
 website: https://teyshatech.co.uk
 primary_materials: AggiePol (tunable polycarbonate bioplastic)

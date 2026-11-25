@@ -1,4 +1,5 @@
----logo: /images/logos/frubaca.png
+---
+logo: /images/logos/frubaca.png
 title: Frubaça
 company_type: "Converter / Packaging"
 headquarters: Vila Nova de Gaia, Portugal

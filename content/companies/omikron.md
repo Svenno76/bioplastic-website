@@ -1,4 +1,5 @@
----title: Omikron Compounds
+---
+title: Omikron Compounds
 headquarters: Italy / Germany (Tecnopol Group)
 website: https://www.omikroncompound.com
 primary_materials: Eco-polypropylene, recycled plastic compounds

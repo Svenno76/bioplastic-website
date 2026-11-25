@@ -1,14 +1,14 @@
 ---
 logo: /images/logos/exxonmobil.png
 title: "ExxonMobil"
-company_type: "Technology & Equipment; Recycling & Recovery; Biotechnology"
+company_type: "Technology & Equipment"
 headquarters: "Texas, United States"
 status: "Active"
 short_description: "Global energy and chemical company investing in bioplastics research, advanced recycling, and synthetic biology applications."
 website: "https://corporate.exxonmobil.com"
 founded: "1999"
 employees: "70,000+"
-primary_focus: ["Advanced Recycling", "Bioplastics Research", "Synthetic Biology", "Sustainable Materials"]
+primary_focus: ["Chemical Recycling", "Bioplastics Research", "Synthetic Biology", "Sustainable Materials"]
 market_segments: "Chemical Industry, Plastics Manufacturing, Biofuels, Advanced Materials"
 publicly_listed: true
 stock_ticker: "XOM"

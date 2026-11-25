@@ -1,0 +1,40 @@
+{{/*
+  related-glossary.html — rail: glossary terms referenced by this company's
+  structured front matter (primary_materials, certifications, primary_focus,
+  fields_of_interest, products, market_segments). Substring match on term title.
+  Context (dict): page = the company page.
+*/}}
+{{ $p := .page }}
+{{ $tokens := slice }}
+{{ range slice "primary_materials" "market_segments" "certifications" "primary_focus" "fields_of_interest" "products" }}
+  {{ $v := index $p.Params . }}
+  {{ if $v }}
+    {{ if not (reflect.IsSlice $v) }}{{ $v = slice $v }}{{ end }}
+    {{ range $v }}{{ $tokens = $tokens | append (string .) }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ $haystack := lower (delimit $tokens " ") }}
+{{ $hits := slice }}
+{{ if gt (len $tokens) 0 }}
+  {{ range where $p.Site.RegularPages "Section" "glossary" }}
+    {{ $needle := lower .Title }}
+    {{ if and (ge (len $needle) 3) (in $haystack $needle) }}
+      {{ if not (in $hits .Permalink) }}{{ $hits = $hits | append . }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if $hits }}
+<div style="background: #f8fafc; border: 1px solid #e5e7eb; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem;">
+  <h3 style="color: #2d5a4f; margin-bottom: 1rem; font-size: 1.1rem; font-weight: 600;">📚 Glossary Terms</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+    {{ range $hits }}
+    <a href="{{ .Permalink }}" style="display: inline-block; background: #eef6f3; color: #2d5a4f; padding: 0.35rem 0.8rem; border-radius: 16px; text-decoration: none; font-size: 0.82rem; font-weight: 500;">
+      {{ .Title }}
+    </a>
+    {{ end }}
+  </div>
+  <a href="/glossary/" style="display: inline-block; margin-top: 1rem; color: #3d7a6f; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
+    Full Glossary →
+  </a>
+</div>
+{{ end }}

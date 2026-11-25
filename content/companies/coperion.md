@@ -6,7 +6,7 @@ headquarters: Stuttgart, Germany
 founded: '1879'
 status: Active
 short_description: Global equipment provider specializing in compounding and extrusion systems, feeding and weighing technology, bulk material handling, and recycling equipment for the plastics, chemical, food, pharmaceutical, and mineral industries. Key technology provider for bioplastics production.
-website: \"https://www.coperion.com\"
+website: https://www.coperion.com
 primary_materials: PET, polyolefins, PLA, PHA, engineering plastics, masterbatches, bio-based and biodegradable polymers
 market_segments: Plastics, chemical, food processing, pharmaceutical, recycling, minerals, bio-plastics
 publicly_listed: false

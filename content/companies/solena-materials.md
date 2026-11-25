@@ -1,4 +1,5 @@
----title: Solena Materials
+---
+title: Solena Materials
 headquarters: London, United Kingdom
 founded: '2021'
 website: https://www.solena-materials.com

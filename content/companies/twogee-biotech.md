@@ -1,4 +1,5 @@
----logo: /images/logos/twogee-biotech.png
+---
+logo: /images/logos/twogee-biotech.png
 title: Twogee Biotech
 company_type: "Biotechnology"
 headquarters: Martinsried, Munich, Germany

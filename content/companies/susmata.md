@@ -1,4 +1,5 @@
----title: SUSMATA
+---
+title: SUSMATA
 headquarters: Germany
 website: https://susmata.com
 primary_materials: Plant-based leather alternatives, bio-based surface materials

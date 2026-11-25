@@ -1,4 +1,5 @@
----logo: /images/logos/european-bioplastics-eubp.png
+---
+logo: /images/logos/european-bioplastics-eubp.png
 title: European Bioplastics (EUBP)
 company_type: "Industry Body / Consulting"
 headquarters: Berlin, Germany

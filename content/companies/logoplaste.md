@@ -1,4 +1,5 @@
----title: Logoplaste
+---
+title: Logoplaste
 headquarters: Cascais, Portugal
 founded: '1976'
 website: https://www.logoplaste.com

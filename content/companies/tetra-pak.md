@@ -1,4 +1,5 @@
----logo: /images/logos/tetra-pak.png
+---
+logo: /images/logos/tetra-pak.png
 title: Tetra Pak
 company_type: "Converter / Packaging"
 headquarters: Lund, Sweden
