@@ -61,14 +61,6 @@ SaniSure is a global leader in designing, developing, and manufacturing single-u
 - **Scalability**: Systems designed for seamless scale-up from development to production
 - **Cost Efficiency**: Eliminates cleaning validation and related costs
 
-## Market Presence
-
-Global operations with manufacturing facilities in the United States and Europe, serving pharmaceutical, biotech, and advanced therapy companies worldwide.
-
-## Future Vision
-
-SaniSure continues to innovate in single-use technology, developing advanced solutions for emerging manufacturing processes and new therapeutic modalities including gene therapy, cell therapy, and next-generation biologics.
-
 ---
 
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
