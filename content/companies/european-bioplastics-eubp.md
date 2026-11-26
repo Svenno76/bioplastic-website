@@ -103,5 +103,5 @@ European focus with headquarters in Berlin and strategic Brussels office; works 
 EUBP aims to establish comprehensive EU regulatory framework supporting bioplastics expansion, advance standardization efforts, and demonstrate bioplastics' critical role in achieving EU climate and circular economy objectives.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

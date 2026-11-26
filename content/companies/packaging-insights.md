@@ -29,5 +29,5 @@ Unknown
 Packaging industry, with a focus on bioplastic packaging trends and innovations
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

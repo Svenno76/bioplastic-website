@@ -257,6 +257,5 @@ Verde Bioresins' positioning as a publicly listed bioplastics company with propr
 **Long-Term Vision**: Verde Bioresins aims to establish PolyEarthylene as the leading bio-based polyolefin solution globally, replacing conventional PE and PP in high-volume applications while maintaining performance parity and economic competitiveness.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Verde Bioresins investor relations, corporate announcements, NASDAQ filings, and industry databases*
+*Information sourced from corporate website and industry databases*

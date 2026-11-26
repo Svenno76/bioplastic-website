@@ -96,6 +96,5 @@ Greenitio's products support multiple sustainability objectives:
 In September 2025, Greenitio raised US$1.5 million in a seed funding round to scale its functional biopolymer platform. The investment will support the company's expansion into new geographic markets, development of additional bio-based ingredients, and scaling of manufacturing capacity to meet growing demand from cosmetics brands seeking sustainable alternatives to petrochemical ingredients.
 
 ---
-
-*Last updated: June 19, 2026*
-*Information sourced from Greenitio corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

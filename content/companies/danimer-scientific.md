@@ -104,6 +104,5 @@ Danimer Scientific's bankruptcy serves as an important case study in the bioplas
 As of February 2026, Danimer Scientific is operating under Chapter 11 bankruptcy protection. The company's assets, technology, and partnerships may be restructured, acquired, or liquidated as bankruptcy proceedings progress. The company serves as a cautionary example of the risks in commercializing advanced bioplastics technology, despite promising market demand signals.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Danimer Scientific bankruptcy filings, corporate announcements, and industry databases*
+*Information sourced from corporate website and industry databases*

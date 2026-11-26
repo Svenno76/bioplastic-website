@@ -112,6 +112,5 @@ As a major PET and specialty polymer producer, Indorama serves global customers 
 Indorama's expansion into PLA production represents a major strategic move toward bio-based polymers. The planned PLA manufacturing facility in Thailand, developed through partnerships with leading biochemical companies, positions Indorama to serve growing demand for sustainable bioplastics in food contact and packaging applications.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

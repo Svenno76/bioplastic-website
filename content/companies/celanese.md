@@ -76,6 +76,5 @@ Celanese's cellulosic materials offer significant environmental advantages:
 With over 70 years of experience in cellulosic film production, Celanese brings deep technical expertise and continuous innovation to the bioplastics industry. The company's BioPolymer Solutions business, led by Kevin Parker (Business Director, Engineered Materials), actively engages with industry stakeholders to advance sustainable packaging solutions.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

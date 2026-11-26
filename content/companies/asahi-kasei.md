@@ -62,5 +62,5 @@ In May 2021, the Asahi Kasei Group announced its goal of achieving carbon neutra
 Asahi Kasei maintains a global presence with manufacturing facilities, R&D centers, and sales offices across Asia, Europe, and the Americas, enabling the company to serve customers worldwide with its bio-based materials and engineering plastics solutions.
 
 ---
-
-*Last updated: January 05, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

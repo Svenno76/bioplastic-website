@@ -106,6 +106,5 @@ Biotec's bioplastic compounds contribute to environmental sustainability by:
 - **Supporting circular economy**: Biodegradable materials that return to the biological cycle
 
 ---
-
-*Last updated: June 19, 2026*
-*Information sourced from Biotec corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

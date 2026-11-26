@@ -496,10 +496,8 @@ PhaBuilder's vision encompasses establishing itself as a global leader in next-g
 The company's unique NGIB platform, backed by Tsinghua University research excellence and exceptional investor support, positions PhaBuilder to achieve global competitiveness and market leadership. By demonstrating that engineered biology can produce industrial-scale bioplastics cost-competitively while providing superior environmental performance, PhaBuilder aspires to fundamentally transform global plastic production toward circular, sustainable, bio-based alternatives.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [PhaBuilder Official Website](https://eng.phabuilder.com/)
 - [PhaBuilder Company Introduction](https://eng.phabuilder.com/company)
 - [PhaBuilder Synthetic Biology Innovation - The Mills Fabrica](https://www.themillsfabrica.com/about-us/insights/blogs/innovation-series-understanding-synthetic-biology-with-phabuilder/)

@@ -46,5 +46,5 @@ Automotive, appliances, construction, packaging, engineering
 - **Partner**: Shenyang University of Chemical Technology
 
 ---
-
-*Last updated: January 02, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

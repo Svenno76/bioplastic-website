@@ -145,6 +145,5 @@ Trinseo's presence in both traditional and sustainable polymers positions the co
 With growing demand for sustainable elastomers and specialized polymers, Trinseo continues to invest in bioplastic development, expand its product portfolio, and serve customers across diverse industries seeking optimal balance between performance and environmental responsibility.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

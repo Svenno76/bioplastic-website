@@ -55,6 +55,5 @@ The project demonstrates Gepack's capability to process novel bio-based polymers
 As one of Portugal's leading independent packaging manufacturers, Gepack serves both domestic and international brands, exporting to over 15 countries across Europe and Africa. The company's technical expertise in processing next-generation polymers positions it as a strategic partner for brands seeking to meet EU Packaging and Packaging Waste Regulation (PPWR) targets.
 
 ---
-
-*Last updated: July 2, 2026*
-*Information sourced from Gepack corporate communications and industry publications*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

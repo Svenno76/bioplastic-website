@@ -123,5 +123,5 @@ The technology was first commercialized in December 2022 at ExxonMobil's Baytown
 Exxtend enables recycling of plastics that mechanical recycling cannot efficiently process, significantly expanding the range of materials entering the circular economy and supporting broader sustainability goals across the plastics value chain.
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

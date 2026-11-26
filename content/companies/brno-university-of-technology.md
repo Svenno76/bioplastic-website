@@ -288,6 +288,5 @@ Planned development includes:
 - Knowledge dissemination supporting market development
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from Brno University of Technology official website, Faculty of Chemistry research description, Materials Research Centre information, and academic institution databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

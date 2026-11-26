@@ -9,6 +9,7 @@ website: "https://www.kingfa.com.cn/en/"
 founded: "1993"
 employees: "10,000+"
 primary_materials: "PLA, PBAT, PBS, PGA, Starch-based bioplastics, ECOPOND biodegradable compounds"
+products: ["ECOPOND Biodegradable Compounds", "ECOPOND Flex", "ECOPOND Rigid", "ECOPOND Coating"]
 market_segments: "Compostable packaging, agricultural films, food service items, consumer goods, automotive, electronics"
 publicly_listed: true
 stock_ticker: "SSE:600143"
@@ -127,3 +128,7 @@ Globally, Kingfa competes with BASF (Ecoflex), Novamont (Mater-Bi), and NatureWo
 - [Compostable](/glossary/compostable/) — Certification standard met by ECOPOND products
 - [Bioplastic Blends](/glossary/bioplastic-blends/) — Kingfa's primary technical approach
 - [Starch-based Bioplastic](/glossary/starch-based-bioplastic/) — Alternative blend component
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

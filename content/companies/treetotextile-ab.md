@@ -125,6 +125,5 @@ TreeToTextile's patented process represents a fundamental advancement in man-mad
 - Supports brand Science-Based Targets (SBTi) commitments
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from TreeToTextile and Lenzing AG corporate communications, press releases, and industry publications*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -286,6 +286,5 @@ Balrampur Chini Mills' entry into bioplastics through the Bioyug brand represent
 The success of the Kumbhi facility could trigger additional Balrampur PLA facility development in other sugarcane-producing regions of India and potentially globally, multiplying the impact of this pioneering integrated model.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Balrampur Chini Mills corporate announcements, investor relations, NSE filings, Bioyug brand information, and industry databases*
+*Information sourced from corporate website and industry databases*

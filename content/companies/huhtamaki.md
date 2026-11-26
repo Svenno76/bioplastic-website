@@ -151,5 +151,5 @@ Huhtamaki continues to advance sustainable packaging innovation, with focus on:
 - Customer support for sustainability transitions
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

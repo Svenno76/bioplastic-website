@@ -29,5 +29,5 @@ bio-polyurethanes, PICE polymers, plant-based liquid polymers
 personal care, cosmetics, fragrances, performance materials, textiles, footwear, apparel, coatings, adhesives
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

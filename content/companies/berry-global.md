@@ -112,6 +112,5 @@ As a major global packaging manufacturer, Berry Global (now part of Amcor) broug
 Berry Global's legacy as an innovator in sustainable packaging continues through Amcor's integrated operations, combining the strengths of both companies to advance packaging innovation, sustainability, and customer value in the global market.
 
 ---
-
-*Last updated: February 13, 2026*
-*Note: Company status reflects April 30, 2025 acquisition by Amcor*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases**Note: Company status reflects April 30, 2025 acquisition by Amcor*

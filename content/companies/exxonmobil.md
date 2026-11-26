@@ -80,5 +80,5 @@ Global operations with research facilities and production plants across multiple
 As one of the world's largest chemical producers, ExxonMobil's bioplastics and advanced recycling initiatives have significant potential impact on plastic industry sustainability and circular economy development.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

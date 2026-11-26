@@ -29,5 +29,5 @@ Bio-based TPU (ESTANE® ECO, Pearlthane™ ECO), Carbopol® BioSense polymer, en
 Automotive, personal care, pharmaceuticals, medical devices, footwear, adhesives, additive manufacturing, textiles, coatings, industrial applications
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -90,6 +90,5 @@ Genomatica's bio-based chemicals offer significant environmental benefits compar
 - **Biodegradability**: Some bio-based products offer improved end-of-life options
 
 ---
-
-*Last updated: June 19, 2026*
-*Information sourced from Genomatica corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

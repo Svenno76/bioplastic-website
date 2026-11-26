@@ -102,6 +102,5 @@ Each division focuses on specific market sectors while maintaining commitment to
 LANXESS is positioned as a key player in the specialty chemicals industry, leveraging its technical expertise in polymer science and chemical engineering to develop next-generation bio-based and sustainable materials meeting stringent performance requirements across diverse industrial applications.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

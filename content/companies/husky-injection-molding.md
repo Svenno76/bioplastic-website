@@ -146,6 +146,5 @@ Husky continues to advance equipment innovation, with focus on:
 - Support for customer sustainability goals
 
 ---
-
-*Last updated: February 13, 2026*
-*Note: Husky Technologies manufactures injection molding equipment rather than plastic materials, serving as critical infrastructure for the bioplastics and plastics processing industries*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases**Note: Husky Technologies manufactures injection molding equipment rather than plastic materials, serving as critical infrastructure for the bioplastics and plastics processing industries*

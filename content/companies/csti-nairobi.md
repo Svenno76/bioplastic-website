@@ -464,10 +464,8 @@ CSTI is positioned for continued growth and expanded African impact:
 CSTI represents a distinctive model of African scientific innovation combining research excellence with explicit commitment to community benefit and local development. The institute's bioplastics research program exemplifies this approach, developing sustainable materials tailored to African contexts while building local scientific capacity. As East Africa and Africa broadly develop bioplastics sectors and circular economy capabilities, CSTI's research contributions and community-focused innovation model position it as a cornerstone of inclusive, locally-responsive technology development supporting continental sustainability and development goals.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [CSTI Official Website](https://www.csti.or.ke/)
 - [Kenya Sustainable Cities - African Made Bioplastics](https://www.csti.or.ke/post/2018/08/15/kenya-sustainable-cities-african-made-bioplastics)
 - [CSTI Climate Change Position Statement](https://www.csti.or.ke/climate-change-position-statement)

@@ -85,5 +85,5 @@ Packamama is an Australian sustainable packaging company revolutionizing wine lo
 - USA (planned expansion)
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

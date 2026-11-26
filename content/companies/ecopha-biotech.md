@@ -126,6 +126,5 @@ Ecopha is addressing critical market needs:
 - Full circular economy compatibility
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from official website and industry databases*
+*Information sourced from corporate website and industry databases*

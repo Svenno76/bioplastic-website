@@ -292,6 +292,5 @@ ProfiKomp plans continued expansion of:
 - Global growth through regional affiliates and partnerships
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from ProfiKomp corporate website, European Bioplastics member directory, scientific publications, and company registration records*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

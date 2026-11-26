@@ -19,3 +19,7 @@ company_type: "Biotechnology"
 ---
 
 SUSMATA AG develops plant-based alternatives to conventional leather and surface materials. The company uses bio-based material innovations to create sustainable replacements for the fashion, automotive, and professional products industries. SUSMATA is materials are designed to replace both fossil-based synthetic materials and animal-derived leather, covering applications from apparel and accessories to automotive interiors and professional equipment.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

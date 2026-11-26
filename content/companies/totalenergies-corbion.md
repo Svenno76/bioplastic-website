@@ -29,6 +29,5 @@ PLA, rPLA, lactide monomers
 packaging, consumer goods, agriculture, automotive, electronics, textiles, 3D printing, injection molding
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

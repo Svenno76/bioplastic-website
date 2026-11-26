@@ -58,6 +58,5 @@ Tetra Pak's environmental strategy focuses on three pillars:
 Tetra Pak's adoption of bio-based polyethylene has demonstrated that renewable materials can meet the stringent food safety and performance requirements of liquid food packaging. The company's scale (billions of packages annually) makes its material choices influential throughout the packaging supply chain, driving demand for bio-based polymers and encouraging other manufacturers to follow suit.
 
 ---
-
-*Last updated: June 28, 2026*
-*Information sourced from Tetra Pak corporate website, UPM partnership announcements, and industry reports*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

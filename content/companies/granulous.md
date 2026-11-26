@@ -318,6 +318,5 @@ Granulous represents a distinctive and critical role in the bioplastics ecosyste
 **Long-Term Vision**: Establish Granulous as the leading accessible bioplastics supplier in Europe and globally, enabling small and medium manufacturers to transition to sustainable, biodegradable materials while driving broader market adoption and supporting the transition from conventional plastics to genuinely sustainable alternatives across diverse applications and industries.
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from Granulous corporate website, material specifications, certifications, and industry publications*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

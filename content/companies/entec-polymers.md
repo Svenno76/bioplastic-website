@@ -115,5 +115,5 @@ Entec Polymers positions itself as:
 - **Innovation Partner:** Continuously expanding portfolio with emerging technologies
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

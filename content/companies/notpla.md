@@ -124,6 +124,5 @@ Notpla's commitment to 100% natural materials—rejecting synthetic additives ev
 - Supports marine regeneration through sustainable harvesting
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Notpla corporate website, regulatory filings, and industry databases*
+*Information sourced from corporate website and industry databases*

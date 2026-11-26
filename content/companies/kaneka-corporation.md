@@ -297,6 +297,5 @@ Kaneka Corporation's seawater-degradable PHBH represents a critical solution to 
 **Long-Term Vision**: Kaneka aims to establish seawater-degradable PHBH as the global standard for ocean-exposed applications, supporting the transition to marine-safe materials and addressing ocean plastic pollution. The company's proven technology, manufacturing excellence, major brand validation, and financial strength position it as the global leader in ocean-compatible bioplastics for decades to come.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Kaneka Corporation investor relations, Tokyo Stock Exchange filings, corporate announcements, Starbucks partnership details, and industry databases*
+*Information sourced from corporate website and industry databases*

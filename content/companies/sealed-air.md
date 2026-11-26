@@ -151,5 +151,5 @@ Sealed Air continues to advance packaging innovation, with focus on:
 - Customer collaboration for packaging optimization
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

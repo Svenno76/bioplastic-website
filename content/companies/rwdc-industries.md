@@ -262,6 +262,5 @@ RWDC Industries is positioned at the forefront of marine-degradable bioplastics 
 **Long-Term Vision**: Establish RWDC as the global leader in marine-degradable bioplastics, providing innovative solutions to single-use plastic pollution and ocean environmental protection while supporting the transition to genuinely sustainable materials across packaging and consumer goods industries.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from RWDC Industries corporate announcements, funding announcements, partnership agreements, and industry publications*
+*Information sourced from corporate website and industry databases*

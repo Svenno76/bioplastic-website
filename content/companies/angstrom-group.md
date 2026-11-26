@@ -19,3 +19,7 @@ sitemap:
 ## Overview
 
 Angstrom Group specializes in designing, building, and installing modular cleanroom systems for industries requiring controlled environments, including bioplastics manufacturing, biopharmaceuticals, and medical research.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

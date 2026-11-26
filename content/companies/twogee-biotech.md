@@ -51,6 +51,5 @@ Twogee Biotech operates as a technology provider and processor, offering enzymat
 Twogee Biotech's technology directly supports the bioplastics supply chain by providing sustainable, second-generation sugar feedstocks that do not compete with food production. The enzymatic conversion of agricultural waste into fermentable sugars enables bio-based polymer production (PLA, PHA, bio-PE) from non-food biomass.
 
 ---
-
-*Last updated: June 28, 2026*
-*Information sourced by HTGF, PitchBook, Tracxn, and Startbase*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

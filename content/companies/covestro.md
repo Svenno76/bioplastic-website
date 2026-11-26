@@ -59,6 +59,5 @@ Covestro invests heavily in white biotechnology and renewable resource developme
 Covestro maintains production facilities across Europe, Asia, and the Americas, enabling efficient supply chains and close customer proximity. The company's research and development centers focus on innovation in sustainable chemistry, advanced polymers, and circular economy solutions.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

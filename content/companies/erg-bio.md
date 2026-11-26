@@ -29,5 +29,5 @@ Not bioplastics - produces fermentable sugars, synthetic aviation fuels, and ind
 Energy production, chemical manufacturing, aviation fuels, industrial supply chains
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

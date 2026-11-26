@@ -492,10 +492,8 @@ EcoNest is positioned for substantial growth as a specialist innovator in Philip
 EcoNest aspires to establish the Philippines as a center for specialty bioplastics innovation and advanced materials manufacturing. Through development of proprietary technologies, continuous product innovation, and market expansion, the company will demonstrate the viability of indigenous bioplastics production and position the Philippines as a leader in sustainable materials innovation. EcoNest's success supports Philippine economic development, establishes manufacturing capability in advanced materials, supports the country's circular economy transition, and contributes to global efforts to address plastic pollution and environmental challenges.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [EcoNest Sustainable Packaging Official Website](https://www.econestph.com/)
 - [Top 60 Biodegradable Packaging Companies in Philippines - ensun](https://ensun.io/search/biodegradable-packaging/philippines)
 - [Philippines Bioplastics Market Outlook to 2031](https://www.6wresearch.com/industry-report/philippines-bioplastics-market-outlook)

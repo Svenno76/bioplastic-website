@@ -137,5 +137,5 @@ Gabriel-Chemie supports the transition to sustainable plastics by:
 - **Technical Support:** Application expertise and problem-solving capabilities
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

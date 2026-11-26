@@ -250,6 +250,5 @@ Moviplast plans continued growth through:
 - Expansion into adjacent packaging categories
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from Moviplast corporate website, company certifications and registrations, Romanian business databases, and industry directories*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

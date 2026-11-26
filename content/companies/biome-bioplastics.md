@@ -282,6 +282,5 @@ Biome Bioplastics represents the mature, established bioplastics innovator—bui
 **Long-Term Vision**: Establish Biome Bioplastics as a leading European bioplastics innovator, providing high-performance, genuinely biodegradable materials that successfully compete with and replace conventional plastics across packaging, agricultural, and industrial applications. Support the transition to sustainable materials while driving innovation in advanced biodegradable chemistry and supporting genuine circular economy principles.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Biome Bioplastics corporate website, company announcements, UKRI partnerships, and industry publications*
+*Information sourced from corporate website and industry databases*

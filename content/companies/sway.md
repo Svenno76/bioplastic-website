@@ -154,6 +154,5 @@ Sway's distinctive approach combines seaweed-based material science with regener
 As demand for sustainable single-use products and food service packaging intensifies globally, and corporate and consumer priorities emphasize both environmental and social sustainability, Sway's seaweed-based materials combined with regenerative coastal supply chains position it for significant market growth. The company's authentic sustainability narrative—combining home-compostable bioplastics with ocean regeneration and coastal community benefit—appeals to conscious consumers and brand owners. Geographic expansion, development of new product categories, and scaling of regenerative seaweed farming partnerships represent key growth opportunities for Sway in the evolving sustainable materials market.
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from Sway corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

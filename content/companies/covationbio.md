@@ -81,6 +81,5 @@ Covation Biomaterials helps customers:
 - **Scale-Up:** Continuing to scale production to meet growing global demand
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

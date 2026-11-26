@@ -95,6 +95,5 @@ SYUCT plays a critical role in the collaborative bamboo cellulose bioplastic res
 SYUCT's role in the NEFU-SYUCT collaboration represents a model for university-industry-region alignment in China's push toward carbon neutrality (2060 target) and carbon peaking (2030 target).
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from SYUCT official website, academic publications, Chinese research databases, and industry reports*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

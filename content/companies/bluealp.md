@@ -100,5 +100,5 @@ Eindhoven, Netherlands
 [www.bluealp.nl](https://www.bluealp.nl)
 
 ---
-
-*Last updated: July 29, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

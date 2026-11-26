@@ -153,6 +153,5 @@ TIPA represents a breakthrough in compostable flexible packaging technology, hav
 As regulations increasingly restrict conventional flexible packaging and corporate sustainability commitments drive material transitions, TIPA's proven high-barrier compostable films are positioned to capture significant market share in food and premium packaging sectors. The company's technical achievement in creating genuine barrier performance in compostable materials removes a critical barrier to widespread bioplastics adoption. Global expansion through new facilities, development of specialized film grades for emerging applications, and integration with major brand customers represent key growth opportunities. The company's $70M expansion funding indicates confidence in strong market demand and growth trajectory.
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from TIPA corporate announcements, certifications, and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

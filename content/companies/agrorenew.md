@@ -240,6 +240,5 @@ With its innovative crop waste feedstock utilization, industrial-scale productio
 **Long-Term Vision**: Establish AgroRenew as the leading agricultural waste-to-bioplastics producer globally, demonstrating the viability and scalability of circular bioeconomy models that transform crop residues into high-performance, fully biodegradable materials. Support the transition to sustainable packaging and consumer goods across North America and globally while creating economic benefit for agricultural communities and supporting genuine circular economy principles.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from AgroRenew corporate website, facility announcements, agricultural partnerships, and industry publications*
+*Information sourced from corporate website and industry databases*

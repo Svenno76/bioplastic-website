@@ -54,5 +54,5 @@ BIOWEG is a purpose-driven biotechnology company founded in 2019, powered by con
 BIOWEG addresses the EU microplastic ban and global regulatory trends by providing superior performance alternatives to conventional microplastics, enabling brands to comply with regulations while maintaining product quality.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

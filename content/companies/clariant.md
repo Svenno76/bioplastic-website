@@ -157,6 +157,5 @@ Clariant continues to advance specialty chemical innovation, with focus on:
 - Market expansion
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

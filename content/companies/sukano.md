@@ -75,5 +75,5 @@ This global footprint ensures consistent product quality, reliable supply, and l
 Sukano actively contributes to the transition from fossil-based to renewable packaging materials. The company's products enable the broader adoption of PLA and other bioplastics by solving technical challenges and enhancing performance characteristics.
 
 ---
-
-*Last updated: January 05, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

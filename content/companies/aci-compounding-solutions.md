@@ -54,6 +54,5 @@ Packaging, Automotive, Electrical & Electronics, Industrial Applications, Wire &
 - **Tunisia** - Production facility
 
 ---
-
-*Last updated: February 13, 2026*
-*Information sourced from Westlake Corporation acquisition announcement (January 2025)*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

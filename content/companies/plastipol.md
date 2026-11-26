@@ -139,6 +139,5 @@ As Poland's bioplastics sector matures, Plastipol's technical expertise and Euro
 Integration of advanced recycling technologies with primary bioplastic processing will enable comprehensive circular economy solutions, supporting the European shift toward closed-loop plastic systems.
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from Plastipol corporate website, European bioplastics industry databases, and company registration records*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

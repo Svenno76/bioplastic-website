@@ -40,5 +40,5 @@ Plastics, chemical, food processing, pharmaceutical, recycling, minerals, bio-pl
 - **Recycling Technologies** - Mechanical processing, compounding, pelletizing, and odor reduction systems for plastics recycling
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

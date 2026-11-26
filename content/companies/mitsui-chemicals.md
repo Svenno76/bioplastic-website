@@ -65,6 +65,5 @@ The company maintains research and development facilities across Japan, Europe, 
 Mitsui Chemicals is committed to circular economy principles and sustainable development. The company invests significantly in research and development of bio-based materials, renewable chemical production, and waste reduction initiatives. Strategic partnerships with universities and research institutions support ongoing innovation in bioplastics and advanced materials.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

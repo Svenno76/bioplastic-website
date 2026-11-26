@@ -32,5 +32,5 @@ As part of the Indorama Ventures group, UCY Polymers benefits from IVL's global 
 - **Process:** Sorting, grinding, hot washing, recycling of post-consumer PET bottles
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

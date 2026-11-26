@@ -87,5 +87,5 @@ Kemvera's approach contributes to:
 - **Economic Viability:** Cost-effective sustainable alternatives
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

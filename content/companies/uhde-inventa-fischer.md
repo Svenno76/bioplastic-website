@@ -96,6 +96,5 @@ Founded in 1924 as Inventa AG in Switzerland, the company has been at the forefr
 - **PLAneo® plants**: Multiple commercial references
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from thyssenkrupp Uhde corporate website, technology brochures, and industry publications*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

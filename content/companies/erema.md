@@ -105,6 +105,5 @@ EREMA's recycling technologies contribute significantly to the circular economy:
 EREMA continues to invest in R&D for advanced recycling technologies, including chemical recycling integration, improved sorting and sensor technologies, and digitalization of recycling processes. The company is actively developing solutions for the recycling of complex multi-layer packaging and mixed plastic waste streams that are difficult to recycle mechanically.
 
 ---
-
-*Last updated: June 19, 2026*
-*Information sourced from EREMA corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

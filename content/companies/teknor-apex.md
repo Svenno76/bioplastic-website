@@ -29,5 +29,5 @@ PLA, PHA, Bio-based polyesters, PETek®
 Packaging, Consumer, Automotive, Medical, Industrial
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

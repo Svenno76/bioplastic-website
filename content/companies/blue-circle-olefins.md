@@ -20,8 +20,6 @@ date: 2026-02-14
 draft: false
 sitemap:
   priority: 0.8
-last_updated: 2026-10-14
-profile_status: complete
 ---
 
 
@@ -351,6 +349,5 @@ profile_status: complete
 1. Blue Circle Olefins corporate website, company announcements, and industry publications
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

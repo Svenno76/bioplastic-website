@@ -70,6 +70,5 @@ Stora Enso's proprietary FuraCore process converts fructose (derived from renewa
 Stora Enso's focus on renewable materials aligns with global sustainability goals and the circular economy. By transforming the industry from fossil-based to bio-based materials, the company contributes to reducing carbon emissions and dependence on non-renewable resources.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

@@ -140,5 +140,5 @@ Norsk e-Fuel's approach:
 - **Position Norway** as sustainable fuel/chemical leader
 
 ---
-
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

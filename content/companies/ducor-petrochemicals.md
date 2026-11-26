@@ -78,6 +78,5 @@ Ducor enables customers to:
 - Achieve lifecycle environmental goals without product compromises
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

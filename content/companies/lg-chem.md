@@ -65,6 +65,5 @@ The company's bioplastics division is part of its broader Petrochemicals segment
 LG Chem operates eight factories in South Korea and maintains a network of 29 business locations in 15 countries, including a holding company in China, 14 overseas manufacturing subsidiaries, five marketing subsidiaries, seven representative offices, and two R&D centers.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

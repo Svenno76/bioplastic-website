@@ -221,6 +221,5 @@ Promateris' strategic position as regional leader in compostable packaging suppo
 - Continued category leadership in bioplastic packaging
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from Promateris corporate website, Bucharest Stock Exchange (BVB) filings, European Bioplastics member directory, and company financial reports*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

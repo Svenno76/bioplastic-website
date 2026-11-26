@@ -29,5 +29,5 @@ Biodegradable polymers, plant-based biopolymers, polymer-peptide conjugates, car
 Medical devices, tissue engineering, food packaging, pharmaceutical delivery systems
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

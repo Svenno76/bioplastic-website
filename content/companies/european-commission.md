@@ -21,5 +21,5 @@ The European Commission is the executive body of the European Union responsible 
 Bioplastics policy, sustainability regulations, circular economy, biodegradable polymers standardization, environmental protection, industrial policy, research and innovation funding
 
 ---
-
-*Last updated: January 02, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

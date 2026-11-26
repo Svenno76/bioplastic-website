@@ -131,6 +131,5 @@ NatureWorks maintains active participation in industry organizations and standar
 With growing demand for sustainable packaging and materials, NatureWorks continues to expand production capacity and develop new Ingeo grades to meet evolving market needs. The company's commitment to renewable sourcing and continuous improvement positions it as a key enabler of the circular bioeconomy transition.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from NatureWorks corporate website and industry databases*
+*Information sourced from corporate website and industry databases*

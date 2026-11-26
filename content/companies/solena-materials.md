@@ -20,3 +20,7 @@ company_type: "Biotechnology"
 ---
 
 Solena Materials develops next-generation sustainable fibers using computational protein design. Their deep learning models design new proteins that enable development of high-performance, non-oil derived, biodegradable fibers. The company targets the apparel and fashion industry, offering premium brands a sustainable alternative to petroleum-based synthetic textiles like polyester that contribute to microplastic pollution and carbon emissions.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -17,8 +17,6 @@ draft: false
 sitemap:
   priority: 0.7
 logo: "/images/logos/releaf.png"
-last_updated: 2026-10-14
-profile_status: complete
 ---
 
 ## Overview
@@ -177,6 +175,5 @@ Avantium's patented YXY® Technology converts plant-based fructose into FDCA (fu
 1. ReLeaf corporate website
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

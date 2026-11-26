@@ -369,6 +369,5 @@ As the fashion and textile industries face intensifying pressure to transition t
 **Long-Term Vision**: Lenzing Group aims to establish itself as the global leader in sustainable cellulosic fiber production, supporting the transition to renewable, biodegradable materials across textiles, nonwovens, and emerging applications. The company's commitment to circular economy principles, continuous environmental improvement, and innovation positions it as a long-term industry leader and sustainability champion in materials for fashion, textiles, and beyond.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Lenzing Group investor relations, Vienna Stock Exchange filings, corporate announcements, sustainability reports, and industry databases*
+*Information sourced from corporate website and industry databases*

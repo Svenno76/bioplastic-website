@@ -64,5 +64,5 @@ Headquartered in Groningen, Netherlands, with focus on European market developme
 - Participates in circular economy value chains
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -29,5 +29,5 @@ Bioplastics (unspecified types)
 Chemicals, agriculture, clean energy
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

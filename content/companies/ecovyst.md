@@ -96,5 +96,5 @@ Ecovyst enables the bioplastics industry by:
 - **Industry Position:** Leading provider of critical materials enabling bioplastics production globally
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

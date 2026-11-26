@@ -176,6 +176,5 @@ NAFIGATE's position as Eastern European bioplastics innovator positions the comp
 - Continued innovation in waste valorization-based biopolymers
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from NAFIGATE corporate website, European Bioplastics member directory, Czech Academy of Sciences, and Brno University of Technology research collaborations*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

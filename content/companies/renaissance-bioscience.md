@@ -67,5 +67,5 @@ The global sustainable-chemicals market is projected to exceed US$39 billion by 
 Renaissance BioScience aims to establish a reliable, scalable, and cost-effective pathway for producing renewable plastics that reduce fossil-fuel dependence while meeting performance requirements for mainstream applications across packaging and consumer goods.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

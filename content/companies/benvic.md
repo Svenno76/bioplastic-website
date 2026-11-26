@@ -52,5 +52,5 @@ The company serves multiple industrial sectors:
 In August 2022, Benvic was acquired by International Chemical Investors Group, strengthening its position in the bioplastics market and enabling expanded investment in sustainable compound development.
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

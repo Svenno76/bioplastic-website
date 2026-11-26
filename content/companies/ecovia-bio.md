@@ -106,6 +106,5 @@ Ecovia Bio's γ-PGA technology provides:
 - **Market Timing:** Positioned for growth in sustainability-focused cosmetics and hygiene markets
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

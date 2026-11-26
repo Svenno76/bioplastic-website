@@ -268,6 +268,5 @@ Zerocircle represents a distinctive innovation in the global seaweed-based biopl
 **Long-Term Vision**: Establish Zerocircle as a leading Asia-Pacific innovator in seaweed-based sustainable materials, providing 100% natural, home-compostable alternatives to petroleum plastics across food, pharmaceutical, fashion, and consumer goods sectors while supporting ocean health and coastal ecosystem regeneration through sustainable seaweed sourcing.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Zerocircle corporate website, product announcements, and industry publications*
+*Information sourced from corporate website and industry databases*

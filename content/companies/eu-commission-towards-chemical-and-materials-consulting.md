@@ -21,5 +21,5 @@ Towards Chemical and Materials Consulting is a consulting and advisory firm spec
 Chemical safety regulations, sustainable materials policy, bioplastics regulations, circular economy strategy, EU compliance, materials innovation policy, regulatory guidance
 
 ---
-
-*Last updated: January 02, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

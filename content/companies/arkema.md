@@ -151,6 +151,5 @@ Arkema continues to invest in bioplastics innovation and sustainable material de
 - Collaboration with customers in sustainable transitions
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

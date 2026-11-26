@@ -121,6 +121,5 @@ Mitr Phol's entry into bioplastics:
 - Supports food industry's sustainability transition
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

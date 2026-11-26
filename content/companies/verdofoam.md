@@ -22,3 +22,7 @@ Founded by CEO Hans-Erik Ouwehand, Verdofoam has developed a breakthrough proces
 The company's bio-based foam offers the same shock-absorbing properties as traditional EPS (expanded polystyrene) but with a significantly lower carbon footprint. Key applications include e-commerce packaging, protective packaging, and insulation materials. The technology enables the replacement of fossil-based polystyrene foam used in e-commerce packaging with a fully renewable, bio-based alternative.
 
 Verdofoam's partnership with Nexam Chemical leverages Nexam's unique additive technology to enhance PLA's foamability, making it possible to produce lightweight bio-based foam at commercial scale. This breakthrough opens up an entirely new market for bio-based foam applications in packaging and insulation.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -470,10 +470,8 @@ Psaltry International is positioned for continued growth and potential expansion
 Psaltry International Limited represents Nigeria's leadership in cassava value chain development and agricultural-to-industrial transformation. The company's successful integration of smallholder farmers, large-scale processing capabilities, and multinational supply relationships demonstrates the viability of agricultural-based industrial development in Nigeria. As the bioplastics sector emerges across Africa, Psaltry International's feedstock position, processing infrastructure, and operational expertise position it as a potential strategic partner in cassava-based bioplastics development and broader participation in Africa's circular bioeconomy transition.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [Psaltry International Limited](https://psaltryinternational.com/)
 - [Stanford Graduate School of Business Case Study](https://www.gsb.stanford.edu/faculty-research/case-studies/psaltry-international-ltd-challenges-refining-cassava-starch-rural)
 - [Yemisi Iranloye - The Cassava Queen](https://dawncommission.org/yemisi-iranloye-the-cassava-queen/)

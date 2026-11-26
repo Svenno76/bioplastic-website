@@ -46,5 +46,5 @@ Taghleef Industries has made significant investments in sustainable film solutio
 The company's **reLIFE®** program focuses on circular economy solutions, including mechanical recycling compatibilization and design-for-recycling film structures.
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

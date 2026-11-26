@@ -132,6 +132,5 @@ LyondellBasell collaborates with technology partners, customers, and suppliers t
 With ongoing industry transition toward sustainable materials, LyondellBasell continues to develop advanced polymer solutions, invest in efficiency improvements, and support customer needs for reliable, cost-competitive polymers while progressing toward sustainability goals.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

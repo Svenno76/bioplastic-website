@@ -391,10 +391,8 @@ CSIR's bioplastics program delivers benefits beyond environmental remediation:
 CSIR represents the pinnacle of African scientific innovation in sustainable materials, combining decades of research excellence with cutting-edge bioplastics technology. The organization's leadership in biodegradable plastic development and testing infrastructure positions South Africa as a continental innovator and potential exporter of bioplastics technology and products. CSIR's success demonstrates the capacity of African research institutions to compete globally while addressing locally relevant environmental challenges.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [CSIR Bioplastics Research Initiative](https://www.csir.co.za/towards-zero-plastic-waste-landfill-csir-researchers-developing-100-biodegradable-plastic-bags-and)
 - [CSIR Biodegradability Testing Laboratory](https://www.csir.co.za/csir-biodegradability-testing-laboratory-tackle-leakage-plastic-waste-environment)
 - [CSIR UNEP Award Environmental Innovation](https://sustainabilityweek.co.za/csirs-biodegradable-plastic-bags-win-unep-award-for-environmental-innovation/)

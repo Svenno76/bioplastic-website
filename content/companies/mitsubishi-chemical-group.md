@@ -185,6 +185,5 @@ Mitsubishi Chemical's position as world's No. 2 copolyester producer, combined w
 As global regulations increasingly mandate compostable and bio-based materials, and corporate sustainability commitments drive material transitions, Mitsubishi Chemical's BioPBS and DURABIO offerings are positioned to capture significant market share. The company's established scale, proven manufacturing expertise, and comprehensive product portfolio address diverse customer requirements across packaging, textiles, automotive, medical, and consumer goods sectors. Continued capacity expansion, development of new bioplastic grades, and geographic market penetration represent key growth opportunities.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Mitsubishi Chemical investor relations, corporate announcements, and industry databases*
+*Information sourced from corporate website and industry databases*

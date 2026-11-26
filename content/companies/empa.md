@@ -82,5 +82,5 @@ As a research institute of the ETH Domain (Swiss Federal Institutes of Technolog
 - Trains next-generation materials scientists
 
 ---
-
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -92,6 +92,5 @@ Corbion's origins in 1919 as CSM (Centrale Suiker Maatschappij) reflect its foun
 Corbion maintains certifications and quality standards essential for food-contact applications and pharmaceutical uses. As an active member of industry organizations, Corbion contributes to advancing bioplastics standards, technology development, and market education initiatives. The company's partnership with TotalEnergies demonstrates confidence from major international energy and chemical corporations in Corbion's lactic acid production capabilities and PLA technology.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Corbion corporate website, Total Corbion PLA announcements, and industry databases*
+*Information sourced from corporate website and industry databases*

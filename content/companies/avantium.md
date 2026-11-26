@@ -77,6 +77,5 @@ Avantium collaborates with leading companies across the value chain to commercia
 As an active member of European Bioplastics (EUBP) and other industry organizations, Avantium contributes to advancing bioplastics standards, technology development, and market education. The company's innovative PEF technology has garnered significant attention from major brands seeking sustainable alternatives to conventional PET.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Avantium corporate announcements, newsroom, and industry publications*
+*Information sourced from corporate website and industry databases*

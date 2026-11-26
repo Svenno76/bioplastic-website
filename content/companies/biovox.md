@@ -21,6 +21,5 @@ sitemap:
 BIOVOX develops and produces medical-grade bioplastics for healthcare, pharmaceutical, and laboratory applications. The company's fully biodegradable bioplastics are manufactured from renewable raw materials, offering sustainable alternatives to conventional plastics in the medical sector.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

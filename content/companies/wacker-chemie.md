@@ -68,5 +68,5 @@ Wacker Chemie's technical expertise in polymer chemistry enables the development
 As a global chemical company with worldwide operations, Wacker Chemie maintains manufacturing facilities, R&D centers, and technical support services across multiple continents, ensuring consistent supply and technical assistance for bioplastics manufacturers globally.
 
 ---
-
-*Last updated: January 05, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

@@ -88,5 +88,5 @@ Alterra is among the few chemical recycling technology providers with **proven c
 - [Liquefied Waste Plastic (LWP)](/glossary/liquefied-waste-plastic/) — Product specification
 
 ---
-
-*Last updated: July 3, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

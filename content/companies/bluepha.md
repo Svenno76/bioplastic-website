@@ -17,8 +17,6 @@ date: 2026-07-29
 draft: false
 sitemap:
   priority: 0.8
-last_updated: 2026-10-14
-profile_status: complete
 ---
 
 
@@ -362,6 +360,5 @@ Bluepha is positioned as one of the few global companies with commercial-scale P
 1. Bluepha corporate website
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

@@ -164,5 +164,5 @@ Amcor continues to advance sustainable packaging through:
 The company's position as the world's largest packaging company, combined with significant investments in sustainable materials and technologies, positions Amcor as a leader in the transition toward environmentally responsible packaging solutions.
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

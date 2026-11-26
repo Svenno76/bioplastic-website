@@ -80,6 +80,5 @@ Nexam Chemical's technologies contribute to several key sustainability goals:
 - **Reducing carbon footprint**: Lightweight products require less energy for transportation and processing
 
 ---
-
-*Last updated: June 19, 2026*
-*Information sourced from Nexam Chemical corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

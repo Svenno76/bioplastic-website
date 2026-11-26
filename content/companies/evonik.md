@@ -72,6 +72,5 @@ The company's catalysts and adsorbents are already deployed in refineries and pe
 - **Sales Offices**: 100+ countries
 
 ---
-
-*Last updated: June 25, 2026*
-*Information sourced from Evonik corporate communications, press releases, and investor presentations*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

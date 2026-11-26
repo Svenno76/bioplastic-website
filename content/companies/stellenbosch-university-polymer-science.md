@@ -359,10 +359,8 @@ Stellenbosch's polymer science department is positioned as a long-term driver of
 Stellenbosch University's Department of Chemistry and Polymer Science represents the pinnacle of African academic excellence in polymer research and bioplastics innovation. Through cutting-edge research, comprehensive education, successful commercialization of technologies, and strategic partnerships, the department is advancing both scientific knowledge and practical solutions to global sustainability challenges. The institution's role in developing and nurturing talent for the bioplastics industry, combined with its commitment to research excellence, positions it as a cornerstone of Africa's contribution to the global circular economy transition.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [Stellenbosch University Polymer Science Department](https://academic.sun.ac.za/polymer/)
 - [Polymer Science Alumni Network](https://academic.sun.ac.za/polymer/alumni.html)
 - [Department of Chemistry & Polymer Science](https://www0.sun.ac.za/chemistry/)

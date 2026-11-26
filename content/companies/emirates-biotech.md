@@ -140,6 +140,5 @@ Emirates Biotech represents a pivotal moment in global bioplastics development, 
 With operational targets of early 2028 and the groundwork laid through technology partnerships and site development beginning in Q4 2025, Emirates Biotech is positioned to become a defining force in the global bioplastics industry and drive widespread adoption of sustainable alternatives across packaging, textiles, and consumer goods sectors.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Emirates Biotech corporate announcements, Sulzer partnership agreements, and industry databases*
+*Information sourced from corporate website and industry databases*

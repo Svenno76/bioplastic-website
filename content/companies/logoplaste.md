@@ -33,3 +33,7 @@ The company has been at the forefront of sustainable packaging innovation, inves
 ### Sustainability Commitments
 
 Logoplaste focuses on reducing the environmental impact of its packaging through material efficiency, recycled content usage, and collaboration with brand owners to meet circular economy targets.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

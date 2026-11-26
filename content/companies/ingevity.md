@@ -131,6 +131,5 @@ Ingevity supports:
 - Focus on high-growth sustainable materials markets
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

@@ -487,10 +487,8 @@ EuP Egypt is positioned for continued growth and expanded continental impact:
 EuP Egypt represents North Africa's emerging leadership in bioplastics production, combining technical expertise, manufacturing scale, and strategic resource advantages to position itself as a significant continental player. The company's integration of Egyptian mineral resources with advanced bioplastics technology creates competitive differentiation while supporting Egypt's industrial development and broader African participation in the global circular economy. As bioplastics adoption accelerates across Africa, EuP Egypt's production capacity and technical capabilities position it to supply growing regional demand for sustainable materials.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [EuP Egypt - BiONext Products](https://eupegypt.com)
 - [BiONext 500 Product Information](https://eupegypt.com/products/bioplastic-compound/bionext-500/)
 - [BiONext 152 Product Information](https://eupegypt.com/products/bioplastic-compound/bionext-152/)

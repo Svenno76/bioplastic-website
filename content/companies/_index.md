@@ -4,3 +4,7 @@ description: "Directory of 200+ bioplastic manufacturers, suppliers, and compoun
 sitemap:
   priority: 0.8
 ---
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

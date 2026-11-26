@@ -65,5 +65,5 @@ Praj Industries Limited is a world-leading industrial biotech company headquarte
 - Strategic position in Asia's bioeconomy transition
 
 ---
-
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

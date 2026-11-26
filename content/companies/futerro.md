@@ -153,6 +153,5 @@ Futerro represents a mature, established player in the PLA market with 30+ years
 With the France expansion targeting 175,000 MT/year combined capacity (75,000 new production + 75,000 recycling), Futerro is positioned to become one of the world's largest PLA producers and a leader in circular PLA solutions. The company's vertical integration, proven manufacturing expertise, and commitment to recycling-integrated operations position it well to capture growing European and global demand for sustainable biopolymers. Completion of the France facility in 2027 is expected to solidify Futerro's position as a leading integrated PLA provider and enable significant growth in circular economy applications.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Futerro corporate announcements, Tereos partnership details, and industry databases*
+*Information sourced from corporate website and industry databases*

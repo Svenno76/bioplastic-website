@@ -20,3 +20,7 @@ company_type: "Converter / Packaging"
 ---
 
 Mondi Group is one of the world is leading packaging and paper companies. Mondi actively attaches strategic relevance to bioplastics and takes a lead role in developing sustainable packaging solutions. The company converted Mars candy bar wrappers from fossil-based PP to bio-based PP using Rodenburg Biopolymers, and mentors startups like Genecis which converts food waste into PHA bioplastics.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

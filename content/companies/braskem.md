@@ -71,6 +71,5 @@ Braskem's bio-PE and other products serve:
 Braskem's development of renewable chemistry solutions positions it as a strategic partner for major consumer brands seeking sustainable packaging alternatives. The company's Renewable Innovation Center in Massachusetts focuses on advanced sustainable chemistry research and development. With 15+ years of commercial I'm green™ operations and a track record of consistent capacity expansion, Braskem has proven the commercial viability of large-scale bio-PE production.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Braskem corporate announcements and industry databases*
+*Information sourced from corporate website and industry databases*

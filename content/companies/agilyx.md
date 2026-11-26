@@ -82,6 +82,5 @@ The company's life cycle assessments show that styrene monomer produced through 
 In October 2025, Agilyx completed an investment transaction with GreenDot, one of Europe's largest waste management and recycling companies. This partnership strengthens Agilyx's access to plastic waste feedstock and expands the commercial deployment of its depolymerization technology across European markets.
 
 ---
-
-*Last updated: June 19, 2026*
-*Information sourced from Agilyx corporate website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

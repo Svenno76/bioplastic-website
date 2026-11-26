@@ -111,5 +111,5 @@ CEMS research addresses critical challenges:
 Part of RIKEN, Japan's largest comprehensive research institution, located in Saitama. Leverages Japan's advanced materials science infrastructure and global research networks.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

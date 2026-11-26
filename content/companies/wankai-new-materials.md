@@ -262,6 +262,5 @@ Wankai New Materials represents a pivotal convergence of Asian manufacturing sca
 **Long-Term Vision**: Establish Wankai as a global leader in circular PET and enzymatic recycling technology, providing innovative sustainable polyester solutions while supporting the transition to closed-loop material systems and addressing plastic waste challenges across packaging, textile, and industrial applications.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Wankai New Materials corporate website, Carbios joint venture announcements, SZSE listings, and industry publications*
+*Information sourced from corporate website and industry databases*

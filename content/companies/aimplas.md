@@ -66,5 +66,5 @@ AIMPLAS collaborates with major European research consortiums and companies thro
 AIMPLAS continues to expand its role in supporting the European bioplastics transition, with particular focus on developing testing standards for agricultural waste-derived bioplastics, advancing enzymatic recycling technologies, and establishing comprehensive biodegradation assessment protocols for emerging bioplastic materials.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

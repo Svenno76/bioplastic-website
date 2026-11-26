@@ -92,5 +92,5 @@ Based in Heerenveen, Netherlands, at the center of Dutch plastics recycling infr
 NTCP plays a critical role in the European circular economy transition by providing the testing infrastructure and research capabilities necessary to improve plastic recycling efficiency, reduce contamination, and advance both mechanical and chemical recycling technologies.
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

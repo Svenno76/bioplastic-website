@@ -19,3 +19,7 @@ company_type: "Compounder"
 ---
 
 Omikron Compounds, fully owned by the Tecnopol group active in plastic material distribution and compounding since 1973, specializes in high-quality plastic compounding. The company produces eco-polypropylene with recycled content, along with a range of compounds, commodities, and technical polymers. Omikron uses an integrated logistics system with RFID tracking for full supply chain transparency.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

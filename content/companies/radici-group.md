@@ -29,5 +29,5 @@ Polyamide 6, Polyamide 6.6, Polyamide 6.10, Polyamide 6.12, Polyester (including
 Automotive, Electrical/Electronics, Consumer Goods, Industrial Applications, Apparel, Sportswear, Furnishings, Home Appliances, Construction, Railways
 
 ---
-
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

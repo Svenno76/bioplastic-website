@@ -91,5 +91,5 @@ With Andy Sweetman serving on the EUBP Board alongside representatives from othe
 Futamura's cellulose films meet stringent food contact regulations and are approved for direct contact with food products worldwide, making them suitable for food packaging applications across multiple product categories.
 
 ---
-
 *Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

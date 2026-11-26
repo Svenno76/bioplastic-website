@@ -284,6 +284,5 @@ As global demand for sustainable materials expands and corporate sustainability 
 **Strategic Vision**: SK Chemicals aims to establish itself as a leading global bioplastics and sustainable chemistry company, leveraging its established position in copolyesters with innovative ECOTRION technology and waste recycling capabilities. The company's commitment to circular economy principles, combined with proven manufacturing excellence, positions SK Chemicals for long-term success in the transition to sustainable materials globally.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from SK Chemicals investor relations, corporate announcements, Korea Exchange filings, ECOTRION technology information, and industry databases*
+*Information sourced from corporate website and industry databases*

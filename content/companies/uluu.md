@@ -259,6 +259,5 @@ Uluu represents a distinctive convergence of advanced bioplastics innovation, en
 **Long-Term Vision**: Establish Uluu as the leading climate-positive seaweed-based bioplastics producer in the Asia-Pacific region, providing innovative sustainable packaging and material solutions while supporting regenerative aquaculture and economic empowerment of coastal farming communities globally.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Uluu corporate website, Series A funding announcements, partner communications, and sustainability initiatives*
+*Information sourced from corporate website and industry databases*

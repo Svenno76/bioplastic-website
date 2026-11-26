@@ -105,6 +105,5 @@ Eastman operates manufacturing facilities and R&D centers across:
 Eastman positions itself at the intersection of advanced materials science and sustainability, developing innovative polymers and specialty chemicals that enable customers to meet evolving demands for sustainable, high-performance materials. The company's commitment to innovation and environmental responsibility positions it as a key player in the transition toward sustainable material systems.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

@@ -56,6 +56,5 @@ With approximately 380 production sites worldwide, BASF maintains a truly global
 As an active member of industry organizations and a pioneer in certified compostable materials, BASF plays a significant role in advancing bioplastics standards, regulations, and market development. The company's long history of innovation in polymer science, combined with its global reach and production capabilities, positions BASF as a trusted partner for brands seeking sustainable packaging and material solutions.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from official BASF corporate website and industry databases*
+*Information sourced from corporate website and industry databases*

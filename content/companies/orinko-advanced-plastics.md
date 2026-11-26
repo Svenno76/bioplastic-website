@@ -155,6 +155,5 @@ Orinko's market position:
 - Supporting China's plastic waste reduction initiatives
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

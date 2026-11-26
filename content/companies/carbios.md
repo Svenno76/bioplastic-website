@@ -75,5 +75,5 @@ CARBIOS is a pioneering French biotechnology company founded in 2011, specializi
 - Market leadership in PET biorecycling
 
 ---
-
-*Last updated: 2026-02-14*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

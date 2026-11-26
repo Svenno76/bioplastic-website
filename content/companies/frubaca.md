@@ -66,6 +66,5 @@ Frubaça is a leading mid-sized beverage producer in Portugal, with distribution
 The company's focus on functional beverages and innovative packaging formats aligns with growing consumer demand for convenient, health-oriented, and sustainably packaged products.
 
 ---
-
-*Last updated: July 2, 2026*
-*Information sourced from Frubaça corporate communications, industry publications, and Avantium press releases*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

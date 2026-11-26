@@ -79,6 +79,5 @@ The company maintains extensive research and development capabilities focused on
 SABIC collaborates with leading companies for bio-based material development, including partnerships for bio-derived polymer production. For example, SABIC supplies Bio-PP to UPM for their Formi EcoAce brand biocomposite used in food contact, personal care, and consumer goods applications.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

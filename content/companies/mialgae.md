@@ -169,6 +169,5 @@ MiAlgae represents a **new paradigm for bioplastics feedstocks**:
 The Grangemouth facility will be one of the world's first commercial demonstrations of **industrial wastewater-to-bioplastics-feedstock** at scale, providing a template for global replication.
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from MiAlgae corporate communications, press releases (Jan 2026), Scottish Enterprise, and industry publications*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

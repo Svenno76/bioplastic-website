@@ -84,5 +84,5 @@ Sealpap occupies a unique niche at the intersection of **paper converting** and 
 The TIPA acquisition positions Sealpap within a broader sustainable packaging platform offering both recyclable (paper) and compostable (bioplastic) pathways to brands.
 
 ---
-
-*Last updated: July 2025*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

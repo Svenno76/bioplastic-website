@@ -87,6 +87,5 @@ The April 2023 acquisition by Versalis (Eni Group) positions Novamont within a l
 Novamont is an active member of the Bio-based Industries Consortium (BIC) and other industry organizations promoting sustainable chemistry and circular bioeconomy solutions. The company contributes to advancing compostable materials standards, regulations, and market development through active participation in industry bodies and collaborations with leading brands seeking sustainable packaging alternatives.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from Novamont corporate website, Versalis announcement, and industry databases*
+*Information sourced from corporate website and industry databases*

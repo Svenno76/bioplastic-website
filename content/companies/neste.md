@@ -133,6 +133,5 @@ With **Technip Energies** and **Alterra**, Neste launched **Nerea™** — a sta
 - [Mass Balance](/glossary/mass-balance/) — Certification approach for circular feedstocks
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

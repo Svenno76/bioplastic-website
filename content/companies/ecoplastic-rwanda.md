@@ -511,10 +511,8 @@ EcoPlastic is positioned for continued growth and expanded impact:
 EcoPlastic Rwanda exemplifies viable plastic waste valorization in an African context, demonstrating both environmental remediation and economic opportunity through circular economy principles. The company's successful integration within Rwanda's environmental policy framework, coupled with demonstrated profitability and employment generation, establishes a model for other African nations pursuing plastic pollution reduction and circular economy development. As African bioplastics adoption accelerates, EcoPlastic's waste collection and processing capabilities position it as a potential participant in comprehensive circular material flow systems supporting continental sustainability development.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [EcoPlastic Rwanda Official Website](https://ecoplasticrwanda.com/)
 - [Rwanda's Plastic Waste Management Field Visit Report - GGGI](https://gggi.org/wp-content/uploads/2022/12/Field-Visit-Report_Web.pdf)
 - [Rwanda's Remarkable Journey in Plastic Waste Management - UNDP](https://www.undp.org/rwanda/blog/rwandas-remarkable-journey-inspiring-solutions-global-plastic-pollution-crisis)

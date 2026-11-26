@@ -295,6 +295,5 @@ C2C plans continued growth through:
 - Strategic partnerships supporting technology transfer
 
 ---
-
-*Last updated: February 14, 2026*
-*Information sourced from C2C corporate website, TÜV Austria certification records, European Bioplastics industry databases, and company registration documents*
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

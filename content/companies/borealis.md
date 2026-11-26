@@ -88,6 +88,5 @@ Borealis maintains a significant production and technical infrastructure:
 Borealis collaborates with research institutions, feedstock providers, and industrial partners to advance bio-based and circular polymer solutions, ensuring cutting-edge innovation and sustainable material development.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from the company's official website and industry databases*
+*Information sourced from corporate website and industry databases*

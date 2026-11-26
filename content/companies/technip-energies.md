@@ -20,3 +20,7 @@ sitemap:
 ## Overview
 
 Technip Energies is a leading engineering and technology company serving the energy transition. The company holds leadership positions in LNG, hydrogen, ethylene, and circular solutions, providing process technology and modular solutions for the bioplastics and chemical recycling sectors.
+
+---
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases*

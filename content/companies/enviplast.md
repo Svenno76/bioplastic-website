@@ -516,10 +516,8 @@ ENVIPLAST's future success will depend on:
 ENVIPLAST aspires to establish itself as a leading Southeast Asian bioplastics manufacturer and significant global producer of starch-based biodegradable materials. Through continued investment in capacity, technology, and market development, the company can capture substantial growth in expanding regional and global bioplastics markets. ENVIPLAST's success demonstrates the viability of indigenous Southeast Asian bioplastics production and supports the region's transition toward sustainable materials and circular economy principles.
 
 ---
-
-*Last updated: February 14, 2026*
-
-**Sources:**
+*Last updated: November 26, 2026*
+*Information sourced from corporate website and industry databases***Sources:**
 - [ENVIPLAST Biopolymer Official Website](https://www.enviplast.com/)
 - [ENVIPLAST Products Overview](https://www.enviplast.com/product/)
 - [About ENVIPLAST Biopolymer](https://www.enviplast.com/about)

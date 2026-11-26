@@ -104,7 +104,6 @@ The company's future strategy focuses on:
 - Geographic expansion
 
 ---
-
 *Last updated: November 26, 2026*
-*Note: One World Products is transitioning to Isiah Enterprises. For detailed current information, see Isiah Enterprises profile.*
+*Information sourced from corporate website and industry databases**Note: One World Products is transitioning to Isiah Enterprises. For detailed current information, see Isiah Enterprises profile.*
 *Information sourced from company announcements, OTC market data, and industry publications*

@@ -157,6 +157,5 @@ FKuR represents a mature, professionally-managed bioplastics company with deep t
 As global demand for customized bioplastic solutions expands and manufacturers seek technical support for material transitions, FKuR's comprehensive portfolio, global manufacturing presence, and Fraunhofer partnership position it well for continued growth. Development of new compound formulations, geographic market expansion, and continued R&D innovation represent key growth opportunities for FKuR in the global bioplastics market.
 
 ---
-
 *Last updated: November 26, 2026*
-*Information sourced from FKuR corporate website, Fraunhofer UMSICHT partnership details, and industry databases*
+*Information sourced from corporate website and industry databases*
