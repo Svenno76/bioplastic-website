@@ -78,5 +78,5 @@ As an active member of European Bioplastics (EUBP) and other industry organizati
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Avantium corporate announcements, newsroom, and industry publications*

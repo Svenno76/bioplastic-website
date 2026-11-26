@@ -72,5 +72,5 @@ Braskem's development of renewable chemistry solutions positions it as a strateg
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Braskem corporate announcements and industry databases*

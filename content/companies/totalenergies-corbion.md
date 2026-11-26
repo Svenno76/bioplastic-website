@@ -30,4 +30,5 @@ packaging, consumer goods, agriculture, automotive, electronics, textiles, 3D pr
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

@@ -340,3 +340,8 @@ profile_status: complete
 ## Sources
 
 1. Carbon Cell corporate website, company announcements, technology documentation, and industry analysis
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

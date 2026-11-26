@@ -370,5 +370,5 @@ As the fashion and textile industries face intensifying pressure to transition t
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Lenzing Group investor relations, Vienna Stock Exchange filings, corporate announcements, sustainability reports, and industry databases*

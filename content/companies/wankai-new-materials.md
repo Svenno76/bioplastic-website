@@ -263,5 +263,5 @@ Wankai New Materials represents a pivotal convergence of Asian manufacturing sca
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Wankai New Materials corporate website, Carbios joint venture announcements, SZSE listings, and industry publications*

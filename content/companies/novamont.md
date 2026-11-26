@@ -88,5 +88,5 @@ Novamont is an active member of the Bio-based Industries Consortium (BIC) and ot
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Novamont corporate website, Versalis announcement, and industry databases*

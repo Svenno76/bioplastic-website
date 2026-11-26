@@ -186,5 +186,5 @@ As global regulations increasingly mandate compostable and bio-based materials, 
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Mitsubishi Chemical investor relations, corporate announcements, and industry databases*

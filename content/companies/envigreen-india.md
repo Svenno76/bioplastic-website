@@ -375,3 +375,8 @@ profile_status: complete
 ## Sources
 
 1. Envigreen Biotech India corporate website
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

@@ -94,3 +94,8 @@ TripleW aims to scale food waste-to-bioplastic production globally, establishing
 ## Sources
 
 1. TripleW corporate website
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

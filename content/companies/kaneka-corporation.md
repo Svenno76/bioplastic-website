@@ -298,5 +298,5 @@ Kaneka Corporation's seawater-degradable PHBH represents a critical solution to 
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Kaneka Corporation investor relations, Tokyo Stock Exchange filings, corporate announcements, Starbucks partnership details, and industry databases*

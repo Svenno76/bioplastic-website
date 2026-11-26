@@ -360,3 +360,8 @@ Bluepha is positioned as one of the few global companies with commercial-scale P
 ## Sources
 
 1. Bluepha corporate website
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

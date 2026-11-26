@@ -134,4 +134,5 @@ With **Technip Energies** and **Alterra**, Neste launched **Nerea™** — a sta
 
 ---
 
-*Last updated: July 3, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

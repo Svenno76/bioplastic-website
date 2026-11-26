@@ -57,5 +57,5 @@ As an active member of industry organizations and a pioneer in certified compost
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from official BASF corporate website and industry databases*

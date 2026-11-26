@@ -120,3 +120,8 @@ Global operations with headquarters in Paris, France. TotalEnergies Corbion oper
 ## Sources
 
 1. TotalEnergies corporate website
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

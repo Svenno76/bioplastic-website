@@ -285,5 +285,5 @@ As global demand for sustainable materials expands and corporate sustainability 
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from SK Chemicals investor relations, corporate announcements, Korea Exchange filings, ECOTRION technology information, and industry databases*

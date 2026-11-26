@@ -260,5 +260,5 @@ Uluu represents a distinctive convergence of advanced bioplastics innovation, en
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Uluu corporate website, Series A funding announcements, partner communications, and sustainability initiatives*

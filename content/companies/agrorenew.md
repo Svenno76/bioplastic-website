@@ -241,5 +241,5 @@ With its innovative crop waste feedstock utilization, industrial-scale productio
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from AgroRenew corporate website, facility announcements, agricultural partnerships, and industry publications*

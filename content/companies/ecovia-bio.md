@@ -107,4 +107,5 @@ Ecovia Bio's γ-PGA technology provides:
 
 ---
 
-*Last updated: February 27, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

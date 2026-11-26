@@ -283,5 +283,5 @@ Biome Bioplastics represents the mature, established bioplastics innovator—bui
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Biome Bioplastics corporate website, company announcements, UKRI partnerships, and industry publications*

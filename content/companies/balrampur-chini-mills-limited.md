@@ -287,5 +287,5 @@ The success of the Kumbhi facility could trigger additional Balrampur PLA facili
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Balrampur Chini Mills corporate announcements, investor relations, NSE filings, Bioyug brand information, and industry databases*

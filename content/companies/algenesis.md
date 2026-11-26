@@ -143,4 +143,5 @@ Algenesis operates in the rapidly expanding bio-based polymers segment of the bi
 
 Information compiled from multiple sources including Algenesis corporate website, press releases, investment announcements, and industry publications.
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

@@ -263,5 +263,5 @@ RWDC Industries is positioned at the forefront of marine-degradable bioplastics 
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from RWDC Industries corporate announcements, funding announcements, partnership agreements, and industry publications*

@@ -66,4 +66,5 @@ LG Chem operates eight factories in South Korea and maintains a network of 29 bu
 
 ---
 
-*Last updated: January 05, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

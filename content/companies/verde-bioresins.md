@@ -258,5 +258,5 @@ Verde Bioresins' positioning as a publicly listed bioplastics company with propr
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Verde Bioresins investor relations, corporate announcements, NASDAQ filings, and industry databases*

@@ -154,5 +154,5 @@ With the France expansion targeting 175,000 MT/year combined capacity (75,000 ne
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Futerro corporate announcements, Tereos partnership details, and industry databases*

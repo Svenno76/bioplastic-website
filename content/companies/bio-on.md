@@ -118,7 +118,6 @@ last_updated: 2026-10-14
 profile_status: complete
 ---
 
-**Last updated**: February 14, 2026
 
 **Sources**:
 - [Bio-plastic Minerv-PHA developed by Bio-on now available in Material ConneXion's database](https://www.globenewswire.com/news-release/2016/07/26/1606055/0/en/Bio-plastic-Minerv-PHA-developed-by-Bio-on-now-available-in-Material-ConneXion-s-database.html)
@@ -131,3 +130,8 @@ profile_status: complete
 ## Sources
 
 1. Bio-On corporate website
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

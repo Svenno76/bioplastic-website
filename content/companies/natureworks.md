@@ -132,5 +132,5 @@ With growing demand for sustainable packaging and materials, NatureWorks continu
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from NatureWorks corporate website and industry databases*

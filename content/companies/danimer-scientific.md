@@ -105,5 +105,5 @@ As of February 2026, Danimer Scientific is operating under Chapter 11 bankruptcy
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Danimer Scientific bankruptcy filings, corporate announcements, and industry databases*

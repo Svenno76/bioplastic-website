@@ -127,4 +127,5 @@ Ecopha is addressing critical market needs:
 
 ---
 
-*Last updated: November 13, 2026 · sourced from official website and industry databases*
+*Last updated: November 26, 2026*
+*Information sourced from official website and industry databases*

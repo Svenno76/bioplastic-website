@@ -77,4 +77,5 @@ With over 70 years of experience in cellulosic film production, Celanese brings 
 
 ---
 
-*Last updated: January 05, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

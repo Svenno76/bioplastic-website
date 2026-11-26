@@ -141,5 +141,5 @@ With operational targets of early 2028 and the groundwork laid through technolog
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Emirates Biotech corporate announcements, Sulzer partnership agreements, and industry databases*

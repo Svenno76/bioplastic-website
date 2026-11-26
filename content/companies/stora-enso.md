@@ -71,4 +71,5 @@ Stora Enso's focus on renewable materials aligns with global sustainability goal
 
 ---
 
-*Last updated: January 05, 2026*
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

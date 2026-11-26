@@ -19,3 +19,8 @@ sitemap:
 ## Overview
 
 Bcomp is a Swiss company specializing in natural fibre reinforcement technologies for high-performance applications. The company develops sustainable lightweighting solutions using flax and other natural fibres as alternatives to carbon fibre in automotive, aerospace, and motorsport applications.
+
+---
+
+*Last updated: November 26, 2026*
+*Information sourced from the company's official website and industry databases*

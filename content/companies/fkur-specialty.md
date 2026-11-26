@@ -158,5 +158,5 @@ As global demand for customized bioplastic solutions expands and manufacturers s
 
 ---
 
-*Last updated: February 14, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from FKuR corporate website, Fraunhofer UMSICHT partnership details, and industry databases*
