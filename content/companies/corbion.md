@@ -93,5 +93,5 @@ Corbion maintains certifications and quality standards essential for food-contac
 
 ---
 
-*Last updated: February 13, 2026*
+*Last updated: November 26, 2026*
 *Information sourced from Corbion corporate website, Total Corbion PLA announcements, and industry databases*
