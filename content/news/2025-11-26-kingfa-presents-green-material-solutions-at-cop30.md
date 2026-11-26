@@ -7,7 +7,7 @@ summary: At COP30, Kingfa's Academician Li Jianjun presented the company's full-
   development, recycled content integration, and lifecycle carbon footprint calculation
   services.
 tags: []
-category: Industry Event
+category: Product Launch
 company:
 - Kingfa Sci. & Tech.
 source: Kingfa Sci. & Tech.

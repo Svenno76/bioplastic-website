@@ -5,7 +5,7 @@ draft: false
 summary: "A University of Michigan study supported by TotalEnergies Corbion shows that optimized Luminy L040 PLA meltblown media can match the filtration performance of polypropylene, opening a biobased route into high-efficiency air filtration."
 tags: ["PLA", "Life-Cycle Assessment", "Bioplastics"]
 
-category: Research
+category: Technology
 company: ["TotalEnergies Corbion", "University of Michigan"]
 source: "TotalEnergies Corbion"
 source_url: "https://totalenergies-corbion.com/blog/university-of-michigan-validates-pla-for-high-performance-air-filtration/"

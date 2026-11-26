@@ -12,7 +12,7 @@ summary: The PLASTICS Industry Association has announced the winners of its 2026
 tags:
 - biodegradable
 - bioplastics
-category: Industry Event
+category: Product Launch
 company: PLASTICS Industry Association
 source: plasticsindustry.org
 source_url: https://www.plasticsindustry.org/newsroom/plastics-announces-2026-plastic-sustainability-innovation-award-winners/

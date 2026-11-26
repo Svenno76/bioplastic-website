@@ -12,7 +12,7 @@ summary: A research team at Goethe-Universität Frankfurt, in cooperation with b
 tags:
 - biodegradable
 - bioplastics
-category: Research
+category: Technology
 company: BIOVOX
 source: chemeurope.com
 source_url: https://www.chemeurope.com/en/news/1187597/bio-based-plastics-for-infusion-bags.html

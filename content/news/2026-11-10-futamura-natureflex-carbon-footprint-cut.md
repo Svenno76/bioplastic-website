@@ -4,7 +4,7 @@ date: 2026-11-10T09:00:00+01:00
 draft: false
 summary: "A verified life cycle assessment by ERM shows Futamura has cut the carbon footprint of its NatureFlex cellulose films by roughly a quarter since 2019."
 tags: ["Carbon Footprint", "Life Cycle Assessment", "Packaging"]
-category: Company News
+category: Product Launch
 source: "Futamura / Packaging MEA"
 source_url: "https://www.packagingmea.com/futamura-reports-24-reduction-in-cellulose-film-carbon-footprint/"
 featured_image: "/images/news/futamura-natureflex-carbon-footprint.jpg"
