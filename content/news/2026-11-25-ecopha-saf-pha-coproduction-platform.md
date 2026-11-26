@@ -9,7 +9,7 @@ category: Technology
 company: ["Ecopha Biotech"]
 source: "Ecopha Biotech"
 source_url: "https://ecopha.bio/non-food-biomass-co-production-saf-pha-circular-bioeconomy/"
-featured_image: "/images/news/ecopha-saf-pha-coproduction.jpg"
+featured_image: "/images/news/ecopha-saf-pha-coproduction-platform.jpg"
 sitemap:
   priority: 0.7
 ---
