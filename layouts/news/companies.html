@@ -14,18 +14,19 @@
     <div style="max-width: 72rem; margin: 0 auto; padding: 2rem 1rem;">
       <header style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid #e0e8e6;">
         <h1 style="font-size: 2.5rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px;">News by Company</h1>
-        <p style="font-size: 1.1rem; color: #6b7f7d;">Browse all bioplastics news articles grouped by company.</p>
+        <p style="font-size: 1.1rem; color: #6b7f7d;">Browse all bioplastics news articles grouped by company profile.</p>
       </header>
 
       {{ $companyPages := slice }}
       {{ range .Site.RegularPages }}
+        {{ $p := . }}
         {{ if eq .Section "news" }}
           {{ if reflect.IsSlice .Params.company }}
             {{ range $c := .Params.company }}
-              {{ $companyPages = $companyPages | append (dict "name" $c "page" $) }}
+              {{ $companyPages = $companyPages | append (dict "name" $c "page" $p) }}
             {{ end }}
           {{ else if .Params.company }}
-            {{ $companyPages = $companyPages | append (dict "name" .Params.company "page" $) }}
+            {{ $companyPages = $companyPages | append (dict "name" .Params.company "page" $p) }}
           {{ end }}
         {{ end }}
       {{ end }}
@@ -44,12 +45,21 @@
 
       <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
         {{ range $companyNames | sort }}
-          {{ $pages := index $groups . }}
-          <div style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; padding: 1.5rem;">
-            <h3 style="font-size: 1.1rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 700;">{{ . }}</h3>
+          {{ $cName := . }}
+          {{ $pages := index $groups $cName }}
+          {{ $slug := $cName | urlize }}
+          {{ $compPage := site.GetPage (print "/companies/" $slug) }}
+          <div style="background: white; border: 1px solid #e0e8e6; border-radius: 12px; padding: 1.5rem; display: flex; flex-direction: column;">
+            <h3 style="font-size: 1.1rem; color: #2d5a4f; margin-bottom: 0.5rem; font-weight: 700;">
+              {{ if $compPage }}
+              <a href="{{ $compPage.Permalink }}" style="color: #2d5a4f; text-decoration: none;" title="View company profile">{{ $cName }}</a>
+              {{ else }}
+              {{ $cName }}
+              {{ end }}
+            </h3>
             <p style="font-size: 0.85rem; color: #6b7f7d; margin-bottom: 1rem;">{{ len $pages }} article{{ if ne (len $pages) 1 }}s{{ end }}</p>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-              {{ range first 3 $pages.ByDate.Reverse }}
+            <ul style="list-style: none; padding: 0; margin: 0; flex: 1;">
+              {{ range first 3 $pages }}
               <li style="padding: 0.4rem 0; border-bottom: 1px solid #f0f4f3;">
                 <a href="{{ .Permalink }}" style="color: #3d7a6f; text-decoration: none; font-size: 0.85rem; font-weight: 500;">{{ .Title | truncate 50 }}</a>
                 <span style="color: #999; font-size: 0.75rem; display: block;">{{ .Date.Format "Jan 2, 2006" }}</span>
@@ -57,7 +67,7 @@
               {{ end }}
             </ul>
             {{ if gt (len $pages) 3 }}
-            <p style="margin-top: 0.75rem; font-size: 0.8rem; color: #6b7f7d;">+ {{ sub (len $pages) 3 }} more...</p>
+            <p style="margin-top: 0.75rem; font-size: 0.8rem; color: #6b7f7d;">+ {{ sub (len $pages) 3 }} more articles...</p>
             {{ end }}
           </div>
         {{ end }}
