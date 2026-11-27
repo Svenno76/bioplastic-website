@@ -13,7 +13,7 @@ sitemap:
 
 ## What is FDCA?
 
-FDCA (2,5-furandicarboxylic acid) is an organic compound with the formula C�H₆O₅. It is produced by the catalytic oxidation of HMF (hydroxymethylfurfural), which itself is derived from plant-based sugars (fructose). FDCA belongs to the family of furan derivatives and serves as the dicarboxylic acid building block for PEF (polyethylene furanoate).
+FDCA (2,5-furandicarboxylic acid) is an organic compound with the formula C6H4O5. It is produced by the catalytic oxidation of HMF (hydroxymethylfurfural), which itself is derived from plant-based sugars (fructose). FDCA belongs to the family of furan derivatives and serves as the dicarboxylic acid building block for PEF (polyethylene furanoate).
 
 ## Role in Bioplastics
 
